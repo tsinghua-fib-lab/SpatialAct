@@ -1,0 +1,2002 @@
+[
+  {
+    "task_type": "isometric_closest",
+    "question": "Which two numbered objects are closest to each other?\nImage: <image>\nA. 6 and 7\nB. 2 and 4\nC. 1 and 3\nD. 5 and 7\nChoose one option from A, B, C, D.",
+    "answer": "B",
+    "images": [
+      "SpatialAct/data/images/indoor/spatial_relation/indoor_scenes_complex-10-15/arkitscenes__Training__47332309_clean/qa_labels/arkitscenes__Training__47332309_clean_isometric__qa2_isometric_closest.png"
+    ]
+  },
+  {
+    "task_type": "isometric_closest",
+    "question": "Which two numbered objects are closest to each other?\nImage: <image>\nA. 5 and 1\nB. 4 and 1\nC. 4 and 2\nD. 3 and 1\nChoose one option from A, B, C, D.",
+    "answer": "C",
+    "images": [
+      "SpatialAct/data/images/indoor/spatial_relation/indoor_scenes_complex-10-15/scannet__scene0242_02_clean/qa_labels/scannet__scene0242_02_clean_isometric__qa2_isometric_closest.png"
+    ]
+  },
+  {
+    "task_type": "isometric_closest",
+    "question": "Which two numbered objects are closest to each other?\nImage: <image>\nA. 5 and 3\nB. 4 and 2\nC. 6 and 1\nD. 4 and 5\nChoose one option from A, B, C, D.",
+    "answer": "D",
+    "images": [
+      "SpatialAct/data/images/indoor/spatial_relation/indoor_scenes_complex-10-15/3rscan__68bae76a-3567-2f7c-8143-f70365deb0f7_clean/qa_labels/3rscan__68bae76a-3567-2f7c-8143-f70365deb0f7_clean_isometric__qa2_isometric_closest.png"
+    ]
+  },
+  {
+    "task_type": "isometric_closest",
+    "question": "Which two numbered objects are closest to each other?\nImage: <image>\nA. 3 and 4\nB. 3 and 5\nC. 1 and 2\nD. 5 and 6\nChoose one option from A, B, C, D.",
+    "answer": "D",
+    "images": [
+      "SpatialAct/data/images/indoor/spatial_relation/indoor_scenes_complex-10-15/arkitscenes__Training__41126567_clean/qa_labels/arkitscenes__Training__41126567_clean_isometric__qa2_isometric_closest.png"
+    ]
+  },
+  {
+    "task_type": "isometric_closest",
+    "question": "Which two numbered objects are closest to each other?\nImage: <image>\nA. 2 and 3\nB. 3 and 1\nC. 2 and 4\nD. 2 and 1\nChoose one option from A, B, C, D.",
+    "answer": "A",
+    "images": [
+      "SpatialAct/data/images/indoor/spatial_relation/indoor_scenes_complex-10-15/3rscan__82def5da-25ba-20f9-8810-71be905b83db_clean/qa_labels/3rscan__82def5da-25ba-20f9-8810-71be905b83db_clean_isometric__qa2_isometric_closest.png"
+    ]
+  },
+  {
+    "task_type": "isometric_closest",
+    "question": "Which two numbered objects are closest to each other?\nImage: <image>\nA. 3 and 6\nB. 1 and 2\nC. 4 and 6\nD. 4 and 5\nChoose one option from A, B, C, D.",
+    "answer": "B",
+    "images": [
+      "SpatialAct/data/images/indoor/spatial_relation/indoor_scenes_simple-5-10/arkitscenes__Training__47331177_clean/qa_labels/arkitscenes__Training__47331177_clean_isometric__qa2_isometric_closest.png"
+    ]
+  },
+  {
+    "task_type": "isometric_closest",
+    "question": "Which two numbered objects are closest to each other?\nImage: <image>\nA. 1 and 4\nB. 3 and 5\nC. 4 and 2\nD. 1 and 2\nChoose one option from A, B, C, D.",
+    "answer": "A",
+    "images": [
+      "SpatialAct/data/images/indoor/spatial_relation/indoor_scenes_complex-10-15/scannet__scene0067_02_clean/qa_labels/scannet__scene0067_02_clean_isometric__qa2_isometric_closest.png"
+    ]
+  },
+  {
+    "task_type": "isometric_closest",
+    "question": "Which two numbered objects are closest to each other?\nImage: <image>\nA. 1 and 5\nB. 6 and 1\nC. 2 and 3\nD. 2 and 4\nChoose one option from A, B, C, D.",
+    "answer": "D",
+    "images": [
+      "SpatialAct/data/images/indoor/spatial_relation/indoor_scenes_simple-5-10/3rscan__501ebf0b-a3bb-263f-86fd-7ef000a19588_clean/qa_labels/3rscan__501ebf0b-a3bb-263f-86fd-7ef000a19588_clean_isometric__qa2_isometric_closest.png"
+    ]
+  },
+  {
+    "task_type": "isometric_closest",
+    "question": "Which two numbered objects are closest to each other?\nImage: <image>\nA. 3 and 1\nB. 3 and 2\nC. 4 and 5\nD. 6 and 2\nChoose one option from A, B, C, D.",
+    "answer": "B",
+    "images": [
+      "SpatialAct/data/images/indoor/spatial_relation/indoor_scenes_complex-10-15/matterport3d__B6ByNegPMKs__region13_clean/qa_labels/matterport3d__B6ByNegPMKs__region13_clean_isometric__qa2_isometric_closest.png"
+    ]
+  },
+  {
+    "task_type": "isometric_closest",
+    "question": "Which two numbered objects are closest to each other?\nImage: <image>\nA. 1 and 3\nB. 2 and 5\nC. 6 and 4\nD. 6 and 3\nChoose one option from A, B, C, D.",
+    "answer": "D",
+    "images": [
+      "SpatialAct/data/images/indoor/spatial_relation/indoor_scenes_simple-5-10/scannet__scene0055_02_clean/qa_labels/scannet__scene0055_02_clean_isometric__qa2_isometric_closest.png"
+    ]
+  },
+  {
+    "task_type": "isometric_closest",
+    "question": "Which two numbered objects are closest to each other?\nImage: <image>\nA. 5 and 1\nB. 1 and 4\nC. 2 and 3\nD. 6 and 3\nChoose one option from A, B, C, D.",
+    "answer": "C",
+    "images": [
+      "SpatialAct/data/images/indoor/spatial_relation/indoor_scenes_complex-10-15/3rscan__0cac7564-8d6f-2d13-8cb2-8b01c0a1b3d5_clean/qa_labels/3rscan__0cac7564-8d6f-2d13-8cb2-8b01c0a1b3d5_clean_isometric__qa2_isometric_closest.png"
+    ]
+  },
+  {
+    "task_type": "isometric_closest",
+    "question": "Which two numbered objects are closest to each other?\nImage: <image>\nA. 2 and 3\nB. 6 and 1\nC. 5 and 6\nD. 4 and 6\nChoose one option from A, B, C, D.",
+    "answer": "B",
+    "images": [
+      "SpatialAct/data/images/indoor/spatial_relation/indoor_scenes_complex-10-15/scannet__scene0103_01_clean/qa_labels/scannet__scene0103_01_clean_isometric__qa2_isometric_closest.png"
+    ]
+  },
+  {
+    "task_type": "isometric_closest",
+    "question": "Which two numbered objects are closest to each other?\nImage: <image>\nA. 1 and 3\nB. 6 and 4\nC. 2 and 4\nD. 5 and 3\nChoose one option from A, B, C, D.",
+    "answer": "B",
+    "images": [
+      "SpatialAct/data/images/indoor/spatial_relation/indoor_scenes_complex-10-15/scannet__scene0344_00_clean/qa_labels/scannet__scene0344_00_clean_isometric__qa2_isometric_closest.png"
+    ]
+  },
+  {
+    "task_type": "isometric_closest",
+    "question": "Which two numbered objects are closest to each other?\nImage: <image>\nA. 6 and 1\nB. 2 and 3\nC. 6 and 3\nD. 5 and 4\nChoose one option from A, B, C, D.",
+    "answer": "A",
+    "images": [
+      "SpatialAct/data/images/indoor/spatial_relation/indoor_scenes_complex-10-15/matterport3d__pRbA3pwrgk9__region7_clean/qa_labels/matterport3d__pRbA3pwrgk9__region7_clean_isometric__qa2_isometric_closest.png"
+    ]
+  },
+  {
+    "task_type": "isometric_closest",
+    "question": "Which two numbered objects are closest to each other?\nImage: <image>\nA. 1 and 2\nB. 2 and 3\nC. 5 and 6\nD. 3 and 4\nChoose one option from A, B, C, D.",
+    "answer": "B",
+    "images": [
+      "SpatialAct/data/images/indoor/spatial_relation/indoor_scenes_complex-10-15/3rscan__47319772-f9f7-2a1a-9768-108df4f37ab9_clean/qa_labels/3rscan__47319772-f9f7-2a1a-9768-108df4f37ab9_clean_isometric__qa2_isometric_closest.png"
+    ]
+  },
+  {
+    "task_type": "isometric_closest",
+    "question": "Which two numbered objects are closest to each other?\nImage: <image>\nA. 2 and 3\nB. 2 and 6\nC. 1 and 5\nD. 4 and 5\nChoose one option from A, B, C, D.",
+    "answer": "B",
+    "images": [
+      "SpatialAct/data/images/indoor/spatial_relation/indoor_scenes_complex-10-15/arkitscenes__Validation__41254412_clean/qa_labels/arkitscenes__Validation__41254412_clean_isometric__qa2_isometric_closest.png"
+    ]
+  },
+  {
+    "task_type": "isometric_closest",
+    "question": "Which two numbered objects are closest to each other?\nImage: <image>\nA. 6 and 1\nB. 2 and 3\nC. 7 and 1\nD. 4 and 5\nChoose one option from A, B, C, D.",
+    "answer": "C",
+    "images": [
+      "SpatialAct/data/images/indoor/spatial_relation/indoor_scenes_simple-5-10/scannet__scene0371_01_clean/qa_labels/scannet__scene0371_01_clean_isometric__qa2_isometric_closest.png"
+    ]
+  },
+  {
+    "task_type": "isometric_closest",
+    "question": "Which two numbered objects are closest to each other?\nImage: <image>\nA. 2 and 4\nB. 1 and 3\nC. 2 and 3\nD. 3 and 4\nChoose one option from A, B, C, D.",
+    "answer": "A",
+    "images": [
+      "SpatialAct/data/images/indoor/spatial_relation/indoor_scenes_complex-10-15/arkitscenes__Training__43896538_clean/qa_labels/arkitscenes__Training__43896538_clean_isometric__qa2_isometric_closest.png"
+    ]
+  },
+  {
+    "task_type": "isometric_closest",
+    "question": "Which two numbered objects are closest to each other?\nImage: <image>\nA. 3 and 5\nB. 1 and 2\nC. 1 and 4\nD. 3 and 4\nChoose one option from A, B, C, D.",
+    "answer": "A",
+    "images": [
+      "SpatialAct/data/images/indoor/spatial_relation/indoor_scenes_complex-10-15/scannet__scene0524_00_clean/qa_labels/scannet__scene0524_00_clean_isometric__qa2_isometric_closest.png"
+    ]
+  },
+  {
+    "task_type": "isometric_closest",
+    "question": "Which two numbered objects are closest to each other?\nImage: <image>\nA. 5 and 6\nB. 2 and 3\nC. 4 and 1\nD. 5 and 7\nChoose one option from A, B, C, D.",
+    "answer": "C",
+    "images": [
+      "SpatialAct/data/images/indoor/spatial_relation/indoor_scenes_complex-10-15/3rscan__77361fc8-d054-2a22-8868-c3de4283fff7_clean/qa_labels/3rscan__77361fc8-d054-2a22-8868-c3de4283fff7_clean_isometric__qa2_isometric_closest.png"
+    ]
+  },
+  {
+    "task_type": "isometric_closest",
+    "question": "Which two numbered objects are closest to each other?\nImage: <image>\nA. 1 and 2\nB. 2 and 3\nC. 5 and 2\nD. 4 and 6\nChoose one option from A, B, C, D.",
+    "answer": "C",
+    "images": [
+      "SpatialAct/data/images/indoor/spatial_relation/indoor_scenes_complex-10-15/3rscan__8eabc469-5af7-2f32-840f-c1be88e46c62_clean/qa_labels/3rscan__8eabc469-5af7-2f32-840f-c1be88e46c62_clean_isometric__qa2_isometric_closest.png"
+    ]
+  },
+  {
+    "task_type": "isometric_closest",
+    "question": "Which two numbered objects are closest to each other?\nImage: <image>\nA. 4 and 5\nB. 1 and 2\nC. 2 and 3\nD. 2 and 5\nChoose one option from A, B, C, D.",
+    "answer": "B",
+    "images": [
+      "SpatialAct/data/images/indoor/spatial_relation/indoor_scenes_complex-10-15/3rscan__c92fb5a2-f771-2064-8557-1dcf9c0e31a8_clean/qa_labels/3rscan__c92fb5a2-f771-2064-8557-1dcf9c0e31a8_clean_isometric__qa2_isometric_closest.png"
+    ]
+  },
+  {
+    "task_type": "isometric_closest",
+    "question": "Which two numbered objects are closest to each other?\nImage: <image>\nA. 3 and 5\nB. 2 and 4\nC. 1 and 4\nD. 6 and 4\nChoose one option from A, B, C, D.",
+    "answer": "D",
+    "images": [
+      "SpatialAct/data/images/indoor/spatial_relation/indoor_scenes_simple-5-10/3rscan__c9fb7aa7-2a5b-2cf7-916d-d38eeeeda87f_clean/qa_labels/3rscan__c9fb7aa7-2a5b-2cf7-916d-d38eeeeda87f_clean_isometric__qa2_isometric_closest.png"
+    ]
+  },
+  {
+    "task_type": "isometric_closest",
+    "question": "Which two numbered objects are closest to each other?\nImage: <image>\nA. 5 and 4\nB. 1 and 4\nC. 1 and 2\nD. 6 and 3\nChoose one option from A, B, C, D.",
+    "answer": "B",
+    "images": [
+      "SpatialAct/data/images/indoor/spatial_relation/indoor_scenes_complex-10-15/arkitscenes__Training__45261644_clean/qa_labels/arkitscenes__Training__45261644_clean_isometric__qa2_isometric_closest.png"
+    ]
+  },
+  {
+    "task_type": "isometric_closest",
+    "question": "Which two numbered objects are closest to each other?\nImage: <image>\nA. 5 and 3\nB. 1 and 5\nC. 2 and 3\nD. 1 and 4\nChoose one option from A, B, C, D.",
+    "answer": "A",
+    "images": [
+      "SpatialAct/data/images/indoor/spatial_relation/indoor_scenes_simple-5-10/scannet__scene0067_02_clean/qa_labels/scannet__scene0067_02_clean_isometric__qa2_isometric_closest.png"
+    ]
+  },
+  {
+    "task_type": "isometric_closest",
+    "question": "Which two numbered objects are closest to each other?\nImage: <image>\nA. 2 and 3\nB. 2 and 4\nC. 6 and 3\nD. 1 and 5\nChoose one option from A, B, C, D.",
+    "answer": "D",
+    "images": [
+      "SpatialAct/data/images/indoor/spatial_relation/indoor_scenes_complex-10-15/arkitscenes__Training__44358289_clean/qa_labels/arkitscenes__Training__44358289_clean_isometric__qa2_isometric_closest.png"
+    ]
+  },
+  {
+    "task_type": "isometric_closest",
+    "question": "Which two numbered objects are closest to each other?\nImage: <image>\nA. 1 and 2\nB. 1 and 3\nC. 1 and 5\nD. 4 and 5\nChoose one option from A, B, C, D.",
+    "answer": "D",
+    "images": [
+      "SpatialAct/data/images/indoor/spatial_relation/indoor_scenes_complex-10-15/arkitscenes__Training__42898342_clean/qa_labels/arkitscenes__Training__42898342_clean_isometric__qa2_isometric_closest.png"
+    ]
+  },
+  {
+    "task_type": "isometric_closest",
+    "question": "Which two numbered objects are closest to each other?\nImage: <image>\nA. 2 and 3\nB. 2 and 4\nC. 3 and 4\nD. 1 and 4\nChoose one option from A, B, C, D.",
+    "answer": "D",
+    "images": [
+      "SpatialAct/data/images/indoor/spatial_relation/indoor_scenes_complex-10-15/arkitscenes__Training__42898123_clean/qa_labels/arkitscenes__Training__42898123_clean_isometric__qa2_isometric_closest.png"
+    ]
+  },
+  {
+    "task_type": "isometric_closest",
+    "question": "Which two numbered objects are closest to each other?\nImage: <image>\nA. 4 and 5\nB. 3 and 6\nC. 3 and 2\nD. 5 and 1\nChoose one option from A, B, C, D.",
+    "answer": "D",
+    "images": [
+      "SpatialAct/data/images/indoor/spatial_relation/indoor_scenes_complex-10-15/matterport3d__zsNo4HB9uLZ__region9_clean/qa_labels/matterport3d__zsNo4HB9uLZ__region9_clean_isometric__qa2_isometric_closest.png"
+    ]
+  },
+  {
+    "task_type": "isometric_closest",
+    "question": "Which two numbered objects are closest to each other?\nImage: <image>\nA. 1 and 2\nB. 3 and 4\nC. 5 and 3\nD. 1 and 4\nChoose one option from A, B, C, D.",
+    "answer": "D",
+    "images": [
+      "SpatialAct/data/images/indoor/spatial_relation/indoor_scenes_complex-10-15/arkitscenes__Training__48458640_clean/qa_labels/arkitscenes__Training__48458640_clean_isometric__qa2_isometric_closest.png"
+    ]
+  },
+  {
+    "task_type": "isometric_closest",
+    "question": "Which two numbered objects are closest to each other?\nImage: <image>\nA. 2 and 4\nB. 5 and 6\nC. 1 and 5\nD. 3 and 4\nChoose one option from A, B, C, D.",
+    "answer": "D",
+    "images": [
+      "SpatialAct/data/images/indoor/spatial_relation/indoor_scenes_simple-5-10/3rscan__8eabc416-5af7-2f32-862f-bc1a368d2932_clean/qa_labels/3rscan__8eabc416-5af7-2f32-862f-bc1a368d2932_clean_isometric__qa2_isometric_closest.png"
+    ]
+  },
+  {
+    "task_type": "isometric_direction",
+    "question": "In this image, North is shown by the red arrow. Direction is determined by comparing object center points. Which side is object 1 relative to object 2?\nImage: <image>\nA. south\nB. west\nC. southeast\nD. north\nChoose one option from A, B, C, D.",
+    "answer": "B",
+    "images": [
+      "SpatialAct/data/images/indoor/spatial_relation/indoor_scenes_complex-10-15/scannet__scene0343_00_clean/qa_labels/scannet__scene0343_00_clean_isometric__qa1_isometric_direction.png"
+    ]
+  },
+  {
+    "task_type": "isometric_direction",
+    "question": "In this image, North is shown by the red arrow. Direction is determined by comparing object center points. Which side is object 1 relative to object 2?\nImage: <image>\nA. west\nB. east\nC. northeast\nD. southeast\nChoose one option from A, B, C, D.",
+    "answer": "A",
+    "images": [
+      "SpatialAct/data/images/indoor/spatial_relation/indoor_scenes_complex-10-15/scannet__scene0067_02_clean/qa_labels/scannet__scene0067_02_clean_isometric__qa1_isometric_direction.png"
+    ]
+  },
+  {
+    "task_type": "isometric_direction",
+    "question": "In this image, North is shown by the red arrow. Direction is determined by comparing object center points. Which side is object 1 relative to object 2?\nImage: <image>\nA. north\nB. southeast\nC. southwest\nD. east\nChoose one option from A, B, C, D.",
+    "answer": "C",
+    "images": [
+      "SpatialAct/data/images/indoor/spatial_relation/indoor_scenes_complex-10-15/scannet__scene0242_02_clean/qa_labels/scannet__scene0242_02_clean_isometric__qa1_isometric_direction.png"
+    ]
+  },
+  {
+    "task_type": "isometric_direction",
+    "question": "In this image, North is shown by the red arrow. Direction is determined by comparing object center points. Which side is object 1 relative to object 2?\nImage: <image>\nA. southwest\nB. northwest\nC. northeast\nD. southeast\nChoose one option from A, B, C, D.",
+    "answer": "A",
+    "images": [
+      "SpatialAct/data/images/indoor/spatial_relation/indoor_scenes_complex-10-15/scannet__scene0103_01_clean/qa_labels/scannet__scene0103_01_clean_isometric__qa1_isometric_direction.png"
+    ]
+  },
+  {
+    "task_type": "isometric_direction",
+    "question": "In this image, North is shown by the red arrow. Direction is determined by comparing object center points. Which side is object 2 relative to object 1?\nImage: <image>\nA. north\nB. southeast\nC. west\nD. east\nChoose one option from A, B, C, D.",
+    "answer": "A",
+    "images": [
+      "SpatialAct/data/images/indoor/spatial_relation/indoor_scenes_complex-10-15/arkitscenes__Training__47332309_clean/qa_labels/arkitscenes__Training__47332309_clean_isometric__qa1_isometric_direction.png"
+    ]
+  },
+  {
+    "task_type": "isometric_direction",
+    "question": "In this image, North is shown by the red arrow. Direction is determined by comparing object center points. Which side is object 1 relative to object 2?\nImage: <image>\nA. south\nB. east\nC. west\nD. north\nChoose one option from A, B, C, D.",
+    "answer": "A",
+    "images": [
+      "SpatialAct/data/images/indoor/spatial_relation/indoor_scenes_simple-5-10/scannet__scene0067_02_clean/qa_labels/scannet__scene0067_02_clean_isometric__qa1_isometric_direction.png"
+    ]
+  },
+  {
+    "task_type": "isometric_direction",
+    "question": "In this image, North is shown by the red arrow. Direction is determined by comparing object center points. Which side is object 2 relative to object 1?\nImage: <image>\nA. southwest\nB. north\nC. east\nD. northwest\nChoose one option from A, B, C, D.",
+    "answer": "C",
+    "images": [
+      "SpatialAct/data/images/indoor/spatial_relation/indoor_scenes_complex-10-15/3rscan__82def5da-25ba-20f9-8810-71be905b83db_clean/qa_labels/3rscan__82def5da-25ba-20f9-8810-71be905b83db_clean_isometric__qa1_isometric_direction.png"
+    ]
+  },
+  {
+    "task_type": "isometric_direction",
+    "question": "In this image, North is shown by the red arrow. Direction is determined by comparing object center points. Which side is object 1 relative to object 2?\nImage: <image>\nA. northeast\nB. northwest\nC. south\nD. southwest\nChoose one option from A, B, C, D.",
+    "answer": "A",
+    "images": [
+      "SpatialAct/data/images/indoor/spatial_relation/indoor_scenes_complex-10-15/scannet__scene0065_00_clean/qa_labels/scannet__scene0065_00_clean_isometric__qa1_isometric_direction.png"
+    ]
+  },
+  {
+    "task_type": "isometric_direction",
+    "question": "In this image, North is shown by the red arrow. Direction is determined by comparing object center points. Which side is object 1 relative to object 2?\nImage: <image>\nA. southeast\nB. northwest\nC. northeast\nD. east\nChoose one option from A, B, C, D.",
+    "answer": "B",
+    "images": [
+      "SpatialAct/data/images/indoor/spatial_relation/indoor_scenes_complex-10-15/3rscan__8eabc469-5af7-2f32-840f-c1be88e46c62_clean/qa_labels/3rscan__8eabc469-5af7-2f32-840f-c1be88e46c62_clean_isometric__qa1_isometric_direction.png"
+    ]
+  },
+  {
+    "task_type": "isometric_direction",
+    "question": "In this image, North is shown by the red arrow. Direction is determined by comparing object center points. Which side is object 1 relative to object 2?\nImage: <image>\nA. north\nB. south\nC. east\nD. southwest\nChoose one option from A, B, C, D.",
+    "answer": "A",
+    "images": [
+      "SpatialAct/data/images/indoor/spatial_relation/indoor_scenes_complex-10-15/3rscan__68bae766-3567-2f7c-825a-f0522da62564_clean/qa_labels/3rscan__68bae766-3567-2f7c-825a-f0522da62564_clean_isometric__qa1_isometric_direction.png"
+    ]
+  },
+  {
+    "task_type": "isometric_direction",
+    "question": "In this image, North is shown by the red arrow. Direction is determined by comparing object center points. Which side is object 1 relative to object 2?\nImage: <image>\nA. west\nB. north\nC. south\nD. northwest\nChoose one option from A, B, C, D.",
+    "answer": "C",
+    "images": [
+      "SpatialAct/data/images/indoor/spatial_relation/indoor_scenes_simple-5-10/3rscan__0cac7627-8d6f-2d13-8eac-41764b5f2c5b_clean/qa_labels/3rscan__0cac7627-8d6f-2d13-8eac-41764b5f2c5b_clean_isometric__qa1_isometric_direction.png"
+    ]
+  },
+  {
+    "task_type": "isometric_direction",
+    "question": "In this image, North is shown by the red arrow. Direction is determined by comparing object center points. Which side is object 1 relative to object 2?\nImage: <image>\nA. east\nB. south\nC. north\nD. west\nChoose one option from A, B, C, D.",
+    "answer": "D",
+    "images": [
+      "SpatialAct/data/images/indoor/spatial_relation/indoor_scenes_complex-10-15/3rscan__68bae76c-3567-2f7c-827d-373035a2d942_clean/qa_labels/3rscan__68bae76c-3567-2f7c-827d-373035a2d942_clean_isometric__qa1_isometric_direction.png"
+    ]
+  },
+  {
+    "task_type": "isometric_direction",
+    "question": "In this image, North is shown by the red arrow. Direction is determined by comparing object center points. Which side is object 1 relative to object 2?\nImage: <image>\nA. southeast\nB. west\nC. south\nD. east\nChoose one option from A, B, C, D.",
+    "answer": "B",
+    "images": [
+      "SpatialAct/data/images/indoor/spatial_relation/indoor_scenes_simple-5-10/scannet__scene0371_01_clean/qa_labels/scannet__scene0371_01_clean_isometric__qa1_isometric_direction.png"
+    ]
+  },
+  {
+    "task_type": "isometric_direction",
+    "question": "In this image, North is shown by the red arrow. Direction is determined by comparing object center points. Which side is object 1 relative to object 2?\nImage: <image>\nA. southwest\nB. northwest\nC. northeast\nD. west\nChoose one option from A, B, C, D.",
+    "answer": "C",
+    "images": [
+      "SpatialAct/data/images/indoor/spatial_relation/indoor_scenes_complex-10-15/scannet__scene0524_00_clean/qa_labels/scannet__scene0524_00_clean_isometric__qa1_isometric_direction.png"
+    ]
+  },
+  {
+    "task_type": "isometric_direction",
+    "question": "In this image, North is shown by the red arrow. Direction is determined by comparing object center points. Which side is object 1 relative to object 2?\nImage: <image>\nA. southwest\nB. west\nC. south\nD. north\nChoose one option from A, B, C, D.",
+    "answer": "D",
+    "images": [
+      "SpatialAct/data/images/indoor/spatial_relation/indoor_scenes_simple-5-10/3rscan__8eabc416-5af7-2f32-862f-bc1a368d2932_clean/qa_labels/3rscan__8eabc416-5af7-2f32-862f-bc1a368d2932_clean_isometric__qa1_isometric_direction.png"
+    ]
+  },
+  {
+    "task_type": "isometric_direction",
+    "question": "In this image, North is shown by the red arrow. Direction is determined by comparing object center points. Which side is object 2 relative to object 1?\nImage: <image>\nA. northwest\nB. southwest\nC. northeast\nD. southeast\nChoose one option from A, B, C, D.",
+    "answer": "B",
+    "images": [
+      "SpatialAct/data/images/indoor/spatial_relation/indoor_scenes_complex-10-15/3rscan__77361fca-d054-2a22-8974-547ca1fbb90f_clean/qa_labels/3rscan__77361fca-d054-2a22-8974-547ca1fbb90f_clean_isometric__qa1_isometric_direction.png"
+    ]
+  },
+  {
+    "task_type": "isometric_direction",
+    "question": "In this image, North is shown by the red arrow. Direction is determined by comparing object center points. Which side is object 1 relative to object 2?\nImage: <image>\nA. east\nB. west\nC. south\nD. southwest\nChoose one option from A, B, C, D.",
+    "answer": "A",
+    "images": [
+      "SpatialAct/data/images/indoor/spatial_relation/indoor_scenes_complex-10-15/scannet__scene0355_00_clean/qa_labels/scannet__scene0355_00_clean_isometric__qa1_isometric_direction.png"
+    ]
+  },
+  {
+    "task_type": "isometric_direction",
+    "question": "In this image, North is shown by the red arrow. Direction is determined by comparing object center points. Which side is object 2 relative to object 1?\nImage: <image>\nA. southeast\nB. south\nC. east\nD. north\nChoose one option from A, B, C, D.",
+    "answer": "D",
+    "images": [
+      "SpatialAct/data/images/indoor/spatial_relation/indoor_scenes_simple-5-10/3rscan__1d23400e-e280-2b1a-8dec-67a551146c3a_clean/qa_labels/3rscan__1d23400e-e280-2b1a-8dec-67a551146c3a_clean_isometric__qa1_isometric_direction.png"
+    ]
+  },
+  {
+    "task_type": "isometric_direction",
+    "question": "In this image, North is shown by the red arrow. Direction is determined by comparing object center points. Which side is object 1 relative to object 2?\nImage: <image>\nA. southwest\nB. southeast\nC. northwest\nD. northeast\nChoose one option from A, B, C, D.",
+    "answer": "C",
+    "images": [
+      "SpatialAct/data/images/indoor/spatial_relation/indoor_scenes_complex-10-15/matterport3d__XcA2TqTSSAj__region14_clean/qa_labels/matterport3d__XcA2TqTSSAj__region14_clean_isometric__qa1_isometric_direction.png"
+    ]
+  },
+  {
+    "task_type": "isometric_direction",
+    "question": "In this image, North is shown by the red arrow. Direction is determined by comparing object center points. Which side is object 2 relative to object 1?\nImage: <image>\nA. southeast\nB. northeast\nC. west\nD. east\nChoose one option from A, B, C, D.",
+    "answer": "C",
+    "images": [
+      "SpatialAct/data/images/indoor/spatial_relation/indoor_scenes_complex-10-15/3rscan__ab835f94-54c6-29a1-9872-210a98f12c12_clean/qa_labels/3rscan__ab835f94-54c6-29a1-9872-210a98f12c12_clean_isometric__qa1_isometric_direction.png"
+    ]
+  },
+  {
+    "task_type": "isometric_direction",
+    "question": "In this image, North is shown by the red arrow. Direction is determined by comparing object center points. Which side is object 2 relative to object 1?\nImage: <image>\nA. south\nB. northwest\nC. north\nD. east\nChoose one option from A, B, C, D.",
+    "answer": "D",
+    "images": [
+      "SpatialAct/data/images/indoor/spatial_relation/indoor_scenes_complex-10-15/scannet__scene0112_01_clean/qa_labels/scannet__scene0112_01_clean_isometric__qa1_isometric_direction.png"
+    ]
+  },
+  {
+    "task_type": "isometric_direction",
+    "question": "In this image, North is shown by the red arrow. Direction is determined by comparing object center points. Which side is object 1 relative to object 2?\nImage: <image>\nA. southwest\nB. east\nC. northwest\nD. south\nChoose one option from A, B, C, D.",
+    "answer": "B",
+    "images": [
+      "SpatialAct/data/images/indoor/spatial_relation/indoor_scenes_complex-10-15/arkitscenes__Training__47331180_clean/qa_labels/arkitscenes__Training__47331180_clean_isometric__qa1_isometric_direction.png"
+    ]
+  },
+  {
+    "task_type": "isometric_direction",
+    "question": "In this image, North is shown by the red arrow. Direction is determined by comparing object center points. Which side is object 1 relative to object 2?\nImage: <image>\nA. east\nB. northeast\nC. southwest\nD. northwest\nChoose one option from A, B, C, D.",
+    "answer": "D",
+    "images": [
+      "SpatialAct/data/images/indoor/spatial_relation/indoor_scenes_complex-10-15/arkitscenes__Validation__41254412_clean/qa_labels/arkitscenes__Validation__41254412_clean_isometric__qa1_isometric_direction.png"
+    ]
+  },
+  {
+    "task_type": "isometric_direction",
+    "question": "In this image, North is shown by the red arrow. Direction is determined by comparing object center points. Which side is object 1 relative to object 2?\nImage: <image>\nA. south\nB. west\nC. east\nD. north\nChoose one option from A, B, C, D.",
+    "answer": "C",
+    "images": [
+      "SpatialAct/data/images/indoor/spatial_relation/indoor_scenes_complex-10-15/3rscan__47319772-f9f7-2a1a-9768-108df4f37ab9_clean/qa_labels/3rscan__47319772-f9f7-2a1a-9768-108df4f37ab9_clean_isometric__qa1_isometric_direction.png"
+    ]
+  },
+  {
+    "task_type": "isometric_direction",
+    "question": "In this image, North is shown by the red arrow. Direction is determined by comparing object center points. Which side is object 2 relative to object 1?\nImage: <image>\nA. south\nB. northeast\nC. northwest\nD. southwest\nChoose one option from A, B, C, D.",
+    "answer": "B",
+    "images": [
+      "SpatialAct/data/images/indoor/spatial_relation/indoor_scenes_complex-10-15/arkitscenes__Training__47334761_clean/qa_labels/arkitscenes__Training__47334761_clean_isometric__qa1_isometric_direction.png"
+    ]
+  },
+  {
+    "task_type": "isometric_direction",
+    "question": "In this image, North is shown by the red arrow. Direction is determined by comparing object center points. Which side is object 2 relative to object 1?\nImage: <image>\nA. southeast\nB. northeast\nC. southwest\nD. east\nChoose one option from A, B, C, D.",
+    "answer": "C",
+    "images": [
+      "SpatialAct/data/images/indoor/spatial_relation/indoor_scenes_complex-10-15/arkitscenes__Training__43896538_clean/qa_labels/arkitscenes__Training__43896538_clean_isometric__qa1_isometric_direction.png"
+    ]
+  },
+  {
+    "task_type": "isometric_direction",
+    "question": "In this image, North is shown by the red arrow. Direction is determined by comparing object center points. Which side is object 1 relative to object 2?\nImage: <image>\nA. south\nB. northeast\nC. west\nD. east\nChoose one option from A, B, C, D.",
+    "answer": "A",
+    "images": [
+      "SpatialAct/data/images/indoor/spatial_relation/indoor_scenes_complex-10-15/arkitscenes__Training__45261644_clean/qa_labels/arkitscenes__Training__45261644_clean_isometric__qa1_isometric_direction.png"
+    ]
+  },
+  {
+    "task_type": "isometric_direction",
+    "question": "In this image, North is shown by the red arrow. Direction is determined by comparing object center points. Which side is object 1 relative to object 2?\nImage: <image>\nA. northeast\nB. southeast\nC. east\nD. northwest\nChoose one option from A, B, C, D.",
+    "answer": "D",
+    "images": [
+      "SpatialAct/data/images/indoor/spatial_relation/indoor_scenes_complex-10-15/3rscan__baf6738b-8e94-22f8-8085-24c4e5ef5220_clean/qa_labels/3rscan__baf6738b-8e94-22f8-8085-24c4e5ef5220_clean_isometric__qa1_isometric_direction.png"
+    ]
+  },
+  {
+    "task_type": "isometric_direction",
+    "question": "In this image, North is shown by the red arrow. Direction is determined by comparing object center points. Which side is object 2 relative to object 1?\nImage: <image>\nA. east\nB. southwest\nC. west\nD. north\nChoose one option from A, B, C, D.",
+    "answer": "D",
+    "images": [
+      "SpatialAct/data/images/indoor/spatial_relation/indoor_scenes_complex-10-15/arkitscenes__Training__48458713_clean/qa_labels/arkitscenes__Training__48458713_clean_isometric__qa1_isometric_direction.png"
+    ]
+  },
+  {
+    "task_type": "isometric_direction",
+    "question": "In this image, North is shown by the red arrow. Direction is determined by comparing object center points. Which side is object 2 relative to object 1?\nImage: <image>\nA. south\nB. southwest\nC. east\nD. west\nChoose one option from A, B, C, D.",
+    "answer": "C",
+    "images": [
+      "SpatialAct/data/images/indoor/spatial_relation/indoor_scenes_complex-10-15/scannet__scene0332_00_clean/qa_labels/scannet__scene0332_00_clean_isometric__qa1_isometric_direction.png"
+    ]
+  },
+  {
+    "task_type": "isometric_direction",
+    "question": "In this image, North is shown by the red arrow. Direction is determined by comparing object center points. Which side is object 2 relative to object 1?\nImage: <image>\nA. south\nB. northwest\nC. southwest\nD. east\nChoose one option from A, B, C, D.",
+    "answer": "B",
+    "images": [
+      "SpatialAct/data/images/indoor/spatial_relation/indoor_scenes_complex-10-15/arkitscenes__Training__48018015_clean/qa_labels/arkitscenes__Training__48018015_clean_isometric__qa1_isometric_direction.png"
+    ]
+  },
+  {
+    "task_type": "isometric_farthest",
+    "question": "Which numbered object is farthest from object 3?\nImage: <image>\nA. 4\nB. 1\nC. 5\nD. 2\nChoose one option from A, B, C, D.",
+    "answer": "C",
+    "images": [
+      "SpatialAct/data/images/indoor/spatial_relation/indoor_scenes_complex-10-15/arkitscenes__Training__42898120_clean/qa_labels/arkitscenes__Training__42898120_clean_isometric__qa3_isometric_farthest.png"
+    ]
+  },
+  {
+    "task_type": "isometric_farthest",
+    "question": "Which numbered object is farthest from object 3?\nImage: <image>\nA. 5\nB. 1\nC. 4\nD. 2\nChoose one option from A, B, C, D.",
+    "answer": "A",
+    "images": [
+      "SpatialAct/data/images/indoor/spatial_relation/indoor_scenes_simple-5-10/matterport3d__uNb9QFRL6hY__region19_clean/qa_labels/matterport3d__uNb9QFRL6hY__region19_clean_isometric__qa3_isometric_farthest.png"
+    ]
+  },
+  {
+    "task_type": "isometric_farthest",
+    "question": "Which numbered object is farthest from object 1?\nImage: <image>\nA. 2\nB. 5\nC. 3\nD. 4\nChoose one option from A, B, C, D.",
+    "answer": "D",
+    "images": [
+      "SpatialAct/data/images/indoor/spatial_relation/indoor_scenes_complex-10-15/3rscan__68bae76a-3567-2f7c-8143-f70365deb0f7_clean/qa_labels/3rscan__68bae76a-3567-2f7c-8143-f70365deb0f7_clean_isometric__qa3_isometric_farthest.png"
+    ]
+  },
+  {
+    "task_type": "isometric_farthest",
+    "question": "Which numbered object is farthest from object 3?\nImage: <image>\nA. 1\nB. 4\nC. 2\nD. 5\nChoose one option from A, B, C, D.",
+    "answer": "D",
+    "images": [
+      "SpatialAct/data/images/indoor/spatial_relation/indoor_scenes_complex-10-15/matterport3d__HxpKQynjfin__region5_clean/qa_labels/matterport3d__HxpKQynjfin__region5_clean_isometric__qa3_isometric_farthest.png"
+    ]
+  },
+  {
+    "task_type": "isometric_farthest",
+    "question": "Which numbered object is farthest from object 5?\nImage: <image>\nA. 1\nB. 2\nC. 4\nD. 3\nChoose one option from A, B, C, D.",
+    "answer": "B",
+    "images": [
+      "SpatialAct/data/images/indoor/spatial_relation/indoor_scenes_complex-10-15/arkitscenes__Training__47332309_clean/qa_labels/arkitscenes__Training__47332309_clean_isometric__qa3_isometric_farthest.png"
+    ]
+  },
+  {
+    "task_type": "isometric_farthest",
+    "question": "Which numbered object is farthest from object 3?\nImage: <image>\nA. 2\nB. 4\nC. 5\nD. 1\nChoose one option from A, B, C, D.",
+    "answer": "B",
+    "images": [
+      "SpatialAct/data/images/indoor/spatial_relation/indoor_scenes_complex-10-15/3rscan__68bae766-3567-2f7c-825a-f0522da62564_clean/qa_labels/3rscan__68bae766-3567-2f7c-825a-f0522da62564_clean_isometric__qa3_isometric_farthest.png"
+    ]
+  },
+  {
+    "task_type": "isometric_farthest",
+    "question": "Which numbered object is farthest from object 4?\nImage: <image>\nA. 3\nB. 1\nC. 2\nD. 5\nChoose one option from A, B, C, D.",
+    "answer": "C",
+    "images": [
+      "SpatialAct/data/images/indoor/spatial_relation/indoor_scenes_complex-10-15/scannet__scene0083_00_clean/qa_labels/scannet__scene0083_00_clean_isometric__qa3_isometric_farthest.png"
+    ]
+  },
+  {
+    "task_type": "isometric_farthest",
+    "question": "Which numbered object is farthest from object 3?\nImage: <image>\nA. 1\nB. 4\nC. 5\nD. 2\nChoose one option from A, B, C, D.",
+    "answer": "A",
+    "images": [
+      "SpatialAct/data/images/indoor/spatial_relation/indoor_scenes_complex-10-15/scannet__scene0355_00_clean/qa_labels/scannet__scene0355_00_clean_isometric__qa3_isometric_farthest.png"
+    ]
+  },
+  {
+    "task_type": "isometric_farthest",
+    "question": "Which numbered object is farthest from object 1?\nImage: <image>\nA. 4\nB. 3\nC. 5\nD. 2\nChoose one option from A, B, C, D.",
+    "answer": "A",
+    "images": [
+      "SpatialAct/data/images/indoor/spatial_relation/indoor_scenes_complex-10-15/3rscan__c92fb5a2-f771-2064-8557-1dcf9c0e31a8_clean/qa_labels/3rscan__c92fb5a2-f771-2064-8557-1dcf9c0e31a8_clean_isometric__qa3_isometric_farthest.png"
+    ]
+  },
+  {
+    "task_type": "isometric_farthest",
+    "question": "Which numbered object is farthest from object 1?\nImage: <image>\nA. 5\nB. 4\nC. 3\nD. 2\nChoose one option from A, B, C, D.",
+    "answer": "A",
+    "images": [
+      "SpatialAct/data/images/indoor/spatial_relation/indoor_scenes_complex-10-15/matterport3d__V2XKFyX4ASd__region3_clean/qa_labels/matterport3d__V2XKFyX4ASd__region3_clean_isometric__qa3_isometric_farthest.png"
+    ]
+  },
+  {
+    "task_type": "isometric_farthest",
+    "question": "Which numbered object is farthest from object 5?\nImage: <image>\nA. 1\nB. 3\nC. 4\nD. 2\nChoose one option from A, B, C, D.",
+    "answer": "D",
+    "images": [
+      "SpatialAct/data/images/indoor/spatial_relation/indoor_scenes_complex-10-15/arkitscenes__Training__42898342_clean/qa_labels/arkitscenes__Training__42898342_clean_isometric__qa3_isometric_farthest.png"
+    ]
+  },
+  {
+    "task_type": "isometric_farthest",
+    "question": "Which numbered object is farthest from object 5?\nImage: <image>\nA. 3\nB. 2\nC. 4\nD. 1\nChoose one option from A, B, C, D.",
+    "answer": "B",
+    "images": [
+      "SpatialAct/data/images/indoor/spatial_relation/indoor_scenes_simple-5-10/arkitscenes__Training__47331177_clean/qa_labels/arkitscenes__Training__47331177_clean_isometric__qa3_isometric_farthest.png"
+    ]
+  },
+  {
+    "task_type": "isometric_farthest",
+    "question": "Which numbered object is farthest from object 4?\nImage: <image>\nA. 3\nB. 2\nC. 1\nD. 5\nChoose one option from A, B, C, D.",
+    "answer": "A",
+    "images": [
+      "SpatialAct/data/images/indoor/spatial_relation/indoor_scenes_complex-10-15/matterport3d__gTV8FGcVJC9__region7_clean/qa_labels/matterport3d__gTV8FGcVJC9__region7_clean_isometric__qa3_isometric_farthest.png"
+    ]
+  },
+  {
+    "task_type": "isometric_farthest",
+    "question": "Which numbered object is farthest from object 4?\nImage: <image>\nA. 2\nB. 1\nC. 5\nD. 3\nChoose one option from A, B, C, D.",
+    "answer": "C",
+    "images": [
+      "SpatialAct/data/images/indoor/spatial_relation/indoor_scenes_complex-10-15/arkitscenes__Training__42899295_clean/qa_labels/arkitscenes__Training__42899295_clean_isometric__qa3_isometric_farthest.png"
+    ]
+  },
+  {
+    "task_type": "isometric_farthest",
+    "question": "Which numbered object is farthest from object 2?\nImage: <image>\nA. 4\nB. 5\nC. 1\nD. 3\nChoose one option from A, B, C, D.",
+    "answer": "A",
+    "images": [
+      "SpatialAct/data/images/indoor/spatial_relation/indoor_scenes_complex-10-15/arkitscenes__Validation__41254412_clean/qa_labels/arkitscenes__Validation__41254412_clean_isometric__qa3_isometric_farthest.png"
+    ]
+  },
+  {
+    "task_type": "isometric_farthest",
+    "question": "Which numbered object is farthest from object 1?\nImage: <image>\nA. 4\nB. 2\nC. 5\nD. 3\nChoose one option from A, B, C, D.",
+    "answer": "C",
+    "images": [
+      "SpatialAct/data/images/indoor/spatial_relation/indoor_scenes_complex-10-15/arkitscenes__Training__47334761_clean/qa_labels/arkitscenes__Training__47334761_clean_isometric__qa3_isometric_farthest.png"
+    ]
+  },
+  {
+    "task_type": "isometric_farthest",
+    "question": "Which numbered object is farthest from object 5?\nImage: <image>\nA. 1\nB. 2\nC. 3\nD. 4\nChoose one option from A, B, C, D.",
+    "answer": "B",
+    "images": [
+      "SpatialAct/data/images/indoor/spatial_relation/indoor_scenes_complex-10-15/scannet__scene0503_00_clean/qa_labels/scannet__scene0503_00_clean_isometric__qa3_isometric_farthest.png"
+    ]
+  },
+  {
+    "task_type": "isometric_farthest",
+    "question": "Which numbered object is farthest from object 5?\nImage: <image>\nA. 3\nB. 2\nC. 4\nD. 1\nChoose one option from A, B, C, D.",
+    "answer": "C",
+    "images": [
+      "SpatialAct/data/images/indoor/spatial_relation/indoor_scenes_simple-5-10/arkitscenes__Training__43649615_clean/qa_labels/arkitscenes__Training__43649615_clean_isometric__qa3_isometric_farthest.png"
+    ]
+  },
+  {
+    "task_type": "isometric_farthest",
+    "question": "Which numbered object is farthest from object 2?\nImage: <image>\nA. 1\nB. 3\nC. 5\nD. 4\nChoose one option from A, B, C, D.",
+    "answer": "D",
+    "images": [
+      "SpatialAct/data/images/indoor/spatial_relation/indoor_scenes_complex-10-15/scannet__scene0399_00_clean/qa_labels/scannet__scene0399_00_clean_isometric__qa3_isometric_farthest.png"
+    ]
+  },
+  {
+    "task_type": "isometric_farthest",
+    "question": "Which numbered object is farthest from object 4?\nImage: <image>\nA. 1\nB. 5\nC. 3\nD. 2\nChoose one option from A, B, C, D.",
+    "answer": "B",
+    "images": [
+      "SpatialAct/data/images/indoor/spatial_relation/indoor_scenes_simple-5-10/3rscan__baf6738b-8e94-22f8-8085-24c4e5ef5220_clean/qa_labels/3rscan__baf6738b-8e94-22f8-8085-24c4e5ef5220_clean_isometric__qa3_isometric_farthest.png"
+    ]
+  },
+  {
+    "task_type": "isometric_farthest",
+    "question": "Which numbered object is farthest from object 1?\nImage: <image>\nA. 4\nB. 5\nC. 3\nD. 2\nChoose one option from A, B, C, D.",
+    "answer": "A",
+    "images": [
+      "SpatialAct/data/images/indoor/spatial_relation/indoor_scenes_complex-10-15/matterport3d__XcA2TqTSSAj__region14_clean/qa_labels/matterport3d__XcA2TqTSSAj__region14_clean_isometric__qa3_isometric_farthest.png"
+    ]
+  },
+  {
+    "task_type": "isometric_farthest",
+    "question": "Which numbered object is farthest from object 4?\nImage: <image>\nA. 1\nB. 3\nC. 2\nD. 5\nChoose one option from A, B, C, D.",
+    "answer": "D",
+    "images": [
+      "SpatialAct/data/images/indoor/spatial_relation/indoor_scenes_complex-10-15/matterport3d__B6ByNegPMKs__region13_clean/qa_labels/matterport3d__B6ByNegPMKs__region13_clean_isometric__qa3_isometric_farthest.png"
+    ]
+  },
+  {
+    "task_type": "isometric_farthest",
+    "question": "Which numbered object is farthest from object 1?\nImage: <image>\nA. 3\nB. 5\nC. 2\nD. 4\nChoose one option from A, B, C, D.",
+    "answer": "B",
+    "images": [
+      "SpatialAct/data/images/indoor/spatial_relation/indoor_scenes_complex-10-15/scannet__scene0112_01_clean/qa_labels/scannet__scene0112_01_clean_isometric__qa3_isometric_farthest.png"
+    ]
+  },
+  {
+    "task_type": "isometric_farthest",
+    "question": "Which numbered object is farthest from object 4?\nImage: <image>\nA. 1\nB. 3\nC. 5\nD. 2\nChoose one option from A, B, C, D.",
+    "answer": "C",
+    "images": [
+      "SpatialAct/data/images/indoor/spatial_relation/indoor_scenes_complex-10-15/scannet__scene0103_01_clean/qa_labels/scannet__scene0103_01_clean_isometric__qa3_isometric_farthest.png"
+    ]
+  },
+  {
+    "task_type": "isometric_farthest",
+    "question": "Which numbered object is farthest from object 3?\nImage: <image>\nA. 2\nB. 4\nC. 5\nD. 1\nChoose one option from A, B, C, D.",
+    "answer": "B",
+    "images": [
+      "SpatialAct/data/images/indoor/spatial_relation/indoor_scenes_simple-5-10/scannet__scene0055_02_clean/qa_labels/scannet__scene0055_02_clean_isometric__qa3_isometric_farthest.png"
+    ]
+  },
+  {
+    "task_type": "isometric_farthest",
+    "question": "Which numbered object is farthest from object 3?\nImage: <image>\nA. 4\nB. 2\nC. 5\nD. 1\nChoose one option from A, B, C, D.",
+    "answer": "C",
+    "images": [
+      "SpatialAct/data/images/indoor/spatial_relation/indoor_scenes_complex-10-15/3rscan__c9fb7aa5-2a5b-2cf7-902e-42a0339c7242_clean/qa_labels/3rscan__c9fb7aa5-2a5b-2cf7-902e-42a0339c7242_clean_isometric__qa3_isometric_farthest.png"
+    ]
+  },
+  {
+    "task_type": "isometric_farthest",
+    "question": "Which numbered object is farthest from object 3?\nImage: <image>\nA. 5\nB. 1\nC. 4\nD. 2\nChoose one option from A, B, C, D.",
+    "answer": "A",
+    "images": [
+      "SpatialAct/data/images/indoor/spatial_relation/indoor_scenes_simple-5-10/3rscan__501ebf0b-a3bb-263f-86fd-7ef000a19588_clean/qa_labels/3rscan__501ebf0b-a3bb-263f-86fd-7ef000a19588_clean_isometric__qa3_isometric_farthest.png"
+    ]
+  },
+  {
+    "task_type": "isometric_farthest",
+    "question": "Which numbered object is farthest from object 1?\nImage: <image>\nA. 2\nB. 5\nC. 4\nD. 3\nChoose one option from A, B, C, D.",
+    "answer": "A",
+    "images": [
+      "SpatialAct/data/images/indoor/spatial_relation/indoor_scenes_complex-10-15/scannet__scene0242_02_clean/qa_labels/scannet__scene0242_02_clean_isometric__qa3_isometric_farthest.png"
+    ]
+  },
+  {
+    "task_type": "isometric_farthest",
+    "question": "Which numbered object is farthest from object 1?\nImage: <image>\nA. 3\nB. 5\nC. 2\nD. 4\nChoose one option from A, B, C, D.",
+    "answer": "B",
+    "images": [
+      "SpatialAct/data/images/indoor/spatial_relation/indoor_scenes_complex-10-15/3rscan__baf6738b-8e94-22f8-8085-24c4e5ef5220_clean/qa_labels/3rscan__baf6738b-8e94-22f8-8085-24c4e5ef5220_clean_isometric__qa3_isometric_farthest.png"
+    ]
+  },
+  {
+    "task_type": "isometric_farthest",
+    "question": "Which numbered object is farthest from object 4?\nImage: <image>\nA. 2\nB. 3\nC. 1\nD. 5\nChoose one option from A, B, C, D.",
+    "answer": "B",
+    "images": [
+      "SpatialAct/data/images/indoor/spatial_relation/indoor_scenes_simple-5-10/scannet__scene0371_01_clean/qa_labels/scannet__scene0371_01_clean_isometric__qa3_isometric_farthest.png"
+    ]
+  },
+  {
+    "task_type": "isometric_farthest",
+    "question": "Which numbered object is farthest from object 5?\nImage: <image>\nA. 3\nB. 2\nC. 4\nD. 1\nChoose one option from A, B, C, D.",
+    "answer": "C",
+    "images": [
+      "SpatialAct/data/images/indoor/spatial_relation/indoor_scenes_complex-10-15/matterport3d__1pXnuDYAj8r__region7_clean/qa_labels/matterport3d__1pXnuDYAj8r__region7_clean_isometric__qa3_isometric_farthest.png"
+    ]
+  },
+  {
+    "task_type": "isometric_side_count",
+    "question": "In this image, North is shown by the red arrow. Direction is determined by comparing object center points. An object can be on multiple sides at once (e.g., northwest counts as both north and west). Object A is the black marker. Among the five red labeled objects, which are on the north side of object A? Answer using label numbers in ascending order, separated by commas (e.g., 1,3). If none, answer none.\nImage: <image>",
+    "answer": "none",
+    "images": [
+      "SpatialAct/data/images/indoor/spatial_relation/indoor_scenes_complex-10-15/matterport3d__HxpKQynjfin__region5_clean/qa_labels/matterport3d__HxpKQynjfin__region5_clean_isometric__qa4_isometric_side_count.png"
+    ]
+  },
+  {
+    "task_type": "isometric_side_count",
+    "question": "In this image, North is shown by the red arrow. Direction is determined by comparing object center points. An object can be on multiple sides at once (e.g., northwest counts as both north and west). Object A is the black marker. Among the five red labeled objects, which are on the east side of object A? Answer using label numbers in ascending order, separated by commas (e.g., 1,3). If none, answer none.\nImage: <image>",
+    "answer": "3,4,5",
+    "images": [
+      "SpatialAct/data/images/indoor/spatial_relation/indoor_scenes_complex-10-15/arkitscenes__Training__47334761_clean/qa_labels/arkitscenes__Training__47334761_clean_isometric__qa4_isometric_side_count.png"
+    ]
+  },
+  {
+    "task_type": "isometric_side_count",
+    "question": "In this image, North is shown by the red arrow. Direction is determined by comparing object center points. An object can be on multiple sides at once (e.g., northwest counts as both north and west). Object A is the black marker. Among the five red labeled objects, which are on the east side of object A? Answer using label numbers in ascending order, separated by commas (e.g., 1,3). If none, answer none.\nImage: <image>",
+    "answer": "2,5",
+    "images": [
+      "SpatialAct/data/images/indoor/spatial_relation/indoor_scenes_complex-10-15/scannet__scene0503_00_clean/qa_labels/scannet__scene0503_00_clean_isometric__qa4_isometric_side_count.png"
+    ]
+  },
+  {
+    "task_type": "isometric_side_count",
+    "question": "In this image, North is shown by the red arrow. Direction is determined by comparing object center points. An object can be on multiple sides at once (e.g., northwest counts as both north and west). Object A is the black marker. Among the five red labeled objects, which are on the west side of object A? Answer using label numbers in ascending order, separated by commas (e.g., 1,3). If none, answer none.\nImage: <image>",
+    "answer": "2,4",
+    "images": [
+      "SpatialAct/data/images/indoor/spatial_relation/indoor_scenes_complex-10-15/matterport3d__B6ByNegPMKs__region31_clean/qa_labels/matterport3d__B6ByNegPMKs__region31_clean_isometric__qa4_isometric_side_count.png"
+    ]
+  },
+  {
+    "task_type": "isometric_side_count",
+    "question": "In this image, North is shown by the red arrow. Direction is determined by comparing object center points. An object can be on multiple sides at once (e.g., northwest counts as both north and west). Object A is the black marker. Among the five red labeled objects, which are on the west side of object A? Answer using label numbers in ascending order, separated by commas (e.g., 1,3). If none, answer none.\nImage: <image>",
+    "answer": "1",
+    "images": [
+      "SpatialAct/data/images/indoor/spatial_relation/indoor_scenes_complex-10-15/matterport3d__5LpN3gDmAk7__region12_clean/qa_labels/matterport3d__5LpN3gDmAk7__region12_clean_isometric__qa4_isometric_side_count.png"
+    ]
+  },
+  {
+    "task_type": "isometric_side_count",
+    "question": "In this image, North is shown by the red arrow. Direction is determined by comparing object center points. An object can be on multiple sides at once (e.g., northwest counts as both north and west). Object A is the black marker. Among the five red labeled objects, which are on the west side of object A? Answer using label numbers in ascending order, separated by commas (e.g., 1,3). If none, answer none.\nImage: <image>",
+    "answer": "2,5",
+    "images": [
+      "SpatialAct/data/images/indoor/spatial_relation/indoor_scenes_complex-10-15/scannet__scene0036_01_clean/qa_labels/scannet__scene0036_01_clean_isometric__qa4_isometric_side_count.png"
+    ]
+  },
+  {
+    "task_type": "isometric_side_count",
+    "question": "In this image, North is shown by the red arrow. Direction is determined by comparing object center points. An object can be on multiple sides at once (e.g., northwest counts as both north and west). Object A is the black marker. Among the five red labeled objects, which are on the east side of object A? Answer using label numbers in ascending order, separated by commas (e.g., 1,3). If none, answer none.\nImage: <image>",
+    "answer": "2,4,5",
+    "images": [
+      "SpatialAct/data/images/indoor/spatial_relation/indoor_scenes_simple-5-10/3rscan__0ad2d3a7-79e2-2212-9a1b-8737842a24e2_clean/qa_labels/3rscan__0ad2d3a7-79e2-2212-9a1b-8737842a24e2_clean_isometric__qa4_isometric_side_count.png"
+    ]
+  },
+  {
+    "task_type": "isometric_side_count",
+    "question": "In this image, North is shown by the red arrow. Direction is determined by comparing object center points. An object can be on multiple sides at once (e.g., northwest counts as both north and west). Object A is the black marker. Among the five red labeled objects, which are on the north side of object A? Answer using label numbers in ascending order, separated by commas (e.g., 1,3). If none, answer none.\nImage: <image>",
+    "answer": "1,2,3,4,5",
+    "images": [
+      "SpatialAct/data/images/indoor/spatial_relation/indoor_scenes_simple-5-10/scannet__scene0055_02_clean/qa_labels/scannet__scene0055_02_clean_isometric__qa4_isometric_side_count.png"
+    ]
+  },
+  {
+    "task_type": "isometric_side_count",
+    "question": "In this image, North is shown by the red arrow. Direction is determined by comparing object center points. An object can be on multiple sides at once (e.g., northwest counts as both north and west). Object A is the black marker. Among the five red labeled objects, which are on the north side of object A? Answer using label numbers in ascending order, separated by commas (e.g., 1,3). If none, answer none.\nImage: <image>",
+    "answer": "none",
+    "images": [
+      "SpatialAct/data/images/indoor/spatial_relation/indoor_scenes_simple-5-10/3rscan__1d23400e-e280-2b1a-8dec-67a551146c3a_clean/qa_labels/3rscan__1d23400e-e280-2b1a-8dec-67a551146c3a_clean_isometric__qa4_isometric_side_count.png"
+    ]
+  },
+  {
+    "task_type": "isometric_side_count",
+    "question": "In this image, North is shown by the red arrow. Direction is determined by comparing object center points. An object can be on multiple sides at once (e.g., northwest counts as both north and west). Object A is the black marker. Among the five red labeled objects, which are on the east side of object A? Answer using label numbers in ascending order, separated by commas (e.g., 1,3). If none, answer none.\nImage: <image>",
+    "answer": "4,5",
+    "images": [
+      "SpatialAct/data/images/indoor/spatial_relation/indoor_scenes_complex-10-15/arkitscenes__Training__42899161_clean/qa_labels/arkitscenes__Training__42899161_clean_isometric__qa4_isometric_side_count.png"
+    ]
+  },
+  {
+    "task_type": "isometric_side_count",
+    "question": "In this image, North is shown by the red arrow. Direction is determined by comparing object center points. An object can be on multiple sides at once (e.g., northwest counts as both north and west). Object A is the black marker. Among the five red labeled objects, which are on the south side of object A? Answer using label numbers in ascending order, separated by commas (e.g., 1,3). If none, answer none.\nImage: <image>",
+    "answer": "1,2,3,4,5",
+    "images": [
+      "SpatialAct/data/images/indoor/spatial_relation/indoor_scenes_simple-5-10/scannet__scene0067_02_clean/qa_labels/scannet__scene0067_02_clean_isometric__qa4_isometric_side_count.png"
+    ]
+  },
+  {
+    "task_type": "isometric_side_count",
+    "question": "In this image, North is shown by the red arrow. Direction is determined by comparing object center points. An object can be on multiple sides at once (e.g., northwest counts as both north and west). Object A is the black marker. Among the five red labeled objects, which are on the south side of object A? Answer using label numbers in ascending order, separated by commas (e.g., 1,3). If none, answer none.\nImage: <image>",
+    "answer": "1,3,4",
+    "images": [
+      "SpatialAct/data/images/indoor/spatial_relation/indoor_scenes_simple-5-10/3rscan__8eabc416-5af7-2f32-862f-bc1a368d2932_clean/qa_labels/3rscan__8eabc416-5af7-2f32-862f-bc1a368d2932_clean_isometric__qa4_isometric_side_count.png"
+    ]
+  },
+  {
+    "task_type": "isometric_side_count",
+    "question": "In this image, North is shown by the red arrow. Direction is determined by comparing object center points. An object can be on multiple sides at once (e.g., northwest counts as both north and west). Object A is the black marker. Among the five red labeled objects, which are on the north side of object A? Answer using label numbers in ascending order, separated by commas (e.g., 1,3). If none, answer none.\nImage: <image>",
+    "answer": "none",
+    "images": [
+      "SpatialAct/data/images/indoor/spatial_relation/indoor_scenes_complex-10-15/scannet__scene0035_01_clean/qa_labels/scannet__scene0035_01_clean_isometric__qa4_isometric_side_count.png"
+    ]
+  },
+  {
+    "task_type": "isometric_side_count",
+    "question": "In this image, North is shown by the red arrow. Direction is determined by comparing object center points. An object can be on multiple sides at once (e.g., northwest counts as both north and west). Object A is the black marker. Among the five red labeled objects, which are on the east side of object A? Answer using label numbers in ascending order, separated by commas (e.g., 1,3). If none, answer none.\nImage: <image>",
+    "answer": "1,2,3,4,5",
+    "images": [
+      "SpatialAct/data/images/indoor/spatial_relation/indoor_scenes_simple-5-10/scannet__scene0371_01_clean/qa_labels/scannet__scene0371_01_clean_isometric__qa4_isometric_side_count.png"
+    ]
+  },
+  {
+    "task_type": "isometric_side_count",
+    "question": "In this image, North is shown by the red arrow. Direction is determined by comparing object center points. An object can be on multiple sides at once (e.g., northwest counts as both north and west). Object A is the black marker. Among the five red labeled objects, which are on the south side of object A? Answer using label numbers in ascending order, separated by commas (e.g., 1,3). If none, answer none.\nImage: <image>",
+    "answer": "1,2,4,5",
+    "images": [
+      "SpatialAct/data/images/indoor/spatial_relation/indoor_scenes_complex-10-15/matterport3d__pRbA3pwrgk9__region7_clean/qa_labels/matterport3d__pRbA3pwrgk9__region7_clean_isometric__qa4_isometric_side_count.png"
+    ]
+  },
+  {
+    "task_type": "isometric_side_count",
+    "question": "In this image, North is shown by the red arrow. Direction is determined by comparing object center points. An object can be on multiple sides at once (e.g., northwest counts as both north and west). Object A is the black marker. Among the five red labeled objects, which are on the north side of object A? Answer using label numbers in ascending order, separated by commas (e.g., 1,3). If none, answer none.\nImage: <image>",
+    "answer": "1,2,5",
+    "images": [
+      "SpatialAct/data/images/indoor/spatial_relation/indoor_scenes_complex-10-15/arkitscenes__Training__45261644_clean/qa_labels/arkitscenes__Training__45261644_clean_isometric__qa4_isometric_side_count.png"
+    ]
+  },
+  {
+    "task_type": "isometric_side_count",
+    "question": "In this image, North is shown by the red arrow. Direction is determined by comparing object center points. An object can be on multiple sides at once (e.g., northwest counts as both north and west). Object A is the black marker. Among the five red labeled objects, which are on the south side of object A? Answer using label numbers in ascending order, separated by commas (e.g., 1,3). If none, answer none.\nImage: <image>",
+    "answer": "1,2",
+    "images": [
+      "SpatialAct/data/images/indoor/spatial_relation/indoor_scenes_complex-10-15/3rscan__47319772-f9f7-2a1a-9768-108df4f37ab9_clean/qa_labels/3rscan__47319772-f9f7-2a1a-9768-108df4f37ab9_clean_isometric__qa4_isometric_side_count.png"
+    ]
+  },
+  {
+    "task_type": "isometric_side_count",
+    "question": "In this image, North is shown by the red arrow. Direction is determined by comparing object center points. An object can be on multiple sides at once (e.g., northwest counts as both north and west). Object A is the black marker. Among the five red labeled objects, which are on the south side of object A? Answer using label numbers in ascending order, separated by commas (e.g., 1,3). If none, answer none.\nImage: <image>",
+    "answer": "1,2,3,4",
+    "images": [
+      "SpatialAct/data/images/indoor/spatial_relation/indoor_scenes_complex-10-15/arkitscenes__Training__42898123_clean/qa_labels/arkitscenes__Training__42898123_clean_isometric__qa4_isometric_side_count.png"
+    ]
+  },
+  {
+    "task_type": "isometric_side_count",
+    "question": "In this image, North is shown by the red arrow. Direction is determined by comparing object center points. An object can be on multiple sides at once (e.g., northwest counts as both north and west). Object A is the black marker. Among the five red labeled objects, which are on the west side of object A? Answer using label numbers in ascending order, separated by commas (e.g., 1,3). If none, answer none.\nImage: <image>",
+    "answer": "4",
+    "images": [
+      "SpatialAct/data/images/indoor/spatial_relation/indoor_scenes_complex-10-15/scannet__scene0242_02_clean/qa_labels/scannet__scene0242_02_clean_isometric__qa4_isometric_side_count.png"
+    ]
+  },
+  {
+    "task_type": "isometric_side_count",
+    "question": "In this image, North is shown by the red arrow. Direction is determined by comparing object center points. An object can be on multiple sides at once (e.g., northwest counts as both north and west). Object A is the black marker. Among the five red labeled objects, which are on the west side of object A? Answer using label numbers in ascending order, separated by commas (e.g., 1,3). If none, answer none.\nImage: <image>",
+    "answer": "1,4,5",
+    "images": [
+      "SpatialAct/data/images/indoor/spatial_relation/indoor_scenes_complex-10-15/3rscan__77361fc8-d054-2a22-8868-c3de4283fff7_clean/qa_labels/3rscan__77361fc8-d054-2a22-8868-c3de4283fff7_clean_isometric__qa4_isometric_side_count.png"
+    ]
+  },
+  {
+    "task_type": "isometric_side_count",
+    "question": "In this image, North is shown by the red arrow. Direction is determined by comparing object center points. An object can be on multiple sides at once (e.g., northwest counts as both north and west). Object A is the black marker. Among the five red labeled objects, which are on the north side of object A? Answer using label numbers in ascending order, separated by commas (e.g., 1,3). If none, answer none.\nImage: <image>",
+    "answer": "2",
+    "images": [
+      "SpatialAct/data/images/indoor/spatial_relation/indoor_scenes_complex-10-15/matterport3d__XcA2TqTSSAj__region14_clean/qa_labels/matterport3d__XcA2TqTSSAj__region14_clean_isometric__qa4_isometric_side_count.png"
+    ]
+  },
+  {
+    "task_type": "isometric_side_count",
+    "question": "In this image, North is shown by the red arrow. Direction is determined by comparing object center points. An object can be on multiple sides at once (e.g., northwest counts as both north and west). Object A is the black marker. Among the five red labeled objects, which are on the east side of object A? Answer using label numbers in ascending order, separated by commas (e.g., 1,3). If none, answer none.\nImage: <image>",
+    "answer": "1,2,3",
+    "images": [
+      "SpatialAct/data/images/indoor/spatial_relation/indoor_scenes_complex-10-15/arkitscenes__Validation__47895367_clean/qa_labels/arkitscenes__Validation__47895367_clean_isometric__qa4_isometric_side_count.png"
+    ]
+  },
+  {
+    "task_type": "isometric_side_count",
+    "question": "In this image, North is shown by the red arrow. Direction is determined by comparing object center points. An object can be on multiple sides at once (e.g., northwest counts as both north and west). Object A is the black marker. Among the five red labeled objects, which are on the west side of object A? Answer using label numbers in ascending order, separated by commas (e.g., 1,3). If none, answer none.\nImage: <image>",
+    "answer": "1,2,3,4,5",
+    "images": [
+      "SpatialAct/data/images/indoor/spatial_relation/indoor_scenes_complex-10-15/matterport3d__B6ByNegPMKs__region13_clean/qa_labels/matterport3d__B6ByNegPMKs__region13_clean_isometric__qa4_isometric_side_count.png"
+    ]
+  },
+  {
+    "task_type": "isometric_side_count",
+    "question": "In this image, North is shown by the red arrow. Direction is determined by comparing object center points. An object can be on multiple sides at once (e.g., northwest counts as both north and west). Object A is the black marker. Among the five red labeled objects, which are on the west side of object A? Answer using label numbers in ascending order, separated by commas (e.g., 1,3). If none, answer none.\nImage: <image>",
+    "answer": "1,2,3,5",
+    "images": [
+      "SpatialAct/data/images/indoor/spatial_relation/indoor_scenes_complex-10-15/arkitscenes__Training__45261323_clean/qa_labels/arkitscenes__Training__45261323_clean_isometric__qa4_isometric_side_count.png"
+    ]
+  },
+  {
+    "task_type": "isometric_side_count",
+    "question": "In this image, North is shown by the red arrow. Direction is determined by comparing object center points. An object can be on multiple sides at once (e.g., northwest counts as both north and west). Object A is the black marker. Among the five red labeled objects, which are on the south side of object A? Answer using label numbers in ascending order, separated by commas (e.g., 1,3). If none, answer none.\nImage: <image>",
+    "answer": "none",
+    "images": [
+      "SpatialAct/data/images/indoor/spatial_relation/indoor_scenes_simple-5-10/matterport3d__uNb9QFRL6hY__region19_clean/qa_labels/matterport3d__uNb9QFRL6hY__region19_clean_isometric__qa4_isometric_side_count.png"
+    ]
+  },
+  {
+    "task_type": "isometric_side_count",
+    "question": "In this image, North is shown by the red arrow. Direction is determined by comparing object center points. An object can be on multiple sides at once (e.g., northwest counts as both north and west). Object A is the black marker. Among the five red labeled objects, which are on the west side of object A? Answer using label numbers in ascending order, separated by commas (e.g., 1,3). If none, answer none.\nImage: <image>",
+    "answer": "5",
+    "images": [
+      "SpatialAct/data/images/indoor/spatial_relation/indoor_scenes_simple-5-10/3rscan__c9fb7aa7-2a5b-2cf7-916d-d38eeeeda87f_clean/qa_labels/3rscan__c9fb7aa7-2a5b-2cf7-916d-d38eeeeda87f_clean_isometric__qa4_isometric_side_count.png"
+    ]
+  },
+  {
+    "task_type": "isometric_side_count",
+    "question": "In this image, North is shown by the red arrow. Direction is determined by comparing object center points. An object can be on multiple sides at once (e.g., northwest counts as both north and west). Object A is the black marker. Among the five red labeled objects, which are on the south side of object A? Answer using label numbers in ascending order, separated by commas (e.g., 1,3). If none, answer none.\nImage: <image>",
+    "answer": "none",
+    "images": [
+      "SpatialAct/data/images/indoor/spatial_relation/indoor_scenes_complex-10-15/arkitscenes__Training__47331180_clean/qa_labels/arkitscenes__Training__47331180_clean_isometric__qa4_isometric_side_count.png"
+    ]
+  },
+  {
+    "task_type": "isometric_side_count",
+    "question": "In this image, North is shown by the red arrow. Direction is determined by comparing object center points. An object can be on multiple sides at once (e.g., northwest counts as both north and west). Object A is the black marker. Among the five red labeled objects, which are on the west side of object A? Answer using label numbers in ascending order, separated by commas (e.g., 1,3). If none, answer none.\nImage: <image>",
+    "answer": "1,2,3,4,5",
+    "images": [
+      "SpatialAct/data/images/indoor/spatial_relation/indoor_scenes_complex-10-15/scannet__scene0524_00_clean/qa_labels/scannet__scene0524_00_clean_isometric__qa4_isometric_side_count.png"
+    ]
+  },
+  {
+    "task_type": "isometric_side_count",
+    "question": "In this image, North is shown by the red arrow. Direction is determined by comparing object center points. An object can be on multiple sides at once (e.g., northwest counts as both north and west). Object A is the black marker. Among the five red labeled objects, which are on the north side of object A? Answer using label numbers in ascending order, separated by commas (e.g., 1,3). If none, answer none.\nImage: <image>",
+    "answer": "none",
+    "images": [
+      "SpatialAct/data/images/indoor/spatial_relation/indoor_scenes_simple-5-10/arkitscenes__Training__42897851_clean/qa_labels/arkitscenes__Training__42897851_clean_isometric__qa4_isometric_side_count.png"
+    ]
+  },
+  {
+    "task_type": "isometric_side_count",
+    "question": "In this image, North is shown by the red arrow. Direction is determined by comparing object center points. An object can be on multiple sides at once (e.g., northwest counts as both north and west). Object A is the black marker. Among the five red labeled objects, which are on the north side of object A? Answer using label numbers in ascending order, separated by commas (e.g., 1,3). If none, answer none.\nImage: <image>",
+    "answer": "1,2,3,4,5",
+    "images": [
+      "SpatialAct/data/images/indoor/spatial_relation/indoor_scenes_simple-5-10/arkitscenes__Training__43649615_clean/qa_labels/arkitscenes__Training__43649615_clean_isometric__qa4_isometric_side_count.png"
+    ]
+  },
+  {
+    "task_type": "isometric_side_count",
+    "question": "In this image, North is shown by the red arrow. Direction is determined by comparing object center points. An object can be on multiple sides at once (e.g., northwest counts as both north and west). Object A is the black marker. Among the five red labeled objects, which are on the west side of object A? Answer using label numbers in ascending order, separated by commas (e.g., 1,3). If none, answer none.\nImage: <image>",
+    "answer": "1,2,4,5",
+    "images": [
+      "SpatialAct/data/images/indoor/spatial_relation/indoor_scenes_simple-5-10/arkitscenes__Training__47331177_clean/qa_labels/arkitscenes__Training__47331177_clean_isometric__qa4_isometric_side_count.png"
+    ]
+  },
+  {
+    "task_type": "top_closest",
+    "question": "Which two numbered objects are closest to each other?\nImage: <image>\nA. 3 and 1\nB. 5 and 6\nC. 4 and 2\nD. 6 and 2\nChoose one option from A, B, C, D.",
+    "answer": "A",
+    "images": [
+      "SpatialAct/data/images/indoor/spatial_relation/indoor_scenes_complex-10-15/3rscan__ab835f8b-54c6-29a1-9a7a-4770a0eb74ff_clean/qa_labels/3rscan__ab835f8b-54c6-29a1-9a7a-4770a0eb74ff_clean_top__qa2_top_closest.png"
+    ]
+  },
+  {
+    "task_type": "top_closest",
+    "question": "Which two numbered objects are closest to each other?\nImage: <image>\nA. 5 and 2\nB. 2 and 3\nC. 5 and 1\nD. 4 and 1\nChoose one option from A, B, C, D.",
+    "answer": "B",
+    "images": [
+      "SpatialAct/data/images/indoor/spatial_relation/indoor_scenes_simple-5-10/scannet__scene0382_00_clean/qa_labels/scannet__scene0382_00_clean_top__qa2_top_closest.png"
+    ]
+  },
+  {
+    "task_type": "top_closest",
+    "question": "Which two numbered objects are closest to each other?\nImage: <image>\nA. 1 and 2\nB. 4 and 6\nC. 5 and 6\nD. 1 and 3\nChoose one option from A, B, C, D.",
+    "answer": "C",
+    "images": [
+      "SpatialAct/data/images/indoor/spatial_relation/indoor_scenes_complex-10-15/scannet__scene0399_00_clean/qa_labels/scannet__scene0399_00_clean_top__qa2_top_closest.png"
+    ]
+  },
+  {
+    "task_type": "top_closest",
+    "question": "Which two numbered objects are closest to each other?\nImage: <image>\nA. 5 and 4\nB. 1 and 2\nC. 1 and 3\nD. 2 and 3\nChoose one option from A, B, C, D.",
+    "answer": "A",
+    "images": [
+      "SpatialAct/data/images/indoor/spatial_relation/indoor_scenes_complex-10-15/scannet__scene0344_00_clean/qa_labels/scannet__scene0344_00_clean_top__qa2_top_closest.png"
+    ]
+  },
+  {
+    "task_type": "top_closest",
+    "question": "Which two numbered objects are closest to each other?\nImage: <image>\nA. 4 and 2\nB. 1 and 2\nC. 3 and 2\nD. 3 and 1\nChoose one option from A, B, C, D.",
+    "answer": "D",
+    "images": [
+      "SpatialAct/data/images/indoor/spatial_relation/indoor_scenes_complex-10-15/matterport3d__zsNo4HB9uLZ__region9_clean/qa_labels/matterport3d__zsNo4HB9uLZ__region9_clean_top__qa2_top_closest.png"
+    ]
+  },
+  {
+    "task_type": "top_closest",
+    "question": "Which two numbered objects are closest to each other?\nImage: <image>\nA. 1 and 3\nB. 2 and 4\nC. 1 and 5\nD. 3 and 4\nChoose one option from A, B, C, D.",
+    "answer": "C",
+    "images": [
+      "SpatialAct/data/images/indoor/spatial_relation/indoor_scenes_simple-5-10/3rscan__1d23400e-e280-2b1a-8dec-67a551146c3a_clean/qa_labels/3rscan__1d23400e-e280-2b1a-8dec-67a551146c3a_clean_top__qa2_top_closest.png"
+    ]
+  },
+  {
+    "task_type": "top_closest",
+    "question": "Which two numbered objects are closest to each other?\nImage: <image>\nA. 5 and 4\nB. 1 and 6\nC. 6 and 2\nD. 3 and 4\nChoose one option from A, B, C, D.",
+    "answer": "B",
+    "images": [
+      "SpatialAct/data/images/indoor/spatial_relation/indoor_scenes_complex-10-15/arkitscenes__Training__48458713_clean/qa_labels/arkitscenes__Training__48458713_clean_top__qa2_top_closest.png"
+    ]
+  },
+  {
+    "task_type": "top_closest",
+    "question": "Which two numbered objects are closest to each other?\nImage: <image>\nA. 2 and 5\nB. 6 and 3\nC. 6 and 4\nD. 1 and 3\nChoose one option from A, B, C, D.",
+    "answer": "B",
+    "images": [
+      "SpatialAct/data/images/indoor/spatial_relation/indoor_scenes_simple-5-10/scannet__scene0055_02_clean/qa_labels/scannet__scene0055_02_clean_top__qa2_top_closest.png"
+    ]
+  },
+  {
+    "task_type": "top_closest",
+    "question": "Which two numbered objects are closest to each other?\nImage: <image>\nA. 4 and 7\nB. 1 and 5\nC. 1 and 3\nD. 6 and 2\nChoose one option from A, B, C, D.",
+    "answer": "A",
+    "images": [
+      "SpatialAct/data/images/indoor/spatial_relation/indoor_scenes_simple-5-10/scannet__scene0067_02_clean/qa_labels/scannet__scene0067_02_clean_top__qa2_top_closest.png"
+    ]
+  },
+  {
+    "task_type": "top_closest",
+    "question": "Which two numbered objects are closest to each other?\nImage: <image>\nA. 2 and 6\nB. 7 and 4\nC. 1 and 5\nD. 8 and 3\nChoose one option from A, B, C, D.",
+    "answer": "A",
+    "images": [
+      "SpatialAct/data/images/indoor/spatial_relation/indoor_scenes_complex-10-15/arkitscenes__Training__48018015_clean/qa_labels/arkitscenes__Training__48018015_clean_top__qa2_top_closest.png"
+    ]
+  },
+  {
+    "task_type": "top_closest",
+    "question": "Which two numbered objects are closest to each other?\nImage: <image>\nA. 4 and 2\nB. 1 and 3\nC. 4 and 5\nD. 5 and 3\nChoose one option from A, B, C, D.",
+    "answer": "B",
+    "images": [
+      "SpatialAct/data/images/indoor/spatial_relation/indoor_scenes_simple-5-10/3rscan__0cac7627-8d6f-2d13-8eac-41764b5f2c5b_clean/qa_labels/3rscan__0cac7627-8d6f-2d13-8eac-41764b5f2c5b_clean_top__qa2_top_closest.png"
+    ]
+  },
+  {
+    "task_type": "top_closest",
+    "question": "Which two numbered objects are closest to each other?\nImage: <image>\nA. 1 and 3\nB. 2 and 5\nC. 5 and 4\nD. 5 and 3\nChoose one option from A, B, C, D.",
+    "answer": "D",
+    "images": [
+      "SpatialAct/data/images/indoor/spatial_relation/indoor_scenes_complex-10-15/arkitscenes__Training__48458640_clean/qa_labels/arkitscenes__Training__48458640_clean_top__qa2_top_closest.png"
+    ]
+  },
+  {
+    "task_type": "top_closest",
+    "question": "Which two numbered objects are closest to each other?\nImage: <image>\nA. 6 and 3\nB. 4 and 3\nC. 5 and 6\nD. 1 and 2\nChoose one option from A, B, C, D.",
+    "answer": "B",
+    "images": [
+      "SpatialAct/data/images/indoor/spatial_relation/indoor_scenes_complex-10-15/scannet__scene0083_00_clean/qa_labels/scannet__scene0083_00_clean_top__qa2_top_closest.png"
+    ]
+  },
+  {
+    "task_type": "top_closest",
+    "question": "Which two numbered objects are closest to each other?\nImage: <image>\nA. 1 and 2\nB. 1 and 4\nC. 2 and 3\nD. 2 and 4\nChoose one option from A, B, C, D.",
+    "answer": "C",
+    "images": [
+      "SpatialAct/data/images/indoor/spatial_relation/indoor_scenes_simple-5-10/arkitscenes__Training__42897851_clean/qa_labels/arkitscenes__Training__42897851_clean_top__qa2_top_closest.png"
+    ]
+  },
+  {
+    "task_type": "top_closest",
+    "question": "Which two numbered objects are closest to each other?\nImage: <image>\nA. 6 and 2\nB. 1 and 2\nC. 3 and 2\nD. 4 and 5\nChoose one option from A, B, C, D.",
+    "answer": "C",
+    "images": [
+      "SpatialAct/data/images/indoor/spatial_relation/indoor_scenes_complex-10-15/matterport3d__B6ByNegPMKs__region13_clean/qa_labels/matterport3d__B6ByNegPMKs__region13_clean_top__qa2_top_closest.png"
+    ]
+  },
+  {
+    "task_type": "top_closest",
+    "question": "Which two numbered objects are closest to each other?\nImage: <image>\nA. 3 and 5\nB. 4 and 1\nC. 2 and 1\nD. 2 and 3\nChoose one option from A, B, C, D.",
+    "answer": "A",
+    "images": [
+      "SpatialAct/data/images/indoor/spatial_relation/indoor_scenes_complex-10-15/matterport3d__gTV8FGcVJC9__region7_clean/qa_labels/matterport3d__gTV8FGcVJC9__region7_clean_top__qa2_top_closest.png"
+    ]
+  },
+  {
+    "task_type": "top_closest",
+    "question": "Which two numbered objects are closest to each other?\nImage: <image>\nA. 4 and 6\nB. 2 and 3\nC. 5 and 7\nD. 1 and 8\nChoose one option from A, B, C, D.",
+    "answer": "D",
+    "images": [
+      "SpatialAct/data/images/indoor/spatial_relation/indoor_scenes_complex-10-15/arkitscenes__Training__44358289_clean/qa_labels/arkitscenes__Training__44358289_clean_top__qa2_top_closest.png"
+    ]
+  },
+  {
+    "task_type": "top_closest",
+    "question": "Which two numbered objects are closest to each other?\nImage: <image>\nA. 1 and 3\nB. 1 and 2\nC. 4 and 2\nD. 5 and 3\nChoose one option from A, B, C, D.",
+    "answer": "D",
+    "images": [
+      "SpatialAct/data/images/indoor/spatial_relation/indoor_scenes_complex-10-15/matterport3d__5LpN3gDmAk7__region12_clean/qa_labels/matterport3d__5LpN3gDmAk7__region12_clean_top__qa2_top_closest.png"
+    ]
+  },
+  {
+    "task_type": "top_closest",
+    "question": "Which two numbered objects are closest to each other?\nImage: <image>\nA. 5 and 6\nB. 4 and 6\nC. 1 and 2\nD. 2 and 3\nChoose one option from A, B, C, D.",
+    "answer": "A",
+    "images": [
+      "SpatialAct/data/images/indoor/spatial_relation/indoor_scenes_complex-10-15/matterport3d__XcA2TqTSSAj__region14_clean/qa_labels/matterport3d__XcA2TqTSSAj__region14_clean_top__qa2_top_closest.png"
+    ]
+  },
+  {
+    "task_type": "top_closest",
+    "question": "Which two numbered objects are closest to each other?\nImage: <image>\nA. 1 and 4\nB. 2 and 3\nC. 2 and 4\nD. 5 and 4\nChoose one option from A, B, C, D.",
+    "answer": "C",
+    "images": [
+      "SpatialAct/data/images/indoor/spatial_relation/indoor_scenes_simple-5-10/arkitscenes__Training__47331177_clean/qa_labels/arkitscenes__Training__47331177_clean_top__qa2_top_closest.png"
+    ]
+  },
+  {
+    "task_type": "top_closest",
+    "question": "Which two numbered objects are closest to each other?\nImage: <image>\nA. 4 and 3\nB. 4 and 5\nC. 6 and 3\nD. 1 and 2\nChoose one option from A, B, C, D.",
+    "answer": "A",
+    "images": [
+      "SpatialAct/data/images/indoor/spatial_relation/indoor_scenes_complex-10-15/scannet__scene0112_01_clean/qa_labels/scannet__scene0112_01_clean_top__qa2_top_closest.png"
+    ]
+  },
+  {
+    "task_type": "top_closest",
+    "question": "Which two numbered objects are closest to each other?\nImage: <image>\nA. 3 and 4\nB. 3 and 5\nC. 1 and 2\nD. 2 and 3\nChoose one option from A, B, C, D.",
+    "answer": "D",
+    "images": [
+      "SpatialAct/data/images/indoor/spatial_relation/indoor_scenes_complex-10-15/3rscan__c7895f8a-339c-2d13-82a6-bc530140d95d_clean/qa_labels/3rscan__c7895f8a-339c-2d13-82a6-bc530140d95d_clean_top__qa2_top_closest.png"
+    ]
+  },
+  {
+    "task_type": "top_closest",
+    "question": "Which two numbered objects are closest to each other?\nImage: <image>\nA. 3 and 4\nB. 3 and 5\nC. 1 and 2\nD. 4 and 5\nChoose one option from A, B, C, D.",
+    "answer": "B",
+    "images": [
+      "SpatialAct/data/images/indoor/spatial_relation/indoor_scenes_complex-10-15/3rscan__68bae766-3567-2f7c-825a-f0522da62564_clean/qa_labels/3rscan__68bae766-3567-2f7c-825a-f0522da62564_clean_top__qa2_top_closest.png"
+    ]
+  },
+  {
+    "task_type": "top_closest",
+    "question": "Which two numbered objects are closest to each other?\nImage: <image>\nA. 2 and 3\nB. 1 and 5\nC. 4 and 5\nD. 6 and 2\nChoose one option from A, B, C, D.",
+    "answer": "D",
+    "images": [
+      "SpatialAct/data/images/indoor/spatial_relation/indoor_scenes_complex-10-15/arkitscenes__Training__45261323_clean/qa_labels/arkitscenes__Training__45261323_clean_top__qa2_top_closest.png"
+    ]
+  },
+  {
+    "task_type": "top_closest",
+    "question": "Which two numbered objects are closest to each other?\nImage: <image>\nA. 5 and 4\nB. 6 and 2\nC. 1 and 6\nD. 2 and 3\nChoose one option from A, B, C, D.",
+    "answer": "A",
+    "images": [
+      "SpatialAct/data/images/indoor/spatial_relation/indoor_scenes_complex-10-15/scannet__scene0065_00_clean/qa_labels/scannet__scene0065_00_clean_top__qa2_top_closest.png"
+    ]
+  },
+  {
+    "task_type": "top_closest",
+    "question": "Which two numbered objects are closest to each other?\nImage: <image>\nA. 5 and 4\nB. 1 and 6\nC. 1 and 2\nD. 1 and 3\nChoose one option from A, B, C, D.",
+    "answer": "B",
+    "images": [
+      "SpatialAct/data/images/indoor/spatial_relation/indoor_scenes_complex-10-15/arkitscenes__Training__42899295_clean/qa_labels/arkitscenes__Training__42899295_clean_top__qa2_top_closest.png"
+    ]
+  },
+  {
+    "task_type": "top_closest",
+    "question": "Which two numbered objects are closest to each other?\nImage: <image>\nA. 1 and 2\nB. 5 and 6\nC. 6 and 3\nD. 4 and 3\nChoose one option from A, B, C, D.",
+    "answer": "B",
+    "images": [
+      "SpatialAct/data/images/indoor/spatial_relation/indoor_scenes_complex-10-15/scannet__scene0035_01_clean/qa_labels/scannet__scene0035_01_clean_top__qa2_top_closest.png"
+    ]
+  },
+  {
+    "task_type": "top_closest",
+    "question": "Which two numbered objects are closest to each other?\nImage: <image>\nA. 2 and 3\nB. 4 and 1\nC. 4 and 2\nD. 4 and 5\nChoose one option from A, B, C, D.",
+    "answer": "D",
+    "images": [
+      "SpatialAct/data/images/indoor/spatial_relation/indoor_scenes_complex-10-15/scannet__scene0103_01_clean/qa_labels/scannet__scene0103_01_clean_top__qa2_top_closest.png"
+    ]
+  },
+  {
+    "task_type": "top_closest",
+    "question": "Which two numbered objects are closest to each other?\nImage: <image>\nA. 2 and 3\nB. 4 and 3\nC. 1 and 3\nD. 1 and 2\nChoose one option from A, B, C, D.",
+    "answer": "B",
+    "images": [
+      "SpatialAct/data/images/indoor/spatial_relation/indoor_scenes_simple-5-10/3rscan__501ebf0b-a3bb-263f-86fd-7ef000a19588_clean/qa_labels/3rscan__501ebf0b-a3bb-263f-86fd-7ef000a19588_clean_top__qa2_top_closest.png"
+    ]
+  },
+  {
+    "task_type": "top_closest",
+    "question": "Which two numbered objects are closest to each other?\nImage: <image>\nA. 3 and 4\nB. 1 and 2\nC. 3 and 5\nD. 5 and 6\nChoose one option from A, B, C, D.",
+    "answer": "D",
+    "images": [
+      "SpatialAct/data/images/indoor/spatial_relation/indoor_scenes_complex-10-15/3rscan__77361fca-d054-2a22-8974-547ca1fbb90f_clean/qa_labels/3rscan__77361fca-d054-2a22-8974-547ca1fbb90f_clean_top__qa2_top_closest.png"
+    ]
+  },
+  {
+    "task_type": "top_closest",
+    "question": "Which two numbered objects are closest to each other?\nImage: <image>\nA. 5 and 6\nB. 4 and 1\nC. 2 and 3\nD. 3 and 6\nChoose one option from A, B, C, D.",
+    "answer": "B",
+    "images": [
+      "SpatialAct/data/images/indoor/spatial_relation/indoor_scenes_complex-10-15/scannet__scene0524_00_clean/qa_labels/scannet__scene0524_00_clean_top__qa2_top_closest.png"
+    ]
+  },
+  {
+    "task_type": "top_direction",
+    "question": "In this image, North is shown by the red arrow. Direction is determined by comparing object center points. Which side is object 1 relative to object 2?\nImage: <image>\nA. east\nB. north\nC. west\nD. northwest\nChoose one option from A, B, C, D.",
+    "answer": "A",
+    "images": [
+      "SpatialAct/data/images/indoor/spatial_relation/indoor_scenes_complex-10-15/3rscan__77361fc8-d054-2a22-8868-c3de4283fff7_clean/qa_labels/3rscan__77361fc8-d054-2a22-8868-c3de4283fff7_clean_top__qa1_top_direction.png"
+    ]
+  },
+  {
+    "task_type": "top_direction",
+    "question": "In this image, North is shown by the red arrow. Direction is determined by comparing object center points. Which side is object 2 relative to object 1?\nImage: <image>\nA. northeast\nB. southwest\nC. north\nD. southeast\nChoose one option from A, B, C, D.",
+    "answer": "B",
+    "images": [
+      "SpatialAct/data/images/indoor/spatial_relation/indoor_scenes_complex-10-15/arkitscenes__Training__45261644_clean/qa_labels/arkitscenes__Training__45261644_clean_top__qa1_top_direction.png"
+    ]
+  },
+  {
+    "task_type": "top_direction",
+    "question": "In this image, North is shown by the red arrow. Direction is determined by comparing object center points. Which side is object 2 relative to object 1?\nImage: <image>\nA. west\nB. south\nC. east\nD. northwest\nChoose one option from A, B, C, D.",
+    "answer": "C",
+    "images": [
+      "SpatialAct/data/images/indoor/spatial_relation/indoor_scenes_complex-10-15/scannet__scene0503_00_clean/qa_labels/scannet__scene0503_00_clean_top__qa1_top_direction.png"
+    ]
+  },
+  {
+    "task_type": "top_direction",
+    "question": "In this image, North is shown by the red arrow. Direction is determined by comparing object center points. Which side is object 2 relative to object 1?\nImage: <image>\nA. southeast\nB. north\nC. west\nD. southwest\nChoose one option from A, B, C, D.",
+    "answer": "B",
+    "images": [
+      "SpatialAct/data/images/indoor/spatial_relation/indoor_scenes_complex-10-15/arkitscenes__Validation__47895367_clean/qa_labels/arkitscenes__Validation__47895367_clean_top__qa1_top_direction.png"
+    ]
+  },
+  {
+    "task_type": "top_direction",
+    "question": "In this image, North is shown by the red arrow. Direction is determined by comparing object center points. Which side is object 1 relative to object 2?\nImage: <image>\nA. east\nB. west\nC. south\nD. north\nChoose one option from A, B, C, D.",
+    "answer": "C",
+    "images": [
+      "SpatialAct/data/images/indoor/spatial_relation/indoor_scenes_complex-10-15/matterport3d__5LpN3gDmAk7__region12_clean/qa_labels/matterport3d__5LpN3gDmAk7__region12_clean_top__qa1_top_direction.png"
+    ]
+  },
+  {
+    "task_type": "top_direction",
+    "question": "In this image, North is shown by the red arrow. Direction is determined by comparing object center points. Which side is object 2 relative to object 1?\nImage: <image>\nA. southwest\nB. northeast\nC. northwest\nD. south\nChoose one option from A, B, C, D.",
+    "answer": "B",
+    "images": [
+      "SpatialAct/data/images/indoor/spatial_relation/indoor_scenes_simple-5-10/scannet__scene0055_02_clean/qa_labels/scannet__scene0055_02_clean_top__qa1_top_direction.png"
+    ]
+  },
+  {
+    "task_type": "top_direction",
+    "question": "In this image, North is shown by the red arrow. Direction is determined by comparing object center points. Which side is object 2 relative to object 1?\nImage: <image>\nA. northeast\nB. east\nC. south\nD. west\nChoose one option from A, B, C, D.",
+    "answer": "C",
+    "images": [
+      "SpatialAct/data/images/indoor/spatial_relation/indoor_scenes_complex-10-15/arkitscenes__Training__42898342_clean/qa_labels/arkitscenes__Training__42898342_clean_top__qa1_top_direction.png"
+    ]
+  },
+  {
+    "task_type": "top_direction",
+    "question": "In this image, North is shown by the red arrow. Direction is determined by comparing object center points. Which side is object 1 relative to object 2?\nImage: <image>\nA. west\nB. northeast\nC. south\nD. northwest\nChoose one option from A, B, C, D.",
+    "answer": "B",
+    "images": [
+      "SpatialAct/data/images/indoor/spatial_relation/indoor_scenes_complex-10-15/matterport3d__B6ByNegPMKs__region13_clean/qa_labels/matterport3d__B6ByNegPMKs__region13_clean_top__qa1_top_direction.png"
+    ]
+  },
+  {
+    "task_type": "top_direction",
+    "question": "In this image, North is shown by the red arrow. Direction is determined by comparing object center points. Which side is object 2 relative to object 1?\nImage: <image>\nA. west\nB. east\nC. northwest\nD. southwest\nChoose one option from A, B, C, D.",
+    "answer": "B",
+    "images": [
+      "SpatialAct/data/images/indoor/spatial_relation/indoor_scenes_simple-5-10/3rscan__1d23400e-e280-2b1a-8dec-67a551146c3a_clean/qa_labels/3rscan__1d23400e-e280-2b1a-8dec-67a551146c3a_clean_top__qa1_top_direction.png"
+    ]
+  },
+  {
+    "task_type": "top_direction",
+    "question": "In this image, North is shown by the red arrow. Direction is determined by comparing object center points. Which side is object 2 relative to object 1?\nImage: <image>\nA. northeast\nB. east\nC. west\nD. southeast\nChoose one option from A, B, C, D.",
+    "answer": "C",
+    "images": [
+      "SpatialAct/data/images/indoor/spatial_relation/indoor_scenes_complex-10-15/matterport3d__V2XKFyX4ASd__region3_clean/qa_labels/matterport3d__V2XKFyX4ASd__region3_clean_top__qa1_top_direction.png"
+    ]
+  },
+  {
+    "task_type": "top_direction",
+    "question": "In this image, North is shown by the red arrow. Direction is determined by comparing object center points. Which side is object 1 relative to object 2?\nImage: <image>\nA. southwest\nB. south\nC. east\nD. north\nChoose one option from A, B, C, D.",
+    "answer": "D",
+    "images": [
+      "SpatialAct/data/images/indoor/spatial_relation/indoor_scenes_simple-5-10/arkitscenes__Training__43649615_clean/qa_labels/arkitscenes__Training__43649615_clean_top__qa1_top_direction.png"
+    ]
+  },
+  {
+    "task_type": "top_direction",
+    "question": "In this image, North is shown by the red arrow. Direction is determined by comparing object center points. Which side is object 1 relative to object 2?\nImage: <image>\nA. northwest\nB. north\nC. northeast\nD. south\nChoose one option from A, B, C, D.",
+    "answer": "D",
+    "images": [
+      "SpatialAct/data/images/indoor/spatial_relation/indoor_scenes_complex-10-15/scannet__scene0399_00_clean/qa_labels/scannet__scene0399_00_clean_top__qa1_top_direction.png"
+    ]
+  },
+  {
+    "task_type": "top_direction",
+    "question": "In this image, North is shown by the red arrow. Direction is determined by comparing object center points. Which side is object 2 relative to object 1?\nImage: <image>\nA. north\nB. south\nC. west\nD. northwest\nChoose one option from A, B, C, D.",
+    "answer": "B",
+    "images": [
+      "SpatialAct/data/images/indoor/spatial_relation/indoor_scenes_complex-10-15/arkitscenes__Training__48458640_clean/qa_labels/arkitscenes__Training__48458640_clean_top__qa1_top_direction.png"
+    ]
+  },
+  {
+    "task_type": "top_direction",
+    "question": "In this image, North is shown by the red arrow. Direction is determined by comparing object center points. Which side is object 2 relative to object 1?\nImage: <image>\nA. southwest\nB. southeast\nC. north\nD. northeast\nChoose one option from A, B, C, D.",
+    "answer": "A",
+    "images": [
+      "SpatialAct/data/images/indoor/spatial_relation/indoor_scenes_simple-5-10/scannet__scene0382_00_clean/qa_labels/scannet__scene0382_00_clean_top__qa1_top_direction.png"
+    ]
+  },
+  {
+    "task_type": "top_direction",
+    "question": "In this image, North is shown by the red arrow. Direction is determined by comparing object center points. Which side is object 1 relative to object 2?\nImage: <image>\nA. northwest\nB. north\nC. west\nD. east\nChoose one option from A, B, C, D.",
+    "answer": "D",
+    "images": [
+      "SpatialAct/data/images/indoor/spatial_relation/indoor_scenes_complex-10-15/arkitscenes__Training__43896538_clean/qa_labels/arkitscenes__Training__43896538_clean_top__qa1_top_direction.png"
+    ]
+  },
+  {
+    "task_type": "top_direction",
+    "question": "In this image, North is shown by the red arrow. Direction is determined by comparing object center points. Which side is object 1 relative to object 2?\nImage: <image>\nA. south\nB. southeast\nC. northeast\nD. west\nChoose one option from A, B, C, D.",
+    "answer": "D",
+    "images": [
+      "SpatialAct/data/images/indoor/spatial_relation/indoor_scenes_complex-10-15/arkitscenes__Training__45261323_clean/qa_labels/arkitscenes__Training__45261323_clean_top__qa1_top_direction.png"
+    ]
+  },
+  {
+    "task_type": "top_direction",
+    "question": "In this image, North is shown by the red arrow. Direction is determined by comparing object center points. Which side is object 1 relative to object 2?\nImage: <image>\nA. west\nB. northeast\nC. east\nD. north\nChoose one option from A, B, C, D.",
+    "answer": "A",
+    "images": [
+      "SpatialAct/data/images/indoor/spatial_relation/indoor_scenes_complex-10-15/3rscan__68bae76c-3567-2f7c-827d-373035a2d942_clean/qa_labels/3rscan__68bae76c-3567-2f7c-827d-373035a2d942_clean_top__qa1_top_direction.png"
+    ]
+  },
+  {
+    "task_type": "top_direction",
+    "question": "In this image, North is shown by the red arrow. Direction is determined by comparing object center points. Which side is object 1 relative to object 2?\nImage: <image>\nA. west\nB. northeast\nC. northwest\nD. southeast\nChoose one option from A, B, C, D.",
+    "answer": "D",
+    "images": [
+      "SpatialAct/data/images/indoor/spatial_relation/indoor_scenes_complex-10-15/scannet__scene0344_00_clean/qa_labels/scannet__scene0344_00_clean_top__qa1_top_direction.png"
+    ]
+  },
+  {
+    "task_type": "top_direction",
+    "question": "In this image, North is shown by the red arrow. Direction is determined by comparing object center points. Which side is object 1 relative to object 2?\nImage: <image>\nA. northwest\nB. north\nC. southeast\nD. southwest\nChoose one option from A, B, C, D.",
+    "answer": "D",
+    "images": [
+      "SpatialAct/data/images/indoor/spatial_relation/indoor_scenes_complex-10-15/arkitscenes__Training__42898123_clean/qa_labels/arkitscenes__Training__42898123_clean_top__qa1_top_direction.png"
+    ]
+  },
+  {
+    "task_type": "top_direction",
+    "question": "In this image, North is shown by the red arrow. Direction is determined by comparing object center points. Which side is object 1 relative to object 2?\nImage: <image>\nA. northeast\nB. west\nC. north\nD. southeast\nChoose one option from A, B, C, D.",
+    "answer": "B",
+    "images": [
+      "SpatialAct/data/images/indoor/spatial_relation/indoor_scenes_simple-5-10/3rscan__0cac7627-8d6f-2d13-8eac-41764b5f2c5b_clean/qa_labels/3rscan__0cac7627-8d6f-2d13-8eac-41764b5f2c5b_clean_top__qa1_top_direction.png"
+    ]
+  },
+  {
+    "task_type": "top_direction",
+    "question": "In this image, North is shown by the red arrow. Direction is determined by comparing object center points. Which side is object 1 relative to object 2?\nImage: <image>\nA. south\nB. southeast\nC. northeast\nD. northwest\nChoose one option from A, B, C, D.",
+    "answer": "D",
+    "images": [
+      "SpatialAct/data/images/indoor/spatial_relation/indoor_scenes_complex-10-15/scannet__scene0129_00_clean/qa_labels/scannet__scene0129_00_clean_top__qa1_top_direction.png"
+    ]
+  },
+  {
+    "task_type": "top_direction",
+    "question": "In this image, North is shown by the red arrow. Direction is determined by comparing object center points. Which side is object 1 relative to object 2?\nImage: <image>\nA. northeast\nB. south\nC. west\nD. east\nChoose one option from A, B, C, D.",
+    "answer": "B",
+    "images": [
+      "SpatialAct/data/images/indoor/spatial_relation/indoor_scenes_simple-5-10/arkitscenes__Training__47331177_clean/qa_labels/arkitscenes__Training__47331177_clean_top__qa1_top_direction.png"
+    ]
+  },
+  {
+    "task_type": "top_direction",
+    "question": "In this image, North is shown by the red arrow. Direction is determined by comparing object center points. Which side is object 1 relative to object 2?\nImage: <image>\nA. southeast\nB. east\nC. south\nD. northwest\nChoose one option from A, B, C, D.",
+    "answer": "D",
+    "images": [
+      "SpatialAct/data/images/indoor/spatial_relation/indoor_scenes_complex-10-15/matterport3d__HxpKQynjfin__region5_clean/qa_labels/matterport3d__HxpKQynjfin__region5_clean_top__qa1_top_direction.png"
+    ]
+  },
+  {
+    "task_type": "top_direction",
+    "question": "In this image, North is shown by the red arrow. Direction is determined by comparing object center points. Which side is object 1 relative to object 2?\nImage: <image>\nA. northeast\nB. northwest\nC. south\nD. southeast\nChoose one option from A, B, C, D.",
+    "answer": "A",
+    "images": [
+      "SpatialAct/data/images/indoor/spatial_relation/indoor_scenes_complex-10-15/matterport3d__zsNo4HB9uLZ__region9_clean/qa_labels/matterport3d__zsNo4HB9uLZ__region9_clean_top__qa1_top_direction.png"
+    ]
+  },
+  {
+    "task_type": "top_direction",
+    "question": "In this image, North is shown by the red arrow. Direction is determined by comparing object center points. Which side is object 2 relative to object 1?\nImage: <image>\nA. north\nB. west\nC. southwest\nD. east\nChoose one option from A, B, C, D.",
+    "answer": "A",
+    "images": [
+      "SpatialAct/data/images/indoor/spatial_relation/indoor_scenes_complex-10-15/arkitscenes__Validation__41254412_clean/qa_labels/arkitscenes__Validation__41254412_clean_top__qa1_top_direction.png"
+    ]
+  },
+  {
+    "task_type": "top_direction",
+    "question": "In this image, North is shown by the red arrow. Direction is determined by comparing object center points. Which side is object 1 relative to object 2?\nImage: <image>\nA. east\nB. northwest\nC. southwest\nD. north\nChoose one option from A, B, C, D.",
+    "answer": "A",
+    "images": [
+      "SpatialAct/data/images/indoor/spatial_relation/indoor_scenes_complex-10-15/arkitscenes__Training__47334761_clean/qa_labels/arkitscenes__Training__47334761_clean_top__qa1_top_direction.png"
+    ]
+  },
+  {
+    "task_type": "top_direction",
+    "question": "In this image, North is shown by the red arrow. Direction is determined by comparing object center points. Which side is object 2 relative to object 1?\nImage: <image>\nA. east\nB. north\nC. southeast\nD. southwest\nChoose one option from A, B, C, D.",
+    "answer": "D",
+    "images": [
+      "SpatialAct/data/images/indoor/spatial_relation/indoor_scenes_complex-10-15/3rscan__77361fca-d054-2a22-8974-547ca1fbb90f_clean/qa_labels/3rscan__77361fca-d054-2a22-8974-547ca1fbb90f_clean_top__qa1_top_direction.png"
+    ]
+  },
+  {
+    "task_type": "top_direction",
+    "question": "In this image, North is shown by the red arrow. Direction is determined by comparing object center points. Which side is object 2 relative to object 1?\nImage: <image>\nA. southeast\nB. west\nC. northeast\nD. southwest\nChoose one option from A, B, C, D.",
+    "answer": "C",
+    "images": [
+      "SpatialAct/data/images/indoor/spatial_relation/indoor_scenes_complex-10-15/scannet__scene0067_02_clean/qa_labels/scannet__scene0067_02_clean_top__qa1_top_direction.png"
+    ]
+  },
+  {
+    "task_type": "top_direction",
+    "question": "In this image, North is shown by the red arrow. Direction is determined by comparing object center points. Which side is object 2 relative to object 1?\nImage: <image>\nA. northeast\nB. north\nC. east\nD. west\nChoose one option from A, B, C, D.",
+    "answer": "D",
+    "images": [
+      "SpatialAct/data/images/indoor/spatial_relation/indoor_scenes_complex-10-15/arkitscenes__Training__47331180_clean/qa_labels/arkitscenes__Training__47331180_clean_top__qa1_top_direction.png"
+    ]
+  },
+  {
+    "task_type": "top_direction",
+    "question": "In this image, North is shown by the red arrow. Direction is determined by comparing object center points. Which side is object 2 relative to object 1?\nImage: <image>\nA. south\nB. southeast\nC. northeast\nD. southwest\nChoose one option from A, B, C, D.",
+    "answer": "C",
+    "images": [
+      "SpatialAct/data/images/indoor/spatial_relation/indoor_scenes_complex-10-15/scannet__scene0083_00_clean/qa_labels/scannet__scene0083_00_clean_top__qa1_top_direction.png"
+    ]
+  },
+  {
+    "task_type": "top_direction",
+    "question": "In this image, North is shown by the red arrow. Direction is determined by comparing object center points. Which side is object 2 relative to object 1?\nImage: <image>\nA. north\nB. east\nC. southeast\nD. west\nChoose one option from A, B, C, D.",
+    "answer": "D",
+    "images": [
+      "SpatialAct/data/images/indoor/spatial_relation/indoor_scenes_complex-10-15/3rscan__82def5da-25ba-20f9-8810-71be905b83db_clean/qa_labels/3rscan__82def5da-25ba-20f9-8810-71be905b83db_clean_top__qa1_top_direction.png"
+    ]
+  },
+  {
+    "task_type": "top_farthest",
+    "question": "Which numbered object is farthest from object 4?\nImage: <image>\nA. 1\nB. 5\nC. 3\nD. 2\nChoose one option from A, B, C, D.",
+    "answer": "B",
+    "images": [
+      "SpatialAct/data/images/indoor/spatial_relation/indoor_scenes_complex-10-15/arkitscenes__Training__45261323_clean/qa_labels/arkitscenes__Training__45261323_clean_top__qa3_top_farthest.png"
+    ]
+  },
+  {
+    "task_type": "top_farthest",
+    "question": "Which numbered object is farthest from object 3?\nImage: <image>\nA. 4\nB. 5\nC. 1\nD. 2\nChoose one option from A, B, C, D.",
+    "answer": "B",
+    "images": [
+      "SpatialAct/data/images/indoor/spatial_relation/indoor_scenes_simple-5-10/3rscan__501ebf0b-a3bb-263f-86fd-7ef000a19588_clean/qa_labels/3rscan__501ebf0b-a3bb-263f-86fd-7ef000a19588_clean_top__qa3_top_farthest.png"
+    ]
+  },
+  {
+    "task_type": "top_farthest",
+    "question": "Which numbered object is farthest from object 2?\nImage: <image>\nA. 1\nB. 5\nC. 3\nD. 4\nChoose one option from A, B, C, D.",
+    "answer": "C",
+    "images": [
+      "SpatialAct/data/images/indoor/spatial_relation/indoor_scenes_complex-10-15/scannet__scene0524_00_clean/qa_labels/scannet__scene0524_00_clean_top__qa3_top_farthest.png"
+    ]
+  },
+  {
+    "task_type": "top_farthest",
+    "question": "Which numbered object is farthest from object 3?\nImage: <image>\nA. 4\nB. 2\nC. 5\nD. 1\nChoose one option from A, B, C, D.",
+    "answer": "C",
+    "images": [
+      "SpatialAct/data/images/indoor/spatial_relation/indoor_scenes_complex-10-15/arkitscenes__Training__47331180_clean/qa_labels/arkitscenes__Training__47331180_clean_top__qa3_top_farthest.png"
+    ]
+  },
+  {
+    "task_type": "top_farthest",
+    "question": "Which numbered object is farthest from object 1?\nImage: <image>\nA. 3\nB. 4\nC. 2\nD. 5\nChoose one option from A, B, C, D.",
+    "answer": "A",
+    "images": [
+      "SpatialAct/data/images/indoor/spatial_relation/indoor_scenes_complex-10-15/3rscan__c9fb7aa5-2a5b-2cf7-902e-42a0339c7242_clean/qa_labels/3rscan__c9fb7aa5-2a5b-2cf7-902e-42a0339c7242_clean_top__qa3_top_farthest.png"
+    ]
+  },
+  {
+    "task_type": "top_farthest",
+    "question": "Which numbered object is farthest from object 4?\nImage: <image>\nA. 3\nB. 1\nC. 5\nD. 2\nChoose one option from A, B, C, D.",
+    "answer": "B",
+    "images": [
+      "SpatialAct/data/images/indoor/spatial_relation/indoor_scenes_complex-10-15/scannet__scene0065_00_clean/qa_labels/scannet__scene0065_00_clean_top__qa3_top_farthest.png"
+    ]
+  },
+  {
+    "task_type": "top_farthest",
+    "question": "Which numbered object is farthest from object 5?\nImage: <image>\nA. 2\nB. 1\nC. 4\nD. 3\nChoose one option from A, B, C, D.",
+    "answer": "D",
+    "images": [
+      "SpatialAct/data/images/indoor/spatial_relation/indoor_scenes_complex-10-15/3rscan__77361fc8-d054-2a22-8868-c3de4283fff7_clean/qa_labels/3rscan__77361fc8-d054-2a22-8868-c3de4283fff7_clean_top__qa3_top_farthest.png"
+    ]
+  },
+  {
+    "task_type": "top_farthest",
+    "question": "Which numbered object is farthest from object 1?\nImage: <image>\nA. 3\nB. 5\nC. 2\nD. 4\nChoose one option from A, B, C, D.",
+    "answer": "D",
+    "images": [
+      "SpatialAct/data/images/indoor/spatial_relation/indoor_scenes_complex-10-15/3rscan__ab835f94-54c6-29a1-9872-210a98f12c12_clean/qa_labels/3rscan__ab835f94-54c6-29a1-9872-210a98f12c12_clean_top__qa3_top_farthest.png"
+    ]
+  },
+  {
+    "task_type": "top_farthest",
+    "question": "Which numbered object is farthest from object 4?\nImage: <image>\nA. 3\nB. 2\nC. 1\nD. 5\nChoose one option from A, B, C, D.",
+    "answer": "D",
+    "images": [
+      "SpatialAct/data/images/indoor/spatial_relation/indoor_scenes_complex-10-15/arkitscenes__Training__42898123_clean/qa_labels/arkitscenes__Training__42898123_clean_top__qa3_top_farthest.png"
+    ]
+  },
+  {
+    "task_type": "top_farthest",
+    "question": "Which numbered object is farthest from object 3?\nImage: <image>\nA. 4\nB. 2\nC. 1\nD. 5\nChoose one option from A, B, C, D.",
+    "answer": "A",
+    "images": [
+      "SpatialAct/data/images/indoor/spatial_relation/indoor_scenes_complex-10-15/scannet__scene0067_02_clean/qa_labels/scannet__scene0067_02_clean_top__qa3_top_farthest.png"
+    ]
+  },
+  {
+    "task_type": "top_farthest",
+    "question": "Which numbered object is farthest from object 4?\nImage: <image>\nA. 1\nB. 2\nC. 3\nD. 5\nChoose one option from A, B, C, D.",
+    "answer": "A",
+    "images": [
+      "SpatialAct/data/images/indoor/spatial_relation/indoor_scenes_complex-10-15/scannet__scene0103_01_clean/qa_labels/scannet__scene0103_01_clean_top__qa3_top_farthest.png"
+    ]
+  },
+  {
+    "task_type": "top_farthest",
+    "question": "Which numbered object is farthest from object 5?\nImage: <image>\nA. 1\nB. 4\nC. 2\nD. 3\nChoose one option from A, B, C, D.",
+    "answer": "A",
+    "images": [
+      "SpatialAct/data/images/indoor/spatial_relation/indoor_scenes_complex-10-15/matterport3d__1pXnuDYAj8r__region7_clean/qa_labels/matterport3d__1pXnuDYAj8r__region7_clean_top__qa3_top_farthest.png"
+    ]
+  },
+  {
+    "task_type": "top_farthest",
+    "question": "Which numbered object is farthest from object 1?\nImage: <image>\nA. 3\nB. 5\nC. 4\nD. 2\nChoose one option from A, B, C, D.",
+    "answer": "B",
+    "images": [
+      "SpatialAct/data/images/indoor/spatial_relation/indoor_scenes_complex-10-15/scannet__scene0083_00_clean/qa_labels/scannet__scene0083_00_clean_top__qa3_top_farthest.png"
+    ]
+  },
+  {
+    "task_type": "top_farthest",
+    "question": "Which numbered object is farthest from object 2?\nImage: <image>\nA. 5\nB. 4\nC. 3\nD. 1\nChoose one option from A, B, C, D.",
+    "answer": "B",
+    "images": [
+      "SpatialAct/data/images/indoor/spatial_relation/indoor_scenes_complex-10-15/scannet__scene0277_02_clean/qa_labels/scannet__scene0277_02_clean_top__qa3_top_farthest.png"
+    ]
+  },
+  {
+    "task_type": "top_farthest",
+    "question": "Which numbered object is farthest from object 4?\nImage: <image>\nA. 2\nB. 5\nC. 1\nD. 3\nChoose one option from A, B, C, D.",
+    "answer": "B",
+    "images": [
+      "SpatialAct/data/images/indoor/spatial_relation/indoor_scenes_complex-10-15/scannet__scene0129_00_clean/qa_labels/scannet__scene0129_00_clean_top__qa3_top_farthest.png"
+    ]
+  },
+  {
+    "task_type": "top_farthest",
+    "question": "Which numbered object is farthest from object 3?\nImage: <image>\nA. 4\nB. 1\nC. 2\nD. 5\nChoose one option from A, B, C, D.",
+    "answer": "A",
+    "images": [
+      "SpatialAct/data/images/indoor/spatial_relation/indoor_scenes_complex-10-15/arkitscenes__Training__42898120_clean/qa_labels/arkitscenes__Training__42898120_clean_top__qa3_top_farthest.png"
+    ]
+  },
+  {
+    "task_type": "top_farthest",
+    "question": "Which numbered object is farthest from object 5?\nImage: <image>\nA. 1\nB. 2\nC. 3\nD. 4\nChoose one option from A, B, C, D.",
+    "answer": "D",
+    "images": [
+      "SpatialAct/data/images/indoor/spatial_relation/indoor_scenes_simple-5-10/arkitscenes__Training__43649615_clean/qa_labels/arkitscenes__Training__43649615_clean_top__qa3_top_farthest.png"
+    ]
+  },
+  {
+    "task_type": "top_farthest",
+    "question": "Which numbered object is farthest from object 3?\nImage: <image>\nA. 1\nB. 4\nC. 5\nD. 2\nChoose one option from A, B, C, D.",
+    "answer": "A",
+    "images": [
+      "SpatialAct/data/images/indoor/spatial_relation/indoor_scenes_complex-10-15/arkitscenes__Training__42899161_clean/qa_labels/arkitscenes__Training__42899161_clean_top__qa3_top_farthest.png"
+    ]
+  },
+  {
+    "task_type": "top_farthest",
+    "question": "Which numbered object is farthest from object 1?\nImage: <image>\nA. 2\nB. 3\nC. 4\nD. 5\nChoose one option from A, B, C, D.",
+    "answer": "D",
+    "images": [
+      "SpatialAct/data/images/indoor/spatial_relation/indoor_scenes_simple-5-10/scannet__scene0067_02_clean/qa_labels/scannet__scene0067_02_clean_top__qa3_top_farthest.png"
+    ]
+  },
+  {
+    "task_type": "top_farthest",
+    "question": "Which numbered object is farthest from object 5?\nImage: <image>\nA. 4\nB. 2\nC. 3\nD. 1\nChoose one option from A, B, C, D.",
+    "answer": "C",
+    "images": [
+      "SpatialAct/data/images/indoor/spatial_relation/indoor_scenes_complex-10-15/arkitscenes__Training__41126567_clean/qa_labels/arkitscenes__Training__41126567_clean_top__qa3_top_farthest.png"
+    ]
+  },
+  {
+    "task_type": "top_farthest",
+    "question": "Which numbered object is farthest from object 1?\nImage: <image>\nA. 2\nB. 4\nC. 5\nD. 3\nChoose one option from A, B, C, D.",
+    "answer": "C",
+    "images": [
+      "SpatialAct/data/images/indoor/spatial_relation/indoor_scenes_simple-5-10/3rscan__0ad2d3a7-79e2-2212-9a1b-8737842a24e2_clean/qa_labels/3rscan__0ad2d3a7-79e2-2212-9a1b-8737842a24e2_clean_top__qa3_top_farthest.png"
+    ]
+  },
+  {
+    "task_type": "top_farthest",
+    "question": "Which numbered object is farthest from object 5?\nImage: <image>\nA. 3\nB. 4\nC. 2\nD. 1\nChoose one option from A, B, C, D.",
+    "answer": "C",
+    "images": [
+      "SpatialAct/data/images/indoor/spatial_relation/indoor_scenes_complex-10-15/matterport3d__5LpN3gDmAk7__region12_clean/qa_labels/matterport3d__5LpN3gDmAk7__region12_clean_top__qa3_top_farthest.png"
+    ]
+  },
+  {
+    "task_type": "top_farthest",
+    "question": "Which numbered object is farthest from object 1?\nImage: <image>\nA. 3\nB. 2\nC. 4\nD. 5\nChoose one option from A, B, C, D.",
+    "answer": "D",
+    "images": [
+      "SpatialAct/data/images/indoor/spatial_relation/indoor_scenes_complex-10-15/3rscan__c92fb5a2-f771-2064-8557-1dcf9c0e31a8_clean/qa_labels/3rscan__c92fb5a2-f771-2064-8557-1dcf9c0e31a8_clean_top__qa3_top_farthest.png"
+    ]
+  },
+  {
+    "task_type": "top_farthest",
+    "question": "Which numbered object is farthest from object 1?\nImage: <image>\nA. 3\nB. 5\nC. 4\nD. 2\nChoose one option from A, B, C, D.",
+    "answer": "A",
+    "images": [
+      "SpatialAct/data/images/indoor/spatial_relation/indoor_scenes_complex-10-15/arkitscenes__Training__48458713_clean/qa_labels/arkitscenes__Training__48458713_clean_top__qa3_top_farthest.png"
+    ]
+  },
+  {
+    "task_type": "top_farthest",
+    "question": "Which numbered object is farthest from object 2?\nImage: <image>\nA. 4\nB. 1\nC. 5\nD. 3\nChoose one option from A, B, C, D.",
+    "answer": "A",
+    "images": [
+      "SpatialAct/data/images/indoor/spatial_relation/indoor_scenes_complex-10-15/arkitscenes__Validation__41254412_clean/qa_labels/arkitscenes__Validation__41254412_clean_top__qa3_top_farthest.png"
+    ]
+  },
+  {
+    "task_type": "top_farthest",
+    "question": "Which numbered object is farthest from object 1?\nImage: <image>\nA. 2\nB. 5\nC. 4\nD. 3\nChoose one option from A, B, C, D.",
+    "answer": "A",
+    "images": [
+      "SpatialAct/data/images/indoor/spatial_relation/indoor_scenes_complex-10-15/scannet__scene0355_00_clean/qa_labels/scannet__scene0355_00_clean_top__qa3_top_farthest.png"
+    ]
+  },
+  {
+    "task_type": "top_farthest",
+    "question": "Which numbered object is farthest from object 4?\nImage: <image>\nA. 1\nB. 3\nC. 2\nD. 5\nChoose one option from A, B, C, D.",
+    "answer": "D",
+    "images": [
+      "SpatialAct/data/images/indoor/spatial_relation/indoor_scenes_complex-10-15/arkitscenes__Training__44358289_clean/qa_labels/arkitscenes__Training__44358289_clean_top__qa3_top_farthest.png"
+    ]
+  },
+  {
+    "task_type": "top_farthest",
+    "question": "Which numbered object is farthest from object 1?\nImage: <image>\nA. 3\nB. 2\nC. 5\nD. 4\nChoose one option from A, B, C, D.",
+    "answer": "C",
+    "images": [
+      "SpatialAct/data/images/indoor/spatial_relation/indoor_scenes_complex-10-15/arkitscenes__Training__42898342_clean/qa_labels/arkitscenes__Training__42898342_clean_top__qa3_top_farthest.png"
+    ]
+  },
+  {
+    "task_type": "top_farthest",
+    "question": "Which numbered object is farthest from object 2?\nImage: <image>\nA. 1\nB. 5\nC. 3\nD. 4\nChoose one option from A, B, C, D.",
+    "answer": "B",
+    "images": [
+      "SpatialAct/data/images/indoor/spatial_relation/indoor_scenes_simple-5-10/arkitscenes__Training__42897851_clean/qa_labels/arkitscenes__Training__42897851_clean_top__qa3_top_farthest.png"
+    ]
+  },
+  {
+    "task_type": "top_farthest",
+    "question": "Which numbered object is farthest from object 3?\nImage: <image>\nA. 4\nB. 2\nC. 1\nD. 5\nChoose one option from A, B, C, D.",
+    "answer": "D",
+    "images": [
+      "SpatialAct/data/images/indoor/spatial_relation/indoor_scenes_complex-10-15/arkitscenes__Training__43896538_clean/qa_labels/arkitscenes__Training__43896538_clean_top__qa3_top_farthest.png"
+    ]
+  },
+  {
+    "task_type": "top_farthest",
+    "question": "Which numbered object is farthest from object 2?\nImage: <image>\nA. 4\nB. 3\nC. 5\nD. 1\nChoose one option from A, B, C, D.",
+    "answer": "A",
+    "images": [
+      "SpatialAct/data/images/indoor/spatial_relation/indoor_scenes_complex-10-15/3rscan__c7895f8a-339c-2d13-82a6-bc530140d95d_clean/qa_labels/3rscan__c7895f8a-339c-2d13-82a6-bc530140d95d_clean_top__qa3_top_farthest.png"
+    ]
+  },
+  {
+    "task_type": "top_side_count",
+    "question": "In this image, North is shown by the red arrow. Direction is determined by comparing object center points. An object can be on multiple sides at once (e.g., northwest counts as both north and west). Object A is the black marker. Among the five red labeled objects, which are on the south side of object A? Answer using label numbers in ascending order, separated by commas (e.g., 1,3). If none, answer none.\nImage: <image>",
+    "answer": "1,2,3,4,5",
+    "images": [
+      "SpatialAct/data/images/indoor/spatial_relation/indoor_scenes_complex-10-15/matterport3d__1pXnuDYAj8r__region7_clean/qa_labels/matterport3d__1pXnuDYAj8r__region7_clean_top__qa4_top_side_count.png"
+    ]
+  },
+  {
+    "task_type": "top_side_count",
+    "question": "In this image, North is shown by the red arrow. Direction is determined by comparing object center points. An object can be on multiple sides at once (e.g., northwest counts as both north and west). Object A is the black marker. Among the five red labeled objects, which are on the south side of object A? Answer using label numbers in ascending order, separated by commas (e.g., 1,3). If none, answer none.\nImage: <image>",
+    "answer": "none",
+    "images": [
+      "SpatialAct/data/images/indoor/spatial_relation/indoor_scenes_complex-10-15/scannet__scene0036_01_clean/qa_labels/scannet__scene0036_01_clean_top__qa4_top_side_count.png"
+    ]
+  },
+  {
+    "task_type": "top_side_count",
+    "question": "In this image, North is shown by the red arrow. Direction is determined by comparing object center points. An object can be on multiple sides at once (e.g., northwest counts as both north and west). Object A is the black marker. Among the five red labeled objects, which are on the east side of object A? Answer using label numbers in ascending order, separated by commas (e.g., 1,3). If none, answer none.\nImage: <image>",
+    "answer": "1,3,5",
+    "images": [
+      "SpatialAct/data/images/indoor/spatial_relation/indoor_scenes_complex-10-15/3rscan__82def5da-25ba-20f9-8810-71be905b83db_clean/qa_labels/3rscan__82def5da-25ba-20f9-8810-71be905b83db_clean_top__qa4_top_side_count.png"
+    ]
+  },
+  {
+    "task_type": "top_side_count",
+    "question": "In this image, North is shown by the red arrow. Direction is determined by comparing object center points. An object can be on multiple sides at once (e.g., northwest counts as both north and west). Object A is the black marker. Among the five red labeled objects, which are on the west side of object A? Answer using label numbers in ascending order, separated by commas (e.g., 1,3). If none, answer none.\nImage: <image>",
+    "answer": "3",
+    "images": [
+      "SpatialAct/data/images/indoor/spatial_relation/indoor_scenes_complex-10-15/arkitscenes__Training__42898120_clean/qa_labels/arkitscenes__Training__42898120_clean_top__qa4_top_side_count.png"
+    ]
+  },
+  {
+    "task_type": "top_side_count",
+    "question": "In this image, North is shown by the red arrow. Direction is determined by comparing object center points. An object can be on multiple sides at once (e.g., northwest counts as both north and west). Object A is the black marker. Among the five red labeled objects, which are on the east side of object A? Answer using label numbers in ascending order, separated by commas (e.g., 1,3). If none, answer none.\nImage: <image>",
+    "answer": "none",
+    "images": [
+      "SpatialAct/data/images/indoor/spatial_relation/indoor_scenes_complex-10-15/3rscan__0cac7564-8d6f-2d13-8cb2-8b01c0a1b3d5_clean/qa_labels/3rscan__0cac7564-8d6f-2d13-8cb2-8b01c0a1b3d5_clean_top__qa4_top_side_count.png"
+    ]
+  },
+  {
+    "task_type": "top_side_count",
+    "question": "In this image, North is shown by the red arrow. Direction is determined by comparing object center points. An object can be on multiple sides at once (e.g., northwest counts as both north and west). Object A is the black marker. Among the five red labeled objects, which are on the west side of object A? Answer using label numbers in ascending order, separated by commas (e.g., 1,3). If none, answer none.\nImage: <image>",
+    "answer": "none",
+    "images": [
+      "SpatialAct/data/images/indoor/spatial_relation/indoor_scenes_complex-10-15/matterport3d__HxpKQynjfin__region5_clean/qa_labels/matterport3d__HxpKQynjfin__region5_clean_top__qa4_top_side_count.png"
+    ]
+  },
+  {
+    "task_type": "top_side_count",
+    "question": "In this image, North is shown by the red arrow. Direction is determined by comparing object center points. An object can be on multiple sides at once (e.g., northwest counts as both north and west). Object A is the black marker. Among the five red labeled objects, which are on the east side of object A? Answer using label numbers in ascending order, separated by commas (e.g., 1,3). If none, answer none.\nImage: <image>",
+    "answer": "2,3,4,5",
+    "images": [
+      "SpatialAct/data/images/indoor/spatial_relation/indoor_scenes_complex-10-15/arkitscenes__Training__45261323_clean/qa_labels/arkitscenes__Training__45261323_clean_top__qa4_top_side_count.png"
+    ]
+  },
+  {
+    "task_type": "top_side_count",
+    "question": "In this image, North is shown by the red arrow. Direction is determined by comparing object center points. An object can be on multiple sides at once (e.g., northwest counts as both north and west). Object A is the black marker. Among the five red labeled objects, which are on the west side of object A? Answer using label numbers in ascending order, separated by commas (e.g., 1,3). If none, answer none.\nImage: <image>",
+    "answer": "4",
+    "images": [
+      "SpatialAct/data/images/indoor/spatial_relation/indoor_scenes_complex-10-15/scannet__scene0343_00_clean/qa_labels/scannet__scene0343_00_clean_top__qa4_top_side_count.png"
+    ]
+  },
+  {
+    "task_type": "top_side_count",
+    "question": "In this image, North is shown by the red arrow. Direction is determined by comparing object center points. An object can be on multiple sides at once (e.g., northwest counts as both north and west). Object A is the black marker. Among the five red labeled objects, which are on the north side of object A? Answer using label numbers in ascending order, separated by commas (e.g., 1,3). If none, answer none.\nImage: <image>",
+    "answer": "1,2,3,4",
+    "images": [
+      "SpatialAct/data/images/indoor/spatial_relation/indoor_scenes_complex-10-15/matterport3d__B6ByNegPMKs__region13_clean/qa_labels/matterport3d__B6ByNegPMKs__region13_clean_top__qa4_top_side_count.png"
+    ]
+  },
+  {
+    "task_type": "top_side_count",
+    "question": "In this image, North is shown by the red arrow. Direction is determined by comparing object center points. An object can be on multiple sides at once (e.g., northwest counts as both north and west). Object A is the black marker. Among the five red labeled objects, which are on the west side of object A? Answer using label numbers in ascending order, separated by commas (e.g., 1,3). If none, answer none.\nImage: <image>",
+    "answer": "1,2,3,4",
+    "images": [
+      "SpatialAct/data/images/indoor/spatial_relation/indoor_scenes_simple-5-10/3rscan__0cac7627-8d6f-2d13-8eac-41764b5f2c5b_clean/qa_labels/3rscan__0cac7627-8d6f-2d13-8eac-41764b5f2c5b_clean_top__qa4_top_side_count.png"
+    ]
+  },
+  {
+    "task_type": "top_side_count",
+    "question": "In this image, North is shown by the red arrow. Direction is determined by comparing object center points. An object can be on multiple sides at once (e.g., northwest counts as both north and west). Object A is the black marker. Among the five red labeled objects, which are on the north side of object A? Answer using label numbers in ascending order, separated by commas (e.g., 1,3). If none, answer none.\nImage: <image>",
+    "answer": "none",
+    "images": [
+      "SpatialAct/data/images/indoor/spatial_relation/indoor_scenes_simple-5-10/3rscan__1d23400e-e280-2b1a-8dec-67a551146c3a_clean/qa_labels/3rscan__1d23400e-e280-2b1a-8dec-67a551146c3a_clean_top__qa4_top_side_count.png"
+    ]
+  },
+  {
+    "task_type": "top_side_count",
+    "question": "In this image, North is shown by the red arrow. Direction is determined by comparing object center points. An object can be on multiple sides at once (e.g., northwest counts as both north and west). Object A is the black marker. Among the five red labeled objects, which are on the west side of object A? Answer using label numbers in ascending order, separated by commas (e.g., 1,3). If none, answer none.\nImage: <image>",
+    "answer": "1,2,3,5",
+    "images": [
+      "SpatialAct/data/images/indoor/spatial_relation/indoor_scenes_complex-10-15/scannet__scene0399_00_clean/qa_labels/scannet__scene0399_00_clean_top__qa4_top_side_count.png"
+    ]
+  },
+  {
+    "task_type": "top_side_count",
+    "question": "In this image, North is shown by the red arrow. Direction is determined by comparing object center points. An object can be on multiple sides at once (e.g., northwest counts as both north and west). Object A is the black marker. Among the five red labeled objects, which are on the west side of object A? Answer using label numbers in ascending order, separated by commas (e.g., 1,3). If none, answer none.\nImage: <image>",
+    "answer": "1,2,4,5",
+    "images": [
+      "SpatialAct/data/images/indoor/spatial_relation/indoor_scenes_complex-10-15/arkitscenes__Training__43896538_clean/qa_labels/arkitscenes__Training__43896538_clean_top__qa4_top_side_count.png"
+    ]
+  },
+  {
+    "task_type": "top_side_count",
+    "question": "In this image, North is shown by the red arrow. Direction is determined by comparing object center points. An object can be on multiple sides at once (e.g., northwest counts as both north and west). Object A is the black marker. Among the five red labeled objects, which are on the south side of object A? Answer using label numbers in ascending order, separated by commas (e.g., 1,3). If none, answer none.\nImage: <image>",
+    "answer": "3",
+    "images": [
+      "SpatialAct/data/images/indoor/spatial_relation/indoor_scenes_simple-5-10/3rscan__501ebf0b-a3bb-263f-86fd-7ef000a19588_clean/qa_labels/3rscan__501ebf0b-a3bb-263f-86fd-7ef000a19588_clean_top__qa4_top_side_count.png"
+    ]
+  },
+  {
+    "task_type": "top_side_count",
+    "question": "In this image, North is shown by the red arrow. Direction is determined by comparing object center points. An object can be on multiple sides at once (e.g., northwest counts as both north and west). Object A is the black marker. Among the five red labeled objects, which are on the north side of object A? Answer using label numbers in ascending order, separated by commas (e.g., 1,3). If none, answer none.\nImage: <image>",
+    "answer": "1,4",
+    "images": [
+      "SpatialAct/data/images/indoor/spatial_relation/indoor_scenes_complex-10-15/scannet__scene0103_01_clean/qa_labels/scannet__scene0103_01_clean_top__qa4_top_side_count.png"
+    ]
+  },
+  {
+    "task_type": "top_side_count",
+    "question": "In this image, North is shown by the red arrow. Direction is determined by comparing object center points. An object can be on multiple sides at once (e.g., northwest counts as both north and west). Object A is the black marker. Among the five red labeled objects, which are on the north side of object A? Answer using label numbers in ascending order, separated by commas (e.g., 1,3). If none, answer none.\nImage: <image>",
+    "answer": "5",
+    "images": [
+      "SpatialAct/data/images/indoor/spatial_relation/indoor_scenes_complex-10-15/3rscan__47319772-f9f7-2a1a-9768-108df4f37ab9_clean/qa_labels/3rscan__47319772-f9f7-2a1a-9768-108df4f37ab9_clean_top__qa4_top_side_count.png"
+    ]
+  },
+  {
+    "task_type": "top_side_count",
+    "question": "In this image, North is shown by the red arrow. Direction is determined by comparing object center points. An object can be on multiple sides at once (e.g., northwest counts as both north and west). Object A is the black marker. Among the five red labeled objects, which are on the east side of object A? Answer using label numbers in ascending order, separated by commas (e.g., 1,3). If none, answer none.\nImage: <image>",
+    "answer": "1,2,3,4,5",
+    "images": [
+      "SpatialAct/data/images/indoor/spatial_relation/indoor_scenes_complex-10-15/scannet__scene0067_02_clean/qa_labels/scannet__scene0067_02_clean_top__qa4_top_side_count.png"
+    ]
+  },
+  {
+    "task_type": "top_side_count",
+    "question": "In this image, North is shown by the red arrow. Direction is determined by comparing object center points. An object can be on multiple sides at once (e.g., northwest counts as both north and west). Object A is the black marker. Among the five red labeled objects, which are on the west side of object A? Answer using label numbers in ascending order, separated by commas (e.g., 1,3). If none, answer none.\nImage: <image>",
+    "answer": "2,4",
+    "images": [
+      "SpatialAct/data/images/indoor/spatial_relation/indoor_scenes_complex-10-15/scannet__scene0332_00_clean/qa_labels/scannet__scene0332_00_clean_top__qa4_top_side_count.png"
+    ]
+  },
+  {
+    "task_type": "top_side_count",
+    "question": "In this image, North is shown by the red arrow. Direction is determined by comparing object center points. An object can be on multiple sides at once (e.g., northwest counts as both north and west). Object A is the black marker. Among the five red labeled objects, which are on the west side of object A? Answer using label numbers in ascending order, separated by commas (e.g., 1,3). If none, answer none.\nImage: <image>",
+    "answer": "3,5",
+    "images": [
+      "SpatialAct/data/images/indoor/spatial_relation/indoor_scenes_simple-5-10/matterport3d__uNb9QFRL6hY__region19_clean/qa_labels/matterport3d__uNb9QFRL6hY__region19_clean_top__qa4_top_side_count.png"
+    ]
+  },
+  {
+    "task_type": "top_side_count",
+    "question": "In this image, North is shown by the red arrow. Direction is determined by comparing object center points. An object can be on multiple sides at once (e.g., northwest counts as both north and west). Object A is the black marker. Among the five red labeled objects, which are on the west side of object A? Answer using label numbers in ascending order, separated by commas (e.g., 1,3). If none, answer none.\nImage: <image>",
+    "answer": "2,3,4",
+    "images": [
+      "SpatialAct/data/images/indoor/spatial_relation/indoor_scenes_complex-10-15/arkitscenes__Training__41126567_clean/qa_labels/arkitscenes__Training__41126567_clean_top__qa4_top_side_count.png"
+    ]
+  },
+  {
+    "task_type": "top_side_count",
+    "question": "In this image, North is shown by the red arrow. Direction is determined by comparing object center points. An object can be on multiple sides at once (e.g., northwest counts as both north and west). Object A is the black marker. Among the five red labeled objects, which are on the west side of object A? Answer using label numbers in ascending order, separated by commas (e.g., 1,3). If none, answer none.\nImage: <image>",
+    "answer": "none",
+    "images": [
+      "SpatialAct/data/images/indoor/spatial_relation/indoor_scenes_complex-10-15/3rscan__c9fb7aa5-2a5b-2cf7-902e-42a0339c7242_clean/qa_labels/3rscan__c9fb7aa5-2a5b-2cf7-902e-42a0339c7242_clean_top__qa4_top_side_count.png"
+    ]
+  },
+  {
+    "task_type": "top_side_count",
+    "question": "In this image, North is shown by the red arrow. Direction is determined by comparing object center points. An object can be on multiple sides at once (e.g., northwest counts as both north and west). Object A is the black marker. Among the five red labeled objects, which are on the west side of object A? Answer using label numbers in ascending order, separated by commas (e.g., 1,3). If none, answer none.\nImage: <image>",
+    "answer": "1,2,3,4,5",
+    "images": [
+      "SpatialAct/data/images/indoor/spatial_relation/indoor_scenes_complex-10-15/scannet__scene0524_00_clean/qa_labels/scannet__scene0524_00_clean_top__qa4_top_side_count.png"
+    ]
+  },
+  {
+    "task_type": "top_side_count",
+    "question": "In this image, North is shown by the red arrow. Direction is determined by comparing object center points. An object can be on multiple sides at once (e.g., northwest counts as both north and west). Object A is the black marker. Among the five red labeled objects, which are on the west side of object A? Answer using label numbers in ascending order, separated by commas (e.g., 1,3). If none, answer none.\nImage: <image>",
+    "answer": "1,2,3,4,5",
+    "images": [
+      "SpatialAct/data/images/indoor/spatial_relation/indoor_scenes_simple-5-10/3rscan__c9fb7aa7-2a5b-2cf7-916d-d38eeeeda87f_clean/qa_labels/3rscan__c9fb7aa7-2a5b-2cf7-916d-d38eeeeda87f_clean_top__qa4_top_side_count.png"
+    ]
+  },
+  {
+    "task_type": "top_side_count",
+    "question": "In this image, North is shown by the red arrow. Direction is determined by comparing object center points. An object can be on multiple sides at once (e.g., northwest counts as both north and west). Object A is the black marker. Among the five red labeled objects, which are on the east side of object A? Answer using label numbers in ascending order, separated by commas (e.g., 1,3). If none, answer none.\nImage: <image>",
+    "answer": "1,3,5",
+    "images": [
+      "SpatialAct/data/images/indoor/spatial_relation/indoor_scenes_complex-10-15/arkitscenes__Training__48458713_clean/qa_labels/arkitscenes__Training__48458713_clean_top__qa4_top_side_count.png"
+    ]
+  },
+  {
+    "task_type": "top_side_count",
+    "question": "In this image, North is shown by the red arrow. Direction is determined by comparing object center points. An object can be on multiple sides at once (e.g., northwest counts as both north and west). Object A is the black marker. Among the five red labeled objects, which are on the east side of object A? Answer using label numbers in ascending order, separated by commas (e.g., 1,3). If none, answer none.\nImage: <image>",
+    "answer": "2,3,4,5",
+    "images": [
+      "SpatialAct/data/images/indoor/spatial_relation/indoor_scenes_complex-10-15/3rscan__c92fb5a2-f771-2064-8557-1dcf9c0e31a8_clean/qa_labels/3rscan__c92fb5a2-f771-2064-8557-1dcf9c0e31a8_clean_top__qa4_top_side_count.png"
+    ]
+  },
+  {
+    "task_type": "top_side_count",
+    "question": "In this image, North is shown by the red arrow. Direction is determined by comparing object center points. An object can be on multiple sides at once (e.g., northwest counts as both north and west). Object A is the black marker. Among the five red labeled objects, which are on the east side of object A? Answer using label numbers in ascending order, separated by commas (e.g., 1,3). If none, answer none.\nImage: <image>",
+    "answer": "none",
+    "images": [
+      "SpatialAct/data/images/indoor/spatial_relation/indoor_scenes_complex-10-15/scannet__scene0083_00_clean/qa_labels/scannet__scene0083_00_clean_top__qa4_top_side_count.png"
+    ]
+  },
+  {
+    "task_type": "top_side_count",
+    "question": "In this image, North is shown by the red arrow. Direction is determined by comparing object center points. An object can be on multiple sides at once (e.g., northwest counts as both north and west). Object A is the black marker. Among the five red labeled objects, which are on the north side of object A? Answer using label numbers in ascending order, separated by commas (e.g., 1,3). If none, answer none.\nImage: <image>",
+    "answer": "4",
+    "images": [
+      "SpatialAct/data/images/indoor/spatial_relation/indoor_scenes_complex-10-15/3rscan__68bae766-3567-2f7c-825a-f0522da62564_clean/qa_labels/3rscan__68bae766-3567-2f7c-825a-f0522da62564_clean_top__qa4_top_side_count.png"
+    ]
+  },
+  {
+    "task_type": "top_side_count",
+    "question": "In this image, North is shown by the red arrow. Direction is determined by comparing object center points. An object can be on multiple sides at once (e.g., northwest counts as both north and west). Object A is the black marker. Among the five red labeled objects, which are on the south side of object A? Answer using label numbers in ascending order, separated by commas (e.g., 1,3). If none, answer none.\nImage: <image>",
+    "answer": "5",
+    "images": [
+      "SpatialAct/data/images/indoor/spatial_relation/indoor_scenes_complex-10-15/scannet__scene0065_00_clean/qa_labels/scannet__scene0065_00_clean_top__qa4_top_side_count.png"
+    ]
+  },
+  {
+    "task_type": "top_side_count",
+    "question": "In this image, North is shown by the red arrow. Direction is determined by comparing object center points. An object can be on multiple sides at once (e.g., northwest counts as both north and west). Object A is the black marker. Among the five red labeled objects, which are on the east side of object A? Answer using label numbers in ascending order, separated by commas (e.g., 1,3). If none, answer none.\nImage: <image>",
+    "answer": "2",
+    "images": [
+      "SpatialAct/data/images/indoor/spatial_relation/indoor_scenes_simple-5-10/arkitscenes__Training__47331177_clean/qa_labels/arkitscenes__Training__47331177_clean_top__qa4_top_side_count.png"
+    ]
+  },
+  {
+    "task_type": "top_side_count",
+    "question": "In this image, North is shown by the red arrow. Direction is determined by comparing object center points. An object can be on multiple sides at once (e.g., northwest counts as both north and west). Object A is the black marker. Among the five red labeled objects, which are on the south side of object A? Answer using label numbers in ascending order, separated by commas (e.g., 1,3). If none, answer none.\nImage: <image>",
+    "answer": "2,3,5",
+    "images": [
+      "SpatialAct/data/images/indoor/spatial_relation/indoor_scenes_complex-10-15/arkitscenes__Training__44358289_clean/qa_labels/arkitscenes__Training__44358289_clean_top__qa4_top_side_count.png"
+    ]
+  },
+  {
+    "task_type": "top_side_count",
+    "question": "In this image, North is shown by the red arrow. Direction is determined by comparing object center points. An object can be on multiple sides at once (e.g., northwest counts as both north and west). Object A is the black marker. Among the five red labeled objects, which are on the south side of object A? Answer using label numbers in ascending order, separated by commas (e.g., 1,3). If none, answer none.\nImage: <image>",
+    "answer": "1,2,5",
+    "images": [
+      "SpatialAct/data/images/indoor/spatial_relation/indoor_scenes_complex-10-15/arkitscenes__Training__47332309_clean/qa_labels/arkitscenes__Training__47332309_clean_top__qa4_top_side_count.png"
+    ]
+  },
+  {
+    "task_type": "isometric_closest",
+    "question": "Which two numbered objects are closest to each other?\nImage: <image>\nA. 3 and 1\nB. 4 and 1\nC. 2 and 1\nD. 2 and 3\nChoose one option from A, B, C, D.",
+    "answer": "A",
+    "images": [
+      "SpatialAct/data/images/indoor/spatial_relation/indoor_scenes_complex-10-15/scannet__scene0083_00_clean/qa_labels/scannet__scene0083_00_clean_isometric__qa2_isometric_closest.png"
+    ]
+  },
+  {
+    "task_type": "isometric_direction",
+    "question": "In this image, North is shown by the red arrow. Direction is determined by comparing object center points. Which side is object 2 relative to object 1?\nImage: <image>\nA. east\nB. north\nC. southwest\nD. northwest\nChoose one option from A, B, C, D.",
+    "answer": "A",
+    "images": [
+      "SpatialAct/data/images/indoor/spatial_relation/indoor_scenes_complex-10-15/arkitscenes__Training__42899161_clean/qa_labels/arkitscenes__Training__42899161_clean_isometric__qa1_isometric_direction.png"
+    ]
+  }
+]

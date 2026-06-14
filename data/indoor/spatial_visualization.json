@@ -1,0 +1,2002 @@
+[
+  {
+    "task_type": "top_move_overlap",
+    "question": "There is one image: a top-view image.\nDirections in the image: North=up, South=down, East=right, West=left.\nIf object 1 is moved South by 1 meters, will it overlap (collide) with object 2? Answer with Yes or No.\n\nTop-view image: <image>\nNote: the image includes a 1m scale bar.\n",
+    "answer": "No",
+    "images": [
+      "SpatialAct/data/images/indoor/spatial_visualization/indoor_scenes_complex-10-15/arkitscenes__Training__42898120_clean/top_move.png"
+    ]
+  },
+  {
+    "task_type": "top_move_overlap",
+    "question": "There is one image: a top-view image.\nDirections in the image: North=up, South=down, East=right, West=left.\nIf object 1 is moved East by 1 meters, will it overlap (collide) with object 2? Answer with Yes or No.\n\nTop-view image: <image>\nNote: the image includes a 1m scale bar.\n",
+    "answer": "No",
+    "images": [
+      "SpatialAct/data/images/indoor/spatial_visualization/indoor_scenes_complex-10-15/3rscan__68bae766-3567-2f7c-825a-f0522da62564_clean/top_move_02.png"
+    ]
+  },
+  {
+    "task_type": "top_move_overlap",
+    "question": "There is one image: a top-view image.\nDirections in the image: North=up, South=down, East=right, West=left.\nIf object 1 is moved East by 2 meters, will it overlap (collide) with object 2? Answer with Yes or No.\n\nTop-view image: <image>\nNote: the image includes a 1m scale bar.\n",
+    "answer": "Yes",
+    "images": [
+      "SpatialAct/data/images/indoor/spatial_visualization/indoor_scenes_complex-10-15/matterport3d__pRbA3pwrgk9__region7_clean/top_move_02.png"
+    ]
+  },
+  {
+    "task_type": "top_move_overlap",
+    "question": "There is one image: a top-view image.\nDirections in the image: North=up, South=down, East=right, West=left.\nIf object 2 is moved South by 2 meters, will it overlap (collide) with object 1? Answer with Yes or No.\n\nTop-view image: <image>\nNote: the image includes a 1m scale bar.\n",
+    "answer": "No",
+    "images": [
+      "SpatialAct/data/images/indoor/spatial_visualization/indoor_scenes_complex-10-15/3rscan__c7895f8a-339c-2d13-82a6-bc530140d95d_clean/top_move_02.png"
+    ]
+  },
+  {
+    "task_type": "top_move_overlap",
+    "question": "There is one image: a top-view image.\nDirections in the image: North=up, South=down, East=right, West=left.\nIf object 1 is moved East by 1 meters, will it overlap (collide) with object 2? Answer with Yes or No.\n\nTop-view image: <image>\nNote: the image includes a 1m scale bar.\n",
+    "answer": "No",
+    "images": [
+      "SpatialAct/data/images/indoor/spatial_visualization/indoor_scenes_complex-10-15/3rscan__82def5da-25ba-20f9-8810-71be905b83db_clean/top_move_03.png"
+    ]
+  },
+  {
+    "task_type": "top_move_overlap",
+    "question": "There is one image: a top-view image.\nDirections in the image: North=up, South=down, East=right, West=left.\nIf object 2 is moved West by 5 meters, will it overlap (collide) with object 1? Answer with Yes or No.\n\nTop-view image: <image>\nNote: the image includes a 1m scale bar.\n",
+    "answer": "Yes",
+    "images": [
+      "SpatialAct/data/images/indoor/spatial_visualization/indoor_scenes_complex-10-15/matterport3d__B6ByNegPMKs__region31_clean/top_move_02.png"
+    ]
+  },
+  {
+    "task_type": "top_move_overlap",
+    "question": "There is one image: a top-view image.\nDirections in the image: North=up, South=down, East=right, West=left.\nIf object 2 is moved East by 1 meters, will it overlap (collide) with object 1? Answer with Yes or No.\n\nTop-view image: <image>\nNote: the image includes a 1m scale bar.\n",
+    "answer": "Yes",
+    "images": [
+      "SpatialAct/data/images/indoor/spatial_visualization/indoor_scenes_simple-5-10/scannet__scene0044_01_clean/top_move.png"
+    ]
+  },
+  {
+    "task_type": "top_move_overlap",
+    "question": "There is one image: a top-view image.\nDirections in the image: North=up, South=down, East=right, West=left.\nIf object 1 is moved West by 1 meters, will it overlap (collide) with object 2? Answer with Yes or No.\n\nTop-view image: <image>\nNote: the image includes a 1m scale bar.\n",
+    "answer": "Yes",
+    "images": [
+      "SpatialAct/data/images/indoor/spatial_visualization/indoor_scenes_simple-5-10/scannet__scene0113_00_clean/top_move.png"
+    ]
+  },
+  {
+    "task_type": "top_move_overlap",
+    "question": "There is one image: a top-view image.\nDirections in the image: North=up, South=down, East=right, West=left.\nIf object 2 is moved South by 1 meters, will it overlap (collide) with object 1? Answer with Yes or No.\n\nTop-view image: <image>\nNote: the image includes a 1m scale bar.\n",
+    "answer": "No",
+    "images": [
+      "SpatialAct/data/images/indoor/spatial_visualization/indoor_scenes_complex-10-15/3rscan__8eabc469-5af7-2f32-840f-c1be88e46c62_clean/top_move.png"
+    ]
+  },
+  {
+    "task_type": "top_move_overlap",
+    "question": "There is one image: a top-view image.\nDirections in the image: North=up, South=down, East=right, West=left.\nIf object 2 is moved North by 1 meters, will it overlap (collide) with object 1? Answer with Yes or No.\n\nTop-view image: <image>\nNote: the image includes a 1m scale bar.\n",
+    "answer": "No",
+    "images": [
+      "SpatialAct/data/images/indoor/spatial_visualization/indoor_scenes_complex-10-15/scannet__scene0129_00_clean/top_move_03.png"
+    ]
+  },
+  {
+    "task_type": "top_move_overlap",
+    "question": "There is one image: a top-view image.\nDirections in the image: North=up, South=down, East=right, West=left.\nIf object 1 is moved South by 1 meters, will it overlap (collide) with object 2? Answer with Yes or No.\n\nTop-view image: <image>\nNote: the image includes a 1m scale bar.\n",
+    "answer": "Yes",
+    "images": [
+      "SpatialAct/data/images/indoor/spatial_visualization/indoor_scenes_simple-5-10/scannet__scene0055_02_clean/top_move.png"
+    ]
+  },
+  {
+    "task_type": "top_move_overlap",
+    "question": "There is one image: a top-view image.\nDirections in the image: North=up, South=down, East=right, West=left.\nIf object 1 is moved East by 2 meters, will it overlap (collide) with object 2? Answer with Yes or No.\n\nTop-view image: <image>\nNote: the image includes a 1m scale bar.\n",
+    "answer": "Yes",
+    "images": [
+      "SpatialAct/data/images/indoor/spatial_visualization/indoor_scenes_complex-10-15/3rscan__8eabc469-5af7-2f32-840f-c1be88e46c62_clean/top_move_02.png"
+    ]
+  },
+  {
+    "task_type": "top_move_overlap",
+    "question": "There is one image: a top-view image.\nDirections in the image: North=up, South=down, East=right, West=left.\nIf object 2 is moved South by 1 meters, will it overlap (collide) with object 1? Answer with Yes or No.\n\nTop-view image: <image>\nNote: the image includes a 1m scale bar.\n",
+    "answer": "Yes",
+    "images": [
+      "SpatialAct/data/images/indoor/spatial_visualization/indoor_scenes_complex-10-15/3rscan__0cac7564-8d6f-2d13-8cb2-8b01c0a1b3d5_clean/top_move.png"
+    ]
+  },
+  {
+    "task_type": "top_move_overlap",
+    "question": "There is one image: a top-view image.\nDirections in the image: North=up, South=down, East=right, West=left.\nIf object 2 is moved West by 2 meters, will it overlap (collide) with object 1? Answer with Yes or No.\n\nTop-view image: <image>\nNote: the image includes a 1m scale bar.\n",
+    "answer": "Yes",
+    "images": [
+      "SpatialAct/data/images/indoor/spatial_visualization/indoor_scenes_complex-10-15/scannet__scene0503_00_clean/top_move_02.png"
+    ]
+  },
+  {
+    "task_type": "top_move_overlap",
+    "question": "There is one image: a top-view image.\nDirections in the image: North=up, South=down, East=right, West=left.\nIf object 2 is moved East by 3 meters, will it overlap (collide) with object 1? Answer with Yes or No.\n\nTop-view image: <image>\nNote: the image includes a 1m scale bar.\n",
+    "answer": "No",
+    "images": [
+      "SpatialAct/data/images/indoor/spatial_visualization/indoor_scenes_complex-10-15/arkitscenes__Training__47331180_clean/top_move_03.png"
+    ]
+  },
+  {
+    "task_type": "top_move_overlap",
+    "question": "There is one image: a top-view image.\nDirections in the image: North=up, South=down, East=right, West=left.\nIf object 1 is moved West by 2 meters, will it overlap (collide) with object 2? Answer with Yes or No.\n\nTop-view image: <image>\nNote: the image includes a 1m scale bar.\n",
+    "answer": "No",
+    "images": [
+      "SpatialAct/data/images/indoor/spatial_visualization/indoor_scenes_complex-10-15/matterport3d__5LpN3gDmAk7__region12_clean/top_move.png"
+    ]
+  },
+  {
+    "task_type": "top_move_overlap",
+    "question": "There is one image: a top-view image.\nDirections in the image: North=up, South=down, East=right, West=left.\nIf object 2 is moved East by 1 meters, will it overlap (collide) with object 1? Answer with Yes or No.\n\nTop-view image: <image>\nNote: the image includes a 1m scale bar.\n",
+    "answer": "No",
+    "images": [
+      "SpatialAct/data/images/indoor/spatial_visualization/indoor_scenes_simple-5-10/3rscan__2e369567-e133-204c-909a-c5da44bb58df_clean/top_move_02.png"
+    ]
+  },
+  {
+    "task_type": "top_move_overlap",
+    "question": "There is one image: a top-view image.\nDirections in the image: North=up, South=down, East=right, West=left.\nIf object 2 is moved East by 1 meters, will it overlap (collide) with object 1? Answer with Yes or No.\n\nTop-view image: <image>\nNote: the image includes a 1m scale bar.\n",
+    "answer": "Yes",
+    "images": [
+      "SpatialAct/data/images/indoor/spatial_visualization/indoor_scenes_complex-10-15/3rscan__82def5da-25ba-20f9-8810-71be905b83db_clean/top_move_02.png"
+    ]
+  },
+  {
+    "task_type": "top_move_overlap",
+    "question": "There is one image: a top-view image.\nDirections in the image: North=up, South=down, East=right, West=left.\nIf object 1 is moved North by 1 meters, will it overlap (collide) with object 2? Answer with Yes or No.\n\nTop-view image: <image>\nNote: the image includes a 1m scale bar.\n",
+    "answer": "Yes",
+    "images": [
+      "SpatialAct/data/images/indoor/spatial_visualization/indoor_scenes_simple-5-10/3rscan__2e369567-e133-204c-909a-c5da44bb58df_clean/top_move.png"
+    ]
+  },
+  {
+    "task_type": "top_move_overlap",
+    "question": "There is one image: a top-view image.\nDirections in the image: North=up, South=down, East=right, West=left.\nIf object 2 is moved West by 3 meters, will it overlap (collide) with object 1? Answer with Yes or No.\n\nTop-view image: <image>\nNote: the image includes a 1m scale bar.\n",
+    "answer": "Yes",
+    "images": [
+      "SpatialAct/data/images/indoor/spatial_visualization/indoor_scenes_complex-10-15/matterport3d__5LpN3gDmAk7__region12_clean/top_move_02.png"
+    ]
+  },
+  {
+    "task_type": "top_move_overlap",
+    "question": "There is one image: a top-view image.\nDirections in the image: North=up, South=down, East=right, West=left.\nIf object 2 is moved South by 1 meters, will it overlap (collide) with object 1? Answer with Yes or No.\n\nTop-view image: <image>\nNote: the image includes a 1m scale bar.\n",
+    "answer": "Yes",
+    "images": [
+      "SpatialAct/data/images/indoor/spatial_visualization/indoor_scenes_complex-10-15/scannet__scene0036_01_clean/top_move.png"
+    ]
+  },
+  {
+    "task_type": "top_move_overlap",
+    "question": "There is one image: a top-view image.\nDirections in the image: North=up, South=down, East=right, West=left.\nIf object 1 is moved East by 3 meters, will it overlap (collide) with object 2? Answer with Yes or No.\n\nTop-view image: <image>\nNote: the image includes a 1m scale bar.\n",
+    "answer": "Yes",
+    "images": [
+      "SpatialAct/data/images/indoor/spatial_visualization/indoor_scenes_complex-10-15/arkitscenes__Training__42899161_clean/top_move_03.png"
+    ]
+  },
+  {
+    "task_type": "top_move_overlap",
+    "question": "There is one image: a top-view image.\nDirections in the image: North=up, South=down, East=right, West=left.\nIf object 2 is moved North by 2 meters, will it overlap (collide) with object 1? Answer with Yes or No.\n\nTop-view image: <image>\nNote: the image includes a 1m scale bar.\n",
+    "answer": "No",
+    "images": [
+      "SpatialAct/data/images/indoor/spatial_visualization/indoor_scenes_complex-10-15/matterport3d__sT4fr6TAbpF__region12_clean/top_move.png"
+    ]
+  },
+  {
+    "task_type": "top_move_overlap",
+    "question": "There is one image: a top-view image.\nDirections in the image: North=up, South=down, East=right, West=left.\nIf object 1 is moved West by 2 meters, will it overlap (collide) with object 2? Answer with Yes or No.\n\nTop-view image: <image>\nNote: the image includes a 1m scale bar.\n",
+    "answer": "Yes",
+    "images": [
+      "SpatialAct/data/images/indoor/spatial_visualization/indoor_scenes_complex-10-15/scannet__scene0129_00_clean/top_move_02.png"
+    ]
+  },
+  {
+    "task_type": "top_move_overlap",
+    "question": "There is one image: a top-view image.\nDirections in the image: North=up, South=down, East=right, West=left.\nIf object 2 is moved West by 6 meters, will it overlap (collide) with object 1? Answer with Yes or No.\n\nTop-view image: <image>\nNote: the image includes a 1m scale bar.\n",
+    "answer": "No",
+    "images": [
+      "SpatialAct/data/images/indoor/spatial_visualization/indoor_scenes_complex-10-15/arkitscenes__Training__42899161_clean/top_move_02.png"
+    ]
+  },
+  {
+    "task_type": "top_move_overlap",
+    "question": "There is one image: a top-view image.\nDirections in the image: North=up, South=down, East=right, West=left.\nIf object 2 is moved East by 2 meters, will it overlap (collide) with object 1? Answer with Yes or No.\n\nTop-view image: <image>\nNote: the image includes a 1m scale bar.\n",
+    "answer": "No",
+    "images": [
+      "SpatialAct/data/images/indoor/spatial_visualization/indoor_scenes_complex-10-15/scannet__scene0344_00_clean/top_move_02.png"
+    ]
+  },
+  {
+    "task_type": "top_move_overlap",
+    "question": "There is one image: a top-view image.\nDirections in the image: North=up, South=down, East=right, West=left.\nIf object 1 is moved North by 1 meters, will it overlap (collide) with object 2? Answer with Yes or No.\n\nTop-view image: <image>\nNote: the image includes a 1m scale bar.\n",
+    "answer": "No",
+    "images": [
+      "SpatialAct/data/images/indoor/spatial_visualization/indoor_scenes_complex-10-15/arkitscenes__Validation__47895367_clean/top_move_02.png"
+    ]
+  },
+  {
+    "task_type": "top_move_overlap",
+    "question": "There is one image: a top-view image.\nDirections in the image: North=up, South=down, East=right, West=left.\nIf object 1 is moved South by 1 meters, will it overlap (collide) with object 2? Answer with Yes or No.\n\nTop-view image: <image>\nNote: the image includes a 1m scale bar.\n",
+    "answer": "Yes",
+    "images": [
+      "SpatialAct/data/images/indoor/spatial_visualization/indoor_scenes_complex-10-15/scannet__scene0344_00_clean/top_move_03.png"
+    ]
+  },
+  {
+    "task_type": "top_move_overlap",
+    "question": "There is one image: a top-view image.\nDirections in the image: North=up, South=down, East=right, West=left.\nIf object 2 is moved East by 1 meters, will it overlap (collide) with object 1? Answer with Yes or No.\n\nTop-view image: <image>\nNote: the image includes a 1m scale bar.\n",
+    "answer": "Yes",
+    "images": [
+      "SpatialAct/data/images/indoor/spatial_visualization/indoor_scenes_complex-10-15/arkitscenes__Training__42899295_clean/top_move.png"
+    ]
+  },
+  {
+    "task_type": "top_move_overlap",
+    "question": "There is one image: a top-view image.\nDirections in the image: North=up, South=down, East=right, West=left.\nIf object 2 is moved West by 2 meters, will it overlap (collide) with object 1? Answer with Yes or No.\n\nTop-view image: <image>\nNote: the image includes a 1m scale bar.\n",
+    "answer": "No",
+    "images": [
+      "SpatialAct/data/images/indoor/spatial_visualization/indoor_scenes_complex-10-15/3rscan__634d11c7-6833-255d-8d76-86fe90beafdc_clean/top_move_02.png"
+    ]
+  },
+  {
+    "task_type": "top_move_overlap",
+    "question": "There is one image: a top-view image.\nDirections in the image: North=up, South=down, East=right, West=left.\nIf object 1 is moved East by 1 meters, will it overlap (collide) with object 2? Answer with Yes or No.\n\nTop-view image: <image>\nNote: the image includes a 1m scale bar.\n",
+    "answer": "Yes",
+    "images": [
+      "SpatialAct/data/images/indoor/spatial_visualization/indoor_scenes_complex-10-15/scannet__scene0344_00_clean/top_move.png"
+    ]
+  },
+  {
+    "task_type": "top_move_overlap",
+    "question": "There is one image: a top-view image.\nDirections in the image: North=up, South=down, East=right, West=left.\nIf object 2 is moved East by 2 meters, will it overlap (collide) with object 1? Answer with Yes or No.\n\nTop-view image: <image>\nNote: the image includes a 1m scale bar.\n",
+    "answer": "No",
+    "images": [
+      "SpatialAct/data/images/indoor/spatial_visualization/indoor_scenes_complex-10-15/arkitscenes__Training__42898123_clean/top_move.png"
+    ]
+  },
+  {
+    "task_type": "top_move_overlap",
+    "question": "There is one image: a top-view image.\nDirections in the image: North=up, South=down, East=right, West=left.\nIf object 2 is moved East by 2 meters, will it overlap (collide) with object 1? Answer with Yes or No.\n\nTop-view image: <image>\nNote: the image includes a 1m scale bar.\n",
+    "answer": "Yes",
+    "images": [
+      "SpatialAct/data/images/indoor/spatial_visualization/indoor_scenes_simple-5-10/3rscan__77361fbc-d054-2a22-8bd1-20da69ee28dc_clean/top_move_02.png"
+    ]
+  },
+  {
+    "task_type": "top_move_overlap",
+    "question": "There is one image: a top-view image.\nDirections in the image: North=up, South=down, East=right, West=left.\nIf object 2 is moved South by 3 meters, will it overlap (collide) with object 1? Answer with Yes or No.\n\nTop-view image: <image>\nNote: the image includes a 1m scale bar.\n",
+    "answer": "No",
+    "images": [
+      "SpatialAct/data/images/indoor/spatial_visualization/indoor_scenes_complex-10-15/3rscan__47319772-f9f7-2a1a-9768-108df4f37ab9_clean/top_move_02.png"
+    ]
+  },
+  {
+    "task_type": "top_move_overlap",
+    "question": "There is one image: a top-view image.\nDirections in the image: North=up, South=down, East=right, West=left.\nIf object 2 is moved East by 1 meters, will it overlap (collide) with object 1? Answer with Yes or No.\n\nTop-view image: <image>\nNote: the image includes a 1m scale bar.\n",
+    "answer": "No",
+    "images": [
+      "SpatialAct/data/images/indoor/spatial_visualization/indoor_scenes_simple-5-10/3rscan__77361fbc-d054-2a22-8bd1-20da69ee28dc_clean/top_move.png"
+    ]
+  },
+  {
+    "task_type": "top_move_overlap",
+    "question": "There is one image: a top-view image.\nDirections in the image: North=up, South=down, East=right, West=left.\nIf object 1 is moved South by 1 meters, will it overlap (collide) with object 2? Answer with Yes or No.\n\nTop-view image: <image>\nNote: the image includes a 1m scale bar.\n",
+    "answer": "No",
+    "images": [
+      "SpatialAct/data/images/indoor/spatial_visualization/indoor_scenes_simple-5-10/scannet__scene0371_01_clean/top_move.png"
+    ]
+  },
+  {
+    "task_type": "top_move_overlap",
+    "question": "There is one image: a top-view image.\nDirections in the image: North=up, South=down, East=right, West=left.\nIf object 2 is moved North by 1 meters, will it overlap (collide) with object 1? Answer with Yes or No.\n\nTop-view image: <image>\nNote: the image includes a 1m scale bar.\n",
+    "answer": "Yes",
+    "images": [
+      "SpatialAct/data/images/indoor/spatial_visualization/indoor_scenes_complex-10-15/3rscan__77361fc8-d054-2a22-8868-c3de4283fff7_clean/top_move_02.png"
+    ]
+  },
+  {
+    "task_type": "top_move_overlap",
+    "question": "There is one image: a top-view image.\nDirections in the image: North=up, South=down, East=right, West=left.\nIf object 2 is moved South by 1 meters, will it overlap (collide) with object 1? Answer with Yes or No.\n\nTop-view image: <image>\nNote: the image includes a 1m scale bar.\n",
+    "answer": "No",
+    "images": [
+      "SpatialAct/data/images/indoor/spatial_visualization/indoor_scenes_complex-10-15/arkitscenes__Training__47334761_clean/top_move_03.png"
+    ]
+  },
+  {
+    "task_type": "top_move_overlap",
+    "question": "There is one image: a top-view image.\nDirections in the image: North=up, South=down, East=right, West=left.\nIf object 1 is moved West by 1 meters, will it overlap (collide) with object 2? Answer with Yes or No.\n\nTop-view image: <image>\nNote: the image includes a 1m scale bar.\n",
+    "answer": "No",
+    "images": [
+      "SpatialAct/data/images/indoor/spatial_visualization/indoor_scenes_simple-5-10/3rscan__501ebf0b-a3bb-263f-86fd-7ef000a19588_clean/top_move.png"
+    ]
+  },
+  {
+    "task_type": "top_move_overlap",
+    "question": "There is one image: a top-view image.\nDirections in the image: North=up, South=down, East=right, West=left.\nIf object 2 is moved South by 1 meters, will it overlap (collide) with object 1? Answer with Yes or No.\n\nTop-view image: <image>\nNote: the image includes a 1m scale bar.\n",
+    "answer": "No",
+    "images": [
+      "SpatialAct/data/images/indoor/spatial_visualization/indoor_scenes_complex-10-15/scannet__scene0036_01_clean/top_move_02.png"
+    ]
+  },
+  {
+    "task_type": "top_move_overlap",
+    "question": "There is one image: a top-view image.\nDirections in the image: North=up, South=down, East=right, West=left.\nIf object 1 is moved East by 2 meters, will it overlap (collide) with object 2? Answer with Yes or No.\n\nTop-view image: <image>\nNote: the image includes a 1m scale bar.\n",
+    "answer": "No",
+    "images": [
+      "SpatialAct/data/images/indoor/spatial_visualization/indoor_scenes_simple-5-10/3rscan__77361fbc-d054-2a22-8bd1-20da69ee28dc_clean/top_move_03.png"
+    ]
+  },
+  {
+    "task_type": "top_move_overlap",
+    "question": "There is one image: a top-view image.\nDirections in the image: North=up, South=down, East=right, West=left.\nIf object 2 is moved South by 1 meters, will it overlap (collide) with object 1? Answer with Yes or No.\n\nTop-view image: <image>\nNote: the image includes a 1m scale bar.\n",
+    "answer": "Yes",
+    "images": [
+      "SpatialAct/data/images/indoor/spatial_visualization/indoor_scenes_complex-10-15/scannet__scene0065_00_clean/top_move_03.png"
+    ]
+  },
+  {
+    "task_type": "top_move_overlap",
+    "question": "There is one image: a top-view image.\nDirections in the image: North=up, South=down, East=right, West=left.\nIf object 1 is moved West by 1 meters, will it overlap (collide) with object 2? Answer with Yes or No.\n\nTop-view image: <image>\nNote: the image includes a 1m scale bar.\n",
+    "answer": "Yes",
+    "images": [
+      "SpatialAct/data/images/indoor/spatial_visualization/indoor_scenes_complex-10-15/scannet__scene0355_00_clean/top_move.png"
+    ]
+  },
+  {
+    "task_type": "top_move_overlap",
+    "question": "There is one image: a top-view image.\nDirections in the image: North=up, South=down, East=right, West=left.\nIf object 2 is moved West by 5 meters, will it overlap (collide) with object 1? Answer with Yes or No.\n\nTop-view image: <image>\nNote: the image includes a 1m scale bar.\n",
+    "answer": "No",
+    "images": [
+      "SpatialAct/data/images/indoor/spatial_visualization/indoor_scenes_complex-10-15/matterport3d__B6ByNegPMKs__region5_clean/top_move_02.png"
+    ]
+  },
+  {
+    "task_type": "top_move_overlap",
+    "question": "There is one image: a top-view image.\nDirections in the image: North=up, South=down, East=right, West=left.\nIf object 2 is moved East by 1 meters, will it overlap (collide) with object 1? Answer with Yes or No.\n\nTop-view image: <image>\nNote: the image includes a 1m scale bar.\n",
+    "answer": "No",
+    "images": [
+      "SpatialAct/data/images/indoor/spatial_visualization/indoor_scenes_simple-5-10/scannet__scene0055_02_clean/top_move_02.png"
+    ]
+  },
+  {
+    "task_type": "top_move_overlap",
+    "question": "There is one image: a top-view image.\nDirections in the image: North=up, South=down, East=right, West=left.\nIf object 1 is moved West by 2 meters, will it overlap (collide) with object 2? Answer with Yes or No.\n\nTop-view image: <image>\nNote: the image includes a 1m scale bar.\n",
+    "answer": "No",
+    "images": [
+      "SpatialAct/data/images/indoor/spatial_visualization/indoor_scenes_simple-5-10/scannet__scene0316_00_clean/top_move.png"
+    ]
+  },
+  {
+    "task_type": "top_move_overlap",
+    "question": "There is one image: a top-view image.\nDirections in the image: North=up, South=down, East=right, West=left.\nIf object 2 is moved North by 1 meters, will it overlap (collide) with object 1? Answer with Yes or No.\n\nTop-view image: <image>\nNote: the image includes a 1m scale bar.\n",
+    "answer": "No",
+    "images": [
+      "SpatialAct/data/images/indoor/spatial_visualization/indoor_scenes_simple-5-10/scannet__scene0113_00_clean/top_move_02.png"
+    ]
+  },
+  {
+    "task_type": "top_move_overlap",
+    "question": "There is one image: a top-view image.\nDirections in the image: North=up, South=down, East=right, West=left.\nIf object 1 is moved North by 1 meters, will it overlap (collide) with object 2? Answer with Yes or No.\n\nTop-view image: <image>\nNote: the image includes a 1m scale bar.\n",
+    "answer": "Yes",
+    "images": [
+      "SpatialAct/data/images/indoor/spatial_visualization/indoor_scenes_complex-10-15/arkitscenes__Training__45261323_clean/top_move_03.png"
+    ]
+  },
+  {
+    "task_type": "top_move_overlap",
+    "question": "There is one image: a top-view image.\nDirections in the image: North=up, South=down, East=right, West=left.\nIf object 1 is moved North by 1 meters, will it overlap (collide) with object 2? Answer with Yes or No.\n\nTop-view image: <image>\nNote: the image includes a 1m scale bar.\n",
+    "answer": "No",
+    "images": [
+      "SpatialAct/data/images/indoor/spatial_visualization/indoor_scenes_simple-5-10/matterport3d__uNb9QFRL6hY__region19_clean/top_move_03.png"
+    ]
+  },
+  {
+    "task_type": "top_move_overlap",
+    "question": "There is one image: a top-view image.\nDirections in the image: North=up, South=down, East=right, West=left.\nIf object 2 is moved North by 1 meters, will it overlap (collide) with object 1? Answer with Yes or No.\n\nTop-view image: <image>\nNote: the image includes a 1m scale bar.\n",
+    "answer": "No",
+    "images": [
+      "SpatialAct/data/images/indoor/spatial_visualization/indoor_scenes_simple-5-10/scannet__scene0067_02_clean/top_move_02.png"
+    ]
+  },
+  {
+    "task_type": "top_move_overlap",
+    "question": "There is one image: a top-view image.\nDirections in the image: North=up, South=down, East=right, West=left.\nIf object 1 is moved West by 1 meters, will it overlap (collide) with object 2? Answer with Yes or No.\n\nTop-view image: <image>\nNote: the image includes a 1m scale bar.\n",
+    "answer": "Yes",
+    "images": [
+      "SpatialAct/data/images/indoor/spatial_visualization/indoor_scenes_complex-10-15/arkitscenes__Validation__41254412_clean/top_move_03.png"
+    ]
+  },
+  {
+    "task_type": "top_move_overlap",
+    "question": "There is one image: a top-view image.\nDirections in the image: North=up, South=down, East=right, West=left.\nIf object 2 is moved South by 2 meters, will it overlap (collide) with object 1? Answer with Yes or No.\n\nTop-view image: <image>\nNote: the image includes a 1m scale bar.\n",
+    "answer": "No",
+    "images": [
+      "SpatialAct/data/images/indoor/spatial_visualization/indoor_scenes_complex-10-15/arkitscenes__Training__42899295_clean/top_move_02.png"
+    ]
+  },
+  {
+    "task_type": "top_move_overlap",
+    "question": "There is one image: a top-view image.\nDirections in the image: North=up, South=down, East=right, West=left.\nIf object 2 is moved North by 2 meters, will it overlap (collide) with object 1? Answer with Yes or No.\n\nTop-view image: <image>\nNote: the image includes a 1m scale bar.\n",
+    "answer": "Yes",
+    "images": [
+      "SpatialAct/data/images/indoor/spatial_visualization/indoor_scenes_complex-10-15/arkitscenes__Training__42899161_clean/top_move.png"
+    ]
+  },
+  {
+    "task_type": "top_move_overlap",
+    "question": "There is one image: a top-view image.\nDirections in the image: North=up, South=down, East=right, West=left.\nIf object 2 is moved North by 1 meters, will it overlap (collide) with object 1? Answer with Yes or No.\n\nTop-view image: <image>\nNote: the image includes a 1m scale bar.\n",
+    "answer": "No",
+    "images": [
+      "SpatialAct/data/images/indoor/spatial_visualization/indoor_scenes_complex-10-15/scannet__scene0067_02_clean/top_move_02.png"
+    ]
+  },
+  {
+    "task_type": "top_move_overlap",
+    "question": "There is one image: a top-view image.\nDirections in the image: North=up, South=down, East=right, West=left.\nIf object 1 is moved West by 1 meters, will it overlap (collide) with object 2? Answer with Yes or No.\n\nTop-view image: <image>\nNote: the image includes a 1m scale bar.\n",
+    "answer": "Yes",
+    "images": [
+      "SpatialAct/data/images/indoor/spatial_visualization/indoor_scenes_complex-10-15/arkitscenes__Training__48458713_clean/top_move_03.png"
+    ]
+  },
+  {
+    "task_type": "top_move_overlap",
+    "question": "There is one image: a top-view image.\nDirections in the image: North=up, South=down, East=right, West=left.\nIf object 2 is moved North by 1 meters, will it overlap (collide) with object 1? Answer with Yes or No.\n\nTop-view image: <image>\nNote: the image includes a 1m scale bar.\n",
+    "answer": "No",
+    "images": [
+      "SpatialAct/data/images/indoor/spatial_visualization/indoor_scenes_complex-10-15/3rscan__68bae76c-3567-2f7c-827d-373035a2d942_clean/top_move_03.png"
+    ]
+  },
+  {
+    "task_type": "top_move_overlap",
+    "question": "There is one image: a top-view image.\nDirections in the image: North=up, South=down, East=right, West=left.\nIf object 2 is moved West by 2 meters, will it overlap (collide) with object 1? Answer with Yes or No.\n\nTop-view image: <image>\nNote: the image includes a 1m scale bar.\n",
+    "answer": "No",
+    "images": [
+      "SpatialAct/data/images/indoor/spatial_visualization/indoor_scenes_complex-10-15/3rscan__ab835f94-54c6-29a1-9872-210a98f12c12_clean/top_move_02.png"
+    ]
+  },
+  {
+    "task_type": "top_move_overlap",
+    "question": "There is one image: a top-view image.\nDirections in the image: North=up, South=down, East=right, West=left.\nIf object 1 is moved West by 1 meters, will it overlap (collide) with object 2? Answer with Yes or No.\n\nTop-view image: <image>\nNote: the image includes a 1m scale bar.\n",
+    "answer": "No",
+    "images": [
+      "SpatialAct/data/images/indoor/spatial_visualization/indoor_scenes_complex-10-15/matterport3d__pRbA3pwrgk9__region7_clean/top_move.png"
+    ]
+  },
+  {
+    "task_type": "top_move_overlap",
+    "question": "There is one image: a top-view image.\nDirections in the image: North=up, South=down, East=right, West=left.\nIf object 1 is moved North by 1 meters, will it overlap (collide) with object 2? Answer with Yes or No.\n\nTop-view image: <image>\nNote: the image includes a 1m scale bar.\n",
+    "answer": "No",
+    "images": [
+      "SpatialAct/data/images/indoor/spatial_visualization/indoor_scenes_complex-10-15/3rscan__68bae76c-3567-2f7c-827d-373035a2d942_clean/top_move.png"
+    ]
+  },
+  {
+    "task_type": "top_move_overlap",
+    "question": "There is one image: a top-view image.\nDirections in the image: North=up, South=down, East=right, West=left.\nIf object 2 is moved North by 1 meters, will it overlap (collide) with object 1? Answer with Yes or No.\n\nTop-view image: <image>\nNote: the image includes a 1m scale bar.\n",
+    "answer": "No",
+    "images": [
+      "SpatialAct/data/images/indoor/spatial_visualization/indoor_scenes_complex-10-15/arkitscenes__Training__42898120_clean/top_move_03.png"
+    ]
+  },
+  {
+    "task_type": "top_move_overlap",
+    "question": "There is one image: a top-view image.\nDirections in the image: North=up, South=down, East=right, West=left.\nIf object 2 is moved West by 3 meters, will it overlap (collide) with object 1? Answer with Yes or No.\n\nTop-view image: <image>\nNote: the image includes a 1m scale bar.\n",
+    "answer": "No",
+    "images": [
+      "SpatialAct/data/images/indoor/spatial_visualization/indoor_scenes_simple-5-10/arkitscenes__Training__47331177_clean/top_move_02.png"
+    ]
+  },
+  {
+    "task_type": "top_move_overlap",
+    "question": "There is one image: a top-view image.\nDirections in the image: North=up, South=down, East=right, West=left.\nIf object 1 is moved West by 1 meters, will it overlap (collide) with object 2? Answer with Yes or No.\n\nTop-view image: <image>\nNote: the image includes a 1m scale bar.\n",
+    "answer": "No",
+    "images": [
+      "SpatialAct/data/images/indoor/spatial_visualization/indoor_scenes_simple-5-10/scannet__scene0316_00_clean/top_move_03.png"
+    ]
+  },
+  {
+    "task_type": "top_move_overlap",
+    "question": "There is one image: a top-view image.\nDirections in the image: North=up, South=down, East=right, West=left.\nIf object 2 is moved North by 1 meters, will it overlap (collide) with object 1? Answer with Yes or No.\n\nTop-view image: <image>\nNote: the image includes a 1m scale bar.\n",
+    "answer": "Yes",
+    "images": [
+      "SpatialAct/data/images/indoor/spatial_visualization/indoor_scenes_simple-5-10/arkitscenes__Training__42897851_clean/top_move_03.png"
+    ]
+  },
+  {
+    "task_type": "top_move_overlap",
+    "question": "There is one image: a top-view image.\nDirections in the image: North=up, South=down, East=right, West=left.\nIf object 1 is moved West by 1 meters, will it overlap (collide) with object 2? Answer with Yes or No.\n\nTop-view image: <image>\nNote: the image includes a 1m scale bar.\n",
+    "answer": "No",
+    "images": [
+      "SpatialAct/data/images/indoor/spatial_visualization/indoor_scenes_complex-10-15/3rscan__82def5da-25ba-20f9-8810-71be905b83db_clean/top_move.png"
+    ]
+  },
+  {
+    "task_type": "top_move_overlap",
+    "question": "There is one image: a top-view image.\nDirections in the image: North=up, South=down, East=right, West=left.\nIf object 1 is moved East by 1 meters, will it overlap (collide) with object 2? Answer with Yes or No.\n\nTop-view image: <image>\nNote: the image includes a 1m scale bar.\n",
+    "answer": "Yes",
+    "images": [
+      "SpatialAct/data/images/indoor/spatial_visualization/indoor_scenes_complex-10-15/scannet__scene0036_01_clean/top_move_03.png"
+    ]
+  },
+  {
+    "task_type": "top_move_overlap",
+    "question": "There is one image: a top-view image.\nDirections in the image: North=up, South=down, East=right, West=left.\nIf object 1 is moved East by 2 meters, will it overlap (collide) with object 2? Answer with Yes or No.\n\nTop-view image: <image>\nNote: the image includes a 1m scale bar.\n",
+    "answer": "No",
+    "images": [
+      "SpatialAct/data/images/indoor/spatial_visualization/indoor_scenes_complex-10-15/3rscan__c9fb7aa5-2a5b-2cf7-902e-42a0339c7242_clean/top_move.png"
+    ]
+  },
+  {
+    "task_type": "top_move_overlap",
+    "question": "There is one image: a top-view image.\nDirections in the image: North=up, South=down, East=right, West=left.\nIf object 2 is moved South by 1 meters, will it overlap (collide) with object 1? Answer with Yes or No.\n\nTop-view image: <image>\nNote: the image includes a 1m scale bar.\n",
+    "answer": "Yes",
+    "images": [
+      "SpatialAct/data/images/indoor/spatial_visualization/indoor_scenes_simple-5-10/scannet__scene0067_02_clean/top_move_03.png"
+    ]
+  },
+  {
+    "task_type": "top_move_overlap",
+    "question": "There is one image: a top-view image.\nDirections in the image: North=up, South=down, East=right, West=left.\nIf object 2 is moved North by 1 meters, will it overlap (collide) with object 1? Answer with Yes or No.\n\nTop-view image: <image>\nNote: the image includes a 1m scale bar.\n",
+    "answer": "No",
+    "images": [
+      "SpatialAct/data/images/indoor/spatial_visualization/indoor_scenes_complex-10-15/matterport3d__1pXnuDYAj8r__region7_clean/top_move_03.png"
+    ]
+  },
+  {
+    "task_type": "top_move_overlap",
+    "question": "There is one image: a top-view image.\nDirections in the image: North=up, South=down, East=right, West=left.\nIf object 1 is moved East by 1 meters, will it overlap (collide) with object 2? Answer with Yes or No.\n\nTop-view image: <image>\nNote: the image includes a 1m scale bar.\n",
+    "answer": "Yes",
+    "images": [
+      "SpatialAct/data/images/indoor/spatial_visualization/indoor_scenes_complex-10-15/3rscan__68bae76c-3567-2f7c-827d-373035a2d942_clean/top_move_02.png"
+    ]
+  },
+  {
+    "task_type": "top_move_overlap",
+    "question": "There is one image: a top-view image.\nDirections in the image: North=up, South=down, East=right, West=left.\nIf object 1 is moved West by 1 meters, will it overlap (collide) with object 2? Answer with Yes or No.\n\nTop-view image: <image>\nNote: the image includes a 1m scale bar.\n",
+    "answer": "No",
+    "images": [
+      "SpatialAct/data/images/indoor/spatial_visualization/indoor_scenes_simple-5-10/3rscan__501ebf0b-a3bb-263f-86fd-7ef000a19588_clean/top_move_03.png"
+    ]
+  },
+  {
+    "task_type": "top_move_overlap",
+    "question": "There is one image: a top-view image.\nDirections in the image: North=up, South=down, East=right, West=left.\nIf object 2 is moved South by 1 meters, will it overlap (collide) with object 1? Answer with Yes or No.\n\nTop-view image: <image>\nNote: the image includes a 1m scale bar.\n",
+    "answer": "No",
+    "images": [
+      "SpatialAct/data/images/indoor/spatial_visualization/indoor_scenes_complex-10-15/3rscan__77361fc8-d054-2a22-8868-c3de4283fff7_clean/top_move_03.png"
+    ]
+  },
+  {
+    "task_type": "top_move_overlap",
+    "question": "There is one image: a top-view image.\nDirections in the image: North=up, South=down, East=right, West=left.\nIf object 2 is moved West by 2 meters, will it overlap (collide) with object 1? Answer with Yes or No.\n\nTop-view image: <image>\nNote: the image includes a 1m scale bar.\n",
+    "answer": "Yes",
+    "images": [
+      "SpatialAct/data/images/indoor/spatial_visualization/indoor_scenes_simple-5-10/scannet__scene0013_01_clean/top_move_03.png"
+    ]
+  },
+  {
+    "task_type": "top_move_overlap",
+    "question": "There is one image: a top-view image.\nDirections in the image: North=up, South=down, East=right, West=left.\nIf object 1 is moved North by 2 meters, will it overlap (collide) with object 2? Answer with Yes or No.\n\nTop-view image: <image>\nNote: the image includes a 1m scale bar.\n",
+    "answer": "No",
+    "images": [
+      "SpatialAct/data/images/indoor/spatial_visualization/indoor_scenes_complex-10-15/arkitscenes__Training__47332309_clean/top_move.png"
+    ]
+  },
+  {
+    "task_type": "top_move_overlap",
+    "question": "There is one image: a top-view image.\nDirections in the image: North=up, South=down, East=right, West=left.\nIf object 1 is moved North by 1 meters, will it overlap (collide) with object 2? Answer with Yes or No.\n\nTop-view image: <image>\nNote: the image includes a 1m scale bar.\n",
+    "answer": "Yes",
+    "images": [
+      "SpatialAct/data/images/indoor/spatial_visualization/indoor_scenes_complex-10-15/scannet__scene0065_00_clean/top_move.png"
+    ]
+  },
+  {
+    "task_type": "top_move_overlap",
+    "question": "There is one image: a top-view image.\nDirections in the image: North=up, South=down, East=right, West=left.\nIf object 2 is moved East by 3 meters, will it overlap (collide) with object 1? Answer with Yes or No.\n\nTop-view image: <image>\nNote: the image includes a 1m scale bar.\n",
+    "answer": "Yes",
+    "images": [
+      "SpatialAct/data/images/indoor/spatial_visualization/indoor_scenes_complex-10-15/scannet__scene0277_02_clean/top_move_02.png"
+    ]
+  },
+  {
+    "task_type": "top_move_overlap",
+    "question": "There is one image: a top-view image.\nDirections in the image: North=up, South=down, East=right, West=left.\nIf object 2 is moved West by 2 meters, will it overlap (collide) with object 1? Answer with Yes or No.\n\nTop-view image: <image>\nNote: the image includes a 1m scale bar.\n",
+    "answer": "Yes",
+    "images": [
+      "SpatialAct/data/images/indoor/spatial_visualization/indoor_scenes_complex-10-15/scannet__scene0355_00_clean/top_move_03.png"
+    ]
+  },
+  {
+    "task_type": "top_move_overlap",
+    "question": "There is one image: a top-view image.\nDirections in the image: North=up, South=down, East=right, West=left.\nIf object 2 is moved East by 1 meters, will it overlap (collide) with object 1? Answer with Yes or No.\n\nTop-view image: <image>\nNote: the image includes a 1m scale bar.\n",
+    "answer": "No",
+    "images": [
+      "SpatialAct/data/images/indoor/spatial_visualization/indoor_scenes_complex-10-15/matterport3d__1pXnuDYAj8r__region7_clean/top_move.png"
+    ]
+  },
+  {
+    "task_type": "top_move_overlap",
+    "question": "There is one image: a top-view image.\nDirections in the image: North=up, South=down, East=right, West=left.\nIf object 1 is moved North by 1 meters, will it overlap (collide) with object 2? Answer with Yes or No.\n\nTop-view image: <image>\nNote: the image includes a 1m scale bar.\n",
+    "answer": "Yes",
+    "images": [
+      "SpatialAct/data/images/indoor/spatial_visualization/indoor_scenes_complex-10-15/matterport3d__HxpKQynjfin__region5_clean/top_move.png"
+    ]
+  },
+  {
+    "task_type": "top_move_overlap",
+    "question": "There is one image: a top-view image.\nDirections in the image: North=up, South=down, East=right, West=left.\nIf object 1 is moved West by 5 meters, will it overlap (collide) with object 2? Answer with Yes or No.\n\nTop-view image: <image>\nNote: the image includes a 1m scale bar.\n",
+    "answer": "Yes",
+    "images": [
+      "SpatialAct/data/images/indoor/spatial_visualization/indoor_scenes_simple-5-10/3rscan__501ebf0b-a3bb-263f-86fd-7ef000a19588_clean/top_move_02.png"
+    ]
+  },
+  {
+    "task_type": "top_move_overlap",
+    "question": "There is one image: a top-view image.\nDirections in the image: North=up, South=down, East=right, West=left.\nIf object 2 is moved East by 1 meters, will it overlap (collide) with object 1? Answer with Yes or No.\n\nTop-view image: <image>\nNote: the image includes a 1m scale bar.\n",
+    "answer": "No",
+    "images": [
+      "SpatialAct/data/images/indoor/spatial_visualization/indoor_scenes_complex-10-15/arkitscenes__Validation__41254412_clean/top_move_02.png"
+    ]
+  },
+  {
+    "task_type": "top_move_overlap",
+    "question": "There is one image: a top-view image.\nDirections in the image: North=up, South=down, East=right, West=left.\nIf object 2 is moved East by 2 meters, will it overlap (collide) with object 1? Answer with Yes or No.\n\nTop-view image: <image>\nNote: the image includes a 1m scale bar.\n",
+    "answer": "Yes",
+    "images": [
+      "SpatialAct/data/images/indoor/spatial_visualization/indoor_scenes_complex-10-15/3rscan__c7895f8a-339c-2d13-82a6-bc530140d95d_clean/top_move_03.png"
+    ]
+  },
+  {
+    "task_type": "top_move_overlap",
+    "question": "There is one image: a top-view image.\nDirections in the image: North=up, South=down, East=right, West=left.\nIf object 1 is moved North by 1 meters, will it overlap (collide) with object 2? Answer with Yes or No.\n\nTop-view image: <image>\nNote: the image includes a 1m scale bar.\n",
+    "answer": "Yes",
+    "images": [
+      "SpatialAct/data/images/indoor/spatial_visualization/indoor_scenes_complex-10-15/scannet__scene0067_02_clean/top_move.png"
+    ]
+  },
+  {
+    "task_type": "top_move_overlap",
+    "question": "There is one image: a top-view image.\nDirections in the image: North=up, South=down, East=right, West=left.\nIf object 1 is moved West by 1 meters, will it overlap (collide) with object 2? Answer with Yes or No.\n\nTop-view image: <image>\nNote: the image includes a 1m scale bar.\n",
+    "answer": "Yes",
+    "images": [
+      "SpatialAct/data/images/indoor/spatial_visualization/indoor_scenes_simple-5-10/arkitscenes__Training__42897851_clean/top_move.png"
+    ]
+  },
+  {
+    "task_type": "top_move_overlap",
+    "question": "There is one image: a top-view image.\nDirections in the image: North=up, South=down, East=right, West=left.\nIf object 1 is moved East by 2 meters, will it overlap (collide) with object 2? Answer with Yes or No.\n\nTop-view image: <image>\nNote: the image includes a 1m scale bar.\n",
+    "answer": "No",
+    "images": [
+      "SpatialAct/data/images/indoor/spatial_visualization/indoor_scenes_simple-5-10/scannet__scene0371_01_clean/top_move_03.png"
+    ]
+  },
+  {
+    "task_type": "top_move_overlap",
+    "question": "There is one image: a top-view image.\nDirections in the image: North=up, South=down, East=right, West=left.\nIf object 1 is moved East by 5 meters, will it overlap (collide) with object 2? Answer with Yes or No.\n\nTop-view image: <image>\nNote: the image includes a 1m scale bar.\n",
+    "answer": "No",
+    "images": [
+      "SpatialAct/data/images/indoor/spatial_visualization/indoor_scenes_simple-5-10/3rscan__c9fb7aa7-2a5b-2cf7-916d-d38eeeeda87f_clean/top_move.png"
+    ]
+  },
+  {
+    "task_type": "top_move_overlap",
+    "question": "There is one image: a top-view image.\nDirections in the image: North=up, South=down, East=right, West=left.\nIf object 2 is moved West by 1 meters, will it overlap (collide) with object 1? Answer with Yes or No.\n\nTop-view image: <image>\nNote: the image includes a 1m scale bar.\n",
+    "answer": "Yes",
+    "images": [
+      "SpatialAct/data/images/indoor/spatial_visualization/indoor_scenes_simple-5-10/scannet__scene0013_01_clean/top_move.png"
+    ]
+  },
+  {
+    "task_type": "top_move_overlap",
+    "question": "There is one image: a top-view image.\nDirections in the image: North=up, South=down, East=right, West=left.\nIf object 1 is moved West by 1 meters, will it overlap (collide) with object 2? Answer with Yes or No.\n\nTop-view image: <image>\nNote: the image includes a 1m scale bar.\n",
+    "answer": "Yes",
+    "images": [
+      "SpatialAct/data/images/indoor/spatial_visualization/indoor_scenes_simple-5-10/matterport3d__uNb9QFRL6hY__region19_clean/top_move_02.png"
+    ]
+  },
+  {
+    "task_type": "top_move_overlap",
+    "question": "There is one image: a top-view image.\nDirections in the image: North=up, South=down, East=right, West=left.\nIf object 1 is moved North by 1 meters, will it overlap (collide) with object 2? Answer with Yes or No.\n\nTop-view image: <image>\nNote: the image includes a 1m scale bar.\n",
+    "answer": "Yes",
+    "images": [
+      "SpatialAct/data/images/indoor/spatial_visualization/indoor_scenes_simple-5-10/scannet__scene0067_02_clean/top_move.png"
+    ]
+  },
+  {
+    "task_type": "top_move_overlap",
+    "question": "There is one image: a top-view image.\nDirections in the image: North=up, South=down, East=right, West=left.\nIf object 1 is moved South by 2 meters, will it overlap (collide) with object 2? Answer with Yes or No.\n\nTop-view image: <image>\nNote: the image includes a 1m scale bar.\n",
+    "answer": "No",
+    "images": [
+      "SpatialAct/data/images/indoor/spatial_visualization/indoor_scenes_complex-10-15/scannet__scene0355_00_clean/top_move_02.png"
+    ]
+  },
+  {
+    "task_type": "top_move_overlap",
+    "question": "There is one image: a top-view image.\nDirections in the image: North=up, South=down, East=right, West=left.\nIf object 2 is moved East by 3 meters, will it overlap (collide) with object 1? Answer with Yes or No.\n\nTop-view image: <image>\nNote: the image includes a 1m scale bar.\n",
+    "answer": "No",
+    "images": [
+      "SpatialAct/data/images/indoor/spatial_visualization/indoor_scenes_complex-10-15/3rscan__8eabc469-5af7-2f32-840f-c1be88e46c62_clean/top_move_03.png"
+    ]
+  },
+  {
+    "task_type": "top_move_overlap",
+    "question": "There is one image: a top-view image.\nDirections in the image: North=up, South=down, East=right, West=left.\nIf object 1 is moved North by 1 meters, will it overlap (collide) with object 2? Answer with Yes or No.\n\nTop-view image: <image>\nNote: the image includes a 1m scale bar.\n",
+    "answer": "Yes",
+    "images": [
+      "SpatialAct/data/images/indoor/spatial_visualization/indoor_scenes_complex-10-15/3rscan__0cac7564-8d6f-2d13-8cb2-8b01c0a1b3d5_clean/top_move_03.png"
+    ]
+  },
+  {
+    "task_type": "top_move_overlap",
+    "question": "There is one image: a top-view image.\nDirections in the image: North=up, South=down, East=right, West=left.\nIf object 2 is moved West by 1 meters, will it overlap (collide) with object 1? Answer with Yes or No.\n\nTop-view image: <image>\nNote: the image includes a 1m scale bar.\n",
+    "answer": "Yes",
+    "images": [
+      "SpatialAct/data/images/indoor/spatial_visualization/indoor_scenes_simple-5-10/scannet__scene0055_02_clean/top_move_03.png"
+    ]
+  },
+  {
+    "task_type": "top_move_overlap",
+    "question": "There is one image: a top-view image.\nDirections in the image: North=up, South=down, East=right, West=left.\nIf object 1 is moved South by 1 meters, will it overlap (collide) with object 2? Answer with Yes or No.\n\nTop-view image: <image>\nNote: the image includes a 1m scale bar.\n",
+    "answer": "No",
+    "images": [
+      "SpatialAct/data/images/indoor/spatial_visualization/indoor_scenes_simple-5-10/scannet__scene0044_01_clean/top_move_02.png"
+    ]
+  },
+  {
+    "task_type": "top_move_overlap",
+    "question": "There is one image: a top-view image.\nDirections in the image: North=up, South=down, East=right, West=left.\nIf object 1 is moved South by 1 meters, will it overlap (collide) with object 2? Answer with Yes or No.\n\nTop-view image: <image>\nNote: the image includes a 1m scale bar.\n",
+    "answer": "No",
+    "images": [
+      "SpatialAct/data/images/indoor/spatial_visualization/indoor_scenes_complex-10-15/matterport3d__B6ByNegPMKs__region31_clean/top_move_03.png"
+    ]
+  },
+  {
+    "task_type": "top_move_overlap",
+    "question": "There is one image: a top-view image.\nDirections in the image: North=up, South=down, East=right, West=left.\nIf object 1 is moved East by 1 meters, will it overlap (collide) with object 2? Answer with Yes or No.\n\nTop-view image: <image>\nNote: the image includes a 1m scale bar.\n",
+    "answer": "Yes",
+    "images": [
+      "SpatialAct/data/images/indoor/spatial_visualization/indoor_scenes_complex-10-15/arkitscenes__Training__47334761_clean/top_move_02.png"
+    ]
+  },
+  {
+    "task_type": "top_move_overlap",
+    "question": "There is one image: a top-view image.\nDirections in the image: North=up, South=down, East=right, West=left.\nIf object 1 is moved North by 1 meters, will it overlap (collide) with object 2? Answer with Yes or No.\n\nTop-view image: <image>\nNote: the image includes a 1m scale bar.\n",
+    "answer": "Yes",
+    "images": [
+      "SpatialAct/data/images/indoor/spatial_visualization/indoor_scenes_simple-5-10/3rscan__2e369567-e133-204c-909a-c5da44bb58df_clean/top_move_03.png"
+    ]
+  },
+  {
+    "task_type": "top_move_overlap",
+    "question": "There is one image: a top-view image.\nDirections in the image: North=up, South=down, East=right, West=left.\nIf object 1 is moved North by 3 meters, will it overlap (collide) with object 2? Answer with Yes or No.\n\nTop-view image: <image>\nNote: the image includes a 1m scale bar.\n",
+    "answer": "Yes",
+    "images": [
+      "SpatialAct/data/images/indoor/spatial_visualization/indoor_scenes_complex-10-15/3rscan__47319772-f9f7-2a1a-9768-108df4f37ab9_clean/top_move_03.png"
+    ]
+  },
+  {
+    "task_type": "top_move_overlap",
+    "question": "There is one image: a top-view image.\nDirections in the image: North=up, South=down, East=right, West=left.\nIf object 1 is moved East by 1 meters, will it overlap (collide) with object 2? Answer with Yes or No.\n\nTop-view image: <image>\nNote: the image includes a 1m scale bar.\n",
+    "answer": "Yes",
+    "images": [
+      "SpatialAct/data/images/indoor/spatial_visualization/indoor_scenes_complex-10-15/3rscan__ab835f8b-54c6-29a1-9a7a-4770a0eb74ff_clean/top_move_03.png"
+    ]
+  },
+  {
+    "task_type": "top_move_overlap",
+    "question": "There is one image: a top-view image.\nDirections in the image: North=up, South=down, East=right, West=left.\nIf object 2 is moved North by 2 meters, will it overlap (collide) with object 1? Answer with Yes or No.\n\nTop-view image: <image>\nNote: the image includes a 1m scale bar.\n",
+    "answer": "No",
+    "images": [
+      "SpatialAct/data/images/indoor/spatial_visualization/indoor_scenes_complex-10-15/3rscan__77361fc8-d054-2a22-8868-c3de4283fff7_clean/top_move.png"
+    ]
+  },
+  {
+    "task_type": "top_move_overlap",
+    "question": "There is one image: a top-view image.\nDirections in the image: North=up, South=down, East=right, West=left.\nIf object 2 is moved South by 1 meters, will it overlap (collide) with object 1? Answer with Yes or No.\n\nTop-view image: <image>\nNote: the image includes a 1m scale bar.\n",
+    "answer": "Yes",
+    "images": [
+      "SpatialAct/data/images/indoor/spatial_visualization/indoor_scenes_complex-10-15/arkitscenes__Validation__47895367_clean/top_move_03.png"
+    ]
+  },
+  {
+    "task_type": "top_move_overlap",
+    "question": "There is one image: a top-view image.\nDirections in the image: North=up, South=down, East=right, West=left.\nIf object 1 is moved North by 2 meters, will it overlap (collide) with object 2? Answer with Yes or No.\n\nTop-view image: <image>\nNote: the image includes a 1m scale bar.\n",
+    "answer": "No",
+    "images": [
+      "SpatialAct/data/images/indoor/spatial_visualization/indoor_scenes_complex-10-15/matterport3d__5LpN3gDmAk7__region12_clean/top_move_03.png"
+    ]
+  },
+  {
+    "task_type": "top_move_overlap",
+    "question": "There is one image: a top-view image.\nDirections in the image: North=up, South=down, East=right, West=left.\nIf object 2 is moved West by 5 meters, will it overlap (collide) with object 1? Answer with Yes or No.\n\nTop-view image: <image>\nNote: the image includes a 1m scale bar.\n",
+    "answer": "No",
+    "images": [
+      "SpatialAct/data/images/indoor/spatial_visualization/indoor_scenes_simple-5-10/3rscan__c9fb7aa7-2a5b-2cf7-916d-d38eeeeda87f_clean/top_move_03.png"
+    ]
+  },
+  {
+    "task_type": "top_move_overlap",
+    "question": "There is one image: a top-view image.\nDirections in the image: North=up, South=down, East=right, West=left.\nIf object 2 is moved East by 1 meters, will it overlap (collide) with object 1? Answer with Yes or No.\n\nTop-view image: <image>\nNote: the image includes a 1m scale bar.\n",
+    "answer": "Yes",
+    "images": [
+      "SpatialAct/data/images/indoor/spatial_visualization/indoor_scenes_complex-10-15/3rscan__c7895f8a-339c-2d13-82a6-bc530140d95d_clean/top_move.png"
+    ]
+  },
+  {
+    "task_type": "top_move_overlap",
+    "question": "There is one image: a top-view image.\nDirections in the image: North=up, South=down, East=right, West=left.\nIf object 2 is moved North by 2 meters, will it overlap (collide) with object 1? Answer with Yes or No.\n\nTop-view image: <image>\nNote: the image includes a 1m scale bar.\n",
+    "answer": "No",
+    "images": [
+      "SpatialAct/data/images/indoor/spatial_visualization/indoor_scenes_complex-10-15/arkitscenes__Training__45261323_clean/top_move_02.png"
+    ]
+  },
+  {
+    "task_type": "top_move_overlap",
+    "question": "There is one image: a top-view image.\nDirections in the image: North=up, South=down, East=right, West=left.\nIf object 1 is moved West by 1 meters, will it overlap (collide) with object 2? Answer with Yes or No.\n\nTop-view image: <image>\nNote: the image includes a 1m scale bar.\n",
+    "answer": "No",
+    "images": [
+      "SpatialAct/data/images/indoor/spatial_visualization/indoor_scenes_complex-10-15/arkitscenes__Training__47332309_clean/top_move_03.png"
+    ]
+  },
+  {
+    "task_type": "top_move_overlap",
+    "question": "There is one image: a top-view image.\nDirections in the image: North=up, South=down, East=right, West=left.\nIf object 1 is moved South by 1 meters, will it overlap (collide) with object 2? Answer with Yes or No.\n\nTop-view image: <image>\nNote: the image includes a 1m scale bar.\n",
+    "answer": "No",
+    "images": [
+      "SpatialAct/data/images/indoor/spatial_visualization/indoor_scenes_complex-10-15/matterport3d__pRbA3pwrgk9__region7_clean/top_move_03.png"
+    ]
+  },
+  {
+    "task_type": "top_move_overlap",
+    "question": "There is one image: a top-view image.\nDirections in the image: North=up, South=down, East=right, West=left.\nIf object 1 is moved East by 1 meters, will it overlap (collide) with object 2? Answer with Yes or No.\n\nTop-view image: <image>\nNote: the image includes a 1m scale bar.\n",
+    "answer": "No",
+    "images": [
+      "SpatialAct/data/images/indoor/spatial_visualization/indoor_scenes_complex-10-15/scannet__scene0625_01_clean/top_move_03.png"
+    ]
+  },
+  {
+    "task_type": "top_move_overlap",
+    "question": "There is one image: a top-view image.\nDirections in the image: North=up, South=down, East=right, West=left.\nIf object 1 is moved South by 1 meters, will it overlap (collide) with object 2? Answer with Yes or No.\n\nTop-view image: <image>\nNote: the image includes a 1m scale bar.\n",
+    "answer": "Yes",
+    "images": [
+      "SpatialAct/data/images/indoor/spatial_visualization/indoor_scenes_complex-10-15/matterport3d__HxpKQynjfin__region5_clean/top_move_03.png"
+    ]
+  },
+  {
+    "task_type": "top_move_overlap",
+    "question": "There is one image: a top-view image.\nDirections in the image: North=up, South=down, East=right, West=left.\nIf object 1 is moved East by 2 meters, will it overlap (collide) with object 2? Answer with Yes or No.\n\nTop-view image: <image>\nNote: the image includes a 1m scale bar.\n",
+    "answer": "No",
+    "images": [
+      "SpatialAct/data/images/indoor/spatial_visualization/indoor_scenes_complex-10-15/scannet__scene0277_02_clean/top_move.png"
+    ]
+  },
+  {
+    "task_type": "top_move_overlap",
+    "question": "There is one image: a top-view image.\nDirections in the image: North=up, South=down, East=right, West=left.\nIf object 2 is moved East by 1 meters, will it overlap (collide) with object 1? Answer with Yes or No.\n\nTop-view image: <image>\nNote: the image includes a 1m scale bar.\n",
+    "answer": "No",
+    "images": [
+      "SpatialAct/data/images/indoor/spatial_visualization/indoor_scenes_complex-10-15/3rscan__0cac7564-8d6f-2d13-8cb2-8b01c0a1b3d5_clean/top_move_02.png"
+    ]
+  },
+  {
+    "task_type": "top_move_overlap",
+    "question": "There is one image: a top-view image.\nDirections in the image: North=up, South=down, East=right, West=left.\nIf object 2 is moved East by 1 meters, will it overlap (collide) with object 1? Answer with Yes or No.\n\nTop-view image: <image>\nNote: the image includes a 1m scale bar.\n",
+    "answer": "Yes",
+    "images": [
+      "SpatialAct/data/images/indoor/spatial_visualization/indoor_scenes_complex-10-15/arkitscenes__Validation__41254412_clean/top_move.png"
+    ]
+  },
+  {
+    "task_type": "top_move_overlap",
+    "question": "There is one image: a top-view image.\nDirections in the image: North=up, South=down, East=right, West=left.\nIf object 2 is moved West by 1 meters, will it overlap (collide) with object 1? Answer with Yes or No.\n\nTop-view image: <image>\nNote: the image includes a 1m scale bar.\n",
+    "answer": "Yes",
+    "images": [
+      "SpatialAct/data/images/indoor/spatial_visualization/indoor_scenes_complex-10-15/arkitscenes__Training__42899295_clean/top_move_03.png"
+    ]
+  },
+  {
+    "task_type": "top_move_overlap",
+    "question": "There is one image: a top-view image.\nDirections in the image: North=up, South=down, East=right, West=left.\nIf object 2 is moved East by 1 meters, will it overlap (collide) with object 1? Answer with Yes or No.\n\nTop-view image: <image>\nNote: the image includes a 1m scale bar.\n",
+    "answer": "Yes",
+    "images": [
+      "SpatialAct/data/images/indoor/spatial_visualization/indoor_scenes_complex-10-15/3rscan__68bae766-3567-2f7c-825a-f0522da62564_clean/top_move.png"
+    ]
+  },
+  {
+    "task_type": "top_move_overlap",
+    "question": "There is one image: a top-view image.\nDirections in the image: North=up, South=down, East=right, West=left.\nIf object 2 is moved East by 1 meters, will it overlap (collide) with object 1? Answer with Yes or No.\n\nTop-view image: <image>\nNote: the image includes a 1m scale bar.\n",
+    "answer": "Yes",
+    "images": [
+      "SpatialAct/data/images/indoor/spatial_visualization/indoor_scenes_complex-10-15/3rscan__c9fb7aa5-2a5b-2cf7-902e-42a0339c7242_clean/top_move_02.png"
+    ]
+  },
+  {
+    "task_type": "top_move_overlap",
+    "question": "There is one image: a top-view image.\nDirections in the image: North=up, South=down, East=right, West=left.\nIf object 1 is moved West by 1 meters, will it overlap (collide) with object 2? Answer with Yes or No.\n\nTop-view image: <image>\nNote: the image includes a 1m scale bar.\n",
+    "answer": "No",
+    "images": [
+      "SpatialAct/data/images/indoor/spatial_visualization/indoor_scenes_complex-10-15/matterport3d__sT4fr6TAbpF__region12_clean/top_move_03.png"
+    ]
+  },
+  {
+    "task_type": "top_move_overlap",
+    "question": "There is one image: a top-view image.\nDirections in the image: North=up, South=down, East=right, West=left.\nIf object 2 is moved West by 3 meters, will it overlap (collide) with object 1? Answer with Yes or No.\n\nTop-view image: <image>\nNote: the image includes a 1m scale bar.\n",
+    "answer": "No",
+    "images": [
+      "SpatialAct/data/images/indoor/spatial_visualization/indoor_scenes_complex-10-15/scannet__scene0503_00_clean/top_move_03.png"
+    ]
+  },
+  {
+    "task_type": "top_move_overlap",
+    "question": "There is one image: a top-view image.\nDirections in the image: North=up, South=down, East=right, West=left.\nIf object 1 is moved North by 1 meters, will it overlap (collide) with object 2? Answer with Yes or No.\n\nTop-view image: <image>\nNote: the image includes a 1m scale bar.\n",
+    "answer": "Yes",
+    "images": [
+      "SpatialAct/data/images/indoor/spatial_visualization/indoor_scenes_complex-10-15/arkitscenes__Training__47331180_clean/top_move_02.png"
+    ]
+  },
+  {
+    "task_type": "top_move_overlap",
+    "question": "There is one image: a top-view image.\nDirections in the image: North=up, South=down, East=right, West=left.\nIf object 2 is moved East by 1 meters, will it overlap (collide) with object 1? Answer with Yes or No.\n\nTop-view image: <image>\nNote: the image includes a 1m scale bar.\n",
+    "answer": "No",
+    "images": [
+      "SpatialAct/data/images/indoor/spatial_visualization/indoor_scenes_complex-10-15/arkitscenes__Training__42898123_clean/top_move_03.png"
+    ]
+  },
+  {
+    "task_type": "top_move_overlap",
+    "question": "There is one image: a top-view image.\nDirections in the image: North=up, South=down, East=right, West=left.\nIf object 1 is moved East by 1 meters, will it overlap (collide) with object 2? Answer with Yes or No.\n\nTop-view image: <image>\nNote: the image includes a 1m scale bar.\n",
+    "answer": "No",
+    "images": [
+      "SpatialAct/data/images/indoor/spatial_visualization/indoor_scenes_complex-10-15/scannet__scene0112_01_clean/top_move_03.png"
+    ]
+  },
+  {
+    "task_type": "top_move_overlap",
+    "question": "There is one image: a top-view image.\nDirections in the image: North=up, South=down, East=right, West=left.\nIf object 1 is moved West by 1 meters, will it overlap (collide) with object 2? Answer with Yes or No.\n\nTop-view image: <image>\nNote: the image includes a 1m scale bar.\n",
+    "answer": "Yes",
+    "images": [
+      "SpatialAct/data/images/indoor/spatial_visualization/indoor_scenes_complex-10-15/3rscan__68bae766-3567-2f7c-825a-f0522da62564_clean/top_move_03.png"
+    ]
+  },
+  {
+    "task_type": "top_move_overlap",
+    "question": "There is one image: a top-view image.\nDirections in the image: North=up, South=down, East=right, West=left.\nIf object 2 is moved West by 1 meters, will it overlap (collide) with object 1? Answer with Yes or No.\n\nTop-view image: <image>\nNote: the image includes a 1m scale bar.\n",
+    "answer": "Yes",
+    "images": [
+      "SpatialAct/data/images/indoor/spatial_visualization/indoor_scenes_complex-10-15/scannet__scene0112_01_clean/top_move_02.png"
+    ]
+  },
+  {
+    "task_type": "top_move_overlap",
+    "question": "There is one image: a top-view image.\nDirections in the image: North=up, South=down, East=right, West=left.\nIf object 1 is moved East by 2 meters, will it overlap (collide) with object 2? Answer with Yes or No.\n\nTop-view image: <image>\nNote: the image includes a 1m scale bar.\n",
+    "answer": "No",
+    "images": [
+      "SpatialAct/data/images/indoor/spatial_visualization/indoor_scenes_complex-10-15/arkitscenes__Training__47331180_clean/top_move.png"
+    ]
+  },
+  {
+    "task_type": "top_move_overlap",
+    "question": "There is one image: a top-view image.\nDirections in the image: North=up, South=down, East=right, West=left.\nIf object 2 is moved South by 2 meters, will it overlap (collide) with object 1? Answer with Yes or No.\n\nTop-view image: <image>\nNote: the image includes a 1m scale bar.\n",
+    "answer": "Yes",
+    "images": [
+      "SpatialAct/data/images/indoor/spatial_visualization/indoor_scenes_complex-10-15/arkitscenes__Training__43896538_clean/top_move.png"
+    ]
+  },
+  {
+    "task_type": "top_move_overlap",
+    "question": "There is one image: a top-view image.\nDirections in the image: North=up, South=down, East=right, West=left.\nIf object 2 is moved North by 2 meters, will it overlap (collide) with object 1? Answer with Yes or No.\n\nTop-view image: <image>\nNote: the image includes a 1m scale bar.\n",
+    "answer": "Yes",
+    "images": [
+      "SpatialAct/data/images/indoor/spatial_visualization/indoor_scenes_complex-10-15/matterport3d__sT4fr6TAbpF__region12_clean/top_move_02.png"
+    ]
+  },
+  {
+    "task_type": "top_move_overlap",
+    "question": "There is one image: a top-view image.\nDirections in the image: North=up, South=down, East=right, West=left.\nIf object 1 is moved North by 2 meters, will it overlap (collide) with object 2? Answer with Yes or No.\n\nTop-view image: <image>\nNote: the image includes a 1m scale bar.\n",
+    "answer": "Yes",
+    "images": [
+      "SpatialAct/data/images/indoor/spatial_visualization/indoor_scenes_simple-5-10/scannet__scene0382_00_clean/top_move_02.png"
+    ]
+  },
+  {
+    "task_type": "top_swap_overlap",
+    "question": "There is one image: a top-view image.\nIf we swap the positions of object 1 and object 2, will object 1 or object 2 overlap (collide) with any object AFTER the swap? Answer with Yes or No.\n\nTop-view image: <image>",
+    "answer": "Yes",
+    "images": [
+      "SpatialAct/data/images/indoor/spatial_visualization/indoor_scenes_simple-5-10/arkitscenes__Training__42897851_clean/top_swap_02.png"
+    ]
+  },
+  {
+    "task_type": "top_swap_overlap",
+    "question": "There is one image: a top-view image.\nIf we swap the positions of object 1 and object 2, will object 1 or object 2 overlap (collide) with any object AFTER the swap? Answer with Yes or No.\n\nTop-view image: <image>",
+    "answer": "Yes",
+    "images": [
+      "SpatialAct/data/images/indoor/spatial_visualization/indoor_scenes_complex-10-15/matterport3d__HxpKQynjfin__region5_clean/top_swap_02.png"
+    ]
+  },
+  {
+    "task_type": "top_swap_overlap",
+    "question": "There is one image: a top-view image.\nIf we swap the positions of object 1 and object 2, will object 1 or object 2 overlap (collide) with any object AFTER the swap? Answer with Yes or No.\n\nTop-view image: <image>",
+    "answer": "No",
+    "images": [
+      "SpatialAct/data/images/indoor/spatial_visualization/indoor_scenes_complex-10-15/scannet__scene0065_00_clean/top_swap_03.png"
+    ]
+  },
+  {
+    "task_type": "top_swap_overlap",
+    "question": "There is one image: a top-view image.\nIf we swap the positions of object 1 and object 2, will object 1 or object 2 overlap (collide) with any object AFTER the swap? Answer with Yes or No.\n\nTop-view image: <image>",
+    "answer": "No",
+    "images": [
+      "SpatialAct/data/images/indoor/spatial_visualization/indoor_scenes_simple-5-10/3rscan__501ebf0b-a3bb-263f-86fd-7ef000a19588_clean/top_swap_02.png"
+    ]
+  },
+  {
+    "task_type": "top_swap_overlap",
+    "question": "There is one image: a top-view image.\nIf we swap the positions of object 1 and object 2, will object 1 or object 2 overlap (collide) with any object AFTER the swap? Answer with Yes or No.\n\nTop-view image: <image>",
+    "answer": "No",
+    "images": [
+      "SpatialAct/data/images/indoor/spatial_visualization/indoor_scenes_simple-5-10/3rscan__2e369567-e133-204c-909a-c5da44bb58df_clean/top_swap_03.png"
+    ]
+  },
+  {
+    "task_type": "top_swap_overlap",
+    "question": "There is one image: a top-view image.\nIf we swap the positions of object 1 and object 2, will object 1 or object 2 overlap (collide) with any object AFTER the swap? Answer with Yes or No.\n\nTop-view image: <image>",
+    "answer": "No",
+    "images": [
+      "SpatialAct/data/images/indoor/spatial_visualization/indoor_scenes_complex-10-15/3rscan__8eabc469-5af7-2f32-840f-c1be88e46c62_clean/top_swap_02.png"
+    ]
+  },
+  {
+    "task_type": "top_swap_overlap",
+    "question": "There is one image: a top-view image.\nIf we swap the positions of object 1 and object 2, will object 1 or object 2 overlap (collide) with any object AFTER the swap? Answer with Yes or No.\n\nTop-view image: <image>",
+    "answer": "No",
+    "images": [
+      "SpatialAct/data/images/indoor/spatial_visualization/indoor_scenes_simple-5-10/3rscan__0ad2d3a7-79e2-2212-9a1b-8737842a24e2_clean/top_swap.png"
+    ]
+  },
+  {
+    "task_type": "top_swap_overlap",
+    "question": "There is one image: a top-view image.\nIf we swap the positions of object 1 and object 2, will object 1 or object 2 overlap (collide) with any object AFTER the swap? Answer with Yes or No.\n\nTop-view image: <image>",
+    "answer": "No",
+    "images": [
+      "SpatialAct/data/images/indoor/spatial_visualization/indoor_scenes_complex-10-15/matterport3d__sT4fr6TAbpF__region12_clean/top_swap_02.png"
+    ]
+  },
+  {
+    "task_type": "top_swap_overlap",
+    "question": "There is one image: a top-view image.\nIf we swap the positions of object 1 and object 2, will object 1 or object 2 overlap (collide) with any object AFTER the swap? Answer with Yes or No.\n\nTop-view image: <image>",
+    "answer": "No",
+    "images": [
+      "SpatialAct/data/images/indoor/spatial_visualization/indoor_scenes_complex-10-15/3rscan__ab835f8b-54c6-29a1-9a7a-4770a0eb74ff_clean/top_swap_03.png"
+    ]
+  },
+  {
+    "task_type": "top_swap_overlap",
+    "question": "There is one image: a top-view image.\nIf we swap the positions of object 1 and object 2, will object 1 or object 2 overlap (collide) with any object AFTER the swap? Answer with Yes or No.\n\nTop-view image: <image>",
+    "answer": "Yes",
+    "images": [
+      "SpatialAct/data/images/indoor/spatial_visualization/indoor_scenes_complex-10-15/matterport3d__B6ByNegPMKs__region31_clean/top_swap_03.png"
+    ]
+  },
+  {
+    "task_type": "top_swap_overlap",
+    "question": "There is one image: a top-view image.\nIf we swap the positions of object 1 and object 2, will object 1 or object 2 overlap (collide) with any object AFTER the swap? Answer with Yes or No.\n\nTop-view image: <image>",
+    "answer": "No",
+    "images": [
+      "SpatialAct/data/images/indoor/spatial_visualization/indoor_scenes_complex-10-15/matterport3d__HxpKQynjfin__region5_clean/top_swap_03.png"
+    ]
+  },
+  {
+    "task_type": "top_swap_overlap",
+    "question": "There is one image: a top-view image.\nIf we swap the positions of object 1 and object 2, will object 1 or object 2 overlap (collide) with any object AFTER the swap? Answer with Yes or No.\n\nTop-view image: <image>",
+    "answer": "Yes",
+    "images": [
+      "SpatialAct/data/images/indoor/spatial_visualization/indoor_scenes_complex-10-15/arkitscenes__Training__42899295_clean/top_swap_02.png"
+    ]
+  },
+  {
+    "task_type": "top_swap_overlap",
+    "question": "There is one image: a top-view image.\nIf we swap the positions of object 1 and object 2, will object 1 or object 2 overlap (collide) with any object AFTER the swap? Answer with Yes or No.\n\nTop-view image: <image>",
+    "answer": "No",
+    "images": [
+      "SpatialAct/data/images/indoor/spatial_visualization/indoor_scenes_complex-10-15/scannet__scene0277_02_clean/top_swap_02.png"
+    ]
+  },
+  {
+    "task_type": "top_swap_overlap",
+    "question": "There is one image: a top-view image.\nIf we swap the positions of object 1 and object 2, will object 1 or object 2 overlap (collide) with any object AFTER the swap? Answer with Yes or No.\n\nTop-view image: <image>",
+    "answer": "No",
+    "images": [
+      "SpatialAct/data/images/indoor/spatial_visualization/indoor_scenes_complex-10-15/arkitscenes__Validation__47895367_clean/top_swap.png"
+    ]
+  },
+  {
+    "task_type": "top_swap_overlap",
+    "question": "There is one image: a top-view image.\nIf we swap the positions of object 1 and object 2, will object 1 or object 2 overlap (collide) with any object AFTER the swap? Answer with Yes or No.\n\nTop-view image: <image>",
+    "answer": "Yes",
+    "images": [
+      "SpatialAct/data/images/indoor/spatial_visualization/indoor_scenes_simple-5-10/3rscan__501ebf0b-a3bb-263f-86fd-7ef000a19588_clean/top_swap.png"
+    ]
+  },
+  {
+    "task_type": "top_swap_overlap",
+    "question": "There is one image: a top-view image.\nIf we swap the positions of object 1 and object 2, will object 1 or object 2 overlap (collide) with any object AFTER the swap? Answer with Yes or No.\n\nTop-view image: <image>",
+    "answer": "Yes",
+    "images": [
+      "SpatialAct/data/images/indoor/spatial_visualization/indoor_scenes_simple-5-10/matterport3d__uNb9QFRL6hY__region19_clean/top_swap.png"
+    ]
+  },
+  {
+    "task_type": "top_swap_overlap",
+    "question": "There is one image: a top-view image.\nIf we swap the positions of object 1 and object 2, will object 1 or object 2 overlap (collide) with any object AFTER the swap? Answer with Yes or No.\n\nTop-view image: <image>",
+    "answer": "Yes",
+    "images": [
+      "SpatialAct/data/images/indoor/spatial_visualization/indoor_scenes_complex-10-15/matterport3d__pRbA3pwrgk9__region7_clean/top_swap.png"
+    ]
+  },
+  {
+    "task_type": "top_swap_overlap",
+    "question": "There is one image: a top-view image.\nIf we swap the positions of object 1 and object 2, will object 1 or object 2 overlap (collide) with any object AFTER the swap? Answer with Yes or No.\n\nTop-view image: <image>",
+    "answer": "No",
+    "images": [
+      "SpatialAct/data/images/indoor/spatial_visualization/indoor_scenes_simple-5-10/3rscan__c9fb7aa7-2a5b-2cf7-916d-d38eeeeda87f_clean/top_swap_02.png"
+    ]
+  },
+  {
+    "task_type": "top_swap_overlap",
+    "question": "There is one image: a top-view image.\nIf we swap the positions of object 1 and object 2, will object 1 or object 2 overlap (collide) with any object AFTER the swap? Answer with Yes or No.\n\nTop-view image: <image>",
+    "answer": "No",
+    "images": [
+      "SpatialAct/data/images/indoor/spatial_visualization/indoor_scenes_complex-10-15/scannet__scene0112_01_clean/top_swap_02.png"
+    ]
+  },
+  {
+    "task_type": "top_swap_overlap",
+    "question": "There is one image: a top-view image.\nIf we swap the positions of object 1 and object 2, will object 1 or object 2 overlap (collide) with any object AFTER the swap? Answer with Yes or No.\n\nTop-view image: <image>",
+    "answer": "No",
+    "images": [
+      "SpatialAct/data/images/indoor/spatial_visualization/indoor_scenes_complex-10-15/arkitscenes__Training__47332309_clean/top_swap_02.png"
+    ]
+  },
+  {
+    "task_type": "top_swap_overlap",
+    "question": "There is one image: a top-view image.\nIf we swap the positions of object 1 and object 2, will object 1 or object 2 overlap (collide) with any object AFTER the swap? Answer with Yes or No.\n\nTop-view image: <image>",
+    "answer": "No",
+    "images": [
+      "SpatialAct/data/images/indoor/spatial_visualization/indoor_scenes_simple-5-10/scannet__scene0067_02_clean/top_swap.png"
+    ]
+  },
+  {
+    "task_type": "top_swap_overlap",
+    "question": "There is one image: a top-view image.\nIf we swap the positions of object 1 and object 2, will object 1 or object 2 overlap (collide) with any object AFTER the swap? Answer with Yes or No.\n\nTop-view image: <image>",
+    "answer": "Yes",
+    "images": [
+      "SpatialAct/data/images/indoor/spatial_visualization/indoor_scenes_simple-5-10/scannet__scene0013_01_clean/top_swap_02.png"
+    ]
+  },
+  {
+    "task_type": "top_swap_overlap",
+    "question": "There is one image: a top-view image.\nIf we swap the positions of object 1 and object 2, will object 1 or object 2 overlap (collide) with any object AFTER the swap? Answer with Yes or No.\n\nTop-view image: <image>",
+    "answer": "Yes",
+    "images": [
+      "SpatialAct/data/images/indoor/spatial_visualization/indoor_scenes_complex-10-15/scannet__scene0067_02_clean/top_swap_02.png"
+    ]
+  },
+  {
+    "task_type": "top_swap_overlap",
+    "question": "There is one image: a top-view image.\nIf we swap the positions of object 1 and object 2, will object 1 or object 2 overlap (collide) with any object AFTER the swap? Answer with Yes or No.\n\nTop-view image: <image>",
+    "answer": "Yes",
+    "images": [
+      "SpatialAct/data/images/indoor/spatial_visualization/indoor_scenes_complex-10-15/scannet__scene0344_00_clean/top_swap_02.png"
+    ]
+  },
+  {
+    "task_type": "top_swap_overlap",
+    "question": "There is one image: a top-view image.\nIf we swap the positions of object 1 and object 2, will object 1 or object 2 overlap (collide) with any object AFTER the swap? Answer with Yes or No.\n\nTop-view image: <image>",
+    "answer": "No",
+    "images": [
+      "SpatialAct/data/images/indoor/spatial_visualization/indoor_scenes_complex-10-15/scannet__scene0036_01_clean/top_swap_03.png"
+    ]
+  },
+  {
+    "task_type": "top_swap_overlap",
+    "question": "There is one image: a top-view image.\nIf we swap the positions of object 1 and object 2, will object 1 or object 2 overlap (collide) with any object AFTER the swap? Answer with Yes or No.\n\nTop-view image: <image>",
+    "answer": "Yes",
+    "images": [
+      "SpatialAct/data/images/indoor/spatial_visualization/indoor_scenes_simple-5-10/scannet__scene0013_01_clean/top_swap.png"
+    ]
+  },
+  {
+    "task_type": "top_swap_overlap",
+    "question": "There is one image: a top-view image.\nIf we swap the positions of object 1 and object 2, will object 1 or object 2 overlap (collide) with any object AFTER the swap? Answer with Yes or No.\n\nTop-view image: <image>",
+    "answer": "Yes",
+    "images": [
+      "SpatialAct/data/images/indoor/spatial_visualization/indoor_scenes_complex-10-15/arkitscenes__Training__43896538_clean/top_swap_02.png"
+    ]
+  },
+  {
+    "task_type": "top_swap_overlap",
+    "question": "There is one image: a top-view image.\nIf we swap the positions of object 1 and object 2, will object 1 or object 2 overlap (collide) with any object AFTER the swap? Answer with Yes or No.\n\nTop-view image: <image>",
+    "answer": "Yes",
+    "images": [
+      "SpatialAct/data/images/indoor/spatial_visualization/indoor_scenes_complex-10-15/3rscan__82def5da-25ba-20f9-8810-71be905b83db_clean/top_swap_03.png"
+    ]
+  },
+  {
+    "task_type": "top_swap_overlap",
+    "question": "There is one image: a top-view image.\nIf we swap the positions of object 1 and object 2, will object 1 or object 2 overlap (collide) with any object AFTER the swap? Answer with Yes or No.\n\nTop-view image: <image>",
+    "answer": "No",
+    "images": [
+      "SpatialAct/data/images/indoor/spatial_visualization/indoor_scenes_complex-10-15/arkitscenes__Training__47334761_clean/top_swap_02.png"
+    ]
+  },
+  {
+    "task_type": "top_swap_overlap",
+    "question": "There is one image: a top-view image.\nIf we swap the positions of object 1 and object 2, will object 1 or object 2 overlap (collide) with any object AFTER the swap? Answer with Yes or No.\n\nTop-view image: <image>",
+    "answer": "No",
+    "images": [
+      "SpatialAct/data/images/indoor/spatial_visualization/indoor_scenes_simple-5-10/arkitscenes__Training__42897851_clean/top_swap_03.png"
+    ]
+  },
+  {
+    "task_type": "top_swap_overlap",
+    "question": "There is one image: a top-view image.\nIf we swap the positions of object 1 and object 2, will object 1 or object 2 overlap (collide) with any object AFTER the swap? Answer with Yes or No.\n\nTop-view image: <image>",
+    "answer": "Yes",
+    "images": [
+      "SpatialAct/data/images/indoor/spatial_visualization/indoor_scenes_complex-10-15/scannet__scene0129_00_clean/top_swap_03.png"
+    ]
+  },
+  {
+    "task_type": "top_swap_overlap",
+    "question": "There is one image: a top-view image.\nIf we swap the positions of object 1 and object 2, will object 1 or object 2 overlap (collide) with any object AFTER the swap? Answer with Yes or No.\n\nTop-view image: <image>",
+    "answer": "No",
+    "images": [
+      "SpatialAct/data/images/indoor/spatial_visualization/indoor_scenes_simple-5-10/3rscan__0cac7627-8d6f-2d13-8eac-41764b5f2c5b_clean/top_swap_03.png"
+    ]
+  },
+  {
+    "task_type": "top_swap_overlap",
+    "question": "There is one image: a top-view image.\nIf we swap the positions of object 1 and object 2, will object 1 or object 2 overlap (collide) with any object AFTER the swap? Answer with Yes or No.\n\nTop-view image: <image>",
+    "answer": "No",
+    "images": [
+      "SpatialAct/data/images/indoor/spatial_visualization/indoor_scenes_simple-5-10/arkitscenes__Training__43649615_clean/top_swap.png"
+    ]
+  },
+  {
+    "task_type": "top_swap_overlap",
+    "question": "There is one image: a top-view image.\nIf we swap the positions of object 1 and object 2, will object 1 or object 2 overlap (collide) with any object AFTER the swap? Answer with Yes or No.\n\nTop-view image: <image>",
+    "answer": "No",
+    "images": [
+      "SpatialAct/data/images/indoor/spatial_visualization/indoor_scenes_simple-5-10/arkitscenes__Training__43649615_clean/top_swap_03.png"
+    ]
+  },
+  {
+    "task_type": "top_swap_overlap",
+    "question": "There is one image: a top-view image.\nIf we swap the positions of object 1 and object 2, will object 1 or object 2 overlap (collide) with any object AFTER the swap? Answer with Yes or No.\n\nTop-view image: <image>",
+    "answer": "No",
+    "images": [
+      "SpatialAct/data/images/indoor/spatial_visualization/indoor_scenes_complex-10-15/matterport3d__B6ByNegPMKs__region5_clean/top_swap.png"
+    ]
+  },
+  {
+    "task_type": "top_swap_overlap",
+    "question": "There is one image: a top-view image.\nIf we swap the positions of object 1 and object 2, will object 1 or object 2 overlap (collide) with any object AFTER the swap? Answer with Yes or No.\n\nTop-view image: <image>",
+    "answer": "Yes",
+    "images": [
+      "SpatialAct/data/images/indoor/spatial_visualization/indoor_scenes_complex-10-15/3rscan__ab835f94-54c6-29a1-9872-210a98f12c12_clean/top_swap_02.png"
+    ]
+  },
+  {
+    "task_type": "top_swap_overlap",
+    "question": "There is one image: a top-view image.\nIf we swap the positions of object 1 and object 2, will object 1 or object 2 overlap (collide) with any object AFTER the swap? Answer with Yes or No.\n\nTop-view image: <image>",
+    "answer": "No",
+    "images": [
+      "SpatialAct/data/images/indoor/spatial_visualization/indoor_scenes_complex-10-15/3rscan__68bae76c-3567-2f7c-827d-373035a2d942_clean/top_swap_02.png"
+    ]
+  },
+  {
+    "task_type": "top_swap_overlap",
+    "question": "There is one image: a top-view image.\nIf we swap the positions of object 1 and object 2, will object 1 or object 2 overlap (collide) with any object AFTER the swap? Answer with Yes or No.\n\nTop-view image: <image>",
+    "answer": "No",
+    "images": [
+      "SpatialAct/data/images/indoor/spatial_visualization/indoor_scenes_complex-10-15/3rscan__0cac7564-8d6f-2d13-8cb2-8b01c0a1b3d5_clean/top_swap_03.png"
+    ]
+  },
+  {
+    "task_type": "top_swap_overlap",
+    "question": "There is one image: a top-view image.\nIf we swap the positions of object 1 and object 2, will object 1 or object 2 overlap (collide) with any object AFTER the swap? Answer with Yes or No.\n\nTop-view image: <image>",
+    "answer": "No",
+    "images": [
+      "SpatialAct/data/images/indoor/spatial_visualization/indoor_scenes_complex-10-15/3rscan__82def5da-25ba-20f9-8810-71be905b83db_clean/top_swap_02.png"
+    ]
+  },
+  {
+    "task_type": "top_swap_overlap",
+    "question": "There is one image: a top-view image.\nIf we swap the positions of object 1 and object 2, will object 1 or object 2 overlap (collide) with any object AFTER the swap? Answer with Yes or No.\n\nTop-view image: <image>",
+    "answer": "No",
+    "images": [
+      "SpatialAct/data/images/indoor/spatial_visualization/indoor_scenes_complex-10-15/3rscan__c7895f8a-339c-2d13-82a6-bc530140d95d_clean/top_swap.png"
+    ]
+  },
+  {
+    "task_type": "top_swap_overlap",
+    "question": "There is one image: a top-view image.\nIf we swap the positions of object 1 and object 2, will object 1 or object 2 overlap (collide) with any object AFTER the swap? Answer with Yes or No.\n\nTop-view image: <image>",
+    "answer": "No",
+    "images": [
+      "SpatialAct/data/images/indoor/spatial_visualization/indoor_scenes_complex-10-15/arkitscenes__Training__47331180_clean/top_swap_02.png"
+    ]
+  },
+  {
+    "task_type": "top_swap_overlap",
+    "question": "There is one image: a top-view image.\nIf we swap the positions of object 1 and object 2, will object 1 or object 2 overlap (collide) with any object AFTER the swap? Answer with Yes or No.\n\nTop-view image: <image>",
+    "answer": "No",
+    "images": [
+      "SpatialAct/data/images/indoor/spatial_visualization/indoor_scenes_simple-5-10/arkitscenes__Training__47331177_clean/top_swap.png"
+    ]
+  },
+  {
+    "task_type": "top_swap_overlap",
+    "question": "There is one image: a top-view image.\nIf we swap the positions of object 1 and object 2, will object 1 or object 2 overlap (collide) with any object AFTER the swap? Answer with Yes or No.\n\nTop-view image: <image>",
+    "answer": "No",
+    "images": [
+      "SpatialAct/data/images/indoor/spatial_visualization/indoor_scenes_complex-10-15/arkitscenes__Training__42899161_clean/top_swap_03.png"
+    ]
+  },
+  {
+    "task_type": "top_swap_overlap",
+    "question": "There is one image: a top-view image.\nIf we swap the positions of object 1 and object 2, will object 1 or object 2 overlap (collide) with any object AFTER the swap? Answer with Yes or No.\n\nTop-view image: <image>",
+    "answer": "Yes",
+    "images": [
+      "SpatialAct/data/images/indoor/spatial_visualization/indoor_scenes_complex-10-15/arkitscenes__Validation__47895367_clean/top_swap_02.png"
+    ]
+  },
+  {
+    "task_type": "top_swap_overlap",
+    "question": "There is one image: a top-view image.\nIf we swap the positions of object 1 and object 2, will object 1 or object 2 overlap (collide) with any object AFTER the swap? Answer with Yes or No.\n\nTop-view image: <image>",
+    "answer": "Yes",
+    "images": [
+      "SpatialAct/data/images/indoor/spatial_visualization/indoor_scenes_complex-10-15/arkitscenes__Training__47332309_clean/top_swap.png"
+    ]
+  },
+  {
+    "task_type": "top_swap_overlap",
+    "question": "There is one image: a top-view image.\nIf we swap the positions of object 1 and object 2, will object 1 or object 2 overlap (collide) with any object AFTER the swap? Answer with Yes or No.\n\nTop-view image: <image>",
+    "answer": "Yes",
+    "images": [
+      "SpatialAct/data/images/indoor/spatial_visualization/indoor_scenes_complex-10-15/scannet__scene0065_00_clean/top_swap_02.png"
+    ]
+  },
+  {
+    "task_type": "top_swap_overlap",
+    "question": "There is one image: a top-view image.\nIf we swap the positions of object 1 and object 2, will object 1 or object 2 overlap (collide) with any object AFTER the swap? Answer with Yes or No.\n\nTop-view image: <image>",
+    "answer": "No",
+    "images": [
+      "SpatialAct/data/images/indoor/spatial_visualization/indoor_scenes_complex-10-15/arkitscenes__Validation__41254412_clean/top_swap.png"
+    ]
+  },
+  {
+    "task_type": "top_swap_overlap",
+    "question": "There is one image: a top-view image.\nIf we swap the positions of object 1 and object 2, will object 1 or object 2 overlap (collide) with any object AFTER the swap? Answer with Yes or No.\n\nTop-view image: <image>",
+    "answer": "No",
+    "images": [
+      "SpatialAct/data/images/indoor/spatial_visualization/indoor_scenes_complex-10-15/arkitscenes__Training__42899161_clean/top_swap.png"
+    ]
+  },
+  {
+    "task_type": "top_swap_overlap",
+    "question": "There is one image: a top-view image.\nIf we swap the positions of object 1 and object 2, will object 1 or object 2 overlap (collide) with any object AFTER the swap? Answer with Yes or No.\n\nTop-view image: <image>",
+    "answer": "Yes",
+    "images": [
+      "SpatialAct/data/images/indoor/spatial_visualization/indoor_scenes_complex-10-15/arkitscenes__Training__48458713_clean/top_swap_02.png"
+    ]
+  },
+  {
+    "task_type": "top_swap_overlap",
+    "question": "There is one image: a top-view image.\nIf we swap the positions of object 1 and object 2, will object 1 or object 2 overlap (collide) with any object AFTER the swap? Answer with Yes or No.\n\nTop-view image: <image>",
+    "answer": "No",
+    "images": [
+      "SpatialAct/data/images/indoor/spatial_visualization/indoor_scenes_complex-10-15/arkitscenes__Training__43896538_clean/top_swap.png"
+    ]
+  },
+  {
+    "task_type": "top_swap_overlap",
+    "question": "There is one image: a top-view image.\nIf we swap the positions of object 1 and object 2, will object 1 or object 2 overlap (collide) with any object AFTER the swap? Answer with Yes or No.\n\nTop-view image: <image>",
+    "answer": "No",
+    "images": [
+      "SpatialAct/data/images/indoor/spatial_visualization/indoor_scenes_simple-5-10/scannet__scene0067_02_clean/top_swap_03.png"
+    ]
+  },
+  {
+    "task_type": "top_swap_overlap",
+    "question": "There is one image: a top-view image.\nIf we swap the positions of object 1 and object 2, will object 1 or object 2 overlap (collide) with any object AFTER the swap? Answer with Yes or No.\n\nTop-view image: <image>",
+    "answer": "No",
+    "images": [
+      "SpatialAct/data/images/indoor/spatial_visualization/indoor_scenes_complex-10-15/3rscan__77361fc8-d054-2a22-8868-c3de4283fff7_clean/top_swap_02.png"
+    ]
+  },
+  {
+    "task_type": "top_swap_overlap",
+    "question": "There is one image: a top-view image.\nIf we swap the positions of object 1 and object 2, will object 1 or object 2 overlap (collide) with any object AFTER the swap? Answer with Yes or No.\n\nTop-view image: <image>",
+    "answer": "No",
+    "images": [
+      "SpatialAct/data/images/indoor/spatial_visualization/indoor_scenes_complex-10-15/scannet__scene0355_00_clean/top_swap_03.png"
+    ]
+  },
+  {
+    "task_type": "top_swap_overlap",
+    "question": "There is one image: a top-view image.\nIf we swap the positions of object 1 and object 2, will object 1 or object 2 overlap (collide) with any object AFTER the swap? Answer with Yes or No.\n\nTop-view image: <image>",
+    "answer": "No",
+    "images": [
+      "SpatialAct/data/images/indoor/spatial_visualization/indoor_scenes_complex-10-15/arkitscenes__Training__45261323_clean/top_swap.png"
+    ]
+  },
+  {
+    "task_type": "top_swap_overlap",
+    "question": "There is one image: a top-view image.\nIf we swap the positions of object 1 and object 2, will object 1 or object 2 overlap (collide) with any object AFTER the swap? Answer with Yes or No.\n\nTop-view image: <image>",
+    "answer": "Yes",
+    "images": [
+      "SpatialAct/data/images/indoor/spatial_visualization/indoor_scenes_complex-10-15/matterport3d__5LpN3gDmAk7__region12_clean/top_swap.png"
+    ]
+  },
+  {
+    "task_type": "top_swap_overlap",
+    "question": "There is one image: a top-view image.\nIf we swap the positions of object 1 and object 2, will object 1 or object 2 overlap (collide) with any object AFTER the swap? Answer with Yes or No.\n\nTop-view image: <image>",
+    "answer": "Yes",
+    "images": [
+      "SpatialAct/data/images/indoor/spatial_visualization/indoor_scenes_complex-10-15/3rscan__47319772-f9f7-2a1a-9768-108df4f37ab9_clean/top_swap_02.png"
+    ]
+  },
+  {
+    "task_type": "top_swap_overlap",
+    "question": "There is one image: a top-view image.\nIf we swap the positions of object 1 and object 2, will object 1 or object 2 overlap (collide) with any object AFTER the swap? Answer with Yes or No.\n\nTop-view image: <image>",
+    "answer": "Yes",
+    "images": [
+      "SpatialAct/data/images/indoor/spatial_visualization/indoor_scenes_complex-10-15/arkitscenes__Training__47331180_clean/top_swap.png"
+    ]
+  },
+  {
+    "task_type": "top_swap_overlap",
+    "question": "There is one image: a top-view image.\nIf we swap the positions of object 1 and object 2, will object 1 or object 2 overlap (collide) with any object AFTER the swap? Answer with Yes or No.\n\nTop-view image: <image>",
+    "answer": "No",
+    "images": [
+      "SpatialAct/data/images/indoor/spatial_visualization/indoor_scenes_simple-5-10/3rscan__2e369567-e133-204c-909a-c5da44bb58df_clean/top_swap.png"
+    ]
+  },
+  {
+    "task_type": "top_swap_overlap",
+    "question": "There is one image: a top-view image.\nIf we swap the positions of object 1 and object 2, will object 1 or object 2 overlap (collide) with any object AFTER the swap? Answer with Yes or No.\n\nTop-view image: <image>",
+    "answer": "Yes",
+    "images": [
+      "SpatialAct/data/images/indoor/spatial_visualization/indoor_scenes_complex-10-15/arkitscenes__Training__47334761_clean/top_swap.png"
+    ]
+  },
+  {
+    "task_type": "top_swap_overlap",
+    "question": "There is one image: a top-view image.\nIf we swap the positions of object 1 and object 2, will object 1 or object 2 overlap (collide) with any object AFTER the swap? Answer with Yes or No.\n\nTop-view image: <image>",
+    "answer": "Yes",
+    "images": [
+      "SpatialAct/data/images/indoor/spatial_visualization/indoor_scenes_complex-10-15/3rscan__82def5da-25ba-20f9-8810-71be905b83db_clean/top_swap.png"
+    ]
+  },
+  {
+    "task_type": "top_swap_overlap",
+    "question": "There is one image: a top-view image.\nIf we swap the positions of object 1 and object 2, will object 1 or object 2 overlap (collide) with any object AFTER the swap? Answer with Yes or No.\n\nTop-view image: <image>",
+    "answer": "No",
+    "images": [
+      "SpatialAct/data/images/indoor/spatial_visualization/indoor_scenes_complex-10-15/3rscan__47319772-f9f7-2a1a-9768-108df4f37ab9_clean/top_swap.png"
+    ]
+  },
+  {
+    "task_type": "top_swap_overlap",
+    "question": "There is one image: a top-view image.\nIf we swap the positions of object 1 and object 2, will object 1 or object 2 overlap (collide) with any object AFTER the swap? Answer with Yes or No.\n\nTop-view image: <image>",
+    "answer": "Yes",
+    "images": [
+      "SpatialAct/data/images/indoor/spatial_visualization/indoor_scenes_complex-10-15/scannet__scene0112_01_clean/top_swap.png"
+    ]
+  },
+  {
+    "task_type": "top_swap_overlap",
+    "question": "There is one image: a top-view image.\nIf we swap the positions of object 1 and object 2, will object 1 or object 2 overlap (collide) with any object AFTER the swap? Answer with Yes or No.\n\nTop-view image: <image>",
+    "answer": "No",
+    "images": [
+      "SpatialAct/data/images/indoor/spatial_visualization/indoor_scenes_simple-5-10/scannet__scene0113_00_clean/top_swap_03.png"
+    ]
+  },
+  {
+    "task_type": "top_swap_overlap",
+    "question": "There is one image: a top-view image.\nIf we swap the positions of object 1 and object 2, will object 1 or object 2 overlap (collide) with any object AFTER the swap? Answer with Yes or No.\n\nTop-view image: <image>",
+    "answer": "No",
+    "images": [
+      "SpatialAct/data/images/indoor/spatial_visualization/indoor_scenes_simple-5-10/arkitscenes__Training__47331177_clean/top_swap_03.png"
+    ]
+  },
+  {
+    "task_type": "top_swap_overlap",
+    "question": "There is one image: a top-view image.\nIf we swap the positions of object 1 and object 2, will object 1 or object 2 overlap (collide) with any object AFTER the swap? Answer with Yes or No.\n\nTop-view image: <image>",
+    "answer": "Yes",
+    "images": [
+      "SpatialAct/data/images/indoor/spatial_visualization/indoor_scenes_simple-5-10/matterport3d__uNb9QFRL6hY__region19_clean/top_swap_03.png"
+    ]
+  },
+  {
+    "task_type": "top_swap_overlap",
+    "question": "There is one image: a top-view image.\nIf we swap the positions of object 1 and object 2, will object 1 or object 2 overlap (collide) with any object AFTER the swap? Answer with Yes or No.\n\nTop-view image: <image>",
+    "answer": "Yes",
+    "images": [
+      "SpatialAct/data/images/indoor/spatial_visualization/indoor_scenes_simple-5-10/scannet__scene0055_02_clean/top_swap_02.png"
+    ]
+  },
+  {
+    "task_type": "top_swap_overlap",
+    "question": "There is one image: a top-view image.\nIf we swap the positions of object 1 and object 2, will object 1 or object 2 overlap (collide) with any object AFTER the swap? Answer with Yes or No.\n\nTop-view image: <image>",
+    "answer": "No",
+    "images": [
+      "SpatialAct/data/images/indoor/spatial_visualization/indoor_scenes_complex-10-15/scannet__scene0625_01_clean/top_swap_02.png"
+    ]
+  },
+  {
+    "task_type": "top_swap_overlap",
+    "question": "There is one image: a top-view image.\nIf we swap the positions of object 1 and object 2, will object 1 or object 2 overlap (collide) with any object AFTER the swap? Answer with Yes or No.\n\nTop-view image: <image>",
+    "answer": "Yes",
+    "images": [
+      "SpatialAct/data/images/indoor/spatial_visualization/indoor_scenes_complex-10-15/arkitscenes__Validation__41254412_clean/top_swap_02.png"
+    ]
+  },
+  {
+    "task_type": "top_swap_overlap",
+    "question": "There is one image: a top-view image.\nIf we swap the positions of object 1 and object 2, will object 1 or object 2 overlap (collide) with any object AFTER the swap? Answer with Yes or No.\n\nTop-view image: <image>",
+    "answer": "Yes",
+    "images": [
+      "SpatialAct/data/images/indoor/spatial_visualization/indoor_scenes_complex-10-15/scannet__scene0277_02_clean/top_swap_03.png"
+    ]
+  },
+  {
+    "task_type": "top_swap_overlap",
+    "question": "There is one image: a top-view image.\nIf we swap the positions of object 1 and object 2, will object 1 or object 2 overlap (collide) with any object AFTER the swap? Answer with Yes or No.\n\nTop-view image: <image>",
+    "answer": "Yes",
+    "images": [
+      "SpatialAct/data/images/indoor/spatial_visualization/indoor_scenes_simple-5-10/arkitscenes__Training__43649615_clean/top_swap_02.png"
+    ]
+  },
+  {
+    "task_type": "top_swap_overlap",
+    "question": "There is one image: a top-view image.\nIf we swap the positions of object 1 and object 2, will object 1 or object 2 overlap (collide) with any object AFTER the swap? Answer with Yes or No.\n\nTop-view image: <image>",
+    "answer": "No",
+    "images": [
+      "SpatialAct/data/images/indoor/spatial_visualization/indoor_scenes_complex-10-15/matterport3d__V2XKFyX4ASd__region3_clean/top_swap_03.png"
+    ]
+  },
+  {
+    "task_type": "top_swap_overlap",
+    "question": "There is one image: a top-view image.\nIf we swap the positions of object 1 and object 2, will object 1 or object 2 overlap (collide) with any object AFTER the swap? Answer with Yes or No.\n\nTop-view image: <image>",
+    "answer": "Yes",
+    "images": [
+      "SpatialAct/data/images/indoor/spatial_visualization/indoor_scenes_complex-10-15/matterport3d__sT4fr6TAbpF__region12_clean/top_swap_03.png"
+    ]
+  },
+  {
+    "task_type": "top_swap_overlap",
+    "question": "There is one image: a top-view image.\nIf we swap the positions of object 1 and object 2, will object 1 or object 2 overlap (collide) with any object AFTER the swap? Answer with Yes or No.\n\nTop-view image: <image>",
+    "answer": "No",
+    "images": [
+      "SpatialAct/data/images/indoor/spatial_visualization/indoor_scenes_simple-5-10/matterport3d__uNb9QFRL6hY__region19_clean/top_swap_02.png"
+    ]
+  },
+  {
+    "task_type": "top_swap_overlap",
+    "question": "There is one image: a top-view image.\nIf we swap the positions of object 1 and object 2, will object 1 or object 2 overlap (collide) with any object AFTER the swap? Answer with Yes or No.\n\nTop-view image: <image>",
+    "answer": "No",
+    "images": [
+      "SpatialAct/data/images/indoor/spatial_visualization/indoor_scenes_complex-10-15/arkitscenes__Training__42898120_clean/top_swap_02.png"
+    ]
+  },
+  {
+    "task_type": "top_swap_overlap",
+    "question": "There is one image: a top-view image.\nIf we swap the positions of object 1 and object 2, will object 1 or object 2 overlap (collide) with any object AFTER the swap? Answer with Yes or No.\n\nTop-view image: <image>",
+    "answer": "No",
+    "images": [
+      "SpatialAct/data/images/indoor/spatial_visualization/indoor_scenes_complex-10-15/matterport3d__V2XKFyX4ASd__region3_clean/top_swap.png"
+    ]
+  },
+  {
+    "task_type": "top_swap_overlap",
+    "question": "There is one image: a top-view image.\nIf we swap the positions of object 1 and object 2, will object 1 or object 2 overlap (collide) with any object AFTER the swap? Answer with Yes or No.\n\nTop-view image: <image>",
+    "answer": "No",
+    "images": [
+      "SpatialAct/data/images/indoor/spatial_visualization/indoor_scenes_complex-10-15/scannet__scene0129_00_clean/top_swap_02.png"
+    ]
+  },
+  {
+    "task_type": "top_swap_overlap",
+    "question": "There is one image: a top-view image.\nIf we swap the positions of object 1 and object 2, will object 1 or object 2 overlap (collide) with any object AFTER the swap? Answer with Yes or No.\n\nTop-view image: <image>",
+    "answer": "No",
+    "images": [
+      "SpatialAct/data/images/indoor/spatial_visualization/indoor_scenes_complex-10-15/scannet__scene0067_02_clean/top_swap.png"
+    ]
+  },
+  {
+    "task_type": "top_swap_overlap",
+    "question": "There is one image: a top-view image.\nIf we swap the positions of object 1 and object 2, will object 1 or object 2 overlap (collide) with any object AFTER the swap? Answer with Yes or No.\n\nTop-view image: <image>",
+    "answer": "No",
+    "images": [
+      "SpatialAct/data/images/indoor/spatial_visualization/indoor_scenes_complex-10-15/matterport3d__5LpN3gDmAk7__region12_clean/top_swap_02.png"
+    ]
+  },
+  {
+    "task_type": "top_swap_overlap",
+    "question": "There is one image: a top-view image.\nIf we swap the positions of object 1 and object 2, will object 1 or object 2 overlap (collide) with any object AFTER the swap? Answer with Yes or No.\n\nTop-view image: <image>",
+    "answer": "Yes",
+    "images": [
+      "SpatialAct/data/images/indoor/spatial_visualization/indoor_scenes_complex-10-15/matterport3d__sT4fr6TAbpF__region12_clean/top_swap.png"
+    ]
+  },
+  {
+    "task_type": "top_swap_overlap",
+    "question": "There is one image: a top-view image.\nIf we swap the positions of object 1 and object 2, will object 1 or object 2 overlap (collide) with any object AFTER the swap? Answer with Yes or No.\n\nTop-view image: <image>",
+    "answer": "Yes",
+    "images": [
+      "SpatialAct/data/images/indoor/spatial_visualization/indoor_scenes_simple-5-10/scannet__scene0371_01_clean/top_swap_03.png"
+    ]
+  },
+  {
+    "task_type": "top_swap_overlap",
+    "question": "There is one image: a top-view image.\nIf we swap the positions of object 1 and object 2, will object 1 or object 2 overlap (collide) with any object AFTER the swap? Answer with Yes or No.\n\nTop-view image: <image>",
+    "answer": "No",
+    "images": [
+      "SpatialAct/data/images/indoor/spatial_visualization/indoor_scenes_complex-10-15/scannet__scene0344_00_clean/top_swap_03.png"
+    ]
+  },
+  {
+    "task_type": "top_swap_overlap",
+    "question": "There is one image: a top-view image.\nIf we swap the positions of object 1 and object 2, will object 1 or object 2 overlap (collide) with any object AFTER the swap? Answer with Yes or No.\n\nTop-view image: <image>",
+    "answer": "Yes",
+    "images": [
+      "SpatialAct/data/images/indoor/spatial_visualization/indoor_scenes_simple-5-10/scannet__scene0382_00_clean/top_swap.png"
+    ]
+  },
+  {
+    "task_type": "top_swap_overlap",
+    "question": "There is one image: a top-view image.\nIf we swap the positions of object 1 and object 2, will object 1 or object 2 overlap (collide) with any object AFTER the swap? Answer with Yes or No.\n\nTop-view image: <image>",
+    "answer": "No",
+    "images": [
+      "SpatialAct/data/images/indoor/spatial_visualization/indoor_scenes_simple-5-10/scannet__scene0316_00_clean/top_swap_02.png"
+    ]
+  },
+  {
+    "task_type": "top_swap_overlap",
+    "question": "There is one image: a top-view image.\nIf we swap the positions of object 1 and object 2, will object 1 or object 2 overlap (collide) with any object AFTER the swap? Answer with Yes or No.\n\nTop-view image: <image>",
+    "answer": "No",
+    "images": [
+      "SpatialAct/data/images/indoor/spatial_visualization/indoor_scenes_complex-10-15/matterport3d__B6ByNegPMKs__region5_clean/top_swap_03.png"
+    ]
+  },
+  {
+    "task_type": "top_swap_overlap",
+    "question": "There is one image: a top-view image.\nIf we swap the positions of object 1 and object 2, will object 1 or object 2 overlap (collide) with any object AFTER the swap? Answer with Yes or No.\n\nTop-view image: <image>",
+    "answer": "No",
+    "images": [
+      "SpatialAct/data/images/indoor/spatial_visualization/indoor_scenes_simple-5-10/3rscan__77361fbc-d054-2a22-8bd1-20da69ee28dc_clean/top_swap_02.png"
+    ]
+  },
+  {
+    "task_type": "top_swap_overlap",
+    "question": "There is one image: a top-view image.\nIf we swap the positions of object 1 and object 2, will object 1 or object 2 overlap (collide) with any object AFTER the swap? Answer with Yes or No.\n\nTop-view image: <image>",
+    "answer": "No",
+    "images": [
+      "SpatialAct/data/images/indoor/spatial_visualization/indoor_scenes_complex-10-15/3rscan__ab835f94-54c6-29a1-9872-210a98f12c12_clean/top_swap.png"
+    ]
+  },
+  {
+    "task_type": "top_swap_overlap",
+    "question": "There is one image: a top-view image.\nIf we swap the positions of object 1 and object 2, will object 1 or object 2 overlap (collide) with any object AFTER the swap? Answer with Yes or No.\n\nTop-view image: <image>",
+    "answer": "Yes",
+    "images": [
+      "SpatialAct/data/images/indoor/spatial_visualization/indoor_scenes_complex-10-15/arkitscenes__Training__47334761_clean/top_swap_03.png"
+    ]
+  },
+  {
+    "task_type": "top_swap_overlap",
+    "question": "There is one image: a top-view image.\nIf we swap the positions of object 1 and object 2, will object 1 or object 2 overlap (collide) with any object AFTER the swap? Answer with Yes or No.\n\nTop-view image: <image>",
+    "answer": "Yes",
+    "images": [
+      "SpatialAct/data/images/indoor/spatial_visualization/indoor_scenes_complex-10-15/3rscan__c9fb7aa5-2a5b-2cf7-902e-42a0339c7242_clean/top_swap_03.png"
+    ]
+  },
+  {
+    "task_type": "top_swap_overlap",
+    "question": "There is one image: a top-view image.\nIf we swap the positions of object 1 and object 2, will object 1 or object 2 overlap (collide) with any object AFTER the swap? Answer with Yes or No.\n\nTop-view image: <image>",
+    "answer": "No",
+    "images": [
+      "SpatialAct/data/images/indoor/spatial_visualization/indoor_scenes_complex-10-15/arkitscenes__Training__45261323_clean/top_swap_03.png"
+    ]
+  },
+  {
+    "task_type": "top_swap_overlap",
+    "question": "There is one image: a top-view image.\nIf we swap the positions of object 1 and object 2, will object 1 or object 2 overlap (collide) with any object AFTER the swap? Answer with Yes or No.\n\nTop-view image: <image>",
+    "answer": "No",
+    "images": [
+      "SpatialAct/data/images/indoor/spatial_visualization/indoor_scenes_simple-5-10/scannet__scene0055_02_clean/top_swap.png"
+    ]
+  },
+  {
+    "task_type": "top_swap_overlap",
+    "question": "There is one image: a top-view image.\nIf we swap the positions of object 1 and object 2, will object 1 or object 2 overlap (collide) with any object AFTER the swap? Answer with Yes or No.\n\nTop-view image: <image>",
+    "answer": "Yes",
+    "images": [
+      "SpatialAct/data/images/indoor/spatial_visualization/indoor_scenes_simple-5-10/3rscan__c9fb7aa7-2a5b-2cf7-916d-d38eeeeda87f_clean/top_swap_03.png"
+    ]
+  },
+  {
+    "task_type": "top_swap_overlap",
+    "question": "There is one image: a top-view image.\nIf we swap the positions of object 1 and object 2, will object 1 or object 2 overlap (collide) with any object AFTER the swap? Answer with Yes or No.\n\nTop-view image: <image>",
+    "answer": "No",
+    "images": [
+      "SpatialAct/data/images/indoor/spatial_visualization/indoor_scenes_complex-10-15/matterport3d__B6ByNegPMKs__region31_clean/top_swap_02.png"
+    ]
+  },
+  {
+    "task_type": "top_swap_overlap",
+    "question": "There is one image: a top-view image.\nIf we swap the positions of object 1 and object 2, will object 1 or object 2 overlap (collide) with any object AFTER the swap? Answer with Yes or No.\n\nTop-view image: <image>",
+    "answer": "Yes",
+    "images": [
+      "SpatialAct/data/images/indoor/spatial_visualization/indoor_scenes_complex-10-15/scannet__scene0277_02_clean/top_swap.png"
+    ]
+  },
+  {
+    "task_type": "top_swap_overlap",
+    "question": "There is one image: a top-view image.\nIf we swap the positions of object 1 and object 2, will object 1 or object 2 overlap (collide) with any object AFTER the swap? Answer with Yes or No.\n\nTop-view image: <image>",
+    "answer": "Yes",
+    "images": [
+      "SpatialAct/data/images/indoor/spatial_visualization/indoor_scenes_complex-10-15/3rscan__0cac7564-8d6f-2d13-8cb2-8b01c0a1b3d5_clean/top_swap_02.png"
+    ]
+  },
+  {
+    "task_type": "top_swap_overlap",
+    "question": "There is one image: a top-view image.\nIf we swap the positions of object 1 and object 2, will object 1 or object 2 overlap (collide) with any object AFTER the swap? Answer with Yes or No.\n\nTop-view image: <image>",
+    "answer": "Yes",
+    "images": [
+      "SpatialAct/data/images/indoor/spatial_visualization/indoor_scenes_complex-10-15/scannet__scene0355_00_clean/top_swap_02.png"
+    ]
+  },
+  {
+    "task_type": "top_swap_overlap",
+    "question": "There is one image: a top-view image.\nIf we swap the positions of object 1 and object 2, will object 1 or object 2 overlap (collide) with any object AFTER the swap? Answer with Yes or No.\n\nTop-view image: <image>",
+    "answer": "Yes",
+    "images": [
+      "SpatialAct/data/images/indoor/spatial_visualization/indoor_scenes_complex-10-15/matterport3d__5LpN3gDmAk7__region12_clean/top_swap_03.png"
+    ]
+  },
+  {
+    "task_type": "top_swap_overlap",
+    "question": "There is one image: a top-view image.\nIf we swap the positions of object 1 and object 2, will object 1 or object 2 overlap (collide) with any object AFTER the swap? Answer with Yes or No.\n\nTop-view image: <image>",
+    "answer": "Yes",
+    "images": [
+      "SpatialAct/data/images/indoor/spatial_visualization/indoor_scenes_complex-10-15/arkitscenes__Training__42898123_clean/top_swap_03.png"
+    ]
+  },
+  {
+    "task_type": "top_swap_overlap",
+    "question": "There is one image: a top-view image.\nIf we swap the positions of object 1 and object 2, will object 1 or object 2 overlap (collide) with any object AFTER the swap? Answer with Yes or No.\n\nTop-view image: <image>",
+    "answer": "Yes",
+    "images": [
+      "SpatialAct/data/images/indoor/spatial_visualization/indoor_scenes_simple-5-10/arkitscenes__Training__47331177_clean/top_swap_02.png"
+    ]
+  },
+  {
+    "task_type": "top_swap_overlap",
+    "question": "There is one image: a top-view image.\nIf we swap the positions of object 1 and object 2, will object 1 or object 2 overlap (collide) with any object AFTER the swap? Answer with Yes or No.\n\nTop-view image: <image>",
+    "answer": "No",
+    "images": [
+      "SpatialAct/data/images/indoor/spatial_visualization/indoor_scenes_simple-5-10/scannet__scene0371_01_clean/top_swap_02.png"
+    ]
+  },
+  {
+    "task_type": "top_swap_overlap",
+    "question": "There is one image: a top-view image.\nIf we swap the positions of object 1 and object 2, will object 1 or object 2 overlap (collide) with any object AFTER the swap? Answer with Yes or No.\n\nTop-view image: <image>",
+    "answer": "Yes",
+    "images": [
+      "SpatialAct/data/images/indoor/spatial_visualization/indoor_scenes_complex-10-15/matterport3d__B6ByNegPMKs__region31_clean/top_swap.png"
+    ]
+  },
+  {
+    "task_type": "top_swap_overlap",
+    "question": "There is one image: a top-view image.\nIf we swap the positions of object 1 and object 2, will object 1 or object 2 overlap (collide) with any object AFTER the swap? Answer with Yes or No.\n\nTop-view image: <image>",
+    "answer": "No",
+    "images": [
+      "SpatialAct/data/images/indoor/spatial_visualization/indoor_scenes_complex-10-15/scannet__scene0344_00_clean/top_swap.png"
+    ]
+  },
+  {
+    "task_type": "top_swap_overlap",
+    "question": "There is one image: a top-view image.\nIf we swap the positions of object 1 and object 2, will object 1 or object 2 overlap (collide) with any object AFTER the swap? Answer with Yes or No.\n\nTop-view image: <image>",
+    "answer": "Yes",
+    "images": [
+      "SpatialAct/data/images/indoor/spatial_visualization/indoor_scenes_complex-10-15/scannet__scene0129_00_clean/top_swap.png"
+    ]
+  },
+  {
+    "task_type": "top_swap_overlap",
+    "question": "There is one image: a top-view image.\nIf we swap the positions of object 1 and object 2, will object 1 or object 2 overlap (collide) with any object AFTER the swap? Answer with Yes or No.\n\nTop-view image: <image>",
+    "answer": "No",
+    "images": [
+      "SpatialAct/data/images/indoor/spatial_visualization/indoor_scenes_simple-5-10/scannet__scene0113_00_clean/top_swap.png"
+    ]
+  },
+  {
+    "task_type": "top_swap_overlap",
+    "question": "There is one image: a top-view image.\nIf we swap the positions of object 1 and object 2, will object 1 or object 2 overlap (collide) with any object AFTER the swap? Answer with Yes or No.\n\nTop-view image: <image>",
+    "answer": "No",
+    "images": [
+      "SpatialAct/data/images/indoor/spatial_visualization/indoor_scenes_complex-10-15/3rscan__68bae766-3567-2f7c-825a-f0522da62564_clean/top_swap.png"
+    ]
+  },
+  {
+    "task_type": "top_swap_overlap",
+    "question": "There is one image: a top-view image.\nIf we swap the positions of object 1 and object 2, will object 1 or object 2 overlap (collide) with any object AFTER the swap? Answer with Yes or No.\n\nTop-view image: <image>",
+    "answer": "Yes",
+    "images": [
+      "SpatialAct/data/images/indoor/spatial_visualization/indoor_scenes_complex-10-15/arkitscenes__Training__42899161_clean/top_swap_02.png"
+    ]
+  },
+  {
+    "task_type": "top_swap_overlap",
+    "question": "There is one image: a top-view image.\nIf we swap the positions of object 1 and object 2, will object 1 or object 2 overlap (collide) with any object AFTER the swap? Answer with Yes or No.\n\nTop-view image: <image>",
+    "answer": "Yes",
+    "images": [
+      "SpatialAct/data/images/indoor/spatial_visualization/indoor_scenes_complex-10-15/arkitscenes__Training__45261323_clean/top_swap_02.png"
+    ]
+  },
+  {
+    "task_type": "top_swap_overlap",
+    "question": "There is one image: a top-view image.\nIf we swap the positions of object 1 and object 2, will object 1 or object 2 overlap (collide) with any object AFTER the swap? Answer with Yes or No.\n\nTop-view image: <image>",
+    "answer": "No",
+    "images": [
+      "SpatialAct/data/images/indoor/spatial_visualization/indoor_scenes_complex-10-15/3rscan__634d11c7-6833-255d-8d76-86fe90beafdc_clean/top_swap.png"
+    ]
+  },
+  {
+    "task_type": "top_swap_overlap",
+    "question": "There is one image: a top-view image.\nIf we swap the positions of object 1 and object 2, will object 1 or object 2 overlap (collide) with any object AFTER the swap? Answer with Yes or No.\n\nTop-view image: <image>",
+    "answer": "No",
+    "images": [
+      "SpatialAct/data/images/indoor/spatial_visualization/indoor_scenes_complex-10-15/arkitscenes__Validation__47895367_clean/top_swap_03.png"
+    ]
+  },
+  {
+    "task_type": "top_swap_overlap",
+    "question": "There is one image: a top-view image.\nIf we swap the positions of object 1 and object 2, will object 1 or object 2 overlap (collide) with any object AFTER the swap? Answer with Yes or No.\n\nTop-view image: <image>",
+    "answer": "No",
+    "images": [
+      "SpatialAct/data/images/indoor/spatial_visualization/indoor_scenes_complex-10-15/scannet__scene0067_02_clean/top_swap_03.png"
+    ]
+  },
+  {
+    "task_type": "top_swap_overlap",
+    "question": "There is one image: a top-view image.\nIf we swap the positions of object 1 and object 2, will object 1 or object 2 overlap (collide) with any object AFTER the swap? Answer with Yes or No.\n\nTop-view image: <image>",
+    "answer": "Yes",
+    "images": [
+      "SpatialAct/data/images/indoor/spatial_visualization/indoor_scenes_complex-10-15/3rscan__c9fb7aa5-2a5b-2cf7-902e-42a0339c7242_clean/top_swap.png"
+    ]
+  },
+  {
+    "task_type": "top_swap_overlap",
+    "question": "There is one image: a top-view image.\nIf we swap the positions of object 1 and object 2, will object 1 or object 2 overlap (collide) with any object AFTER the swap? Answer with Yes or No.\n\nTop-view image: <image>",
+    "answer": "Yes",
+    "images": [
+      "SpatialAct/data/images/indoor/spatial_visualization/indoor_scenes_simple-5-10/scannet__scene0371_01_clean/top_swap.png"
+    ]
+  },
+  {
+    "task_type": "top_swap_overlap",
+    "question": "There is one image: a top-view image.\nIf we swap the positions of object 1 and object 2, will object 1 or object 2 overlap (collide) with any object AFTER the swap? Answer with Yes or No.\n\nTop-view image: <image>",
+    "answer": "Yes",
+    "images": [
+      "SpatialAct/data/images/indoor/spatial_visualization/indoor_scenes_complex-10-15/matterport3d__B6ByNegPMKs__region5_clean/top_swap_02.png"
+    ]
+  },
+  {
+    "task_type": "top_swap_overlap",
+    "question": "There is one image: a top-view image.\nIf we swap the positions of object 1 and object 2, will object 1 or object 2 overlap (collide) with any object AFTER the swap? Answer with Yes or No.\n\nTop-view image: <image>",
+    "answer": "No",
+    "images": [
+      "SpatialAct/data/images/indoor/spatial_visualization/indoor_scenes_complex-10-15/matterport3d__HxpKQynjfin__region5_clean/top_swap.png"
+    ]
+  },
+  {
+    "task_type": "top_swap_overlap",
+    "question": "There is one image: a top-view image.\nIf we swap the positions of object 1 and object 2, will object 1 or object 2 overlap (collide) with any object AFTER the swap? Answer with Yes or No.\n\nTop-view image: <image>",
+    "answer": "Yes",
+    "images": [
+      "SpatialAct/data/images/indoor/spatial_visualization/indoor_scenes_complex-10-15/scannet__scene0036_01_clean/top_swap_02.png"
+    ]
+  },
+  {
+    "task_type": "top_swap_overlap",
+    "question": "There is one image: a top-view image.\nIf we swap the positions of object 1 and object 2, will object 1 or object 2 overlap (collide) with any object AFTER the swap? Answer with Yes or No.\n\nTop-view image: <image>",
+    "answer": "No",
+    "images": [
+      "SpatialAct/data/images/indoor/spatial_visualization/indoor_scenes_simple-5-10/3rscan__0cac7627-8d6f-2d13-8eac-41764b5f2c5b_clean/top_swap.png"
+    ]
+  },
+  {
+    "task_type": "top_swap_overlap",
+    "question": "There is one image: a top-view image.\nIf we swap the positions of object 1 and object 2, will object 1 or object 2 overlap (collide) with any object AFTER the swap? Answer with Yes or No.\n\nTop-view image: <image>",
+    "answer": "Yes",
+    "images": [
+      "SpatialAct/data/images/indoor/spatial_visualization/indoor_scenes_complex-10-15/scannet__scene0625_01_clean/top_swap.png"
+    ]
+  },
+  {
+    "task_type": "top_swap_overlap",
+    "question": "There is one image: a top-view image.\nIf we swap the positions of object 1 and object 2, will object 1 or object 2 overlap (collide) with any object AFTER the swap? Answer with Yes or No.\n\nTop-view image: <image>",
+    "answer": "Yes",
+    "images": [
+      "SpatialAct/data/images/indoor/spatial_visualization/indoor_scenes_simple-5-10/3rscan__2e369567-e133-204c-909a-c5da44bb58df_clean/top_swap_02.png"
+    ]
+  },
+  {
+    "task_type": "top_swap_overlap",
+    "question": "There is one image: a top-view image.\nIf we swap the positions of object 1 and object 2, will object 1 or object 2 overlap (collide) with any object AFTER the swap? Answer with Yes or No.\n\nTop-view image: <image>",
+    "answer": "Yes",
+    "images": [
+      "SpatialAct/data/images/indoor/spatial_visualization/indoor_scenes_complex-10-15/arkitscenes__Training__47331180_clean/top_swap_03.png"
+    ]
+  },
+  {
+    "task_type": "top_swap_overlap",
+    "question": "There is one image: a top-view image.\nIf we swap the positions of object 1 and object 2, will object 1 or object 2 overlap (collide) with any object AFTER the swap? Answer with Yes or No.\n\nTop-view image: <image>",
+    "answer": "No",
+    "images": [
+      "SpatialAct/data/images/indoor/spatial_visualization/indoor_scenes_complex-10-15/scannet__scene0503_00_clean/top_swap_02.png"
+    ]
+  },
+  {
+    "task_type": "top_swap_overlap",
+    "question": "There is one image: a top-view image.\nIf we swap the positions of object 1 and object 2, will object 1 or object 2 overlap (collide) with any object AFTER the swap? Answer with Yes or No.\n\nTop-view image: <image>",
+    "answer": "No",
+    "images": [
+      "SpatialAct/data/images/indoor/spatial_visualization/indoor_scenes_complex-10-15/3rscan__47319772-f9f7-2a1a-9768-108df4f37ab9_clean/top_swap_03.png"
+    ]
+  },
+  {
+    "task_type": "top_swap_overlap",
+    "question": "There is one image: a top-view image.\nIf we swap the positions of object 1 and object 2, will object 1 or object 2 overlap (collide) with any object AFTER the swap? Answer with Yes or No.\n\nTop-view image: <image>",
+    "answer": "Yes",
+    "images": [
+      "SpatialAct/data/images/indoor/spatial_visualization/indoor_scenes_simple-5-10/3rscan__501ebf0b-a3bb-263f-86fd-7ef000a19588_clean/top_swap_03.png"
+    ]
+  },
+  {
+    "task_type": "top_swap_overlap",
+    "question": "There is one image: a top-view image.\nIf we swap the positions of object 1 and object 2, will object 1 or object 2 overlap (collide) with any object AFTER the swap? Answer with Yes or No.\n\nTop-view image: <image>",
+    "answer": "No",
+    "images": [
+      "SpatialAct/data/images/indoor/spatial_visualization/indoor_scenes_complex-10-15/3rscan__0cac7564-8d6f-2d13-8cb2-8b01c0a1b3d5_clean/top_swap.png"
+    ]
+  },
+  {
+    "task_type": "top_swap_overlap",
+    "question": "There is one image: a top-view image.\nIf we swap the positions of object 1 and object 2, will object 1 or object 2 overlap (collide) with any object AFTER the swap? Answer with Yes or No.\n\nTop-view image: <image>",
+    "answer": "No",
+    "images": [
+      "SpatialAct/data/images/indoor/spatial_visualization/indoor_scenes_complex-10-15/arkitscenes__Training__48458713_clean/top_swap_03.png"
+    ]
+  },
+  {
+    "task_type": "top_swap_overlap",
+    "question": "There is one image: a top-view image.\nIf we swap the positions of object 1 and object 2, will object 1 or object 2 overlap (collide) with any object AFTER the swap? Answer with Yes or No.\n\nTop-view image: <image>",
+    "answer": "No",
+    "images": [
+      "SpatialAct/data/images/indoor/spatial_visualization/indoor_scenes_complex-10-15/arkitscenes__Training__42899295_clean/top_swap_03.png"
+    ]
+  },
+  {
+    "task_type": "top_swap_overlap",
+    "question": "There is one image: a top-view image.\nIf we swap the positions of object 1 and object 2, will object 1 or object 2 overlap (collide) with any object AFTER the swap? Answer with Yes or No.\n\nTop-view image: <image>",
+    "answer": "Yes",
+    "images": [
+      "SpatialAct/data/images/indoor/spatial_visualization/indoor_scenes_complex-10-15/scannet__scene0625_01_clean/top_swap_03.png"
+    ]
+  }
+]

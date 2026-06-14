@@ -1,0 +1,702 @@
+[
+  {
+    "question": "There is one image: a top-view image.\nDirections in the image: North=up, South=down, East=right, West=left.\nIf object 2 is moved East by 6 units, will it overlap (collide) with object 3? Answer with Yes or No.\n\nTop-view image: <image>\nNote: the image includes a 1 unit scale bar for reference.\n",
+    "answer": "Yes",
+    "images": [
+      "SpatialAct/data/images/geometry/spatial_visualization/v1.2/top_isometric/sample_022/top_move.png"
+    ]
+  },
+  {
+    "question": "There is one image: a top-view image.\nDirections in the image: North=up, South=down, East=right, West=left.\nIf object 2 is moved South by 5 units, will it overlap (collide) with object 6? Answer with Yes or No.\n\nTop-view image: <image>\nNote: the image includes a 1 unit scale bar for reference.\n",
+    "answer": "Yes",
+    "images": [
+      "SpatialAct/data/images/geometry/spatial_visualization/v1.2/top_isometric/sample_002/top_move.png"
+    ]
+  },
+  {
+    "question": "There is one image: a top-view image.\nDirections in the image: North=up, South=down, East=right, West=left.\nIf object 6 is moved North by 5 units, will it overlap (collide) with object 2? Answer with Yes or No.\n\nTop-view image: <image>\nNote: the image includes a 1 unit scale bar for reference.\n",
+    "answer": "No",
+    "images": [
+      "SpatialAct/data/images/geometry/spatial_visualization/v1.2/top_isometric/sample_055/top_move.png"
+    ]
+  },
+  {
+    "question": "There is one image: a top-view image.\nIf we swap the positions of object 5 and object 2, will there be any overlap (collision) in the scene AFTER the swap? Answer with Yes or No.\n\nTop-view image: <image>",
+    "answer": "No",
+    "images": [
+      "SpatialAct/data/images/geometry/spatial_visualization/v1.2/top_isometric/sample_011/top_swap.png"
+    ]
+  },
+  {
+    "question": "There is one image: a top-view image.\nDirections in the image: North=up, South=down, East=right, West=left.\nIf object 2 is moved South by 5 units, will it overlap (collide) with object 3? Answer with Yes or No.\n\nTop-view image: <image>\nNote: the image includes a 1 unit scale bar for reference.\n",
+    "answer": "Yes",
+    "images": [
+      "SpatialAct/data/images/geometry/spatial_visualization/v1.2/top_isometric/sample_054/top_move.png"
+    ]
+  },
+  {
+    "question": "There is one image: a top-view image.\nDirections in the image: North=up, South=down, East=right, West=left.\nIf object 3 is moved East by 5 units, will it overlap (collide) with object 2? Answer with Yes or No.\n\nTop-view image: <image>\nNote: the image includes a 1 unit scale bar for reference.\n",
+    "answer": "No",
+    "images": [
+      "SpatialAct/data/images/geometry/spatial_visualization/v1.2/top_isometric/sample_003/top_move.png"
+    ]
+  },
+  {
+    "question": "There is one image: a top-view image.\nDirections in the image: North=up, South=down, East=right, West=left.\nIf object 5 is moved South by 2 units, will it overlap (collide) with object 2? Answer with Yes or No.\n\nTop-view image: <image>\nNote: the image includes a 1 unit scale bar for reference.\n",
+    "answer": "No",
+    "images": [
+      "SpatialAct/data/images/geometry/spatial_visualization/v1.2/top_isometric/sample_009/top_move.png"
+    ]
+  },
+  {
+    "question": "There is one image: a top-view image.\nDirections in the image: North=up, South=down, East=right, West=left.\nIf object 2 is moved East by 6 units, will it overlap (collide) with object 3? Answer with Yes or No.\n\nTop-view image: <image>\nNote: the image includes a 1 unit scale bar for reference.\n",
+    "answer": "Yes",
+    "images": [
+      "SpatialAct/data/images/geometry/spatial_visualization/v1.2/top_isometric/sample_030/top_move.png"
+    ]
+  },
+  {
+    "question": "There is one image: a top-view image.\nDirections in the image: North=up, South=down, East=right, West=left.\nIf object 4 is moved North by 6 units, will it overlap (collide) with object 1? Answer with Yes or No.\n\nTop-view image: <image>\nNote: the image includes a 1 unit scale bar for reference.\n",
+    "answer": "No",
+    "images": [
+      "SpatialAct/data/images/geometry/spatial_visualization/v1.2/top_isometric/sample_047/top_move.png"
+    ]
+  },
+  {
+    "question": "There is one image: a top-view image.\nIf we swap the positions of object 4 and object 3, will there be any overlap (collision) in the scene AFTER the swap? Answer with Yes or No.\n\nTop-view image: <image>",
+    "answer": "No",
+    "images": [
+      "SpatialAct/data/images/geometry/spatial_visualization/v1.2/top_isometric/sample_023/top_swap.png"
+    ]
+  },
+  {
+    "question": "There is one image: a top-view image.\nDirections in the image: North=up, South=down, East=right, West=left.\nIf object 4 is moved North by 6 units, will it overlap (collide) with object 2? Answer with Yes or No.\n\nTop-view image: <image>\nNote: the image includes a 1 unit scale bar for reference.\n",
+    "answer": "Yes",
+    "images": [
+      "SpatialAct/data/images/geometry/spatial_visualization/v1.2/top_isometric/sample_056/top_move.png"
+    ]
+  },
+  {
+    "question": "There is one image: a top-view image.\nDirections in the image: North=up, South=down, East=right, West=left.\nIf object 1 is moved North by 6 units, will it overlap (collide) with object 5? Answer with Yes or No.\n\nTop-view image: <image>\nNote: the image includes a 1 unit scale bar for reference.\n",
+    "answer": "No",
+    "images": [
+      "SpatialAct/data/images/geometry/spatial_visualization/v1.2/top_isometric/sample_007/top_move.png"
+    ]
+  },
+  {
+    "question": "There is one image: a top-view image.\nIf we swap the positions of object 4 and object 3, will there be any overlap (collision) in the scene AFTER the swap? Answer with Yes or No.\n\nTop-view image: <image>",
+    "answer": "Yes",
+    "images": [
+      "SpatialAct/data/images/geometry/spatial_visualization/v1.2/top_isometric/sample_016/top_swap.png"
+    ]
+  },
+  {
+    "question": "There is one image: a top-view image.\nIf we swap the positions of object 2 and object 1, will there be any overlap (collision) in the scene AFTER the swap? Answer with Yes or No.\n\nTop-view image: <image>",
+    "answer": "No",
+    "images": [
+      "SpatialAct/data/images/geometry/spatial_visualization/v1.2/top_isometric/sample_015/top_swap.png"
+    ]
+  },
+  {
+    "question": "There is one image: a top-view image.\nDirections in the image: North=up, South=down, East=right, West=left.\nIf object 1 is moved South by 2 units, will it overlap (collide) with object 6? Answer with Yes or No.\n\nTop-view image: <image>\nNote: the image includes a 1 unit scale bar for reference.\n",
+    "answer": "No",
+    "images": [
+      "SpatialAct/data/images/geometry/spatial_visualization/v1.2/top_isometric/sample_051/top_move.png"
+    ]
+  },
+  {
+    "question": "There is one image: a top-view image.\nDirections in the image: North=up, South=down, East=right, West=left.\nIf object 2 is moved North by 3 units, will it overlap (collide) with object 3? Answer with Yes or No.\n\nTop-view image: <image>\nNote: the image includes a 1 unit scale bar for reference.\n",
+    "answer": "No",
+    "images": [
+      "SpatialAct/data/images/geometry/spatial_visualization/v1.2/top_isometric/sample_011/top_move.png"
+    ]
+  },
+  {
+    "question": "There is one image: a top-view image.\nDirections in the image: North=up, South=down, East=right, West=left.\nIf object 1 is moved East by 6 units, will it overlap (collide) with object 3? Answer with Yes or No.\n\nTop-view image: <image>\nNote: the image includes a 1 unit scale bar for reference.\n",
+    "answer": "Yes",
+    "images": [
+      "SpatialAct/data/images/geometry/spatial_visualization/v1.2/top_isometric/sample_042/top_move.png"
+    ]
+  },
+  {
+    "question": "There is one image: a top-view image.\nDirections in the image: North=up, South=down, East=right, West=left.\nIf object 4 is moved South by 2 units, will it overlap (collide) with object 1? Answer with Yes or No.\n\nTop-view image: <image>\nNote: the image includes a 1 unit scale bar for reference.\n",
+    "answer": "Yes",
+    "images": [
+      "SpatialAct/data/images/geometry/spatial_visualization/v1.2/top_isometric/sample_032/top_move.png"
+    ]
+  },
+  {
+    "question": "There is one image: a top-view image.\nDirections in the image: North=up, South=down, East=right, West=left.\nIf object 4 is moved South by 2 units, will it overlap (collide) with object 1? Answer with Yes or No.\n\nTop-view image: <image>\nNote: the image includes a 1 unit scale bar for reference.\n",
+    "answer": "No",
+    "images": [
+      "SpatialAct/data/images/geometry/spatial_visualization/v1.2/top_isometric/sample_029/top_move.png"
+    ]
+  },
+  {
+    "question": "There is one image: a top-view image.\nIf we swap the positions of object 3 and object 4, will there be any overlap (collision) in the scene AFTER the swap? Answer with Yes or No.\n\nTop-view image: <image>",
+    "answer": "No",
+    "images": [
+      "SpatialAct/data/images/geometry/spatial_visualization/v1.2/top_isometric/sample_057/top_swap.png"
+    ]
+  },
+  {
+    "question": "There is one image: a top-view image.\nIf we swap the positions of object 1 and object 3, will there be any overlap (collision) in the scene AFTER the swap? Answer with Yes or No.\n\nTop-view image: <image>",
+    "answer": "No",
+    "images": [
+      "SpatialAct/data/images/geometry/spatial_visualization/v1.2/top_isometric/sample_037/top_swap.png"
+    ]
+  },
+  {
+    "question": "There is one image: a top-view image.\nIf we swap the positions of object 6 and object 1, will there be any overlap (collision) in the scene AFTER the swap? Answer with Yes or No.\n\nTop-view image: <image>",
+    "answer": "No",
+    "images": [
+      "SpatialAct/data/images/geometry/spatial_visualization/v1.2/top_isometric/sample_007/top_swap.png"
+    ]
+  },
+  {
+    "question": "There is one image: a top-view image.\nIf we swap the positions of object 1 and object 5, will there be any overlap (collision) in the scene AFTER the swap? Answer with Yes or No.\n\nTop-view image: <image>",
+    "answer": "No",
+    "images": [
+      "SpatialAct/data/images/geometry/spatial_visualization/v1.2/top_isometric/sample_039/top_swap.png"
+    ]
+  },
+  {
+    "question": "There is one image: a top-view image.\nIf we swap the positions of object 4 and object 6, will there be any overlap (collision) in the scene AFTER the swap? Answer with Yes or No.\n\nTop-view image: <image>",
+    "answer": "No",
+    "images": [
+      "SpatialAct/data/images/geometry/spatial_visualization/v1.2/top_isometric/sample_041/top_swap.png"
+    ]
+  },
+  {
+    "question": "There is one image: a top-view image.\nDirections in the image: North=up, South=down, East=right, West=left.\nIf object 5 is moved East by 5 units, will it overlap (collide) with object 2? Answer with Yes or No.\n\nTop-view image: <image>\nNote: the image includes a 1 unit scale bar for reference.\n",
+    "answer": "Yes",
+    "images": [
+      "SpatialAct/data/images/geometry/spatial_visualization/v1.2/top_isometric/sample_016/top_move.png"
+    ]
+  },
+  {
+    "question": "There is one image: a top-view image.\nDirections in the image: North=up, South=down, East=right, West=left.\nIf object 4 is moved North by 3 units, will it overlap (collide) with object 2? Answer with Yes or No.\n\nTop-view image: <image>\nNote: the image includes a 1 unit scale bar for reference.\n",
+    "answer": "No",
+    "images": [
+      "SpatialAct/data/images/geometry/spatial_visualization/v1.2/top_isometric/sample_057/top_move.png"
+    ]
+  },
+  {
+    "question": "There is one image: a top-view image.\nDirections in the image: North=up, South=down, East=right, West=left.\nIf object 4 is moved East by 2 units, will it overlap (collide) with object 1? Answer with Yes or No.\n\nTop-view image: <image>\nNote: the image includes a 1 unit scale bar for reference.\n",
+    "answer": "No",
+    "images": [
+      "SpatialAct/data/images/geometry/spatial_visualization/v1.2/top_isometric/sample_025/top_move.png"
+    ]
+  },
+  {
+    "question": "There is one image: a top-view image.\nDirections in the image: North=up, South=down, East=right, West=left.\nIf object 4 is moved East by 4 units, will it overlap (collide) with object 5? Answer with Yes or No.\n\nTop-view image: <image>\nNote: the image includes a 1 unit scale bar for reference.\n",
+    "answer": "Yes",
+    "images": [
+      "SpatialAct/data/images/geometry/spatial_visualization/v1.2/top_isometric/sample_006/top_move.png"
+    ]
+  },
+  {
+    "question": "There is one image: a top-view image.\nDirections in the image: North=up, South=down, East=right, West=left.\nIf object 4 is moved North by 5 units, will it overlap (collide) with object 1? Answer with Yes or No.\n\nTop-view image: <image>\nNote: the image includes a 1 unit scale bar for reference.\n",
+    "answer": "Yes",
+    "images": [
+      "SpatialAct/data/images/geometry/spatial_visualization/v1.2/top_isometric/sample_036/top_move.png"
+    ]
+  },
+  {
+    "question": "There is one image: a top-view image.\nIf we swap the positions of object 4 and object 6, will there be any overlap (collision) in the scene AFTER the swap? Answer with Yes or No.\n\nTop-view image: <image>",
+    "answer": "Yes",
+    "images": [
+      "SpatialAct/data/images/geometry/spatial_visualization/v1.2/top_isometric/sample_052/top_swap.png"
+    ]
+  },
+  {
+    "question": "There is one image: a top-view image.\nDirections in the image: North=up, South=down, East=right, West=left.\nIf object 5 is moved North by 3 units, will it overlap (collide) with object 6? Answer with Yes or No.\n\nTop-view image: <image>\nNote: the image includes a 1 unit scale bar for reference.\n",
+    "answer": "No",
+    "images": [
+      "SpatialAct/data/images/geometry/spatial_visualization/v1.2/top_isometric/sample_027/top_move.png"
+    ]
+  },
+  {
+    "question": "There is one image: a top-view image.\nDirections in the image: North=up, South=down, East=right, West=left.\nIf object 5 is moved North by 2 units, will it overlap (collide) with object 4? Answer with Yes or No.\n\nTop-view image: <image>\nNote: the image includes a 1 unit scale bar for reference.\n",
+    "answer": "No",
+    "images": [
+      "SpatialAct/data/images/geometry/spatial_visualization/v1.2/top_isometric/sample_039/top_move.png"
+    ]
+  },
+  {
+    "question": "There is one image: a top-view image.\nIf we swap the positions of object 5 and object 1, will there be any overlap (collision) in the scene AFTER the swap? Answer with Yes or No.\n\nTop-view image: <image>",
+    "answer": "Yes",
+    "images": [
+      "SpatialAct/data/images/geometry/spatial_visualization/v1.2/top_isometric/sample_006/top_swap.png"
+    ]
+  },
+  {
+    "question": "There is one image: a top-view image.\nDirections in the image: North=up, South=down, East=right, West=left.\nIf object 1 is moved North by 6 units, will it overlap (collide) with object 2? Answer with Yes or No.\n\nTop-view image: <image>\nNote: the image includes a 1 unit scale bar for reference.\n",
+    "answer": "Yes",
+    "images": [
+      "SpatialAct/data/images/geometry/spatial_visualization/v1.2/top_isometric/sample_010/top_move.png"
+    ]
+  },
+  {
+    "question": "There is one image: a top-view image.\nDirections in the image: North=up, South=down, East=right, West=left.\nIf object 4 is moved West by 6 units, will it overlap (collide) with object 3? Answer with Yes or No.\n\nTop-view image: <image>\nNote: the image includes a 1 unit scale bar for reference.\n",
+    "answer": "Yes",
+    "images": [
+      "SpatialAct/data/images/geometry/spatial_visualization/v1.2/top_isometric/sample_038/top_move.png"
+    ]
+  },
+  {
+    "question": "There is one image: a top-view image.\nDirections in the image: North=up, South=down, East=right, West=left.\nIf object 1 is moved East by 6 units, will it overlap (collide) with object 4? Answer with Yes or No.\n\nTop-view image: <image>\nNote: the image includes a 1 unit scale bar for reference.\n",
+    "answer": "Yes",
+    "images": [
+      "SpatialAct/data/images/geometry/spatial_visualization/v1.2/top_isometric/sample_008/top_move.png"
+    ]
+  },
+  {
+    "question": "There is one image: a top-view image.\nIf we swap the positions of object 3 and object 1, will there be any overlap (collision) in the scene AFTER the swap? Answer with Yes or No.\n\nTop-view image: <image>",
+    "answer": "No",
+    "images": [
+      "SpatialAct/data/images/geometry/spatial_visualization/v1.2/top_isometric/sample_001/top_swap.png"
+    ]
+  },
+  {
+    "question": "There is one image: a top-view image.\nIf we swap the positions of object 5 and object 6, will there be any overlap (collision) in the scene AFTER the swap? Answer with Yes or No.\n\nTop-view image: <image>",
+    "answer": "No",
+    "images": [
+      "SpatialAct/data/images/geometry/spatial_visualization/v1.2/top_isometric/sample_005/top_swap.png"
+    ]
+  },
+  {
+    "question": "There is one image: a top-view image.\nIf we swap the positions of object 1 and object 3, will there be any overlap (collision) in the scene AFTER the swap? Answer with Yes or No.\n\nTop-view image: <image>",
+    "answer": "Yes",
+    "images": [
+      "SpatialAct/data/images/geometry/spatial_visualization/v1.2/top_isometric/sample_044/top_swap.png"
+    ]
+  },
+  {
+    "question": "There is one image: a top-view image.\nIf we swap the positions of object 3 and object 4, will there be any overlap (collision) in the scene AFTER the swap? Answer with Yes or No.\n\nTop-view image: <image>",
+    "answer": "Yes",
+    "images": [
+      "SpatialAct/data/images/geometry/spatial_visualization/v1.2/top_isometric/sample_028/top_swap.png"
+    ]
+  },
+  {
+    "question": "There is one image: a top-view image.\nDirections in the image: North=up, South=down, East=right, West=left.\nIf object 1 is moved West by 5 units, will it overlap (collide) with object 6? Answer with Yes or No.\n\nTop-view image: <image>\nNote: the image includes a 1 unit scale bar for reference.\n",
+    "answer": "Yes",
+    "images": [
+      "SpatialAct/data/images/geometry/spatial_visualization/v1.2/top_isometric/sample_046/top_move.png"
+    ]
+  },
+  {
+    "question": "There is one image: a top-view image.\nIf we swap the positions of object 3 and object 1, will there be any overlap (collision) in the scene AFTER the swap? Answer with Yes or No.\n\nTop-view image: <image>",
+    "answer": "Yes",
+    "images": [
+      "SpatialAct/data/images/geometry/spatial_visualization/v1.2/top_isometric/sample_020/top_swap.png"
+    ]
+  },
+  {
+    "question": "There is one image: a top-view image.\nIf we swap the positions of object 2 and object 1, will there be any overlap (collision) in the scene AFTER the swap? Answer with Yes or No.\n\nTop-view image: <image>",
+    "answer": "Yes",
+    "images": [
+      "SpatialAct/data/images/geometry/spatial_visualization/v1.2/top_isometric/sample_002/top_swap.png"
+    ]
+  },
+  {
+    "question": "There is one image: a top-view image.\nIf we swap the positions of object 5 and object 3, will there be any overlap (collision) in the scene AFTER the swap? Answer with Yes or No.\n\nTop-view image: <image>",
+    "answer": "Yes",
+    "images": [
+      "SpatialAct/data/images/geometry/spatial_visualization/v1.2/top_isometric/sample_038/top_swap.png"
+    ]
+  },
+  {
+    "question": "There is one image: a top-view image.\nDirections in the image: North=up, South=down, East=right, West=left.\nIf object 2 is moved West by 4 units, will it overlap (collide) with object 1? Answer with Yes or No.\n\nTop-view image: <image>\nNote: the image includes a 1 unit scale bar for reference.\n",
+    "answer": "No",
+    "images": [
+      "SpatialAct/data/images/geometry/spatial_visualization/v1.2/top_isometric/sample_043/top_move.png"
+    ]
+  },
+  {
+    "question": "There is one image: a top-view image.\nDirections in the image: North=up, South=down, East=right, West=left.\nIf object 2 is moved East by 2 units, will it overlap (collide) with object 6? Answer with Yes or No.\n\nTop-view image: <image>\nNote: the image includes a 1 unit scale bar for reference.\n",
+    "answer": "No",
+    "images": [
+      "SpatialAct/data/images/geometry/spatial_visualization/v1.2/top_isometric/sample_053/top_move.png"
+    ]
+  },
+  {
+    "question": "There is one image: a top-view image.\nIf we swap the positions of object 3 and object 1, will there be any overlap (collision) in the scene AFTER the swap? Answer with Yes or No.\n\nTop-view image: <image>",
+    "answer": "Yes",
+    "images": [
+      "SpatialAct/data/images/geometry/spatial_visualization/v1.2/top_isometric/sample_018/top_swap.png"
+    ]
+  },
+  {
+    "question": "There is one image: a top-view image.\nIf we swap the positions of object 5 and object 2, will there be any overlap (collision) in the scene AFTER the swap? Answer with Yes or No.\n\nTop-view image: <image>",
+    "answer": "Yes",
+    "images": [
+      "SpatialAct/data/images/geometry/spatial_visualization/v1.2/top_isometric/sample_054/top_swap.png"
+    ]
+  },
+  {
+    "question": "There is one image: a top-view image.\nIf we swap the positions of object 5 and object 4, will there be any overlap (collision) in the scene AFTER the swap? Answer with Yes or No.\n\nTop-view image: <image>",
+    "answer": "No",
+    "images": [
+      "SpatialAct/data/images/geometry/spatial_visualization/v1.2/top_isometric/sample_031/top_swap.png"
+    ]
+  },
+  {
+    "question": "There is one image: a top-view image.\nIf we swap the positions of object 2 and object 4, will there be any overlap (collision) in the scene AFTER the swap? Answer with Yes or No.\n\nTop-view image: <image>",
+    "answer": "Yes",
+    "images": [
+      "SpatialAct/data/images/geometry/spatial_visualization/v1.2/top_isometric/sample_032/top_swap.png"
+    ]
+  },
+  {
+    "question": "There is one image: a top-view image.\nIf we swap the positions of object 2 and object 5, will there be any overlap (collision) in the scene AFTER the swap? Answer with Yes or No.\n\nTop-view image: <image>",
+    "answer": "No",
+    "images": [
+      "SpatialAct/data/images/geometry/spatial_visualization/v1.2/top_isometric/sample_019/top_swap.png"
+    ]
+  },
+  {
+    "question": "There is one image: a top-view image.\nIf we swap the positions of object 5 and object 2, will there be any overlap (collision) in the scene AFTER the swap? Answer with Yes or No.\n\nTop-view image: <image>",
+    "answer": "No",
+    "images": [
+      "SpatialAct/data/images/geometry/spatial_visualization/v1.2/top_isometric/sample_059/top_swap.png"
+    ]
+  },
+  {
+    "question": "There is one image: a top-view image.\nIf we swap the positions of object 6 and object 3, will there be any overlap (collision) in the scene AFTER the swap? Answer with Yes or No.\n\nTop-view image: <image>",
+    "answer": "Yes",
+    "images": [
+      "SpatialAct/data/images/geometry/spatial_visualization/v1.2/top_isometric/sample_048/top_swap.png"
+    ]
+  },
+  {
+    "question": "There is one image: a top-view image.\nIf we swap the positions of object 1 and object 6, will there be any overlap (collision) in the scene AFTER the swap? Answer with Yes or No.\n\nTop-view image: <image>",
+    "answer": "No",
+    "images": [
+      "SpatialAct/data/images/geometry/spatial_visualization/v1.2/top_isometric/sample_035/top_swap.png"
+    ]
+  },
+  {
+    "question": "There is one image: a top-view image.\nDirections in the image: North=up, South=down, East=right, West=left.\nIf object 5 is moved North by 4 units, will it overlap (collide) with object 3? Answer with Yes or No.\n\nTop-view image: <image>\nNote: the image includes a 1 unit scale bar for reference.\n",
+    "answer": "Yes",
+    "images": [
+      "SpatialAct/data/images/geometry/spatial_visualization/v1.2/top_isometric/sample_050/top_move.png"
+    ]
+  },
+  {
+    "question": "There is one image: a top-view image.\nDirections in the image: North=up, South=down, East=right, West=left.\nIf object 1 is moved North by 2 units, will it overlap (collide) with object 5? Answer with Yes or No.\n\nTop-view image: <image>\nNote: the image includes a 1 unit scale bar for reference.\n",
+    "answer": "No",
+    "images": [
+      "SpatialAct/data/images/geometry/spatial_visualization/v1.2/top_isometric/sample_023/top_move.png"
+    ]
+  },
+  {
+    "question": "There is one image: a top-view image.\nIf we swap the positions of object 5 and object 2, will there be any overlap (collision) in the scene AFTER the swap? Answer with Yes or No.\n\nTop-view image: <image>",
+    "answer": "Yes",
+    "images": [
+      "SpatialAct/data/images/geometry/spatial_visualization/v1.2/top_isometric/sample_012/top_swap.png"
+    ]
+  },
+  {
+    "question": "There is one image: a top-view image.\nIf we swap the positions of object 5 and object 2, will there be any overlap (collision) in the scene AFTER the swap? Answer with Yes or No.\n\nTop-view image: <image>",
+    "answer": "No",
+    "images": [
+      "SpatialAct/data/images/geometry/spatial_visualization/v1.2/top_isometric/sample_025/top_swap.png"
+    ]
+  },
+  {
+    "question": "There is one image: a top-view image.\nIf we swap the positions of object 5 and object 6, will there be any overlap (collision) in the scene AFTER the swap? Answer with Yes or No.\n\nTop-view image: <image>",
+    "answer": "No",
+    "images": [
+      "SpatialAct/data/images/geometry/spatial_visualization/v1.2/top_isometric/sample_021/top_swap.png"
+    ]
+  },
+  {
+    "question": "There is one image: a top-view image.\nIf we swap the positions of object 3 and object 5, will there be any overlap (collision) in the scene AFTER the swap? Answer with Yes or No.\n\nTop-view image: <image>",
+    "answer": "No",
+    "images": [
+      "SpatialAct/data/images/geometry/spatial_visualization/v1.2/top_isometric/sample_047/top_swap.png"
+    ]
+  },
+  {
+    "question": "There is one image: a top-view image.\nIf we swap the positions of object 5 and object 2, will there be any overlap (collision) in the scene AFTER the swap? Answer with Yes or No.\n\nTop-view image: <image>",
+    "answer": "Yes",
+    "images": [
+      "SpatialAct/data/images/geometry/spatial_visualization/v1.2/top_isometric/sample_010/top_swap.png"
+    ]
+  },
+  {
+    "question": "There is one image: a top-view image.\nDirections in the image: North=up, South=down, East=right, West=left.\nIf object 3 is moved South by 2 units, will it overlap (collide) with object 2? Answer with Yes or No.\n\nTop-view image: <image>\nNote: the image includes a 1 unit scale bar for reference.\n",
+    "answer": "Yes",
+    "images": [
+      "SpatialAct/data/images/geometry/spatial_visualization/v1.2/top_isometric/sample_012/top_move.png"
+    ]
+  },
+  {
+    "question": "There is one image: a top-view image.\nIf we swap the positions of object 3 and object 2, will there be any overlap (collision) in the scene AFTER the swap? Answer with Yes or No.\n\nTop-view image: <image>",
+    "answer": "Yes",
+    "images": [
+      "SpatialAct/data/images/geometry/spatial_visualization/v1.2/top_isometric/sample_000/top_swap.png"
+    ]
+  },
+  {
+    "question": "There is one image: a top-view image.\nIf we swap the positions of object 5 and object 2, will there be any overlap (collision) in the scene AFTER the swap? Answer with Yes or No.\n\nTop-view image: <image>",
+    "answer": "No",
+    "images": [
+      "SpatialAct/data/images/geometry/spatial_visualization/v1.2/top_isometric/sample_033/top_swap.png"
+    ]
+  },
+  {
+    "question": "There is one image: a top-view image.\nIf we swap the positions of object 3 and object 5, will there be any overlap (collision) in the scene AFTER the swap? Answer with Yes or No.\n\nTop-view image: <image>",
+    "answer": "No",
+    "images": [
+      "SpatialAct/data/images/geometry/spatial_visualization/v1.2/top_isometric/sample_027/top_swap.png"
+    ]
+  },
+  {
+    "question": "There is one image: a top-view image.\nDirections in the image: North=up, South=down, East=right, West=left.\nIf object 5 is moved East by 6 units, will it overlap (collide) with object 1? Answer with Yes or No.\n\nTop-view image: <image>\nNote: the image includes a 1 unit scale bar for reference.\n",
+    "answer": "Yes",
+    "images": [
+      "SpatialAct/data/images/geometry/spatial_visualization/v1.2/top_isometric/sample_052/top_move.png"
+    ]
+  },
+  {
+    "question": "There is one image: a top-view image.\nDirections in the image: North=up, South=down, East=right, West=left.\nIf object 3 is moved South by 4 units, will it overlap (collide) with object 6? Answer with Yes or No.\n\nTop-view image: <image>\nNote: the image includes a 1 unit scale bar for reference.\n",
+    "answer": "No",
+    "images": [
+      "SpatialAct/data/images/geometry/spatial_visualization/v1.2/top_isometric/sample_035/top_move.png"
+    ]
+  },
+  {
+    "question": "There is one image: a top-view image.\nIf we swap the positions of object 2 and object 3, will there be any overlap (collision) in the scene AFTER the swap? Answer with Yes or No.\n\nTop-view image: <image>",
+    "answer": "Yes",
+    "images": [
+      "SpatialAct/data/images/geometry/spatial_visualization/v1.2/top_isometric/sample_056/top_swap.png"
+    ]
+  },
+  {
+    "question": "There is one image: a top-view image.\nDirections in the image: North=up, South=down, East=right, West=left.\nIf object 3 is moved South by 3 units, will it overlap (collide) with object 2? Answer with Yes or No.\n\nTop-view image: <image>\nNote: the image includes a 1 unit scale bar for reference.\n",
+    "answer": "Yes",
+    "images": [
+      "SpatialAct/data/images/geometry/spatial_visualization/v1.2/top_isometric/sample_014/top_move.png"
+    ]
+  },
+  {
+    "question": "There is one image: a top-view image.\nIf we swap the positions of object 1 and object 4, will there be any overlap (collision) in the scene AFTER the swap? Answer with Yes or No.\n\nTop-view image: <image>",
+    "answer": "No",
+    "images": [
+      "SpatialAct/data/images/geometry/spatial_visualization/v1.2/top_isometric/sample_043/top_swap.png"
+    ]
+  },
+  {
+    "question": "There is one image: a top-view image.\nDirections in the image: North=up, South=down, East=right, West=left.\nIf object 6 is moved North by 2 units, will it overlap (collide) with object 1? Answer with Yes or No.\n\nTop-view image: <image>\nNote: the image includes a 1 unit scale bar for reference.\n",
+    "answer": "Yes",
+    "images": [
+      "SpatialAct/data/images/geometry/spatial_visualization/v1.2/top_isometric/sample_034/top_move.png"
+    ]
+  },
+  {
+    "question": "There is one image: a top-view image.\nDirections in the image: North=up, South=down, East=right, West=left.\nIf object 4 is moved East by 2 units, will it overlap (collide) with object 3? Answer with Yes or No.\n\nTop-view image: <image>\nNote: the image includes a 1 unit scale bar for reference.\n",
+    "answer": "No",
+    "images": [
+      "SpatialAct/data/images/geometry/spatial_visualization/v1.2/top_isometric/sample_041/top_move.png"
+    ]
+  },
+  {
+    "question": "There is one image: a top-view image.\nDirections in the image: North=up, South=down, East=right, West=left.\nIf object 2 is moved North by 6 units, will it overlap (collide) with object 5? Answer with Yes or No.\n\nTop-view image: <image>\nNote: the image includes a 1 unit scale bar for reference.\n",
+    "answer": "No",
+    "images": [
+      "SpatialAct/data/images/geometry/spatial_visualization/v1.2/top_isometric/sample_059/top_move.png"
+    ]
+  },
+  {
+    "question": "There is one image: a top-view image.\nDirections in the image: North=up, South=down, East=right, West=left.\nIf object 6 is moved East by 3 units, will it overlap (collide) with object 4? Answer with Yes or No.\n\nTop-view image: <image>\nNote: the image includes a 1 unit scale bar for reference.\n",
+    "answer": "No",
+    "images": [
+      "SpatialAct/data/images/geometry/spatial_visualization/v1.2/top_isometric/sample_019/top_move.png"
+    ]
+  },
+  {
+    "question": "There is one image: a top-view image.\nIf we swap the positions of object 6 and object 3, will there be any overlap (collision) in the scene AFTER the swap? Answer with Yes or No.\n\nTop-view image: <image>",
+    "answer": "Yes",
+    "images": [
+      "SpatialAct/data/images/geometry/spatial_visualization/v1.2/top_isometric/sample_022/top_swap.png"
+    ]
+  },
+  {
+    "question": "There is one image: a top-view image.\nDirections in the image: North=up, South=down, East=right, West=left.\nIf object 4 is moved East by 3 units, will it overlap (collide) with object 2? Answer with Yes or No.\n\nTop-view image: <image>\nNote: the image includes a 1 unit scale bar for reference.\n",
+    "answer": "Yes",
+    "images": [
+      "SpatialAct/data/images/geometry/spatial_visualization/v1.2/top_isometric/sample_000/top_move.png"
+    ]
+  },
+  {
+    "question": "There is one image: a top-view image.\nIf we swap the positions of object 6 and object 2, will there be any overlap (collision) in the scene AFTER the swap? Answer with Yes or No.\n\nTop-view image: <image>",
+    "answer": "Yes",
+    "images": [
+      "SpatialAct/data/images/geometry/spatial_visualization/v1.2/top_isometric/sample_030/top_swap.png"
+    ]
+  },
+  {
+    "question": "There is one image: a top-view image.\nDirections in the image: North=up, South=down, East=right, West=left.\nIf object 3 is moved North by 2 units, will it overlap (collide) with object 4? Answer with Yes or No.\n\nTop-view image: <image>\nNote: the image includes a 1 unit scale bar for reference.\n",
+    "answer": "Yes",
+    "images": [
+      "SpatialAct/data/images/geometry/spatial_visualization/v1.2/top_isometric/sample_024/top_move.png"
+    ]
+  },
+  {
+    "question": "There is one image: a top-view image.\nIf we swap the positions of object 5 and object 4, will there be any overlap (collision) in the scene AFTER the swap? Answer with Yes or No.\n\nTop-view image: <image>",
+    "answer": "Yes",
+    "images": [
+      "SpatialAct/data/images/geometry/spatial_visualization/v1.2/top_isometric/sample_036/top_swap.png"
+    ]
+  },
+  {
+    "question": "There is one image: a top-view image.\nDirections in the image: North=up, South=down, East=right, West=left.\nIf object 2 is moved South by 5 units, will it overlap (collide) with object 4? Answer with Yes or No.\n\nTop-view image: <image>\nNote: the image includes a 1 unit scale bar for reference.\n",
+    "answer": "No",
+    "images": [
+      "SpatialAct/data/images/geometry/spatial_visualization/v1.2/top_isometric/sample_001/top_move.png"
+    ]
+  },
+  {
+    "question": "There is one image: a top-view image.\nDirections in the image: North=up, South=down, East=right, West=left.\nIf object 4 is moved North by 2 units, will it overlap (collide) with object 5? Answer with Yes or No.\n\nTop-view image: <image>\nNote: the image includes a 1 unit scale bar for reference.\n",
+    "answer": "No",
+    "images": [
+      "SpatialAct/data/images/geometry/spatial_visualization/v1.2/top_isometric/sample_037/top_move.png"
+    ]
+  },
+  {
+    "question": "There is one image: a top-view image.\nDirections in the image: North=up, South=down, East=right, West=left.\nIf object 1 is moved West by 2 units, will it overlap (collide) with object 2? Answer with Yes or No.\n\nTop-view image: <image>\nNote: the image includes a 1 unit scale bar for reference.\n",
+    "answer": "Yes",
+    "images": [
+      "SpatialAct/data/images/geometry/spatial_visualization/v1.2/top_isometric/sample_048/top_move.png"
+    ]
+  },
+  {
+    "question": "There is one image: a top-view image.\nIf we swap the positions of object 1 and object 5, will there be any overlap (collision) in the scene AFTER the swap? Answer with Yes or No.\n\nTop-view image: <image>",
+    "answer": "Yes",
+    "images": [
+      "SpatialAct/data/images/geometry/spatial_visualization/v1.2/top_isometric/sample_042/top_swap.png"
+    ]
+  },
+  {
+    "question": "There is one image: a top-view image.\nDirections in the image: North=up, South=down, East=right, West=left.\nIf object 6 is moved South by 5 units, will it overlap (collide) with object 5? Answer with Yes or No.\n\nTop-view image: <image>\nNote: the image includes a 1 unit scale bar for reference.\n",
+    "answer": "No",
+    "images": [
+      "SpatialAct/data/images/geometry/spatial_visualization/v1.2/top_isometric/sample_013/top_move.png"
+    ]
+  },
+  {
+    "question": "There is one image: a top-view image.\nIf we swap the positions of object 5 and object 2, will there be any overlap (collision) in the scene AFTER the swap? Answer with Yes or No.\n\nTop-view image: <image>",
+    "answer": "No",
+    "images": [
+      "SpatialAct/data/images/geometry/spatial_visualization/v1.2/top_isometric/sample_003/top_swap.png"
+    ]
+  },
+  {
+    "question": "There is one image: a top-view image.\nIf we swap the positions of object 6 and object 3, will there be any overlap (collision) in the scene AFTER the swap? Answer with Yes or No.\n\nTop-view image: <image>",
+    "answer": "Yes",
+    "images": [
+      "SpatialAct/data/images/geometry/spatial_visualization/v1.2/top_isometric/sample_046/top_swap.png"
+    ]
+  },
+  {
+    "question": "There is one image: a top-view image.\nIf we swap the positions of object 4 and object 1, will there be any overlap (collision) in the scene AFTER the swap? Answer with Yes or No.\n\nTop-view image: <image>",
+    "answer": "No",
+    "images": [
+      "SpatialAct/data/images/geometry/spatial_visualization/v1.2/top_isometric/sample_029/top_swap.png"
+    ]
+  },
+  {
+    "question": "There is one image: a top-view image.\nIf we swap the positions of object 5 and object 4, will there be any overlap (collision) in the scene AFTER the swap? Answer with Yes or No.\n\nTop-view image: <image>",
+    "answer": "Yes",
+    "images": [
+      "SpatialAct/data/images/geometry/spatial_visualization/v1.2/top_isometric/sample_050/top_swap.png"
+    ]
+  },
+  {
+    "question": "There is one image: a top-view image.\nIf we swap the positions of object 5 and object 6, will there be any overlap (collision) in the scene AFTER the swap? Answer with Yes or No.\n\nTop-view image: <image>",
+    "answer": "No",
+    "images": [
+      "SpatialAct/data/images/geometry/spatial_visualization/v1.2/top_isometric/sample_051/top_swap.png"
+    ]
+  },
+  {
+    "question": "There is one image: a top-view image.\nDirections in the image: North=up, South=down, East=right, West=left.\nIf object 6 is moved South by 6 units, will it overlap (collide) with object 4? Answer with Yes or No.\n\nTop-view image: <image>\nNote: the image includes a 1 unit scale bar for reference.\n",
+    "answer": "Yes",
+    "images": [
+      "SpatialAct/data/images/geometry/spatial_visualization/v1.2/top_isometric/sample_026/top_move.png"
+    ]
+  },
+  {
+    "question": "There is one image: a top-view image.\nIf we swap the positions of object 3 and object 1, will there be any overlap (collision) in the scene AFTER the swap? Answer with Yes or No.\n\nTop-view image: <image>",
+    "answer": "Yes",
+    "images": [
+      "SpatialAct/data/images/geometry/spatial_visualization/v1.2/top_isometric/sample_026/top_swap.png"
+    ]
+  },
+  {
+    "question": "There is one image: a top-view image.\nDirections in the image: North=up, South=down, East=right, West=left.\nIf object 2 is moved North by 6 units, will it overlap (collide) with object 3? Answer with Yes or No.\n\nTop-view image: <image>\nNote: the image includes a 1 unit scale bar for reference.\n",
+    "answer": "Yes",
+    "images": [
+      "SpatialAct/data/images/geometry/spatial_visualization/v1.2/top_isometric/sample_004/top_move.png"
+    ]
+  },
+  {
+    "question": "There is one image: a top-view image.\nIf we swap the positions of object 4 and object 6, will there be any overlap (collision) in the scene AFTER the swap? Answer with Yes or No.\n\nTop-view image: <image>",
+    "answer": "No",
+    "images": [
+      "SpatialAct/data/images/geometry/spatial_visualization/v1.2/top_isometric/sample_013/top_swap.png"
+    ]
+  },
+  {
+    "question": "There is one image: a top-view image.\nDirections in the image: North=up, South=down, East=right, West=left.\nIf object 4 is moved West by 4 units, will it overlap (collide) with object 1? Answer with Yes or No.\n\nTop-view image: <image>\nNote: the image includes a 1 unit scale bar for reference.\n",
+    "answer": "No",
+    "images": [
+      "SpatialAct/data/images/geometry/spatial_visualization/v1.2/top_isometric/sample_045/top_move.png"
+    ]
+  },
+  {
+    "question": "There is one image: a top-view image.\nDirections in the image: North=up, South=down, East=right, West=left.\nIf object 1 is moved North by 4 units, will it overlap (collide) with object 6? Answer with Yes or No.\n\nTop-view image: <image>\nNote: the image includes a 1 unit scale bar for reference.\n",
+    "answer": "Yes",
+    "images": [
+      "SpatialAct/data/images/geometry/spatial_visualization/v1.2/top_isometric/sample_058/top_move.png"
+    ]
+  },
+  {
+    "question": "There is one image: a top-view image.\nDirections in the image: North=up, South=down, East=right, West=left.\nIf object 6 is moved North by 3 units, will it overlap (collide) with object 3? Answer with Yes or No.\n\nTop-view image: <image>\nNote: the image includes a 1 unit scale bar for reference.\n",
+    "answer": "Yes",
+    "images": [
+      "SpatialAct/data/images/geometry/spatial_visualization/v1.2/top_isometric/sample_044/top_move.png"
+    ]
+  },
+  {
+    "question": "There is one image: a top-view image.\nIf we swap the positions of object 3 and object 6, will there be any overlap (collision) in the scene AFTER the swap? Answer with Yes or No.\n\nTop-view image: <image>",
+    "answer": "Yes",
+    "images": [
+      "SpatialAct/data/images/geometry/spatial_visualization/v1.2/top_isometric/sample_024/top_swap.png"
+    ]
+  },
+  {
+    "question": "There is one image: a top-view image.\nIf we swap the positions of object 2 and object 5, will there be any overlap (collision) in the scene AFTER the swap? Answer with Yes or No.\n\nTop-view image: <image>",
+    "answer": "Yes",
+    "images": [
+      "SpatialAct/data/images/geometry/spatial_visualization/v1.2/top_isometric/sample_014/top_swap.png"
+    ]
+  },
+  {
+    "question": "There is one image: a top-view image.\nIf we swap the positions of object 1 and object 6, will there be any overlap (collision) in the scene AFTER the swap? Answer with Yes or No.\n\nTop-view image: <image>",
+    "answer": "No",
+    "images": [
+      "SpatialAct/data/images/geometry/spatial_visualization/v1.2/top_isometric/sample_009/top_swap.png"
+    ]
+  },
+  {
+    "question": "There is one image: a top-view image.\nIf we swap the positions of object 5 and object 3, will there be any overlap (collision) in the scene AFTER the swap? Answer with Yes or No.\n\nTop-view image: <image>",
+    "answer": "Yes",
+    "images": [
+      "SpatialAct/data/images/geometry/spatial_visualization/v1.2/top_isometric/sample_008/top_swap.png"
+    ]
+  }
+]

@@ -1,0 +1,1070 @@
+[
+  {
+    "task_type": "isometric_building_rotate",
+    "question": "There are five images: one original isometric-view image and four rotated isometric-view options.\nObject 2 is rotated clockwise by 90 degrees around the object's center.\nWhich option image matches this rotation? Choose one option.\n\nOriginal isometric-view image: <image>\nA: <image>\nB: <image>\nC: <image>\nD: <image>",
+    "answer": "A",
+    "images": [
+      "SpatialAct/data/images/geometry/mental_rotation/v1.2/top_isometric/sample_076/isometric.png",
+      "SpatialAct/data/images/geometry/mental_rotation/v1.2/top_isometric/sample_076/isometric_mcq_images/iso_rot_cw_090.png",
+      "SpatialAct/data/images/geometry/mental_rotation/v1.2/top_isometric/sample_076/isometric_mcq_images/iso_rot_cw_225.png",
+      "SpatialAct/data/images/geometry/mental_rotation/v1.2/top_isometric/sample_076/isometric_mcq_images/iso_rot_cw_120.png",
+      "SpatialAct/data/images/geometry/mental_rotation/v1.2/top_isometric/sample_076/isometric_mcq_images/iso_rot_cw_240.png"
+    ]
+  },
+  {
+    "task_type": "isometric_building_rotate",
+    "question": "There are five images: one original isometric-view image and four rotated isometric-view options.\nObject 5 is rotated clockwise by 90 degrees around the object's center.\nWhich option image matches this rotation? Choose one option.\n\nOriginal isometric-view image: <image>\nA: <image>\nB: <image>\nC: <image>\nD: <image>",
+    "answer": "B",
+    "images": [
+      "SpatialAct/data/images/geometry/mental_rotation/v1.2/top_isometric/sample_023/isometric.png",
+      "SpatialAct/data/images/geometry/mental_rotation/v1.2/top_isometric/sample_023/isometric_mcq_images/iso_rot_cw_315.png",
+      "SpatialAct/data/images/geometry/mental_rotation/v1.2/top_isometric/sample_023/isometric_mcq_images/iso_rot_cw_090.png",
+      "SpatialAct/data/images/geometry/mental_rotation/v1.2/top_isometric/sample_023/isometric_mcq_images/iso_rot_cw_060.png",
+      "SpatialAct/data/images/geometry/mental_rotation/v1.2/top_isometric/sample_023/isometric_mcq_images/iso_rot_cw_180.png"
+    ]
+  },
+  {
+    "task_type": "isometric_building_rotate",
+    "question": "There are five images: one original isometric-view image and four rotated isometric-view options.\nObject 4 is rotated clockwise by 315 degrees around the object's center.\nWhich option image matches this rotation? Choose one option.\n\nOriginal isometric-view image: <image>\nA: <image>\nB: <image>\nC: <image>\nD: <image>",
+    "answer": "B",
+    "images": [
+      "SpatialAct/data/images/geometry/mental_rotation/v1.2/top_isometric/sample_077/isometric.png",
+      "SpatialAct/data/images/geometry/mental_rotation/v1.2/top_isometric/sample_077/isometric_mcq_images/iso_rot_cw_240.png",
+      "SpatialAct/data/images/geometry/mental_rotation/v1.2/top_isometric/sample_077/isometric_mcq_images/iso_rot_cw_315.png",
+      "SpatialAct/data/images/geometry/mental_rotation/v1.2/top_isometric/sample_077/isometric_mcq_images/iso_rot_cw_270.png",
+      "SpatialAct/data/images/geometry/mental_rotation/v1.2/top_isometric/sample_077/isometric_mcq_images/iso_rot_cw_330.png"
+    ]
+  },
+  {
+    "task_type": "isometric_building_rotate",
+    "question": "There are five images: one original isometric-view image and four rotated isometric-view options.\nObject 1 is rotated clockwise by 270 degrees around the object's center.\nWhich option image matches this rotation? Choose one option.\n\nOriginal isometric-view image: <image>\nA: <image>\nB: <image>\nC: <image>\nD: <image>",
+    "answer": "D",
+    "images": [
+      "SpatialAct/data/images/geometry/mental_rotation/v1.2/top_isometric/sample_035/isometric.png",
+      "SpatialAct/data/images/geometry/mental_rotation/v1.2/top_isometric/sample_035/isometric_mcq_images/iso_rot_cw_135.png",
+      "SpatialAct/data/images/geometry/mental_rotation/v1.2/top_isometric/sample_035/isometric_mcq_images/iso_rot_cw_315.png",
+      "SpatialAct/data/images/geometry/mental_rotation/v1.2/top_isometric/sample_035/isometric_mcq_images/iso_rot_cw_240.png",
+      "SpatialAct/data/images/geometry/mental_rotation/v1.2/top_isometric/sample_035/isometric_mcq_images/iso_rot_cw_270.png"
+    ]
+  },
+  {
+    "task_type": "isometric_building_rotate",
+    "question": "There are five images: one original isometric-view image and four rotated isometric-view options.\nObject 5 is rotated clockwise by 45 degrees around the object's center.\nWhich option image matches this rotation? Choose one option.\n\nOriginal isometric-view image: <image>\nA: <image>\nB: <image>\nC: <image>\nD: <image>",
+    "answer": "B",
+    "images": [
+      "SpatialAct/data/images/geometry/mental_rotation/v1.2/top_isometric/sample_058/isometric.png",
+      "SpatialAct/data/images/geometry/mental_rotation/v1.2/top_isometric/sample_058/isometric_mcq_images/iso_rot_cw_030.png",
+      "SpatialAct/data/images/geometry/mental_rotation/v1.2/top_isometric/sample_058/isometric_mcq_images/iso_rot_cw_045.png",
+      "SpatialAct/data/images/geometry/mental_rotation/v1.2/top_isometric/sample_058/isometric_mcq_images/iso_rot_cw_150.png",
+      "SpatialAct/data/images/geometry/mental_rotation/v1.2/top_isometric/sample_058/isometric_mcq_images/iso_rot_cw_135.png"
+    ]
+  },
+  {
+    "task_type": "isometric_building_rotate",
+    "question": "There are five images: one original isometric-view image and four rotated isometric-view options.\nObject 3 is rotated counterclockwise by 270 degrees around the object's center.\nWhich option image matches this rotation? Choose one option.\n\nOriginal isometric-view image: <image>\nA: <image>\nB: <image>\nC: <image>\nD: <image>",
+    "answer": "A",
+    "images": [
+      "SpatialAct/data/images/geometry/mental_rotation/v1.2/top_isometric/sample_007/isometric.png",
+      "SpatialAct/data/images/geometry/mental_rotation/v1.2/top_isometric/sample_007/isometric_mcq_images/iso_rot_ccw_270.png",
+      "SpatialAct/data/images/geometry/mental_rotation/v1.2/top_isometric/sample_007/isometric_mcq_images/iso_rot_ccw_330.png",
+      "SpatialAct/data/images/geometry/mental_rotation/v1.2/top_isometric/sample_007/isometric_mcq_images/iso_rot_ccw_135.png",
+      "SpatialAct/data/images/geometry/mental_rotation/v1.2/top_isometric/sample_007/isometric_mcq_images/iso_rot_ccw_120.png"
+    ]
+  },
+  {
+    "task_type": "isometric_building_rotate",
+    "question": "There are five images: one original isometric-view image and four rotated isometric-view options.\nObject 5 is rotated counterclockwise by 300 degrees around the object's center.\nWhich option image matches this rotation? Choose one option.\n\nOriginal isometric-view image: <image>\nA: <image>\nB: <image>\nC: <image>\nD: <image>",
+    "answer": "A",
+    "images": [
+      "SpatialAct/data/images/geometry/mental_rotation/v1.2/top_isometric/sample_097/isometric.png",
+      "SpatialAct/data/images/geometry/mental_rotation/v1.2/top_isometric/sample_097/isometric_mcq_images/iso_rot_ccw_300.png",
+      "SpatialAct/data/images/geometry/mental_rotation/v1.2/top_isometric/sample_097/isometric_mcq_images/iso_rot_ccw_135.png",
+      "SpatialAct/data/images/geometry/mental_rotation/v1.2/top_isometric/sample_097/isometric_mcq_images/iso_rot_ccw_240.png",
+      "SpatialAct/data/images/geometry/mental_rotation/v1.2/top_isometric/sample_097/isometric_mcq_images/iso_rot_ccw_270.png"
+    ]
+  },
+  {
+    "task_type": "isometric_building_rotate",
+    "question": "There are five images: one original isometric-view image and four rotated isometric-view options.\nObject 4 is rotated counterclockwise by 300 degrees around the object's center.\nWhich option image matches this rotation? Choose one option.\n\nOriginal isometric-view image: <image>\nA: <image>\nB: <image>\nC: <image>\nD: <image>",
+    "answer": "C",
+    "images": [
+      "SpatialAct/data/images/geometry/mental_rotation/v1.2/top_isometric/sample_040/isometric.png",
+      "SpatialAct/data/images/geometry/mental_rotation/v1.2/top_isometric/sample_040/isometric_mcq_images/iso_rot_ccw_030.png",
+      "SpatialAct/data/images/geometry/mental_rotation/v1.2/top_isometric/sample_040/isometric_mcq_images/iso_rot_ccw_330.png",
+      "SpatialAct/data/images/geometry/mental_rotation/v1.2/top_isometric/sample_040/isometric_mcq_images/iso_rot_ccw_300.png",
+      "SpatialAct/data/images/geometry/mental_rotation/v1.2/top_isometric/sample_040/isometric_mcq_images/iso_rot_ccw_270.png"
+    ]
+  },
+  {
+    "task_type": "isometric_building_rotate",
+    "question": "There are five images: one original isometric-view image and four rotated isometric-view options.\nObject 6 is rotated clockwise by 180 degrees around the object's center.\nWhich option image matches this rotation? Choose one option.\n\nOriginal isometric-view image: <image>\nA: <image>\nB: <image>\nC: <image>\nD: <image>",
+    "answer": "B",
+    "images": [
+      "SpatialAct/data/images/geometry/mental_rotation/v1.2/top_isometric/sample_033/isometric.png",
+      "SpatialAct/data/images/geometry/mental_rotation/v1.2/top_isometric/sample_033/isometric_mcq_images/iso_rot_cw_300.png",
+      "SpatialAct/data/images/geometry/mental_rotation/v1.2/top_isometric/sample_033/isometric_mcq_images/iso_rot_cw_180.png",
+      "SpatialAct/data/images/geometry/mental_rotation/v1.2/top_isometric/sample_033/isometric_mcq_images/iso_rot_cw_135.png",
+      "SpatialAct/data/images/geometry/mental_rotation/v1.2/top_isometric/sample_033/isometric_mcq_images/iso_rot_cw_045.png"
+    ]
+  },
+  {
+    "task_type": "isometric_building_rotate",
+    "question": "There are five images: one original isometric-view image and four rotated isometric-view options.\nObject 2 is rotated counterclockwise by 30 degrees around the object's center.\nWhich option image matches this rotation? Choose one option.\n\nOriginal isometric-view image: <image>\nA: <image>\nB: <image>\nC: <image>\nD: <image>",
+    "answer": "A",
+    "images": [
+      "SpatialAct/data/images/geometry/mental_rotation/v1.2/top_isometric/sample_061/isometric.png",
+      "SpatialAct/data/images/geometry/mental_rotation/v1.2/top_isometric/sample_061/isometric_mcq_images/iso_rot_ccw_030.png",
+      "SpatialAct/data/images/geometry/mental_rotation/v1.2/top_isometric/sample_061/isometric_mcq_images/iso_rot_ccw_225.png",
+      "SpatialAct/data/images/geometry/mental_rotation/v1.2/top_isometric/sample_061/isometric_mcq_images/iso_rot_ccw_270.png",
+      "SpatialAct/data/images/geometry/mental_rotation/v1.2/top_isometric/sample_061/isometric_mcq_images/iso_rot_ccw_045.png"
+    ]
+  },
+  {
+    "task_type": "isometric_building_rotate",
+    "question": "There are five images: one original isometric-view image and four rotated isometric-view options.\nObject 1 is rotated clockwise by 225 degrees around the object's center.\nWhich option image matches this rotation? Choose one option.\n\nOriginal isometric-view image: <image>\nA: <image>\nB: <image>\nC: <image>\nD: <image>",
+    "answer": "C",
+    "images": [
+      "SpatialAct/data/images/geometry/mental_rotation/v1.2/top_isometric/sample_080/isometric.png",
+      "SpatialAct/data/images/geometry/mental_rotation/v1.2/top_isometric/sample_080/isometric_mcq_images/iso_rot_cw_270.png",
+      "SpatialAct/data/images/geometry/mental_rotation/v1.2/top_isometric/sample_080/isometric_mcq_images/iso_rot_cw_060.png",
+      "SpatialAct/data/images/geometry/mental_rotation/v1.2/top_isometric/sample_080/isometric_mcq_images/iso_rot_cw_225.png",
+      "SpatialAct/data/images/geometry/mental_rotation/v1.2/top_isometric/sample_080/isometric_mcq_images/iso_rot_cw_300.png"
+    ]
+  },
+  {
+    "task_type": "isometric_building_rotate",
+    "question": "There are five images: one original isometric-view image and four rotated isometric-view options.\nObject 3 is rotated counterclockwise by 90 degrees around the object's center.\nWhich option image matches this rotation? Choose one option.\n\nOriginal isometric-view image: <image>\nA: <image>\nB: <image>\nC: <image>\nD: <image>",
+    "answer": "D",
+    "images": [
+      "SpatialAct/data/images/geometry/mental_rotation/v1.2/top_isometric/sample_036/isometric.png",
+      "SpatialAct/data/images/geometry/mental_rotation/v1.2/top_isometric/sample_036/isometric_mcq_images/iso_rot_ccw_225.png",
+      "SpatialAct/data/images/geometry/mental_rotation/v1.2/top_isometric/sample_036/isometric_mcq_images/iso_rot_ccw_210.png",
+      "SpatialAct/data/images/geometry/mental_rotation/v1.2/top_isometric/sample_036/isometric_mcq_images/iso_rot_ccw_030.png",
+      "SpatialAct/data/images/geometry/mental_rotation/v1.2/top_isometric/sample_036/isometric_mcq_images/iso_rot_ccw_090.png"
+    ]
+  },
+  {
+    "task_type": "isometric_building_rotate",
+    "question": "There are five images: one original isometric-view image and four rotated isometric-view options.\nObject 4 is rotated clockwise by 30 degrees around the object's center.\nWhich option image matches this rotation? Choose one option.\n\nOriginal isometric-view image: <image>\nA: <image>\nB: <image>\nC: <image>\nD: <image>",
+    "answer": "B",
+    "images": [
+      "SpatialAct/data/images/geometry/mental_rotation/v1.2/top_isometric/sample_057/isometric.png",
+      "SpatialAct/data/images/geometry/mental_rotation/v1.2/top_isometric/sample_057/isometric_mcq_images/iso_rot_cw_120.png",
+      "SpatialAct/data/images/geometry/mental_rotation/v1.2/top_isometric/sample_057/isometric_mcq_images/iso_rot_cw_030.png",
+      "SpatialAct/data/images/geometry/mental_rotation/v1.2/top_isometric/sample_057/isometric_mcq_images/iso_rot_cw_090.png",
+      "SpatialAct/data/images/geometry/mental_rotation/v1.2/top_isometric/sample_057/isometric_mcq_images/iso_rot_cw_060.png"
+    ]
+  },
+  {
+    "task_type": "isometric_building_rotate",
+    "question": "There are five images: one original isometric-view image and four rotated isometric-view options.\nObject 4 is rotated counterclockwise by 210 degrees around the object's center.\nWhich option image matches this rotation? Choose one option.\n\nOriginal isometric-view image: <image>\nA: <image>\nB: <image>\nC: <image>\nD: <image>",
+    "answer": "D",
+    "images": [
+      "SpatialAct/data/images/geometry/mental_rotation/v1.2/top_isometric/sample_093/isometric.png",
+      "SpatialAct/data/images/geometry/mental_rotation/v1.2/top_isometric/sample_093/isometric_mcq_images/iso_rot_ccw_300.png",
+      "SpatialAct/data/images/geometry/mental_rotation/v1.2/top_isometric/sample_093/isometric_mcq_images/iso_rot_ccw_135.png",
+      "SpatialAct/data/images/geometry/mental_rotation/v1.2/top_isometric/sample_093/isometric_mcq_images/iso_rot_ccw_180.png",
+      "SpatialAct/data/images/geometry/mental_rotation/v1.2/top_isometric/sample_093/isometric_mcq_images/iso_rot_ccw_210.png"
+    ]
+  },
+  {
+    "task_type": "isometric_building_rotate",
+    "question": "There are five images: one original isometric-view image and four rotated isometric-view options.\nObject 7 is rotated counterclockwise by 315 degrees around the object's center.\nWhich option image matches this rotation? Choose one option.\n\nOriginal isometric-view image: <image>\nA: <image>\nB: <image>\nC: <image>\nD: <image>",
+    "answer": "D",
+    "images": [
+      "SpatialAct/data/images/geometry/mental_rotation/v1.2/top_isometric/sample_063/isometric.png",
+      "SpatialAct/data/images/geometry/mental_rotation/v1.2/top_isometric/sample_063/isometric_mcq_images/iso_rot_ccw_030.png",
+      "SpatialAct/data/images/geometry/mental_rotation/v1.2/top_isometric/sample_063/isometric_mcq_images/iso_rot_ccw_330.png",
+      "SpatialAct/data/images/geometry/mental_rotation/v1.2/top_isometric/sample_063/isometric_mcq_images/iso_rot_ccw_210.png",
+      "SpatialAct/data/images/geometry/mental_rotation/v1.2/top_isometric/sample_063/isometric_mcq_images/iso_rot_ccw_315.png"
+    ]
+  },
+  {
+    "task_type": "isometric_building_rotate",
+    "question": "There are five images: one original isometric-view image and four rotated isometric-view options.\nObject 7 is rotated counterclockwise by 330 degrees around the object's center.\nWhich option image matches this rotation? Choose one option.\n\nOriginal isometric-view image: <image>\nA: <image>\nB: <image>\nC: <image>\nD: <image>",
+    "answer": "D",
+    "images": [
+      "SpatialAct/data/images/geometry/mental_rotation/v1.2/top_isometric/sample_034/isometric.png",
+      "SpatialAct/data/images/geometry/mental_rotation/v1.2/top_isometric/sample_034/isometric_mcq_images/iso_rot_ccw_210.png",
+      "SpatialAct/data/images/geometry/mental_rotation/v1.2/top_isometric/sample_034/isometric_mcq_images/iso_rot_ccw_270.png",
+      "SpatialAct/data/images/geometry/mental_rotation/v1.2/top_isometric/sample_034/isometric_mcq_images/iso_rot_ccw_135.png",
+      "SpatialAct/data/images/geometry/mental_rotation/v1.2/top_isometric/sample_034/isometric_mcq_images/iso_rot_ccw_330.png"
+    ]
+  },
+  {
+    "task_type": "isometric_region_building_rotate",
+    "question": "There are five images: one original isometric-view image and four option images.\nObject 6 is rotated clockwise by 330 degrees around the center of the region.\nWhich option image matches this rotation result? Choose one option.\n\nOriginal isometric-view image: <image>\nA: <image>\nB: <image>\nC: <image>\nD: <image>",
+    "answer": "C",
+    "images": [
+      "SpatialAct/data/images/geometry/mental_rotation/v1.2/top_isometric/sample_046/isometric.png",
+      "SpatialAct/data/images/geometry/mental_rotation/v1.2/top_isometric/sample_046/iso_region_building_rotate_images/iso_rot_center_cw_150.png",
+      "SpatialAct/data/images/geometry/mental_rotation/v1.2/top_isometric/sample_046/iso_region_building_rotate_images/iso_rot_center_cw_135.png",
+      "SpatialAct/data/images/geometry/mental_rotation/v1.2/top_isometric/sample_046/iso_region_building_rotate_images/iso_rot_center_cw_330.png",
+      "SpatialAct/data/images/geometry/mental_rotation/v1.2/top_isometric/sample_046/iso_region_building_rotate_images/iso_rot_center_cw_225.png"
+    ]
+  },
+  {
+    "task_type": "isometric_region_building_rotate",
+    "question": "There are five images: one original isometric-view image and four option images.\nObject 6 is rotated clockwise by 90 degrees around the center of the region.\nWhich option image matches this rotation result? Choose one option.\n\nOriginal isometric-view image: <image>\nA: <image>\nB: <image>\nC: <image>\nD: <image>",
+    "answer": "B",
+    "images": [
+      "SpatialAct/data/images/geometry/mental_rotation/v1.2/top_isometric/sample_061/isometric.png",
+      "SpatialAct/data/images/geometry/mental_rotation/v1.2/top_isometric/sample_061/iso_region_building_rotate_images/iso_rot_center_cw_120.png",
+      "SpatialAct/data/images/geometry/mental_rotation/v1.2/top_isometric/sample_061/iso_region_building_rotate_images/iso_rot_center_cw_090.png",
+      "SpatialAct/data/images/geometry/mental_rotation/v1.2/top_isometric/sample_061/iso_region_building_rotate_images/iso_rot_center_cw_240.png",
+      "SpatialAct/data/images/geometry/mental_rotation/v1.2/top_isometric/sample_061/iso_region_building_rotate_images/iso_rot_center_cw_210.png"
+    ]
+  },
+  {
+    "task_type": "isometric_region_building_rotate",
+    "question": "There are five images: one original isometric-view image and four option images.\nObject 7 is rotated counterclockwise by 225 degrees around the center of the region.\nWhich option image matches this rotation result? Choose one option.\n\nOriginal isometric-view image: <image>\nA: <image>\nB: <image>\nC: <image>\nD: <image>",
+    "answer": "B",
+    "images": [
+      "SpatialAct/data/images/geometry/mental_rotation/v1.2/top_isometric/sample_044/isometric.png",
+      "SpatialAct/data/images/geometry/mental_rotation/v1.2/top_isometric/sample_044/iso_region_building_rotate_images/iso_rot_center_ccw_270.png",
+      "SpatialAct/data/images/geometry/mental_rotation/v1.2/top_isometric/sample_044/iso_region_building_rotate_images/iso_rot_center_ccw_225.png",
+      "SpatialAct/data/images/geometry/mental_rotation/v1.2/top_isometric/sample_044/iso_region_building_rotate_images/iso_rot_center_ccw_150.png",
+      "SpatialAct/data/images/geometry/mental_rotation/v1.2/top_isometric/sample_044/iso_region_building_rotate_images/iso_rot_center_ccw_210.png"
+    ]
+  },
+  {
+    "task_type": "isometric_region_building_rotate",
+    "question": "There are five images: one original isometric-view image and four option images.\nObject 6 is rotated clockwise by 30 degrees around the center of the region.\nWhich option image matches this rotation result? Choose one option.\n\nOriginal isometric-view image: <image>\nA: <image>\nB: <image>\nC: <image>\nD: <image>",
+    "answer": "B",
+    "images": [
+      "SpatialAct/data/images/geometry/mental_rotation/v1.2/top_isometric/sample_057/isometric.png",
+      "SpatialAct/data/images/geometry/mental_rotation/v1.2/top_isometric/sample_057/iso_region_building_rotate_images/iso_rot_center_cw_210.png",
+      "SpatialAct/data/images/geometry/mental_rotation/v1.2/top_isometric/sample_057/iso_region_building_rotate_images/iso_rot_center_cw_030.png",
+      "SpatialAct/data/images/geometry/mental_rotation/v1.2/top_isometric/sample_057/iso_region_building_rotate_images/iso_rot_center_cw_135.png",
+      "SpatialAct/data/images/geometry/mental_rotation/v1.2/top_isometric/sample_057/iso_region_building_rotate_images/iso_rot_center_cw_060.png"
+    ]
+  },
+  {
+    "task_type": "isometric_region_building_rotate",
+    "question": "There are five images: one original isometric-view image and four option images.\nObject 2 is rotated counterclockwise by 210 degrees around the center of the region.\nWhich option image matches this rotation result? Choose one option.\n\nOriginal isometric-view image: <image>\nA: <image>\nB: <image>\nC: <image>\nD: <image>",
+    "answer": "B",
+    "images": [
+      "SpatialAct/data/images/geometry/mental_rotation/v1.2/top_isometric/sample_081/isometric.png",
+      "SpatialAct/data/images/geometry/mental_rotation/v1.2/top_isometric/sample_081/iso_region_building_rotate_images/iso_rot_center_ccw_045.png",
+      "SpatialAct/data/images/geometry/mental_rotation/v1.2/top_isometric/sample_081/iso_region_building_rotate_images/iso_rot_center_ccw_210.png",
+      "SpatialAct/data/images/geometry/mental_rotation/v1.2/top_isometric/sample_081/iso_region_building_rotate_images/iso_rot_center_ccw_330.png",
+      "SpatialAct/data/images/geometry/mental_rotation/v1.2/top_isometric/sample_081/iso_region_building_rotate_images/iso_rot_center_ccw_300.png"
+    ]
+  },
+  {
+    "task_type": "isometric_region_building_rotate",
+    "question": "There are five images: one original isometric-view image and four option images.\nObject 2 is rotated counterclockwise by 180 degrees around the center of the region.\nWhich option image matches this rotation result? Choose one option.\n\nOriginal isometric-view image: <image>\nA: <image>\nB: <image>\nC: <image>\nD: <image>",
+    "answer": "D",
+    "images": [
+      "SpatialAct/data/images/geometry/mental_rotation/v1.2/top_isometric/sample_067/isometric.png",
+      "SpatialAct/data/images/geometry/mental_rotation/v1.2/top_isometric/sample_067/iso_region_building_rotate_images/iso_rot_center_ccw_150.png",
+      "SpatialAct/data/images/geometry/mental_rotation/v1.2/top_isometric/sample_067/iso_region_building_rotate_images/iso_rot_center_ccw_315.png",
+      "SpatialAct/data/images/geometry/mental_rotation/v1.2/top_isometric/sample_067/iso_region_building_rotate_images/iso_rot_center_ccw_210.png",
+      "SpatialAct/data/images/geometry/mental_rotation/v1.2/top_isometric/sample_067/iso_region_building_rotate_images/iso_rot_center_ccw_180.png"
+    ]
+  },
+  {
+    "task_type": "isometric_region_building_rotate",
+    "question": "There are five images: one original isometric-view image and four option images.\nObject 1 is rotated counterclockwise by 210 degrees around the center of the region.\nWhich option image matches this rotation result? Choose one option.\n\nOriginal isometric-view image: <image>\nA: <image>\nB: <image>\nC: <image>\nD: <image>",
+    "answer": "B",
+    "images": [
+      "SpatialAct/data/images/geometry/mental_rotation/v1.2/top_isometric/sample_077/isometric.png",
+      "SpatialAct/data/images/geometry/mental_rotation/v1.2/top_isometric/sample_077/iso_region_building_rotate_images/iso_rot_center_ccw_270.png",
+      "SpatialAct/data/images/geometry/mental_rotation/v1.2/top_isometric/sample_077/iso_region_building_rotate_images/iso_rot_center_ccw_210.png",
+      "SpatialAct/data/images/geometry/mental_rotation/v1.2/top_isometric/sample_077/iso_region_building_rotate_images/iso_rot_center_ccw_135.png",
+      "SpatialAct/data/images/geometry/mental_rotation/v1.2/top_isometric/sample_077/iso_region_building_rotate_images/iso_rot_center_ccw_060.png"
+    ]
+  },
+  {
+    "task_type": "isometric_region_building_rotate",
+    "question": "There are five images: one original isometric-view image and four option images.\nObject 4 is rotated counterclockwise by 330 degrees around the center of the region.\nWhich option image matches this rotation result? Choose one option.\n\nOriginal isometric-view image: <image>\nA: <image>\nB: <image>\nC: <image>\nD: <image>",
+    "answer": "D",
+    "images": [
+      "SpatialAct/data/images/geometry/mental_rotation/v1.2/top_isometric/sample_071/isometric.png",
+      "SpatialAct/data/images/geometry/mental_rotation/v1.2/top_isometric/sample_071/iso_region_building_rotate_images/iso_rot_center_ccw_045.png",
+      "SpatialAct/data/images/geometry/mental_rotation/v1.2/top_isometric/sample_071/iso_region_building_rotate_images/iso_rot_center_ccw_060.png",
+      "SpatialAct/data/images/geometry/mental_rotation/v1.2/top_isometric/sample_071/iso_region_building_rotate_images/iso_rot_center_ccw_240.png",
+      "SpatialAct/data/images/geometry/mental_rotation/v1.2/top_isometric/sample_071/iso_region_building_rotate_images/iso_rot_center_ccw_330.png"
+    ]
+  },
+  {
+    "task_type": "isometric_region_building_rotate",
+    "question": "There are five images: one original isometric-view image and four option images.\nObject 7 is rotated counterclockwise by 45 degrees around the center of the region.\nWhich option image matches this rotation result? Choose one option.\n\nOriginal isometric-view image: <image>\nA: <image>\nB: <image>\nC: <image>\nD: <image>",
+    "answer": "D",
+    "images": [
+      "SpatialAct/data/images/geometry/mental_rotation/v1.2/top_isometric/sample_034/isometric.png",
+      "SpatialAct/data/images/geometry/mental_rotation/v1.2/top_isometric/sample_034/iso_region_building_rotate_images/iso_rot_center_ccw_180.png",
+      "SpatialAct/data/images/geometry/mental_rotation/v1.2/top_isometric/sample_034/iso_region_building_rotate_images/iso_rot_center_ccw_210.png",
+      "SpatialAct/data/images/geometry/mental_rotation/v1.2/top_isometric/sample_034/iso_region_building_rotate_images/iso_rot_center_ccw_030.png",
+      "SpatialAct/data/images/geometry/mental_rotation/v1.2/top_isometric/sample_034/iso_region_building_rotate_images/iso_rot_center_ccw_045.png"
+    ]
+  },
+  {
+    "task_type": "isometric_region_building_rotate",
+    "question": "There are five images: one original isometric-view image and four option images.\nObject 7 is rotated clockwise by 300 degrees around the center of the region.\nWhich option image matches this rotation result? Choose one option.\n\nOriginal isometric-view image: <image>\nA: <image>\nB: <image>\nC: <image>\nD: <image>",
+    "answer": "A",
+    "images": [
+      "SpatialAct/data/images/geometry/mental_rotation/v1.2/top_isometric/sample_080/isometric.png",
+      "SpatialAct/data/images/geometry/mental_rotation/v1.2/top_isometric/sample_080/iso_region_building_rotate_images/iso_rot_center_cw_300.png",
+      "SpatialAct/data/images/geometry/mental_rotation/v1.2/top_isometric/sample_080/iso_region_building_rotate_images/iso_rot_center_cw_135.png",
+      "SpatialAct/data/images/geometry/mental_rotation/v1.2/top_isometric/sample_080/iso_region_building_rotate_images/iso_rot_center_cw_090.png",
+      "SpatialAct/data/images/geometry/mental_rotation/v1.2/top_isometric/sample_080/iso_region_building_rotate_images/iso_rot_center_cw_330.png"
+    ]
+  },
+  {
+    "task_type": "isometric_region_building_rotate",
+    "question": "There are five images: one original isometric-view image and four option images.\nObject 1 is rotated counterclockwise by 180 degrees around the center of the region.\nWhich option image matches this rotation result? Choose one option.\n\nOriginal isometric-view image: <image>\nA: <image>\nB: <image>\nC: <image>\nD: <image>",
+    "answer": "C",
+    "images": [
+      "SpatialAct/data/images/geometry/mental_rotation/v1.2/top_isometric/sample_008/isometric.png",
+      "SpatialAct/data/images/geometry/mental_rotation/v1.2/top_isometric/sample_008/iso_region_building_rotate_images/iso_rot_center_ccw_210.png",
+      "SpatialAct/data/images/geometry/mental_rotation/v1.2/top_isometric/sample_008/iso_region_building_rotate_images/iso_rot_center_ccw_315.png",
+      "SpatialAct/data/images/geometry/mental_rotation/v1.2/top_isometric/sample_008/iso_region_building_rotate_images/iso_rot_center_ccw_180.png",
+      "SpatialAct/data/images/geometry/mental_rotation/v1.2/top_isometric/sample_008/iso_region_building_rotate_images/iso_rot_center_ccw_030.png"
+    ]
+  },
+  {
+    "task_type": "isometric_region_building_rotate",
+    "question": "There are five images: one original isometric-view image and four option images.\nObject 7 is rotated clockwise by 225 degrees around the center of the region.\nWhich option image matches this rotation result? Choose one option.\n\nOriginal isometric-view image: <image>\nA: <image>\nB: <image>\nC: <image>\nD: <image>",
+    "answer": "C",
+    "images": [
+      "SpatialAct/data/images/geometry/mental_rotation/v1.2/top_isometric/sample_011/isometric.png",
+      "SpatialAct/data/images/geometry/mental_rotation/v1.2/top_isometric/sample_011/iso_region_building_rotate_images/iso_rot_center_cw_135.png",
+      "SpatialAct/data/images/geometry/mental_rotation/v1.2/top_isometric/sample_011/iso_region_building_rotate_images/iso_rot_center_cw_150.png",
+      "SpatialAct/data/images/geometry/mental_rotation/v1.2/top_isometric/sample_011/iso_region_building_rotate_images/iso_rot_center_cw_225.png",
+      "SpatialAct/data/images/geometry/mental_rotation/v1.2/top_isometric/sample_011/iso_region_building_rotate_images/iso_rot_center_cw_210.png"
+    ]
+  },
+  {
+    "task_type": "isometric_region_building_rotate",
+    "question": "There are five images: one original isometric-view image and four option images.\nObject 5 is rotated counterclockwise by 30 degrees around the center of the region.\nWhich option image matches this rotation result? Choose one option.\n\nOriginal isometric-view image: <image>\nA: <image>\nB: <image>\nC: <image>\nD: <image>",
+    "answer": "B",
+    "images": [
+      "SpatialAct/data/images/geometry/mental_rotation/v1.2/top_isometric/sample_033/isometric.png",
+      "SpatialAct/data/images/geometry/mental_rotation/v1.2/top_isometric/sample_033/iso_region_building_rotate_images/iso_rot_center_ccw_270.png",
+      "SpatialAct/data/images/geometry/mental_rotation/v1.2/top_isometric/sample_033/iso_region_building_rotate_images/iso_rot_center_ccw_030.png",
+      "SpatialAct/data/images/geometry/mental_rotation/v1.2/top_isometric/sample_033/iso_region_building_rotate_images/iso_rot_center_ccw_135.png",
+      "SpatialAct/data/images/geometry/mental_rotation/v1.2/top_isometric/sample_033/iso_region_building_rotate_images/iso_rot_center_ccw_240.png"
+    ]
+  },
+  {
+    "task_type": "isometric_region_building_rotate",
+    "question": "There are five images: one original isometric-view image and four option images.\nObject 5 is rotated clockwise by 315 degrees around the center of the region.\nWhich option image matches this rotation result? Choose one option.\n\nOriginal isometric-view image: <image>\nA: <image>\nB: <image>\nC: <image>\nD: <image>",
+    "answer": "C",
+    "images": [
+      "SpatialAct/data/images/geometry/mental_rotation/v1.2/top_isometric/sample_020/isometric.png",
+      "SpatialAct/data/images/geometry/mental_rotation/v1.2/top_isometric/sample_020/iso_region_building_rotate_images/iso_rot_center_cw_180.png",
+      "SpatialAct/data/images/geometry/mental_rotation/v1.2/top_isometric/sample_020/iso_region_building_rotate_images/iso_rot_center_cw_330.png",
+      "SpatialAct/data/images/geometry/mental_rotation/v1.2/top_isometric/sample_020/iso_region_building_rotate_images/iso_rot_center_cw_315.png",
+      "SpatialAct/data/images/geometry/mental_rotation/v1.2/top_isometric/sample_020/iso_region_building_rotate_images/iso_rot_center_cw_270.png"
+    ]
+  },
+  {
+    "task_type": "isometric_region_building_rotate",
+    "question": "There are five images: one original isometric-view image and four option images.\nObject 3 is rotated clockwise by 225 degrees around the center of the region.\nWhich option image matches this rotation result? Choose one option.\n\nOriginal isometric-view image: <image>\nA: <image>\nB: <image>\nC: <image>\nD: <image>",
+    "answer": "D",
+    "images": [
+      "SpatialAct/data/images/geometry/mental_rotation/v1.2/top_isometric/sample_075/isometric.png",
+      "SpatialAct/data/images/geometry/mental_rotation/v1.2/top_isometric/sample_075/iso_region_building_rotate_images/iso_rot_center_cw_135.png",
+      "SpatialAct/data/images/geometry/mental_rotation/v1.2/top_isometric/sample_075/iso_region_building_rotate_images/iso_rot_center_cw_180.png",
+      "SpatialAct/data/images/geometry/mental_rotation/v1.2/top_isometric/sample_075/iso_region_building_rotate_images/iso_rot_center_cw_060.png",
+      "SpatialAct/data/images/geometry/mental_rotation/v1.2/top_isometric/sample_075/iso_region_building_rotate_images/iso_rot_center_cw_225.png"
+    ]
+  },
+  {
+    "task_type": "isometric_region_building_rotate",
+    "question": "There are five images: one original isometric-view image and four option images.\nObject 5 is rotated counterclockwise by 240 degrees around the center of the region.\nWhich option image matches this rotation result? Choose one option.\n\nOriginal isometric-view image: <image>\nA: <image>\nB: <image>\nC: <image>\nD: <image>",
+    "answer": "B",
+    "images": [
+      "SpatialAct/data/images/geometry/mental_rotation/v1.2/top_isometric/sample_063/isometric.png",
+      "SpatialAct/data/images/geometry/mental_rotation/v1.2/top_isometric/sample_063/iso_region_building_rotate_images/iso_rot_center_ccw_210.png",
+      "SpatialAct/data/images/geometry/mental_rotation/v1.2/top_isometric/sample_063/iso_region_building_rotate_images/iso_rot_center_ccw_240.png",
+      "SpatialAct/data/images/geometry/mental_rotation/v1.2/top_isometric/sample_063/iso_region_building_rotate_images/iso_rot_center_ccw_150.png",
+      "SpatialAct/data/images/geometry/mental_rotation/v1.2/top_isometric/sample_063/iso_region_building_rotate_images/iso_rot_center_ccw_120.png"
+    ]
+  },
+  {
+    "task_type": "top_building_rotate",
+    "question": "There are five images: one original top-view image and four rotated top-view options.\nObject 2 is rotated counterclockwise by 150 degrees around the object's center.\nWhich image matches this rotation? Choose one option.\n\nOriginal top-view image: <image>\nA: <image>\nB: <image>\nC: <image>\nD: <image>",
+    "answer": "B",
+    "images": [
+      "SpatialAct/data/images/geometry/mental_rotation/v1.2/top_isometric/sample_049/top.png",
+      "SpatialAct/data/images/geometry/mental_rotation/v1.2/top_isometric/sample_049/top_mcq_images/rot_ccw_090.png",
+      "SpatialAct/data/images/geometry/mental_rotation/v1.2/top_isometric/sample_049/top_mcq_images/rot_ccw_150.png",
+      "SpatialAct/data/images/geometry/mental_rotation/v1.2/top_isometric/sample_049/top_mcq_images/rot_ccw_030.png",
+      "SpatialAct/data/images/geometry/mental_rotation/v1.2/top_isometric/sample_049/top_mcq_images/rot_ccw_270.png"
+    ]
+  },
+  {
+    "task_type": "top_building_rotate",
+    "question": "There are five images: one original top-view image and four rotated top-view options.\nObject 4 is rotated clockwise by 315 degrees around the object's center.\nWhich image matches this rotation? Choose one option.\n\nOriginal top-view image: <image>\nA: <image>\nB: <image>\nC: <image>\nD: <image>",
+    "answer": "B",
+    "images": [
+      "SpatialAct/data/images/geometry/mental_rotation/v1.2/top_isometric/sample_077/top.png",
+      "SpatialAct/data/images/geometry/mental_rotation/v1.2/top_isometric/sample_077/top_mcq_images/rot_cw_270.png",
+      "SpatialAct/data/images/geometry/mental_rotation/v1.2/top_isometric/sample_077/top_mcq_images/rot_cw_315.png",
+      "SpatialAct/data/images/geometry/mental_rotation/v1.2/top_isometric/sample_077/top_mcq_images/rot_cw_240.png",
+      "SpatialAct/data/images/geometry/mental_rotation/v1.2/top_isometric/sample_077/top_mcq_images/rot_cw_330.png"
+    ]
+  },
+  {
+    "task_type": "top_building_rotate",
+    "question": "There are five images: one original top-view image and four rotated top-view options.\nObject 2 is rotated counterclockwise by 60 degrees around the object's center.\nWhich image matches this rotation? Choose one option.\n\nOriginal top-view image: <image>\nA: <image>\nB: <image>\nC: <image>\nD: <image>",
+    "answer": "A",
+    "images": [
+      "SpatialAct/data/images/geometry/mental_rotation/v1.2/top_isometric/sample_047/top.png",
+      "SpatialAct/data/images/geometry/mental_rotation/v1.2/top_isometric/sample_047/top_mcq_images/rot_ccw_060.png",
+      "SpatialAct/data/images/geometry/mental_rotation/v1.2/top_isometric/sample_047/top_mcq_images/rot_ccw_270.png",
+      "SpatialAct/data/images/geometry/mental_rotation/v1.2/top_isometric/sample_047/top_mcq_images/rot_ccw_150.png",
+      "SpatialAct/data/images/geometry/mental_rotation/v1.2/top_isometric/sample_047/top_mcq_images/rot_ccw_030.png"
+    ]
+  },
+  {
+    "task_type": "top_building_rotate",
+    "question": "There are five images: one original top-view image and four rotated top-view options.\nObject 2 is rotated clockwise by 240 degrees around the object's center.\nWhich image matches this rotation? Choose one option.\n\nOriginal top-view image: <image>\nA: <image>\nB: <image>\nC: <image>\nD: <image>",
+    "answer": "C",
+    "images": [
+      "SpatialAct/data/images/geometry/mental_rotation/v1.2/top_isometric/sample_019/top.png",
+      "SpatialAct/data/images/geometry/mental_rotation/v1.2/top_isometric/sample_019/top_mcq_images/rot_cw_060.png",
+      "SpatialAct/data/images/geometry/mental_rotation/v1.2/top_isometric/sample_019/top_mcq_images/rot_cw_315.png",
+      "SpatialAct/data/images/geometry/mental_rotation/v1.2/top_isometric/sample_019/top_mcq_images/rot_cw_240.png",
+      "SpatialAct/data/images/geometry/mental_rotation/v1.2/top_isometric/sample_019/top_mcq_images/rot_cw_135.png"
+    ]
+  },
+  {
+    "task_type": "top_building_rotate",
+    "question": "There are five images: one original top-view image and four rotated top-view options.\nObject 3 is rotated counterclockwise by 150 degrees around the object's center.\nWhich image matches this rotation? Choose one option.\n\nOriginal top-view image: <image>\nA: <image>\nB: <image>\nC: <image>\nD: <image>",
+    "answer": "A",
+    "images": [
+      "SpatialAct/data/images/geometry/mental_rotation/v1.2/top_isometric/sample_048/top.png",
+      "SpatialAct/data/images/geometry/mental_rotation/v1.2/top_isometric/sample_048/top_mcq_images/rot_ccw_150.png",
+      "SpatialAct/data/images/geometry/mental_rotation/v1.2/top_isometric/sample_048/top_mcq_images/rot_ccw_135.png",
+      "SpatialAct/data/images/geometry/mental_rotation/v1.2/top_isometric/sample_048/top_mcq_images/rot_ccw_330.png",
+      "SpatialAct/data/images/geometry/mental_rotation/v1.2/top_isometric/sample_048/top_mcq_images/rot_ccw_030.png"
+    ]
+  },
+  {
+    "task_type": "top_building_rotate",
+    "question": "There are five images: one original top-view image and four rotated top-view options.\nObject 7 is rotated counterclockwise by 60 degrees around the object's center.\nWhich image matches this rotation? Choose one option.\n\nOriginal top-view image: <image>\nA: <image>\nB: <image>\nC: <image>\nD: <image>",
+    "answer": "A",
+    "images": [
+      "SpatialAct/data/images/geometry/mental_rotation/v1.2/top_isometric/sample_039/top.png",
+      "SpatialAct/data/images/geometry/mental_rotation/v1.2/top_isometric/sample_039/top_mcq_images/rot_ccw_060.png",
+      "SpatialAct/data/images/geometry/mental_rotation/v1.2/top_isometric/sample_039/top_mcq_images/rot_ccw_270.png",
+      "SpatialAct/data/images/geometry/mental_rotation/v1.2/top_isometric/sample_039/top_mcq_images/rot_ccw_135.png",
+      "SpatialAct/data/images/geometry/mental_rotation/v1.2/top_isometric/sample_039/top_mcq_images/rot_ccw_330.png"
+    ]
+  },
+  {
+    "task_type": "top_building_rotate",
+    "question": "There are five images: one original top-view image and four rotated top-view options.\nObject 1 is rotated clockwise by 120 degrees around the object's center.\nWhich image matches this rotation? Choose one option.\n\nOriginal top-view image: <image>\nA: <image>\nB: <image>\nC: <image>\nD: <image>",
+    "answer": "B",
+    "images": [
+      "SpatialAct/data/images/geometry/mental_rotation/v1.2/top_isometric/sample_089/top.png",
+      "SpatialAct/data/images/geometry/mental_rotation/v1.2/top_isometric/sample_089/top_mcq_images/rot_cw_315.png",
+      "SpatialAct/data/images/geometry/mental_rotation/v1.2/top_isometric/sample_089/top_mcq_images/rot_cw_120.png",
+      "SpatialAct/data/images/geometry/mental_rotation/v1.2/top_isometric/sample_089/top_mcq_images/rot_cw_300.png",
+      "SpatialAct/data/images/geometry/mental_rotation/v1.2/top_isometric/sample_089/top_mcq_images/rot_cw_090.png"
+    ]
+  },
+  {
+    "task_type": "top_building_rotate",
+    "question": "There are five images: one original top-view image and four rotated top-view options.\nObject 5 is rotated clockwise by 180 degrees around the object's center.\nWhich image matches this rotation? Choose one option.\n\nOriginal top-view image: <image>\nA: <image>\nB: <image>\nC: <image>\nD: <image>",
+    "answer": "C",
+    "images": [
+      "SpatialAct/data/images/geometry/mental_rotation/v1.2/top_isometric/sample_010/top.png",
+      "SpatialAct/data/images/geometry/mental_rotation/v1.2/top_isometric/sample_010/top_mcq_images/rot_cw_030.png",
+      "SpatialAct/data/images/geometry/mental_rotation/v1.2/top_isometric/sample_010/top_mcq_images/rot_cw_240.png",
+      "SpatialAct/data/images/geometry/mental_rotation/v1.2/top_isometric/sample_010/top_mcq_images/rot_cw_180.png",
+      "SpatialAct/data/images/geometry/mental_rotation/v1.2/top_isometric/sample_010/top_mcq_images/rot_cw_060.png"
+    ]
+  },
+  {
+    "task_type": "top_building_rotate",
+    "question": "There are five images: one original top-view image and four rotated top-view options.\nObject 2 is rotated clockwise by 225 degrees around the object's center.\nWhich image matches this rotation? Choose one option.\n\nOriginal top-view image: <image>\nA: <image>\nB: <image>\nC: <image>\nD: <image>",
+    "answer": "A",
+    "images": [
+      "SpatialAct/data/images/geometry/mental_rotation/v1.2/top_isometric/sample_032/top.png",
+      "SpatialAct/data/images/geometry/mental_rotation/v1.2/top_isometric/sample_032/top_mcq_images/rot_cw_225.png",
+      "SpatialAct/data/images/geometry/mental_rotation/v1.2/top_isometric/sample_032/top_mcq_images/rot_cw_330.png",
+      "SpatialAct/data/images/geometry/mental_rotation/v1.2/top_isometric/sample_032/top_mcq_images/rot_cw_210.png",
+      "SpatialAct/data/images/geometry/mental_rotation/v1.2/top_isometric/sample_032/top_mcq_images/rot_cw_270.png"
+    ]
+  },
+  {
+    "task_type": "top_building_rotate",
+    "question": "There are five images: one original top-view image and four rotated top-view options.\nObject 2 is rotated clockwise by 300 degrees around the object's center.\nWhich image matches this rotation? Choose one option.\n\nOriginal top-view image: <image>\nA: <image>\nB: <image>\nC: <image>\nD: <image>",
+    "answer": "A",
+    "images": [
+      "SpatialAct/data/images/geometry/mental_rotation/v1.2/top_isometric/sample_037/top.png",
+      "SpatialAct/data/images/geometry/mental_rotation/v1.2/top_isometric/sample_037/top_mcq_images/rot_cw_300.png",
+      "SpatialAct/data/images/geometry/mental_rotation/v1.2/top_isometric/sample_037/top_mcq_images/rot_cw_240.png",
+      "SpatialAct/data/images/geometry/mental_rotation/v1.2/top_isometric/sample_037/top_mcq_images/rot_cw_330.png",
+      "SpatialAct/data/images/geometry/mental_rotation/v1.2/top_isometric/sample_037/top_mcq_images/rot_cw_270.png"
+    ]
+  },
+  {
+    "task_type": "top_building_rotate",
+    "question": "There are five images: one original top-view image and four rotated top-view options.\nObject 5 is rotated clockwise by 90 degrees around the object's center.\nWhich image matches this rotation? Choose one option.\n\nOriginal top-view image: <image>\nA: <image>\nB: <image>\nC: <image>\nD: <image>",
+    "answer": "A",
+    "images": [
+      "SpatialAct/data/images/geometry/mental_rotation/v1.2/top_isometric/sample_023/top.png",
+      "SpatialAct/data/images/geometry/mental_rotation/v1.2/top_isometric/sample_023/top_mcq_images/rot_cw_090.png",
+      "SpatialAct/data/images/geometry/mental_rotation/v1.2/top_isometric/sample_023/top_mcq_images/rot_cw_315.png",
+      "SpatialAct/data/images/geometry/mental_rotation/v1.2/top_isometric/sample_023/top_mcq_images/rot_cw_060.png",
+      "SpatialAct/data/images/geometry/mental_rotation/v1.2/top_isometric/sample_023/top_mcq_images/rot_cw_180.png"
+    ]
+  },
+  {
+    "task_type": "top_building_rotate",
+    "question": "There are five images: one original top-view image and four rotated top-view options.\nObject 6 is rotated clockwise by 180 degrees around the object's center.\nWhich image matches this rotation? Choose one option.\n\nOriginal top-view image: <image>\nA: <image>\nB: <image>\nC: <image>\nD: <image>",
+    "answer": "C",
+    "images": [
+      "SpatialAct/data/images/geometry/mental_rotation/v1.2/top_isometric/sample_033/top.png",
+      "SpatialAct/data/images/geometry/mental_rotation/v1.2/top_isometric/sample_033/top_mcq_images/rot_cw_135.png",
+      "SpatialAct/data/images/geometry/mental_rotation/v1.2/top_isometric/sample_033/top_mcq_images/rot_cw_045.png",
+      "SpatialAct/data/images/geometry/mental_rotation/v1.2/top_isometric/sample_033/top_mcq_images/rot_cw_180.png",
+      "SpatialAct/data/images/geometry/mental_rotation/v1.2/top_isometric/sample_033/top_mcq_images/rot_cw_300.png"
+    ]
+  },
+  {
+    "task_type": "top_building_rotate",
+    "question": "There are five images: one original top-view image and four rotated top-view options.\nObject 7 is rotated clockwise by 45 degrees around the object's center.\nWhich image matches this rotation? Choose one option.\n\nOriginal top-view image: <image>\nA: <image>\nB: <image>\nC: <image>\nD: <image>",
+    "answer": "C",
+    "images": [
+      "SpatialAct/data/images/geometry/mental_rotation/v1.2/top_isometric/sample_014/top.png",
+      "SpatialAct/data/images/geometry/mental_rotation/v1.2/top_isometric/sample_014/top_mcq_images/rot_cw_030.png",
+      "SpatialAct/data/images/geometry/mental_rotation/v1.2/top_isometric/sample_014/top_mcq_images/rot_cw_225.png",
+      "SpatialAct/data/images/geometry/mental_rotation/v1.2/top_isometric/sample_014/top_mcq_images/rot_cw_045.png",
+      "SpatialAct/data/images/geometry/mental_rotation/v1.2/top_isometric/sample_014/top_mcq_images/rot_cw_090.png"
+    ]
+  },
+  {
+    "task_type": "top_building_rotate",
+    "question": "There are five images: one original top-view image and four rotated top-view options.\nObject 4 is rotated clockwise by 135 degrees around the object's center.\nWhich image matches this rotation? Choose one option.\n\nOriginal top-view image: <image>\nA: <image>\nB: <image>\nC: <image>\nD: <image>",
+    "answer": "D",
+    "images": [
+      "SpatialAct/data/images/geometry/mental_rotation/v1.2/top_isometric/sample_038/top.png",
+      "SpatialAct/data/images/geometry/mental_rotation/v1.2/top_isometric/sample_038/top_mcq_images/rot_cw_240.png",
+      "SpatialAct/data/images/geometry/mental_rotation/v1.2/top_isometric/sample_038/top_mcq_images/rot_cw_330.png",
+      "SpatialAct/data/images/geometry/mental_rotation/v1.2/top_isometric/sample_038/top_mcq_images/rot_cw_315.png",
+      "SpatialAct/data/images/geometry/mental_rotation/v1.2/top_isometric/sample_038/top_mcq_images/rot_cw_135.png"
+    ]
+  },
+  {
+    "task_type": "top_building_rotate",
+    "question": "There are five images: one original top-view image and four rotated top-view options.\nObject 6 is rotated counterclockwise by 240 degrees around the object's center.\nWhich image matches this rotation? Choose one option.\n\nOriginal top-view image: <image>\nA: <image>\nB: <image>\nC: <image>\nD: <image>",
+    "answer": "D",
+    "images": [
+      "SpatialAct/data/images/geometry/mental_rotation/v1.2/top_isometric/sample_018/top.png",
+      "SpatialAct/data/images/geometry/mental_rotation/v1.2/top_isometric/sample_018/top_mcq_images/rot_ccw_180.png",
+      "SpatialAct/data/images/geometry/mental_rotation/v1.2/top_isometric/sample_018/top_mcq_images/rot_ccw_225.png",
+      "SpatialAct/data/images/geometry/mental_rotation/v1.2/top_isometric/sample_018/top_mcq_images/rot_ccw_150.png",
+      "SpatialAct/data/images/geometry/mental_rotation/v1.2/top_isometric/sample_018/top_mcq_images/rot_ccw_240.png"
+    ]
+  },
+  {
+    "task_type": "top_building_rotate",
+    "question": "There are five images: one original top-view image and four rotated top-view options.\nObject 1 is rotated clockwise by 30 degrees around the object's center.\nWhich image matches this rotation? Choose one option.\n\nOriginal top-view image: <image>\nA: <image>\nB: <image>\nC: <image>\nD: <image>",
+    "answer": "B",
+    "images": [
+      "SpatialAct/data/images/geometry/mental_rotation/v1.2/top_isometric/sample_067/top.png",
+      "SpatialAct/data/images/geometry/mental_rotation/v1.2/top_isometric/sample_067/top_mcq_images/rot_cw_150.png",
+      "SpatialAct/data/images/geometry/mental_rotation/v1.2/top_isometric/sample_067/top_mcq_images/rot_cw_030.png",
+      "SpatialAct/data/images/geometry/mental_rotation/v1.2/top_isometric/sample_067/top_mcq_images/rot_cw_120.png",
+      "SpatialAct/data/images/geometry/mental_rotation/v1.2/top_isometric/sample_067/top_mcq_images/rot_cw_225.png"
+    ]
+  },
+  {
+    "task_type": "top_building_rotate_avoid_overlap",
+    "question": "There is one image: a top-view image.\nRotate object 4 counterclockwise by one of the angles below (around the object's center). Which rotation angle avoids overlap with object 6? Choose one option.\n\nTop-view image: <image>\nA. 225 degrees\nB. 210 degrees\nC. 30 degrees\nD. 150 degrees",
+    "answer": "C",
+    "images": [
+      "SpatialAct/data/images/geometry/mental_rotation/v1.2/top_isometric/sample_057/top.png"
+    ]
+  },
+  {
+    "task_type": "top_building_rotate_avoid_overlap",
+    "question": "There is one image: a top-view image.\nRotate object 7 counterclockwise by one of the angles below (around the object's center). Which rotation angle avoids overlap with object 6? Choose one option.\n\nTop-view image: <image>\nA. 45 degrees\nB. 180 degrees\nC. 300 degrees\nD. 120 degrees",
+    "answer": "A",
+    "images": [
+      "SpatialAct/data/images/geometry/mental_rotation/v1.2/top_isometric/sample_026/top.png"
+    ]
+  },
+  {
+    "task_type": "top_building_rotate_avoid_overlap",
+    "question": "There is one image: a top-view image.\nRotate object 7 counterclockwise by one of the angles below (around the object's center). Which rotation angle avoids overlap with object 3? Choose one option.\n\nTop-view image: <image>\nA. 240 degrees\nB. 330 degrees\nC. 90 degrees\nD. 300 degrees",
+    "answer": "C",
+    "images": [
+      "SpatialAct/data/images/geometry/mental_rotation/v1.2/top_isometric/sample_005/top.png"
+    ]
+  },
+  {
+    "task_type": "top_building_rotate_avoid_overlap",
+    "question": "There is one image: a top-view image.\nRotate object 7 counterclockwise by one of the angles below (around the object's center). Which rotation angle avoids overlap with object 5? Choose one option.\n\nTop-view image: <image>\nA. 180 degrees\nB. 60 degrees\nC. 30 degrees\nD. 150 degrees",
+    "answer": "B",
+    "images": [
+      "SpatialAct/data/images/geometry/mental_rotation/v1.2/top_isometric/sample_013/top.png"
+    ]
+  },
+  {
+    "task_type": "top_building_rotate_avoid_overlap",
+    "question": "There is one image: a top-view image.\nRotate object 2 clockwise by one of the angles below (around the object's center). Which rotation angle avoids overlap with object 4? Choose one option.\n\nTop-view image: <image>\nA. 30 degrees\nB. 60 degrees\nC. 330 degrees\nD. 240 degrees",
+    "answer": "D",
+    "images": [
+      "SpatialAct/data/images/geometry/mental_rotation/v1.2/top_isometric/sample_061/top.png"
+    ]
+  },
+  {
+    "task_type": "top_building_rotate_avoid_overlap",
+    "question": "There is one image: a top-view image.\nRotate object 5 clockwise by one of the angles below (around the object's center). Which rotation angle avoids overlap with object 1? Choose one option.\n\nTop-view image: <image>\nA. 270 degrees\nB. 225 degrees\nC. 120 degrees\nD. 210 degrees",
+    "answer": "D",
+    "images": [
+      "SpatialAct/data/images/geometry/mental_rotation/v1.2/top_isometric/sample_024/top.png"
+    ]
+  },
+  {
+    "task_type": "top_building_rotate_avoid_overlap",
+    "question": "There is one image: a top-view image.\nRotate object 2 clockwise by one of the angles below (around the object's center). Which rotation angle avoids overlap with object 1? Choose one option.\n\nTop-view image: <image>\nA. 90 degrees\nB. 270 degrees\nC. 180 degrees\nD. 45 degrees",
+    "answer": "C",
+    "images": [
+      "SpatialAct/data/images/geometry/mental_rotation/v1.2/top_isometric/sample_022/top.png"
+    ]
+  },
+  {
+    "task_type": "top_building_rotate_avoid_overlap",
+    "question": "There is one image: a top-view image.\nRotate object 4 counterclockwise by one of the angles below (around the object's center). Which rotation angle avoids overlap with object 3? Choose one option.\n\nTop-view image: <image>\nA. 210 degrees\nB. 90 degrees\nC. 225 degrees\nD. 300 degrees",
+    "answer": "D",
+    "images": [
+      "SpatialAct/data/images/geometry/mental_rotation/v1.2/top_isometric/sample_038/top.png"
+    ]
+  },
+  {
+    "task_type": "top_building_rotate_avoid_overlap",
+    "question": "There is one image: a top-view image.\nRotate object 5 clockwise by one of the angles below (around the object's center). Which rotation angle avoids overlap with object 2? Choose one option.\n\nTop-view image: <image>\nA. 30 degrees\nB. 60 degrees\nC. 150 degrees\nD. 135 degrees",
+    "answer": "D",
+    "images": [
+      "SpatialAct/data/images/geometry/mental_rotation/v1.2/top_isometric/sample_025/top.png"
+    ]
+  },
+  {
+    "task_type": "top_building_rotate_avoid_overlap",
+    "question": "There is one image: a top-view image.\nRotate object 2 clockwise by one of the angles below (around the object's center). Which rotation angle avoids overlap with object 5? Choose one option.\n\nTop-view image: <image>\nA. 330 degrees\nB. 150 degrees\nC. 180 degrees\nD. 210 degrees",
+    "answer": "A",
+    "images": [
+      "SpatialAct/data/images/geometry/mental_rotation/v1.2/top_isometric/sample_052/top.png"
+    ]
+  },
+  {
+    "task_type": "top_building_rotate_avoid_overlap",
+    "question": "There is one image: a top-view image.\nRotate object 3 clockwise by one of the angles below (around the object's center). Which rotation angle avoids overlap with object 6? Choose one option.\n\nTop-view image: <image>\nA. 30 degrees\nB. 180 degrees\nC. 315 degrees\nD. 45 degrees",
+    "answer": "B",
+    "images": [
+      "SpatialAct/data/images/geometry/mental_rotation/v1.2/top_isometric/sample_085/top.png"
+    ]
+  },
+  {
+    "task_type": "top_building_rotate_avoid_overlap",
+    "question": "There is one image: a top-view image.\nRotate object 1 counterclockwise by one of the angles below (around the object's center). Which rotation angle avoids overlap with object 3? Choose one option.\n\nTop-view image: <image>\nA. 150 degrees\nB. 135 degrees\nC. 240 degrees\nD. 30 degrees",
+    "answer": "D",
+    "images": [
+      "SpatialAct/data/images/geometry/mental_rotation/v1.2/top_isometric/sample_067/top.png"
+    ]
+  },
+  {
+    "task_type": "top_building_rotate_avoid_overlap",
+    "question": "There is one image: a top-view image.\nRotate object 5 counterclockwise by one of the angles below (around the object's center). Which rotation angle avoids overlap with object 1? Choose one option.\n\nTop-view image: <image>\nA. 240 degrees\nB. 180 degrees\nC. 135 degrees\nD. 120 degrees",
+    "answer": "C",
+    "images": [
+      "SpatialAct/data/images/geometry/mental_rotation/v1.2/top_isometric/sample_079/top.png"
+    ]
+  },
+  {
+    "task_type": "top_building_rotate_avoid_overlap",
+    "question": "There is one image: a top-view image.\nRotate object 4 clockwise by one of the angles below (around the object's center). Which rotation angle avoids overlap with object 6? Choose one option.\n\nTop-view image: <image>\nA. 210 degrees\nB. 300 degrees\nC. 135 degrees\nD. 315 degrees",
+    "answer": "C",
+    "images": [
+      "SpatialAct/data/images/geometry/mental_rotation/v1.2/top_isometric/sample_044/top.png"
+    ]
+  },
+  {
+    "task_type": "top_building_rotate_avoid_overlap",
+    "question": "There is one image: a top-view image.\nRotate object 3 counterclockwise by one of the angles below (around the object's center). Which rotation angle avoids overlap with object 7? Choose one option.\n\nTop-view image: <image>\nA. 210 degrees\nB. 180 degrees\nC. 30 degrees\nD. 225 degrees",
+    "answer": "B",
+    "images": [
+      "SpatialAct/data/images/geometry/mental_rotation/v1.2/top_isometric/sample_042/top.png"
+    ]
+  },
+  {
+    "task_type": "top_building_rotate_avoid_overlap",
+    "question": "There is one image: a top-view image.\nRotate object 5 counterclockwise by one of the angles below (around the object's center). Which rotation angle avoids overlap with object 7? Choose one option.\n\nTop-view image: <image>\nA. 210 degrees\nB. 315 degrees\nC. 30 degrees\nD. 90 degrees",
+    "answer": "D",
+    "images": [
+      "SpatialAct/data/images/geometry/mental_rotation/v1.2/top_isometric/sample_004/top.png"
+    ]
+  },
+  {
+    "task_type": "top_building_rotate_overlap",
+    "question": "There is one image: a top-view image.\nIf object 3 is rotated counterclockwise by 90 degrees (around the object's center), will it overlap with object 7? Answer with Yes or No.\n\nTop-view image: <image>",
+    "answer": "Yes",
+    "images": [
+      "SpatialAct/data/images/geometry/mental_rotation/v1.2/top_isometric/sample_042/top.png"
+    ]
+  },
+  {
+    "task_type": "top_building_rotate_overlap",
+    "question": "There is one image: a top-view image.\nIf object 6 is rotated clockwise by 30 degrees (around the object's center), will it overlap with object 1? Answer with Yes or No.\n\nTop-view image: <image>",
+    "answer": "Yes",
+    "images": [
+      "SpatialAct/data/images/geometry/mental_rotation/v1.2/top_isometric/sample_041/top.png"
+    ]
+  },
+  {
+    "task_type": "top_building_rotate_overlap",
+    "question": "There is one image: a top-view image.\nIf object 2 is rotated counterclockwise by 45 degrees (around the object's center), will it overlap with object 1? Answer with Yes or No.\n\nTop-view image: <image>",
+    "answer": "Yes",
+    "images": [
+      "SpatialAct/data/images/geometry/mental_rotation/v1.2/top_isometric/sample_091/top.png"
+    ]
+  },
+  {
+    "task_type": "top_building_rotate_overlap",
+    "question": "There is one image: a top-view image.\nIf object 3 is rotated clockwise by 30 degrees (around the object's center), will it overlap with object 1? Answer with Yes or No.\n\nTop-view image: <image>",
+    "answer": "Yes",
+    "images": [
+      "SpatialAct/data/images/geometry/mental_rotation/v1.2/top_isometric/sample_009/top.png"
+    ]
+  },
+  {
+    "task_type": "top_building_rotate_overlap",
+    "question": "There is one image: a top-view image.\nIf object 6 is rotated counterclockwise by 210 degrees (around the object's center), will it overlap with object 3? Answer with Yes or No.\n\nTop-view image: <image>",
+    "answer": "Yes",
+    "images": [
+      "SpatialAct/data/images/geometry/mental_rotation/v1.2/top_isometric/sample_065/top.png"
+    ]
+  },
+  {
+    "task_type": "top_building_rotate_overlap",
+    "question": "There is one image: a top-view image.\nIf object 6 is rotated clockwise by 330 degrees (around the object's center), will it overlap with object 1? Answer with Yes or No.\n\nTop-view image: <image>",
+    "answer": "Yes",
+    "images": [
+      "SpatialAct/data/images/geometry/mental_rotation/v1.2/top_isometric/sample_050/top.png"
+    ]
+  },
+  {
+    "task_type": "top_building_rotate_overlap",
+    "question": "There is one image: a top-view image.\nIf object 4 is rotated counterclockwise by 150 degrees (around the object's center), will it overlap with object 5? Answer with Yes or No.\n\nTop-view image: <image>",
+    "answer": "Yes",
+    "images": [
+      "SpatialAct/data/images/geometry/mental_rotation/v1.2/top_isometric/sample_001/top.png"
+    ]
+  },
+  {
+    "task_type": "top_building_rotate_overlap",
+    "question": "There is one image: a top-view image.\nIf object 4 is rotated clockwise by 120 degrees (around the object's center), will it overlap with object 6? Answer with Yes or No.\n\nTop-view image: <image>",
+    "answer": "Yes",
+    "images": [
+      "SpatialAct/data/images/geometry/mental_rotation/v1.2/top_isometric/sample_070/top.png"
+    ]
+  },
+  {
+    "task_type": "top_building_rotate_overlap",
+    "question": "There is one image: a top-view image.\nIf object 3 is rotated counterclockwise by 60 degrees (around the object's center), will it overlap with object 2? Answer with Yes or No.\n\nTop-view image: <image>",
+    "answer": "Yes",
+    "images": [
+      "SpatialAct/data/images/geometry/mental_rotation/v1.2/top_isometric/sample_015/top.png"
+    ]
+  },
+  {
+    "task_type": "top_building_rotate_overlap",
+    "question": "There is one image: a top-view image.\nIf object 7 is rotated counterclockwise by 150 degrees (around the object's center), will it overlap with object 5? Answer with Yes or No.\n\nTop-view image: <image>",
+    "answer": "No",
+    "images": [
+      "SpatialAct/data/images/geometry/mental_rotation/v1.2/top_isometric/sample_078/top.png"
+    ]
+  },
+  {
+    "task_type": "top_building_rotate_overlap",
+    "question": "There is one image: a top-view image.\nIf object 2 is rotated clockwise by 30 degrees (around the object's center), will it overlap with object 4? Answer with Yes or No.\n\nTop-view image: <image>",
+    "answer": "Yes",
+    "images": [
+      "SpatialAct/data/images/geometry/mental_rotation/v1.2/top_isometric/sample_073/top.png"
+    ]
+  },
+  {
+    "task_type": "top_building_rotate_overlap",
+    "question": "There is one image: a top-view image.\nIf object 5 is rotated counterclockwise by 240 degrees (around the object's center), will it overlap with object 2? Answer with Yes or No.\n\nTop-view image: <image>",
+    "answer": "Yes",
+    "images": [
+      "SpatialAct/data/images/geometry/mental_rotation/v1.2/top_isometric/sample_010/top.png"
+    ]
+  },
+  {
+    "task_type": "top_building_rotate_overlap",
+    "question": "There is one image: a top-view image.\nIf object 1 is rotated counterclockwise by 315 degrees (around the object's center), will it overlap with object 5? Answer with Yes or No.\n\nTop-view image: <image>",
+    "answer": "Yes",
+    "images": [
+      "SpatialAct/data/images/geometry/mental_rotation/v1.2/top_isometric/sample_055/top.png"
+    ]
+  },
+  {
+    "task_type": "top_building_rotate_overlap",
+    "question": "There is one image: a top-view image.\nIf object 6 is rotated clockwise by 330 degrees (around the object's center), will it overlap with object 3? Answer with Yes or No.\n\nTop-view image: <image>",
+    "answer": "No",
+    "images": [
+      "SpatialAct/data/images/geometry/mental_rotation/v1.2/top_isometric/sample_056/top.png"
+    ]
+  },
+  {
+    "task_type": "top_building_rotate_overlap",
+    "question": "There is one image: a top-view image.\nIf object 3 is rotated clockwise by 210 degrees (around the object's center), will it overlap with object 4? Answer with Yes or No.\n\nTop-view image: <image>",
+    "answer": "Yes",
+    "images": [
+      "SpatialAct/data/images/geometry/mental_rotation/v1.2/top_isometric/sample_072/top.png"
+    ]
+  },
+  {
+    "task_type": "top_building_rotate_overlap",
+    "question": "There is one image: a top-view image.\nIf object 3 is rotated clockwise by 60 degrees (around the object's center), will it overlap with object 5? Answer with Yes or No.\n\nTop-view image: <image>",
+    "answer": "No",
+    "images": [
+      "SpatialAct/data/images/geometry/mental_rotation/v1.2/top_isometric/sample_045/top.png"
+    ]
+  },
+  {
+    "task_type": "top_region_building_rotate",
+    "question": "There are five images: one original top-view image and four option images.\nObject 7 is rotated counterclockwise by 60 degrees around the center of the region.\nWhich option image matches this rotation result? Choose one option.\n\nOriginal top-view image: <image>\nA: <image>\nB: <image>\nC: <image>\nD: <image>",
+    "answer": "A",
+    "images": [
+      "SpatialAct/data/images/geometry/mental_rotation/v1.2/top_isometric/sample_056/top.png",
+      "SpatialAct/data/images/geometry/mental_rotation/v1.2/top_isometric/sample_056/top_region_building_rotate_images/rot_center_ccw_060.png",
+      "SpatialAct/data/images/geometry/mental_rotation/v1.2/top_isometric/sample_056/top_region_building_rotate_images/rot_center_ccw_315.png",
+      "SpatialAct/data/images/geometry/mental_rotation/v1.2/top_isometric/sample_056/top_region_building_rotate_images/rot_center_ccw_210.png",
+      "SpatialAct/data/images/geometry/mental_rotation/v1.2/top_isometric/sample_056/top_region_building_rotate_images/rot_center_ccw_225.png"
+    ]
+  },
+  {
+    "task_type": "top_region_building_rotate",
+    "question": "There are five images: one original top-view image and four option images.\nObject 1 is rotated clockwise by 45 degrees around the center of the region.\nWhich option image matches this rotation result? Choose one option.\n\nOriginal top-view image: <image>\nA: <image>\nB: <image>\nC: <image>\nD: <image>",
+    "answer": "D",
+    "images": [
+      "SpatialAct/data/images/geometry/mental_rotation/v1.2/top_isometric/sample_069/top.png",
+      "SpatialAct/data/images/geometry/mental_rotation/v1.2/top_isometric/sample_069/top_region_building_rotate_images/rot_center_cw_315.png",
+      "SpatialAct/data/images/geometry/mental_rotation/v1.2/top_isometric/sample_069/top_region_building_rotate_images/rot_center_cw_060.png",
+      "SpatialAct/data/images/geometry/mental_rotation/v1.2/top_isometric/sample_069/top_region_building_rotate_images/rot_center_cw_270.png",
+      "SpatialAct/data/images/geometry/mental_rotation/v1.2/top_isometric/sample_069/top_region_building_rotate_images/rot_center_cw_045.png"
+    ]
+  },
+  {
+    "task_type": "top_region_building_rotate",
+    "question": "There are five images: one original top-view image and four option images.\nObject 7 is rotated clockwise by 270 degrees around the center of the region.\nWhich option image matches this rotation result? Choose one option.\n\nOriginal top-view image: <image>\nA: <image>\nB: <image>\nC: <image>\nD: <image>",
+    "answer": "C",
+    "images": [
+      "SpatialAct/data/images/geometry/mental_rotation/v1.2/top_isometric/sample_027/top.png",
+      "SpatialAct/data/images/geometry/mental_rotation/v1.2/top_isometric/sample_027/top_region_building_rotate_images/rot_center_cw_030.png",
+      "SpatialAct/data/images/geometry/mental_rotation/v1.2/top_isometric/sample_027/top_region_building_rotate_images/rot_center_cw_120.png",
+      "SpatialAct/data/images/geometry/mental_rotation/v1.2/top_isometric/sample_027/top_region_building_rotate_images/rot_center_cw_270.png",
+      "SpatialAct/data/images/geometry/mental_rotation/v1.2/top_isometric/sample_027/top_region_building_rotate_images/rot_center_cw_300.png"
+    ]
+  },
+  {
+    "task_type": "top_region_building_rotate",
+    "question": "There are five images: one original top-view image and four option images.\nObject 1 is rotated counterclockwise by 210 degrees around the center of the region.\nWhich option image matches this rotation result? Choose one option.\n\nOriginal top-view image: <image>\nA: <image>\nB: <image>\nC: <image>\nD: <image>",
+    "answer": "A",
+    "images": [
+      "SpatialAct/data/images/geometry/mental_rotation/v1.2/top_isometric/sample_077/top.png",
+      "SpatialAct/data/images/geometry/mental_rotation/v1.2/top_isometric/sample_077/top_region_building_rotate_images/rot_center_ccw_210.png",
+      "SpatialAct/data/images/geometry/mental_rotation/v1.2/top_isometric/sample_077/top_region_building_rotate_images/rot_center_ccw_270.png",
+      "SpatialAct/data/images/geometry/mental_rotation/v1.2/top_isometric/sample_077/top_region_building_rotate_images/rot_center_ccw_135.png",
+      "SpatialAct/data/images/geometry/mental_rotation/v1.2/top_isometric/sample_077/top_region_building_rotate_images/rot_center_ccw_060.png"
+    ]
+  },
+  {
+    "task_type": "top_region_building_rotate",
+    "question": "There are five images: one original top-view image and four option images.\nObject 7 is rotated clockwise by 225 degrees around the center of the region.\nWhich option image matches this rotation result? Choose one option.\n\nOriginal top-view image: <image>\nA: <image>\nB: <image>\nC: <image>\nD: <image>",
+    "answer": "B",
+    "images": [
+      "SpatialAct/data/images/geometry/mental_rotation/v1.2/top_isometric/sample_011/top.png",
+      "SpatialAct/data/images/geometry/mental_rotation/v1.2/top_isometric/sample_011/top_region_building_rotate_images/rot_center_cw_150.png",
+      "SpatialAct/data/images/geometry/mental_rotation/v1.2/top_isometric/sample_011/top_region_building_rotate_images/rot_center_cw_225.png",
+      "SpatialAct/data/images/geometry/mental_rotation/v1.2/top_isometric/sample_011/top_region_building_rotate_images/rot_center_cw_210.png",
+      "SpatialAct/data/images/geometry/mental_rotation/v1.2/top_isometric/sample_011/top_region_building_rotate_images/rot_center_cw_135.png"
+    ]
+  },
+  {
+    "task_type": "top_region_building_rotate",
+    "question": "There are five images: one original top-view image and four option images.\nObject 2 is rotated clockwise by 300 degrees around the center of the region.\nWhich option image matches this rotation result? Choose one option.\n\nOriginal top-view image: <image>\nA: <image>\nB: <image>\nC: <image>\nD: <image>",
+    "answer": "C",
+    "images": [
+      "SpatialAct/data/images/geometry/mental_rotation/v1.2/top_isometric/sample_002/top.png",
+      "SpatialAct/data/images/geometry/mental_rotation/v1.2/top_isometric/sample_002/top_region_building_rotate_images/rot_center_cw_315.png",
+      "SpatialAct/data/images/geometry/mental_rotation/v1.2/top_isometric/sample_002/top_region_building_rotate_images/rot_center_cw_135.png",
+      "SpatialAct/data/images/geometry/mental_rotation/v1.2/top_isometric/sample_002/top_region_building_rotate_images/rot_center_cw_300.png",
+      "SpatialAct/data/images/geometry/mental_rotation/v1.2/top_isometric/sample_002/top_region_building_rotate_images/rot_center_cw_210.png"
+    ]
+  },
+  {
+    "task_type": "top_region_building_rotate",
+    "question": "There are five images: one original top-view image and four option images.\nObject 6 is rotated clockwise by 60 degrees around the center of the region.\nWhich option image matches this rotation result? Choose one option.\n\nOriginal top-view image: <image>\nA: <image>\nB: <image>\nC: <image>\nD: <image>",
+    "answer": "A",
+    "images": [
+      "SpatialAct/data/images/geometry/mental_rotation/v1.2/top_isometric/sample_090/top.png",
+      "SpatialAct/data/images/geometry/mental_rotation/v1.2/top_isometric/sample_090/top_region_building_rotate_images/rot_center_cw_060.png",
+      "SpatialAct/data/images/geometry/mental_rotation/v1.2/top_isometric/sample_090/top_region_building_rotate_images/rot_center_cw_315.png",
+      "SpatialAct/data/images/geometry/mental_rotation/v1.2/top_isometric/sample_090/top_region_building_rotate_images/rot_center_cw_210.png",
+      "SpatialAct/data/images/geometry/mental_rotation/v1.2/top_isometric/sample_090/top_region_building_rotate_images/rot_center_cw_300.png"
+    ]
+  },
+  {
+    "task_type": "top_region_building_rotate",
+    "question": "There are five images: one original top-view image and four option images.\nObject 5 is rotated counterclockwise by 120 degrees around the center of the region.\nWhich option image matches this rotation result? Choose one option.\n\nOriginal top-view image: <image>\nA: <image>\nB: <image>\nC: <image>\nD: <image>",
+    "answer": "C",
+    "images": [
+      "SpatialAct/data/images/geometry/mental_rotation/v1.2/top_isometric/sample_012/top.png",
+      "SpatialAct/data/images/geometry/mental_rotation/v1.2/top_isometric/sample_012/top_region_building_rotate_images/rot_center_ccw_180.png",
+      "SpatialAct/data/images/geometry/mental_rotation/v1.2/top_isometric/sample_012/top_region_building_rotate_images/rot_center_ccw_060.png",
+      "SpatialAct/data/images/geometry/mental_rotation/v1.2/top_isometric/sample_012/top_region_building_rotate_images/rot_center_ccw_120.png",
+      "SpatialAct/data/images/geometry/mental_rotation/v1.2/top_isometric/sample_012/top_region_building_rotate_images/rot_center_ccw_240.png"
+    ]
+  },
+  {
+    "task_type": "top_region_building_rotate",
+    "question": "There are five images: one original top-view image and four option images.\nObject 3 is rotated clockwise by 150 degrees around the center of the region.\nWhich option image matches this rotation result? Choose one option.\n\nOriginal top-view image: <image>\nA: <image>\nB: <image>\nC: <image>\nD: <image>",
+    "answer": "D",
+    "images": [
+      "SpatialAct/data/images/geometry/mental_rotation/v1.2/top_isometric/sample_025/top.png",
+      "SpatialAct/data/images/geometry/mental_rotation/v1.2/top_isometric/sample_025/top_region_building_rotate_images/rot_center_cw_270.png",
+      "SpatialAct/data/images/geometry/mental_rotation/v1.2/top_isometric/sample_025/top_region_building_rotate_images/rot_center_cw_180.png",
+      "SpatialAct/data/images/geometry/mental_rotation/v1.2/top_isometric/sample_025/top_region_building_rotate_images/rot_center_cw_210.png",
+      "SpatialAct/data/images/geometry/mental_rotation/v1.2/top_isometric/sample_025/top_region_building_rotate_images/rot_center_cw_150.png"
+    ]
+  },
+  {
+    "task_type": "top_region_building_rotate",
+    "question": "There are five images: one original top-view image and four option images.\nObject 6 is rotated clockwise by 330 degrees around the center of the region.\nWhich option image matches this rotation result? Choose one option.\n\nOriginal top-view image: <image>\nA: <image>\nB: <image>\nC: <image>\nD: <image>",
+    "answer": "A",
+    "images": [
+      "SpatialAct/data/images/geometry/mental_rotation/v1.2/top_isometric/sample_046/top.png",
+      "SpatialAct/data/images/geometry/mental_rotation/v1.2/top_isometric/sample_046/top_region_building_rotate_images/rot_center_cw_330.png",
+      "SpatialAct/data/images/geometry/mental_rotation/v1.2/top_isometric/sample_046/top_region_building_rotate_images/rot_center_cw_135.png",
+      "SpatialAct/data/images/geometry/mental_rotation/v1.2/top_isometric/sample_046/top_region_building_rotate_images/rot_center_cw_150.png",
+      "SpatialAct/data/images/geometry/mental_rotation/v1.2/top_isometric/sample_046/top_region_building_rotate_images/rot_center_cw_225.png"
+    ]
+  },
+  {
+    "task_type": "top_region_building_rotate",
+    "question": "There are five images: one original top-view image and four option images.\nObject 6 is rotated clockwise by 225 degrees around the center of the region.\nWhich option image matches this rotation result? Choose one option.\n\nOriginal top-view image: <image>\nA: <image>\nB: <image>\nC: <image>\nD: <image>",
+    "answer": "D",
+    "images": [
+      "SpatialAct/data/images/geometry/mental_rotation/v1.2/top_isometric/sample_094/top.png",
+      "SpatialAct/data/images/geometry/mental_rotation/v1.2/top_isometric/sample_094/top_region_building_rotate_images/rot_center_cw_330.png",
+      "SpatialAct/data/images/geometry/mental_rotation/v1.2/top_isometric/sample_094/top_region_building_rotate_images/rot_center_cw_120.png",
+      "SpatialAct/data/images/geometry/mental_rotation/v1.2/top_isometric/sample_094/top_region_building_rotate_images/rot_center_cw_315.png",
+      "SpatialAct/data/images/geometry/mental_rotation/v1.2/top_isometric/sample_094/top_region_building_rotate_images/rot_center_cw_225.png"
+    ]
+  },
+  {
+    "task_type": "top_region_building_rotate",
+    "question": "There are five images: one original top-view image and four option images.\nObject 4 is rotated clockwise by 135 degrees around the center of the region.\nWhich option image matches this rotation result? Choose one option.\n\nOriginal top-view image: <image>\nA: <image>\nB: <image>\nC: <image>\nD: <image>",
+    "answer": "D",
+    "images": [
+      "SpatialAct/data/images/geometry/mental_rotation/v1.2/top_isometric/sample_001/top.png",
+      "SpatialAct/data/images/geometry/mental_rotation/v1.2/top_isometric/sample_001/top_region_building_rotate_images/rot_center_cw_315.png",
+      "SpatialAct/data/images/geometry/mental_rotation/v1.2/top_isometric/sample_001/top_region_building_rotate_images/rot_center_cw_060.png",
+      "SpatialAct/data/images/geometry/mental_rotation/v1.2/top_isometric/sample_001/top_region_building_rotate_images/rot_center_cw_300.png",
+      "SpatialAct/data/images/geometry/mental_rotation/v1.2/top_isometric/sample_001/top_region_building_rotate_images/rot_center_cw_135.png"
+    ]
+  },
+  {
+    "task_type": "top_region_building_rotate",
+    "question": "There are five images: one original top-view image and four option images.\nObject 1 is rotated counterclockwise by 60 degrees around the center of the region.\nWhich option image matches this rotation result? Choose one option.\n\nOriginal top-view image: <image>\nA: <image>\nB: <image>\nC: <image>\nD: <image>",
+    "answer": "B",
+    "images": [
+      "SpatialAct/data/images/geometry/mental_rotation/v1.2/top_isometric/sample_054/top.png",
+      "SpatialAct/data/images/geometry/mental_rotation/v1.2/top_isometric/sample_054/top_region_building_rotate_images/rot_center_ccw_270.png",
+      "SpatialAct/data/images/geometry/mental_rotation/v1.2/top_isometric/sample_054/top_region_building_rotate_images/rot_center_ccw_060.png",
+      "SpatialAct/data/images/geometry/mental_rotation/v1.2/top_isometric/sample_054/top_region_building_rotate_images/rot_center_ccw_045.png",
+      "SpatialAct/data/images/geometry/mental_rotation/v1.2/top_isometric/sample_054/top_region_building_rotate_images/rot_center_ccw_180.png"
+    ]
+  },
+  {
+    "task_type": "top_region_building_rotate",
+    "question": "There are five images: one original top-view image and four option images.\nObject 2 is rotated counterclockwise by 150 degrees around the center of the region.\nWhich option image matches this rotation result? Choose one option.\n\nOriginal top-view image: <image>\nA: <image>\nB: <image>\nC: <image>\nD: <image>",
+    "answer": "B",
+    "images": [
+      "SpatialAct/data/images/geometry/mental_rotation/v1.2/top_isometric/sample_089/top.png",
+      "SpatialAct/data/images/geometry/mental_rotation/v1.2/top_isometric/sample_089/top_region_building_rotate_images/rot_center_ccw_090.png",
+      "SpatialAct/data/images/geometry/mental_rotation/v1.2/top_isometric/sample_089/top_region_building_rotate_images/rot_center_ccw_150.png",
+      "SpatialAct/data/images/geometry/mental_rotation/v1.2/top_isometric/sample_089/top_region_building_rotate_images/rot_center_ccw_225.png",
+      "SpatialAct/data/images/geometry/mental_rotation/v1.2/top_isometric/sample_089/top_region_building_rotate_images/rot_center_ccw_030.png"
+    ]
+  },
+  {
+    "task_type": "top_region_building_rotate",
+    "question": "There are five images: one original top-view image and four option images.\nObject 2 is rotated counterclockwise by 210 degrees around the center of the region.\nWhich option image matches this rotation result? Choose one option.\n\nOriginal top-view image: <image>\nA: <image>\nB: <image>\nC: <image>\nD: <image>",
+    "answer": "B",
+    "images": [
+      "SpatialAct/data/images/geometry/mental_rotation/v1.2/top_isometric/sample_014/top.png",
+      "SpatialAct/data/images/geometry/mental_rotation/v1.2/top_isometric/sample_014/top_region_building_rotate_images/rot_center_ccw_135.png",
+      "SpatialAct/data/images/geometry/mental_rotation/v1.2/top_isometric/sample_014/top_region_building_rotate_images/rot_center_ccw_210.png",
+      "SpatialAct/data/images/geometry/mental_rotation/v1.2/top_isometric/sample_014/top_region_building_rotate_images/rot_center_ccw_120.png",
+      "SpatialAct/data/images/geometry/mental_rotation/v1.2/top_isometric/sample_014/top_region_building_rotate_images/rot_center_ccw_225.png"
+    ]
+  },
+  {
+    "task_type": "top_region_building_rotate",
+    "question": "There are five images: one original top-view image and four option images.\nObject 1 is rotated counterclockwise by 330 degrees around the center of the region.\nWhich option image matches this rotation result? Choose one option.\n\nOriginal top-view image: <image>\nA: <image>\nB: <image>\nC: <image>\nD: <image>",
+    "answer": "D",
+    "images": [
+      "SpatialAct/data/images/geometry/mental_rotation/v1.2/top_isometric/sample_042/top.png",
+      "SpatialAct/data/images/geometry/mental_rotation/v1.2/top_isometric/sample_042/top_region_building_rotate_images/rot_center_ccw_135.png",
+      "SpatialAct/data/images/geometry/mental_rotation/v1.2/top_isometric/sample_042/top_region_building_rotate_images/rot_center_ccw_210.png",
+      "SpatialAct/data/images/geometry/mental_rotation/v1.2/top_isometric/sample_042/top_region_building_rotate_images/rot_center_ccw_270.png",
+      "SpatialAct/data/images/geometry/mental_rotation/v1.2/top_isometric/sample_042/top_region_building_rotate_images/rot_center_ccw_330.png"
+    ]
+  },
+  {
+    "task_type": "isometric_building_rotate",
+    "question": "There are five images: one original isometric-view image and four rotated isometric-view options.\nObject 1 is rotated counterclockwise by 60 degrees around the object's center.\nWhich option image matches this rotation? Choose one option.\n\nOriginal isometric-view image: <image>\nA: <image>\nB: <image>\nC: <image>\nD: <image>",
+    "answer": "D",
+    "images": [
+      "SpatialAct/data/images/geometry/mental_rotation/v1.2/top_isometric/sample_083/isometric.png",
+      "SpatialAct/data/images/geometry/mental_rotation/v1.2/top_isometric/sample_083/isometric_mcq_images/iso_rot_ccw_150.png",
+      "SpatialAct/data/images/geometry/mental_rotation/v1.2/top_isometric/sample_083/isometric_mcq_images/iso_rot_ccw_240.png",
+      "SpatialAct/data/images/geometry/mental_rotation/v1.2/top_isometric/sample_083/isometric_mcq_images/iso_rot_ccw_090.png",
+      "SpatialAct/data/images/geometry/mental_rotation/v1.2/top_isometric/sample_083/isometric_mcq_images/iso_rot_ccw_060.png"
+    ]
+  },
+  {
+    "task_type": "isometric_region_building_rotate",
+    "question": "There are five images: one original isometric-view image and four option images.\nObject 4 is rotated counterclockwise by 270 degrees around the center of the region.\nWhich option image matches this rotation result? Choose one option.\n\nOriginal isometric-view image: <image>\nA: <image>\nB: <image>\nC: <image>\nD: <image>",
+    "answer": "C",
+    "images": [
+      "SpatialAct/data/images/geometry/mental_rotation/v1.2/top_isometric/sample_062/isometric.png",
+      "SpatialAct/data/images/geometry/mental_rotation/v1.2/top_isometric/sample_062/iso_region_building_rotate_images/iso_rot_center_ccw_240.png",
+      "SpatialAct/data/images/geometry/mental_rotation/v1.2/top_isometric/sample_062/iso_region_building_rotate_images/iso_rot_center_ccw_150.png",
+      "SpatialAct/data/images/geometry/mental_rotation/v1.2/top_isometric/sample_062/iso_region_building_rotate_images/iso_rot_center_ccw_270.png",
+      "SpatialAct/data/images/geometry/mental_rotation/v1.2/top_isometric/sample_062/iso_region_building_rotate_images/iso_rot_center_ccw_180.png"
+    ]
+  },
+  {
+    "task_type": "top_building_rotate",
+    "question": "There are five images: one original top-view image and four rotated top-view options.\nObject 1 is rotated counterclockwise by 210 degrees around the object's center.\nWhich image matches this rotation? Choose one option.\n\nOriginal top-view image: <image>\nA: <image>\nB: <image>\nC: <image>\nD: <image>",
+    "answer": "A",
+    "images": [
+      "SpatialAct/data/images/geometry/mental_rotation/v1.2/top_isometric/sample_087/top.png",
+      "SpatialAct/data/images/geometry/mental_rotation/v1.2/top_isometric/sample_087/top_mcq_images/rot_ccw_210.png",
+      "SpatialAct/data/images/geometry/mental_rotation/v1.2/top_isometric/sample_087/top_mcq_images/rot_ccw_060.png",
+      "SpatialAct/data/images/geometry/mental_rotation/v1.2/top_isometric/sample_087/top_mcq_images/rot_ccw_090.png",
+      "SpatialAct/data/images/geometry/mental_rotation/v1.2/top_isometric/sample_087/top_mcq_images/rot_ccw_180.png"
+    ]
+  },
+  {
+    "task_type": "top_building_rotate_avoid_overlap",
+    "question": "There is one image: a top-view image.\nRotate object 7 counterclockwise by one of the angles below (around the object's center). Which rotation angle avoids overlap with object 1? Choose one option.\n\nTop-view image: <image>\nA. 60 degrees\nB. 135 degrees\nC. 315 degrees\nD. 180 degrees",
+    "answer": "D",
+    "images": [
+      "SpatialAct/data/images/geometry/mental_rotation/v1.2/top_isometric/sample_069/top.png"
+    ]
+  }
+]

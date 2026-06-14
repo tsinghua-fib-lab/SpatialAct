@@ -1,0 +1,868 @@
+[
+  {
+    "task_type": "isometric_camera_rotate",
+    "question": "There is an isometric image of a scene. In this image, the red arrow indicates the North direction.\nIdentify the southernmost object in the image.\n\nNow imagine that the camera rotates COUNTER-CLOCKWISE by 90 degrees around the scene center.\nWhen the camera rotates, the cardinal directions (north, east, south, west) rotate together with the view.\n\nAfter this rotation, where will that object be located relative to the scene center in the rotated coordinate frame?\n\nChoose one option.\n\nIsometric image: <image>\nA. east\nB. northwest\nC. south\nD. northeast",
+    "answer": "B",
+    "images": [
+      "SpatialAct/data/images/geometry/spatial_orientation/v1.2/top_isometric/sample_087/isometric.png"
+    ]
+  },
+  {
+    "task_type": "isometric_camera_rotate",
+    "question": "There is an isometric image of a scene. In this image, the red arrow indicates the North direction.\nIdentify the easternmost object in the image.\n\nNow imagine that the camera rotates CLOCKWISE by 90 degrees around the scene center.\nWhen the camera rotates, the cardinal directions (north, east, south, west) rotate together with the view.\n\nAfter this rotation, where will that object be located relative to the scene center in the rotated coordinate frame?\n\nChoose one option.\n\nIsometric image: <image>\nA. northeast\nB. south\nC. southwest\nD. northwest",
+    "answer": "D",
+    "images": [
+      "SpatialAct/data/images/geometry/spatial_orientation/v1.2/top_isometric/sample_016/isometric.png"
+    ]
+  },
+  {
+    "task_type": "isometric_camera_rotate",
+    "question": "There is an isometric image of a scene. In this image, the red arrow indicates the North direction.\nIdentify the westernmost object in the image.\n\nNow imagine that the camera rotates CLOCKWISE by 90 degrees around the scene center.\nWhen the camera rotates, the cardinal directions (north, east, south, west) rotate together with the view.\n\nAfter this rotation, where will that object be located relative to the scene center in the rotated coordinate frame?\n\nChoose one option.\n\nIsometric image: <image>\nA. southwest\nB. north\nC. east\nD. southeast",
+    "answer": "A",
+    "images": [
+      "SpatialAct/data/images/geometry/spatial_orientation/v1.2/top_isometric/sample_047/isometric.png"
+    ]
+  },
+  {
+    "task_type": "isometric_camera_rotate",
+    "question": "There is an isometric image of a scene. In this image, the red arrow indicates the North direction.\nIdentify the westernmost object in the image.\n\nNow imagine that the camera rotates COUNTER-CLOCKWISE by 90 degrees around the scene center.\nWhen the camera rotates, the cardinal directions (north, east, south, west) rotate together with the view.\n\nAfter this rotation, where will that object be located relative to the scene center in the rotated coordinate frame?\n\nChoose one option.\n\nIsometric image: <image>\nA. south\nB. north\nC. east\nD. southeast",
+    "answer": "B",
+    "images": [
+      "SpatialAct/data/images/geometry/spatial_orientation/v1.2/top_isometric/sample_066/isometric.png"
+    ]
+  },
+  {
+    "task_type": "isometric_camera_rotate",
+    "question": "There is an isometric image of a scene. In this image, the red arrow indicates the North direction.\nIdentify the easternmost object in the image.\n\nNow imagine that the camera rotates CLOCKWISE by 90 degrees around the scene center.\nWhen the camera rotates, the cardinal directions (north, east, south, west) rotate together with the view.\n\nAfter this rotation, where will that object be located relative to the scene center in the rotated coordinate frame?\n\nChoose one option.\n\nIsometric image: <image>\nA. south\nB. northeast\nC. northwest\nD. west",
+    "answer": "B",
+    "images": [
+      "SpatialAct/data/images/geometry/spatial_orientation/v1.2/top_isometric/sample_044/isometric.png"
+    ]
+  },
+  {
+    "task_type": "isometric_camera_rotate",
+    "question": "There is an isometric image of a scene. In this image, the red arrow indicates the North direction.\nIdentify the southernmost object in the image.\n\nNow imagine that the camera rotates CLOCKWISE by 90 degrees around the scene center.\nWhen the camera rotates, the cardinal directions (north, east, south, west) rotate together with the view.\n\nAfter this rotation, where will that object be located relative to the scene center in the rotated coordinate frame?\n\nChoose one option.\n\nIsometric image: <image>\nA. southeast\nB. southwest\nC. northeast\nD. northwest",
+    "answer": "A",
+    "images": [
+      "SpatialAct/data/images/geometry/spatial_orientation/v1.2/top_isometric/sample_018/isometric.png"
+    ]
+  },
+  {
+    "task_type": "isometric_camera_rotate",
+    "question": "There is an isometric image of a scene. In this image, the red arrow indicates the North direction.\nIdentify the westernmost object in the image.\n\nNow imagine that the camera rotates COUNTER-CLOCKWISE by 90 degrees around the scene center.\nWhen the camera rotates, the cardinal directions (north, east, south, west) rotate together with the view.\n\nAfter this rotation, where will that object be located relative to the scene center in the rotated coordinate frame?\n\nChoose one option.\n\nIsometric image: <image>\nA. northeast\nB. southwest\nC. northwest\nD. southeast",
+    "answer": "C",
+    "images": [
+      "SpatialAct/data/images/geometry/spatial_orientation/v1.2/top_isometric/sample_054/isometric.png"
+    ]
+  },
+  {
+    "task_type": "isometric_camera_rotate",
+    "question": "There is an isometric image of a scene. In this image, the red arrow indicates the North direction.\nIdentify the easternmost object in the image.\n\nNow imagine that the camera rotates CLOCKWISE by 90 degrees around the scene center.\nWhen the camera rotates, the cardinal directions (north, east, south, west) rotate together with the view.\n\nAfter this rotation, where will that object be located relative to the scene center in the rotated coordinate frame?\n\nChoose one option.\n\nIsometric image: <image>\nA. southwest\nB. west\nC. northeast\nD. south",
+    "answer": "C",
+    "images": [
+      "SpatialAct/data/images/geometry/spatial_orientation/v1.2/top_isometric/sample_023/isometric.png"
+    ]
+  },
+  {
+    "task_type": "isometric_camera_rotate",
+    "question": "There is an isometric image of a scene. In this image, the red arrow indicates the North direction.\nIdentify the westernmost object in the image.\n\nNow imagine that the camera rotates CLOCKWISE by 90 degrees around the scene center.\nWhen the camera rotates, the cardinal directions (north, east, south, west) rotate together with the view.\n\nAfter this rotation, where will that object be located relative to the scene center in the rotated coordinate frame?\n\nChoose one option.\n\nIsometric image: <image>\nA. southeast\nB. southwest\nC. north\nD. west",
+    "answer": "A",
+    "images": [
+      "SpatialAct/data/images/geometry/spatial_orientation/v1.2/top_isometric/sample_095/isometric.png"
+    ]
+  },
+  {
+    "task_type": "isometric_camera_rotate",
+    "question": "There is an isometric image of a scene. In this image, the red arrow indicates the North direction.\nIdentify the northernmost object in the image.\n\nNow imagine that the camera rotates COUNTER-CLOCKWISE by 90 degrees around the scene center.\nWhen the camera rotates, the cardinal directions (north, east, south, west) rotate together with the view.\n\nAfter this rotation, where will that object be located relative to the scene center in the rotated coordinate frame?\n\nChoose one option.\n\nIsometric image: <image>\nA. northwest\nB. northeast\nC. south\nD. west",
+    "answer": "B",
+    "images": [
+      "SpatialAct/data/images/geometry/spatial_orientation/v1.2/top_isometric/sample_075/isometric.png"
+    ]
+  },
+  {
+    "task_type": "isometric_camera_rotate",
+    "question": "There is an isometric image of a scene. In this image, the red arrow indicates the North direction.\nIdentify the westernmost object in the image.\n\nNow imagine that the camera rotates COUNTER-CLOCKWISE by 90 degrees around the scene center.\nWhen the camera rotates, the cardinal directions (north, east, south, west) rotate together with the view.\n\nAfter this rotation, where will that object be located relative to the scene center in the rotated coordinate frame?\n\nChoose one option.\n\nIsometric image: <image>\nA. south\nB. northwest\nC. east\nD. southwest",
+    "answer": "B",
+    "images": [
+      "SpatialAct/data/images/geometry/spatial_orientation/v1.2/top_isometric/sample_084/isometric.png"
+    ]
+  },
+  {
+    "task_type": "isometric_camera_rotate",
+    "question": "There is an isometric image of a scene. In this image, the red arrow indicates the North direction.\nIdentify the easternmost object in the image.\n\nNow imagine that the camera rotates COUNTER-CLOCKWISE by 90 degrees around the scene center.\nWhen the camera rotates, the cardinal directions (north, east, south, west) rotate together with the view.\n\nAfter this rotation, where will that object be located relative to the scene center in the rotated coordinate frame?\n\nChoose one option.\n\nIsometric image: <image>\nA. east\nB. northwest\nC. southeast\nD. southwest",
+    "answer": "D",
+    "images": [
+      "SpatialAct/data/images/geometry/spatial_orientation/v1.2/top_isometric/sample_012/isometric.png"
+    ]
+  },
+  {
+    "task_type": "isometric_camera_rotate",
+    "question": "There is an isometric image of a scene. In this image, the red arrow indicates the North direction.\nIdentify the southernmost object in the image.\n\nNow imagine that the camera rotates CLOCKWISE by 90 degrees around the scene center.\nWhen the camera rotates, the cardinal directions (north, east, south, west) rotate together with the view.\n\nAfter this rotation, where will that object be located relative to the scene center in the rotated coordinate frame?\n\nChoose one option.\n\nIsometric image: <image>\nA. north\nB. west\nC. southeast\nD. northwest",
+    "answer": "C",
+    "images": [
+      "SpatialAct/data/images/geometry/spatial_orientation/v1.2/top_isometric/sample_068/isometric.png"
+    ]
+  },
+  {
+    "task_type": "isometric_camera_rotate",
+    "question": "There is an isometric image of a scene. In this image, the red arrow indicates the North direction.\nIdentify the southernmost object in the image.\n\nNow imagine that the camera rotates COUNTER-CLOCKWISE by 90 degrees around the scene center.\nWhen the camera rotates, the cardinal directions (north, east, south, west) rotate together with the view.\n\nAfter this rotation, where will that object be located relative to the scene center in the rotated coordinate frame?\n\nChoose one option.\n\nIsometric image: <image>\nA. east\nB. southeast\nC. northwest\nD. southwest",
+    "answer": "C",
+    "images": [
+      "SpatialAct/data/images/geometry/spatial_orientation/v1.2/top_isometric/sample_094/isometric.png"
+    ]
+  },
+  {
+    "task_type": "isometric_camera_rotate",
+    "question": "There is an isometric image of a scene. In this image, the red arrow indicates the North direction.\nIdentify the northernmost object in the image.\n\nNow imagine that the camera rotates COUNTER-CLOCKWISE by 90 degrees around the scene center.\nWhen the camera rotates, the cardinal directions (north, east, south, west) rotate together with the view.\n\nAfter this rotation, where will that object be located relative to the scene center in the rotated coordinate frame?\n\nChoose one option.\n\nIsometric image: <image>\nA. northwest\nB. west\nC. northeast\nD. south",
+    "answer": "C",
+    "images": [
+      "SpatialAct/data/images/geometry/spatial_orientation/v1.2/top_isometric/sample_083/isometric.png"
+    ]
+  },
+  {
+    "task_type": "isometric_camera_rotate",
+    "question": "There is an isometric image of a scene. In this image, the red arrow indicates the North direction.\nIdentify the southernmost object in the image.\n\nNow imagine that the camera rotates COUNTER-CLOCKWISE by 90 degrees around the scene center.\nWhen the camera rotates, the cardinal directions (north, east, south, west) rotate together with the view.\n\nAfter this rotation, where will that object be located relative to the scene center in the rotated coordinate frame?\n\nChoose one option.\n\nIsometric image: <image>\nA. southwest\nB. north\nC. east\nD. northwest",
+    "answer": "A",
+    "images": [
+      "SpatialAct/data/images/geometry/spatial_orientation/v1.2/top_isometric/sample_067/isometric.png"
+    ]
+  },
+  {
+    "task_type": "isometric_camera_rotate",
+    "question": "There is an isometric image of a scene. In this image, the red arrow indicates the North direction.\nIdentify the westernmost object in the image.\n\nNow imagine that the camera rotates CLOCKWISE by 90 degrees around the scene center.\nWhen the camera rotates, the cardinal directions (north, east, south, west) rotate together with the view.\n\nAfter this rotation, where will that object be located relative to the scene center in the rotated coordinate frame?\n\nChoose one option.\n\nIsometric image: <image>\nA. northwest\nB. north\nC. southeast\nD. northeast",
+    "answer": "C",
+    "images": [
+      "SpatialAct/data/images/geometry/spatial_orientation/v1.2/top_isometric/sample_054/isometric.png"
+    ]
+  },
+  {
+    "task_type": "isometric_camera_rotate",
+    "question": "There is an isometric image of a scene. In this image, the red arrow indicates the North direction.\nIdentify the easternmost object in the image.\n\nNow imagine that the camera rotates CLOCKWISE by 90 degrees around the scene center.\nWhen the camera rotates, the cardinal directions (north, east, south, west) rotate together with the view.\n\nAfter this rotation, where will that object be located relative to the scene center in the rotated coordinate frame?\n\nChoose one option.\n\nIsometric image: <image>\nA. south\nB. northwest\nC. southwest\nD. southeast",
+    "answer": "B",
+    "images": [
+      "SpatialAct/data/images/geometry/spatial_orientation/v1.2/top_isometric/sample_048/isometric.png"
+    ]
+  },
+  {
+    "task_type": "isometric_camera_rotate",
+    "question": "There is an isometric image of a scene. In this image, the red arrow indicates the North direction.\nIdentify the easternmost object in the image.\n\nNow imagine that the camera rotates COUNTER-CLOCKWISE by 90 degrees around the scene center.\nWhen the camera rotates, the cardinal directions (north, east, south, west) rotate together with the view.\n\nAfter this rotation, where will that object be located relative to the scene center in the rotated coordinate frame?\n\nChoose one option.\n\nIsometric image: <image>\nA. southwest\nB. north\nC. northwest\nD. northeast",
+    "answer": "A",
+    "images": [
+      "SpatialAct/data/images/geometry/spatial_orientation/v1.2/top_isometric/sample_059/isometric.png"
+    ]
+  },
+  {
+    "task_type": "isometric_camera_rotate",
+    "question": "There is an isometric image of a scene. In this image, the red arrow indicates the North direction.\nIdentify the easternmost object in the image.\n\nNow imagine that the camera rotates CLOCKWISE by 90 degrees around the scene center.\nWhen the camera rotates, the cardinal directions (north, east, south, west) rotate together with the view.\n\nAfter this rotation, where will that object be located relative to the scene center in the rotated coordinate frame?\n\nChoose one option.\n\nIsometric image: <image>\nA. southeast\nB. west\nC. north\nD. southwest",
+    "answer": "C",
+    "images": [
+      "SpatialAct/data/images/geometry/spatial_orientation/v1.2/top_isometric/sample_019/isometric.png"
+    ]
+  },
+  {
+    "task_type": "isometric_camera_rotate",
+    "question": "There is an isometric image of a scene. In this image, the red arrow indicates the North direction.\nIdentify the easternmost object in the image.\n\nNow imagine that the camera rotates COUNTER-CLOCKWISE by 90 degrees around the scene center.\nWhen the camera rotates, the cardinal directions (north, east, south, west) rotate together with the view.\n\nAfter this rotation, where will that object be located relative to the scene center in the rotated coordinate frame?\n\nChoose one option.\n\nIsometric image: <image>\nA. north\nB. east\nC. south\nD. northwest",
+    "answer": "C",
+    "images": [
+      "SpatialAct/data/images/geometry/spatial_orientation/v1.2/top_isometric/sample_090/isometric.png"
+    ]
+  },
+  {
+    "task_type": "isometric_camera_rotate",
+    "question": "There is an isometric image of a scene. In this image, the red arrow indicates the North direction.\nIdentify the westernmost object in the image.\n\nNow imagine that the camera rotates COUNTER-CLOCKWISE by 90 degrees around the scene center.\nWhen the camera rotates, the cardinal directions (north, east, south, west) rotate together with the view.\n\nAfter this rotation, where will that object be located relative to the scene center in the rotated coordinate frame?\n\nChoose one option.\n\nIsometric image: <image>\nA. south\nB. northeast\nC. west\nD. southeast",
+    "answer": "B",
+    "images": [
+      "SpatialAct/data/images/geometry/spatial_orientation/v1.2/top_isometric/sample_025/isometric.png"
+    ]
+  },
+  {
+    "task_type": "isometric_camera_rotate",
+    "question": "There is an isometric image of a scene. In this image, the red arrow indicates the North direction.\nIdentify the northernmost object in the image.\n\nNow imagine that the camera rotates COUNTER-CLOCKWISE by 90 degrees around the scene center.\nWhen the camera rotates, the cardinal directions (north, east, south, west) rotate together with the view.\n\nAfter this rotation, where will that object be located relative to the scene center in the rotated coordinate frame?\n\nChoose one option.\n\nIsometric image: <image>\nA. west\nB. northeast\nC. southeast\nD. northwest",
+    "answer": "B",
+    "images": [
+      "SpatialAct/data/images/geometry/spatial_orientation/v1.2/top_isometric/sample_017/isometric.png"
+    ]
+  },
+  {
+    "task_type": "isometric_camera_rotate",
+    "question": "There is an isometric image of a scene. In this image, the red arrow indicates the North direction.\nIdentify the northernmost object in the image.\n\nNow imagine that the camera rotates CLOCKWISE by 90 degrees around the scene center.\nWhen the camera rotates, the cardinal directions (north, east, south, west) rotate together with the view.\n\nAfter this rotation, where will that object be located relative to the scene center in the rotated coordinate frame?\n\nChoose one option.\n\nIsometric image: <image>\nA. southwest\nB. southeast\nC. northeast\nD. east",
+    "answer": "A",
+    "images": [
+      "SpatialAct/data/images/geometry/spatial_orientation/v1.2/top_isometric/sample_083/isometric.png"
+    ]
+  },
+  {
+    "task_type": "isometric_camera_rotate",
+    "question": "There is an isometric image of a scene. In this image, the red arrow indicates the North direction.\nIdentify the northernmost object in the image.\n\nNow imagine that the camera rotates COUNTER-CLOCKWISE by 90 degrees around the scene center.\nWhen the camera rotates, the cardinal directions (north, east, south, west) rotate together with the view.\n\nAfter this rotation, where will that object be located relative to the scene center in the rotated coordinate frame?\n\nChoose one option.\n\nIsometric image: <image>\nA. southwest\nB. northeast\nC. northwest\nD. west",
+    "answer": "B",
+    "images": [
+      "SpatialAct/data/images/geometry/spatial_orientation/v1.2/top_isometric/sample_010/isometric.png"
+    ]
+  },
+  {
+    "task_type": "isometric_camera_rotate",
+    "question": "There is an isometric image of a scene. In this image, the red arrow indicates the North direction.\nIdentify the easternmost object in the image.\n\nNow imagine that the camera rotates COUNTER-CLOCKWISE by 90 degrees around the scene center.\nWhen the camera rotates, the cardinal directions (north, east, south, west) rotate together with the view.\n\nAfter this rotation, where will that object be located relative to the scene center in the rotated coordinate frame?\n\nChoose one option.\n\nIsometric image: <image>\nA. northeast\nB. southwest\nC. north\nD. northwest",
+    "answer": "B",
+    "images": [
+      "SpatialAct/data/images/geometry/spatial_orientation/v1.2/top_isometric/sample_038/isometric.png"
+    ]
+  },
+  {
+    "task_type": "isometric_camera_rotate",
+    "question": "There is an isometric image of a scene. In this image, the red arrow indicates the North direction.\nIdentify the northernmost object in the image.\n\nNow imagine that the camera rotates CLOCKWISE by 90 degrees around the scene center.\nWhen the camera rotates, the cardinal directions (north, east, south, west) rotate together with the view.\n\nAfter this rotation, where will that object be located relative to the scene center in the rotated coordinate frame?\n\nChoose one option.\n\nIsometric image: <image>\nA. west\nB. southeast\nC. northeast\nD. east",
+    "answer": "A",
+    "images": [
+      "SpatialAct/data/images/geometry/spatial_orientation/v1.2/top_isometric/sample_096/isometric.png"
+    ]
+  },
+  {
+    "task_type": "isometric_camera_rotate",
+    "question": "There is an isometric image of a scene. In this image, the red arrow indicates the North direction.\nIdentify the southernmost object in the image.\n\nNow imagine that the camera rotates CLOCKWISE by 90 degrees around the scene center.\nWhen the camera rotates, the cardinal directions (north, east, south, west) rotate together with the view.\n\nAfter this rotation, where will that object be located relative to the scene center in the rotated coordinate frame?\n\nChoose one option.\n\nIsometric image: <image>\nA. southeast\nB. northwest\nC. northeast\nD. south",
+    "answer": "C",
+    "images": [
+      "SpatialAct/data/images/geometry/spatial_orientation/v1.2/top_isometric/sample_086/isometric.png"
+    ]
+  },
+  {
+    "task_type": "isometric_camera_rotate",
+    "question": "There is an isometric image of a scene. In this image, the red arrow indicates the North direction.\nIdentify the northernmost object in the image.\n\nNow imagine that the camera rotates COUNTER-CLOCKWISE by 90 degrees around the scene center.\nWhen the camera rotates, the cardinal directions (north, east, south, west) rotate together with the view.\n\nAfter this rotation, where will that object be located relative to the scene center in the rotated coordinate frame?\n\nChoose one option.\n\nIsometric image: <image>\nA. northwest\nB. southeast\nC. southwest\nD. northeast",
+    "answer": "D",
+    "images": [
+      "SpatialAct/data/images/geometry/spatial_orientation/v1.2/top_isometric/sample_035/isometric.png"
+    ]
+  },
+  {
+    "task_type": "isometric_camera_rotate",
+    "question": "There is an isometric image of a scene. In this image, the red arrow indicates the North direction.\nIdentify the northernmost object in the image.\n\nNow imagine that the camera rotates COUNTER-CLOCKWISE by 90 degrees around the scene center.\nWhen the camera rotates, the cardinal directions (north, east, south, west) rotate together with the view.\n\nAfter this rotation, where will that object be located relative to the scene center in the rotated coordinate frame?\n\nChoose one option.\n\nIsometric image: <image>\nA. southwest\nB. southeast\nC. northeast\nD. south",
+    "answer": "C",
+    "images": [
+      "SpatialAct/data/images/geometry/spatial_orientation/v1.2/top_isometric/sample_093/isometric.png"
+    ]
+  },
+  {
+    "task_type": "isometric_camera_rotate",
+    "question": "There is an isometric image of a scene. In this image, the red arrow indicates the North direction.\nIdentify the easternmost object in the image.\n\nNow imagine that the camera rotates COUNTER-CLOCKWISE by 90 degrees around the scene center.\nWhen the camera rotates, the cardinal directions (north, east, south, west) rotate together with the view.\n\nAfter this rotation, where will that object be located relative to the scene center in the rotated coordinate frame?\n\nChoose one option.\n\nIsometric image: <image>\nA. northeast\nB. southeast\nC. north\nD. southwest",
+    "answer": "B",
+    "images": [
+      "SpatialAct/data/images/geometry/spatial_orientation/v1.2/top_isometric/sample_027/isometric.png"
+    ]
+  },
+  {
+    "task_type": "isometric_camera_rotate",
+    "question": "There is an isometric image of a scene. In this image, the red arrow indicates the North direction.\nIdentify the easternmost object in the image.\n\nNow imagine that the camera rotates CLOCKWISE by 90 degrees around the scene center.\nWhen the camera rotates, the cardinal directions (north, east, south, west) rotate together with the view.\n\nAfter this rotation, where will that object be located relative to the scene center in the rotated coordinate frame?\n\nChoose one option.\n\nIsometric image: <image>\nA. north\nB. east\nC. west\nD. southeast",
+    "answer": "A",
+    "images": [
+      "SpatialAct/data/images/geometry/spatial_orientation/v1.2/top_isometric/sample_090/isometric.png"
+    ]
+  },
+  {
+    "task_type": "isometric_camera_rotate",
+    "question": "There is an isometric image of a scene. In this image, the red arrow indicates the North direction.\nIdentify the easternmost object in the image.\n\nNow imagine that the camera rotates COUNTER-CLOCKWISE by 90 degrees around the scene center.\nWhen the camera rotates, the cardinal directions (north, east, south, west) rotate together with the view.\n\nAfter this rotation, where will that object be located relative to the scene center in the rotated coordinate frame?\n\nChoose one option.\n\nIsometric image: <image>\nA. northeast\nB. east\nC. west\nD. south",
+    "answer": "D",
+    "images": [
+      "SpatialAct/data/images/geometry/spatial_orientation/v1.2/top_isometric/sample_005/isometric.png"
+    ]
+  },
+  {
+    "task_type": "top_isometric_A_consistent",
+    "question": "There are two images: an isometric image where only one object is labeled 'A', and a top-view image with numbered objects. Which numbered object is 'A' in the top-view image? Answer with one number.\n\nIsometric image: <image>\ntop-view image: <image>",
+    "answer": "3",
+    "images": [
+      "SpatialAct/data/images/geometry/spatial_orientation/v1.2/top_isometric/sample_092/isometric_A.png",
+      "SpatialAct/data/images/geometry/spatial_orientation/v1.2/top_isometric/sample_092/top.png"
+    ]
+  },
+  {
+    "task_type": "top_isometric_A_consistent",
+    "question": "There are two images: an isometric image where only one object is labeled 'A', and a top-view image with numbered objects. Which numbered object is 'A' in the top-view image? Answer with one number.\n\nIsometric image: <image>\ntop-view image: <image>",
+    "answer": "3",
+    "images": [
+      "SpatialAct/data/images/geometry/spatial_orientation/v1.2/top_isometric/sample_063/isometric_A.png",
+      "SpatialAct/data/images/geometry/spatial_orientation/v1.2/top_isometric/sample_063/top.png"
+    ]
+  },
+  {
+    "task_type": "top_isometric_A_consistent",
+    "question": "There are two images: an isometric image where only one object is labeled 'A', and a top-view image with numbered objects. Which numbered object is 'A' in the top-view image? Answer with one number.\n\nIsometric image: <image>\ntop-view image: <image>",
+    "answer": "2",
+    "images": [
+      "SpatialAct/data/images/geometry/spatial_orientation/v1.2/top_isometric/sample_099/isometric_A.png",
+      "SpatialAct/data/images/geometry/spatial_orientation/v1.2/top_isometric/sample_099/top.png"
+    ]
+  },
+  {
+    "task_type": "top_isometric_A_consistent",
+    "question": "There are two images: an isometric image where only one object is labeled 'A', and a top-view image with numbered objects. Which numbered object is 'A' in the top-view image? Answer with one number.\n\nIsometric image: <image>\ntop-view image: <image>",
+    "answer": "5",
+    "images": [
+      "SpatialAct/data/images/geometry/spatial_orientation/v1.2/top_isometric/sample_021/isometric_A.png",
+      "SpatialAct/data/images/geometry/spatial_orientation/v1.2/top_isometric/sample_021/top.png"
+    ]
+  },
+  {
+    "task_type": "top_isometric_A_consistent",
+    "question": "There are two images: an isometric image where only one object is labeled 'A', and a top-view image with numbered objects. Which numbered object is 'A' in the top-view image? Answer with one number.\n\nIsometric image: <image>\ntop-view image: <image>",
+    "answer": "2",
+    "images": [
+      "SpatialAct/data/images/geometry/spatial_orientation/v1.2/top_isometric/sample_049/isometric_A.png",
+      "SpatialAct/data/images/geometry/spatial_orientation/v1.2/top_isometric/sample_049/top.png"
+    ]
+  },
+  {
+    "task_type": "top_isometric_A_consistent",
+    "question": "There are two images: an isometric image where only one object is labeled 'A', and a top-view image with numbered objects. Which numbered object is 'A' in the top-view image? Answer with one number.\n\nIsometric image: <image>\ntop-view image: <image>",
+    "answer": "2",
+    "images": [
+      "SpatialAct/data/images/geometry/spatial_orientation/v1.2/top_isometric/sample_056/isometric_A.png",
+      "SpatialAct/data/images/geometry/spatial_orientation/v1.2/top_isometric/sample_056/top.png"
+    ]
+  },
+  {
+    "task_type": "top_isometric_A_consistent",
+    "question": "There are two images: an isometric image where only one object is labeled 'A', and a top-view image with numbered objects. Which numbered object is 'A' in the top-view image? Answer with one number.\n\nIsometric image: <image>\ntop-view image: <image>",
+    "answer": "4",
+    "images": [
+      "SpatialAct/data/images/geometry/spatial_orientation/v1.2/top_isometric/sample_062/isometric_A.png",
+      "SpatialAct/data/images/geometry/spatial_orientation/v1.2/top_isometric/sample_062/top.png"
+    ]
+  },
+  {
+    "task_type": "top_isometric_A_consistent",
+    "question": "There are two images: an isometric image where only one object is labeled 'A', and a top-view image with numbered objects. Which numbered object is 'A' in the top-view image? Answer with one number.\n\nIsometric image: <image>\ntop-view image: <image>",
+    "answer": "4",
+    "images": [
+      "SpatialAct/data/images/geometry/spatial_orientation/v1.2/top_isometric/sample_011/isometric_A.png",
+      "SpatialAct/data/images/geometry/spatial_orientation/v1.2/top_isometric/sample_011/top.png"
+    ]
+  },
+  {
+    "task_type": "top_isometric_A_consistent",
+    "question": "There are two images: an isometric image where only one object is labeled 'A', and a top-view image with numbered objects. Which numbered object is 'A' in the top-view image? Answer with one number.\n\nIsometric image: <image>\ntop-view image: <image>",
+    "answer": "5",
+    "images": [
+      "SpatialAct/data/images/geometry/spatial_orientation/v1.2/top_isometric/sample_040/isometric_A.png",
+      "SpatialAct/data/images/geometry/spatial_orientation/v1.2/top_isometric/sample_040/top.png"
+    ]
+  },
+  {
+    "task_type": "top_isometric_A_consistent",
+    "question": "There are two images: an isometric image where only one object is labeled 'A', and a top-view image with numbered objects. Which numbered object is 'A' in the top-view image? Answer with one number.\n\nIsometric image: <image>\ntop-view image: <image>",
+    "answer": "4",
+    "images": [
+      "SpatialAct/data/images/geometry/spatial_orientation/v1.2/top_isometric/sample_051/isometric_A.png",
+      "SpatialAct/data/images/geometry/spatial_orientation/v1.2/top_isometric/sample_051/top.png"
+    ]
+  },
+  {
+    "task_type": "top_isometric_A_consistent",
+    "question": "There are two images: an isometric image where only one object is labeled 'A', and a top-view image with numbered objects. Which numbered object is 'A' in the top-view image? Answer with one number.\n\nIsometric image: <image>\ntop-view image: <image>",
+    "answer": "4",
+    "images": [
+      "SpatialAct/data/images/geometry/spatial_orientation/v1.2/top_isometric/sample_061/isometric_A.png",
+      "SpatialAct/data/images/geometry/spatial_orientation/v1.2/top_isometric/sample_061/top.png"
+    ]
+  },
+  {
+    "task_type": "top_isometric_A_consistent",
+    "question": "There are two images: an isometric image where only one object is labeled 'A', and a top-view image with numbered objects. Which numbered object is 'A' in the top-view image? Answer with one number.\n\nIsometric image: <image>\ntop-view image: <image>",
+    "answer": "5",
+    "images": [
+      "SpatialAct/data/images/geometry/spatial_orientation/v1.2/top_isometric/sample_097/isometric_A.png",
+      "SpatialAct/data/images/geometry/spatial_orientation/v1.2/top_isometric/sample_097/top.png"
+    ]
+  },
+  {
+    "task_type": "top_isometric_A_consistent",
+    "question": "There are two images: an isometric image where only one object is labeled 'A', and a top-view image with numbered objects. Which numbered object is 'A' in the top-view image? Answer with one number.\n\nIsometric image: <image>\ntop-view image: <image>",
+    "answer": "4",
+    "images": [
+      "SpatialAct/data/images/geometry/spatial_orientation/v1.2/top_isometric/sample_088/isometric_A.png",
+      "SpatialAct/data/images/geometry/spatial_orientation/v1.2/top_isometric/sample_088/top.png"
+    ]
+  },
+  {
+    "task_type": "top_isometric_A_consistent",
+    "question": "There are two images: an isometric image where only one object is labeled 'A', and a top-view image with numbered objects. Which numbered object is 'A' in the top-view image? Answer with one number.\n\nIsometric image: <image>\ntop-view image: <image>",
+    "answer": "1",
+    "images": [
+      "SpatialAct/data/images/geometry/spatial_orientation/v1.2/top_isometric/sample_006/isometric_A.png",
+      "SpatialAct/data/images/geometry/spatial_orientation/v1.2/top_isometric/sample_006/top.png"
+    ]
+  },
+  {
+    "task_type": "top_isometric_A_consistent",
+    "question": "There are two images: an isometric image where only one object is labeled 'A', and a top-view image with numbered objects. Which numbered object is 'A' in the top-view image? Answer with one number.\n\nIsometric image: <image>\ntop-view image: <image>",
+    "answer": "2",
+    "images": [
+      "SpatialAct/data/images/geometry/spatial_orientation/v1.2/top_isometric/sample_023/isometric_A.png",
+      "SpatialAct/data/images/geometry/spatial_orientation/v1.2/top_isometric/sample_023/top.png"
+    ]
+  },
+  {
+    "task_type": "top_isometric_A_consistent",
+    "question": "There are two images: an isometric image where only one object is labeled 'A', and a top-view image with numbered objects. Which numbered object is 'A' in the top-view image? Answer with one number.\n\nIsometric image: <image>\ntop-view image: <image>",
+    "answer": "2",
+    "images": [
+      "SpatialAct/data/images/geometry/spatial_orientation/v1.2/top_isometric/sample_043/isometric_A.png",
+      "SpatialAct/data/images/geometry/spatial_orientation/v1.2/top_isometric/sample_043/top.png"
+    ]
+  },
+  {
+    "task_type": "top_isometric_A_consistent",
+    "question": "There are two images: an isometric image where only one object is labeled 'A', and a top-view image with numbered objects. Which numbered object is 'A' in the top-view image? Answer with one number.\n\nIsometric image: <image>\ntop-view image: <image>",
+    "answer": "1",
+    "images": [
+      "SpatialAct/data/images/geometry/spatial_orientation/v1.2/top_isometric/sample_039/isometric_A.png",
+      "SpatialAct/data/images/geometry/spatial_orientation/v1.2/top_isometric/sample_039/top.png"
+    ]
+  },
+  {
+    "task_type": "top_isometric_A_consistent",
+    "question": "There are two images: an isometric image where only one object is labeled 'A', and a top-view image with numbered objects. Which numbered object is 'A' in the top-view image? Answer with one number.\n\nIsometric image: <image>\ntop-view image: <image>",
+    "answer": "4",
+    "images": [
+      "SpatialAct/data/images/geometry/spatial_orientation/v1.2/top_isometric/sample_082/isometric_A.png",
+      "SpatialAct/data/images/geometry/spatial_orientation/v1.2/top_isometric/sample_082/top.png"
+    ]
+  },
+  {
+    "task_type": "top_isometric_A_consistent",
+    "question": "There are two images: an isometric image where only one object is labeled 'A', and a top-view image with numbered objects. Which numbered object is 'A' in the top-view image? Answer with one number.\n\nIsometric image: <image>\ntop-view image: <image>",
+    "answer": "4",
+    "images": [
+      "SpatialAct/data/images/geometry/spatial_orientation/v1.2/top_isometric/sample_013/isometric_A.png",
+      "SpatialAct/data/images/geometry/spatial_orientation/v1.2/top_isometric/sample_013/top.png"
+    ]
+  },
+  {
+    "task_type": "top_isometric_A_consistent",
+    "question": "There are two images: an isometric image where only one object is labeled 'A', and a top-view image with numbered objects. Which numbered object is 'A' in the top-view image? Answer with one number.\n\nIsometric image: <image>\ntop-view image: <image>",
+    "answer": "3",
+    "images": [
+      "SpatialAct/data/images/geometry/spatial_orientation/v1.2/top_isometric/sample_089/isometric_A.png",
+      "SpatialAct/data/images/geometry/spatial_orientation/v1.2/top_isometric/sample_089/top.png"
+    ]
+  },
+  {
+    "task_type": "top_isometric_A_consistent",
+    "question": "There are two images: an isometric image where only one object is labeled 'A', and a top-view image with numbered objects. Which numbered object is 'A' in the top-view image? Answer with one number.\n\nIsometric image: <image>\ntop-view image: <image>",
+    "answer": "1",
+    "images": [
+      "SpatialAct/data/images/geometry/spatial_orientation/v1.2/top_isometric/sample_096/isometric_A.png",
+      "SpatialAct/data/images/geometry/spatial_orientation/v1.2/top_isometric/sample_096/top.png"
+    ]
+  },
+  {
+    "task_type": "top_isometric_A_consistent",
+    "question": "There are two images: an isometric image where only one object is labeled 'A', and a top-view image with numbered objects. Which numbered object is 'A' in the top-view image? Answer with one number.\n\nIsometric image: <image>\ntop-view image: <image>",
+    "answer": "5",
+    "images": [
+      "SpatialAct/data/images/geometry/spatial_orientation/v1.2/top_isometric/sample_008/isometric_A.png",
+      "SpatialAct/data/images/geometry/spatial_orientation/v1.2/top_isometric/sample_008/top.png"
+    ]
+  },
+  {
+    "task_type": "top_isometric_A_consistent",
+    "question": "There are two images: an isometric image where only one object is labeled 'A', and a top-view image with numbered objects. Which numbered object is 'A' in the top-view image? Answer with one number.\n\nIsometric image: <image>\ntop-view image: <image>",
+    "answer": "1",
+    "images": [
+      "SpatialAct/data/images/geometry/spatial_orientation/v1.2/top_isometric/sample_071/isometric_A.png",
+      "SpatialAct/data/images/geometry/spatial_orientation/v1.2/top_isometric/sample_071/top.png"
+    ]
+  },
+  {
+    "task_type": "top_isometric_A_consistent",
+    "question": "There are two images: an isometric image where only one object is labeled 'A', and a top-view image with numbered objects. Which numbered object is 'A' in the top-view image? Answer with one number.\n\nIsometric image: <image>\ntop-view image: <image>",
+    "answer": "4",
+    "images": [
+      "SpatialAct/data/images/geometry/spatial_orientation/v1.2/top_isometric/sample_079/isometric_A.png",
+      "SpatialAct/data/images/geometry/spatial_orientation/v1.2/top_isometric/sample_079/top.png"
+    ]
+  },
+  {
+    "task_type": "top_isometric_A_consistent",
+    "question": "There are two images: an isometric image where only one object is labeled 'A', and a top-view image with numbered objects. Which numbered object is 'A' in the top-view image? Answer with one number.\n\nIsometric image: <image>\ntop-view image: <image>",
+    "answer": "3",
+    "images": [
+      "SpatialAct/data/images/geometry/spatial_orientation/v1.2/top_isometric/sample_055/isometric_A.png",
+      "SpatialAct/data/images/geometry/spatial_orientation/v1.2/top_isometric/sample_055/top.png"
+    ]
+  },
+  {
+    "task_type": "top_isometric_A_consistent",
+    "question": "There are two images: an isometric image where only one object is labeled 'A', and a top-view image with numbered objects. Which numbered object is 'A' in the top-view image? Answer with one number.\n\nIsometric image: <image>\ntop-view image: <image>",
+    "answer": "5",
+    "images": [
+      "SpatialAct/data/images/geometry/spatial_orientation/v1.2/top_isometric/sample_015/isometric_A.png",
+      "SpatialAct/data/images/geometry/spatial_orientation/v1.2/top_isometric/sample_015/top.png"
+    ]
+  },
+  {
+    "task_type": "top_isometric_A_consistent",
+    "question": "There are two images: an isometric image where only one object is labeled 'A', and a top-view image with numbered objects. Which numbered object is 'A' in the top-view image? Answer with one number.\n\nIsometric image: <image>\ntop-view image: <image>",
+    "answer": "2",
+    "images": [
+      "SpatialAct/data/images/geometry/spatial_orientation/v1.2/top_isometric/sample_048/isometric_A.png",
+      "SpatialAct/data/images/geometry/spatial_orientation/v1.2/top_isometric/sample_048/top.png"
+    ]
+  },
+  {
+    "task_type": "top_isometric_A_consistent",
+    "question": "There are two images: an isometric image where only one object is labeled 'A', and a top-view image with numbered objects. Which numbered object is 'A' in the top-view image? Answer with one number.\n\nIsometric image: <image>\ntop-view image: <image>",
+    "answer": "4",
+    "images": [
+      "SpatialAct/data/images/geometry/spatial_orientation/v1.2/top_isometric/sample_042/isometric_A.png",
+      "SpatialAct/data/images/geometry/spatial_orientation/v1.2/top_isometric/sample_042/top.png"
+    ]
+  },
+  {
+    "task_type": "top_isometric_A_consistent",
+    "question": "There are two images: an isometric image where only one object is labeled 'A', and a top-view image with numbered objects. Which numbered object is 'A' in the top-view image? Answer with one number.\n\nIsometric image: <image>\ntop-view image: <image>",
+    "answer": "1",
+    "images": [
+      "SpatialAct/data/images/geometry/spatial_orientation/v1.2/top_isometric/sample_024/isometric_A.png",
+      "SpatialAct/data/images/geometry/spatial_orientation/v1.2/top_isometric/sample_024/top.png"
+    ]
+  },
+  {
+    "task_type": "top_isometric_A_consistent",
+    "question": "There are two images: an isometric image where only one object is labeled 'A', and a top-view image with numbered objects. Which numbered object is 'A' in the top-view image? Answer with one number.\n\nIsometric image: <image>\ntop-view image: <image>",
+    "answer": "3",
+    "images": [
+      "SpatialAct/data/images/geometry/spatial_orientation/v1.2/top_isometric/sample_045/isometric_A.png",
+      "SpatialAct/data/images/geometry/spatial_orientation/v1.2/top_isometric/sample_045/top.png"
+    ]
+  },
+  {
+    "task_type": "top_isometric_A_consistent",
+    "question": "There are two images: an isometric image where only one object is labeled 'A', and a top-view image with numbered objects. Which numbered object is 'A' in the top-view image? Answer with one number.\n\nIsometric image: <image>\ntop-view image: <image>",
+    "answer": "3",
+    "images": [
+      "SpatialAct/data/images/geometry/spatial_orientation/v1.2/top_isometric/sample_069/isometric_A.png",
+      "SpatialAct/data/images/geometry/spatial_orientation/v1.2/top_isometric/sample_069/top.png"
+    ]
+  },
+  {
+    "task_type": "top_isometric_A_consistent",
+    "question": "There are two images: an isometric image where only one object is labeled 'A', and a top-view image with numbered objects. Which numbered object is 'A' in the top-view image? Answer with one number.\n\nIsometric image: <image>\ntop-view image: <image>",
+    "answer": "2",
+    "images": [
+      "SpatialAct/data/images/geometry/spatial_orientation/v1.2/top_isometric/sample_046/isometric_A.png",
+      "SpatialAct/data/images/geometry/spatial_orientation/v1.2/top_isometric/sample_046/top.png"
+    ]
+  },
+  {
+    "task_type": "top_isometric_A_consistent",
+    "question": "There are two images: an isometric image where only one object is labeled 'A', and a top-view image with numbered objects. Which numbered object is 'A' in the top-view image? Answer with one number.\n\nIsometric image: <image>\ntop-view image: <image>",
+    "answer": "5",
+    "images": [
+      "SpatialAct/data/images/geometry/spatial_orientation/v1.2/top_isometric/sample_035/isometric_A.png",
+      "SpatialAct/data/images/geometry/spatial_orientation/v1.2/top_isometric/sample_035/top.png"
+    ]
+  },
+  {
+    "task_type": "top_isometric_direction_consistent",
+    "question": "There are two images: an isometric image and a top-view image.\n- In the top-view image, top is North, bottom is South, left is West, and right is East.\n- In the isometric image, the red arrow indicates the same North direction as the top-view image.\n- Object directions are determined by comparing object center points (bounding box centers).\n\nConsider the easternmost object in the isometric image. Relative to the scene center, which direction is that object located in the top-view image? Choose one option.\n\nIsometric image: <image>\nTop-view image: <image>\nA. northeast\nB. southwest\nC. southeast\nD. west",
+    "answer": "A",
+    "images": [
+      "SpatialAct/data/images/geometry/spatial_orientation/v1.2/top_isometric/sample_016/isometric.png",
+      "SpatialAct/data/images/geometry/spatial_orientation/v1.2/top_isometric/sample_016/top.png"
+    ]
+  },
+  {
+    "task_type": "top_isometric_direction_consistent",
+    "question": "There are two images: an isometric image and a top-view image.\n- In the top-view image, top is North, bottom is South, left is West, and right is East.\n- In the isometric image, the red arrow indicates the same North direction as the top-view image.\n- Object directions are determined by comparing object center points (bounding box centers).\n\nConsider the easternmost object in the isometric image. Relative to the scene center, which direction is that object located in the top-view image? Choose one option.\n\nIsometric image: <image>\nTop-view image: <image>\nA. north\nB. west\nC. southwest\nD. southeast",
+    "answer": "D",
+    "images": [
+      "SpatialAct/data/images/geometry/spatial_orientation/v1.2/top_isometric/sample_079/isometric.png",
+      "SpatialAct/data/images/geometry/spatial_orientation/v1.2/top_isometric/sample_079/top.png"
+    ]
+  },
+  {
+    "task_type": "top_isometric_direction_consistent",
+    "question": "There are two images: an isometric image and a top-view image.\n- In the top-view image, top is North, bottom is South, left is West, and right is East.\n- In the isometric image, the red arrow indicates the same North direction as the top-view image.\n- Object directions are determined by comparing object center points (bounding box centers).\n\nConsider the northernmost object in the isometric image. Relative to the scene center, which direction is that object located in the top-view image? Choose one option.\n\nIsometric image: <image>\nTop-view image: <image>\nA. south\nB. southeast\nC. northeast\nD. northwest",
+    "answer": "C",
+    "images": [
+      "SpatialAct/data/images/geometry/spatial_orientation/v1.2/top_isometric/sample_022/isometric.png",
+      "SpatialAct/data/images/geometry/spatial_orientation/v1.2/top_isometric/sample_022/top.png"
+    ]
+  },
+  {
+    "task_type": "top_isometric_direction_consistent",
+    "question": "There are two images: an isometric image and a top-view image.\n- In the top-view image, top is North, bottom is South, left is West, and right is East.\n- In the isometric image, the red arrow indicates the same North direction as the top-view image.\n- Object directions are determined by comparing object center points (bounding box centers).\n\nConsider the southernmost object in the isometric image. Relative to the scene center, which direction is that object located in the top-view image? Choose one option.\n\nIsometric image: <image>\nTop-view image: <image>\nA. northeast\nB. southeast\nC. west\nD. north",
+    "answer": "B",
+    "images": [
+      "SpatialAct/data/images/geometry/spatial_orientation/v1.2/top_isometric/sample_090/isometric.png",
+      "SpatialAct/data/images/geometry/spatial_orientation/v1.2/top_isometric/sample_090/top.png"
+    ]
+  },
+  {
+    "task_type": "top_isometric_direction_consistent",
+    "question": "There are two images: an isometric image and a top-view image.\n- In the top-view image, top is North, bottom is South, left is West, and right is East.\n- In the isometric image, the red arrow indicates the same North direction as the top-view image.\n- Object directions are determined by comparing object center points (bounding box centers).\n\nConsider the easternmost object in the isometric image. Relative to the scene center, which direction is that object located in the top-view image? Choose one option.\n\nIsometric image: <image>\nTop-view image: <image>\nA. southwest\nB. northwest\nC. south\nD. east",
+    "answer": "D",
+    "images": [
+      "SpatialAct/data/images/geometry/spatial_orientation/v1.2/top_isometric/sample_020/isometric.png",
+      "SpatialAct/data/images/geometry/spatial_orientation/v1.2/top_isometric/sample_020/top.png"
+    ]
+  },
+  {
+    "task_type": "top_isometric_direction_consistent",
+    "question": "There are two images: an isometric image and a top-view image.\n- In the top-view image, top is North, bottom is South, left is West, and right is East.\n- In the isometric image, the red arrow indicates the same North direction as the top-view image.\n- Object directions are determined by comparing object center points (bounding box centers).\n\nConsider the northernmost object in the isometric image. Relative to the scene center, which direction is that object located in the top-view image? Choose one option.\n\nIsometric image: <image>\nTop-view image: <image>\nA. south\nB. southeast\nC. northeast\nD. northwest",
+    "answer": "C",
+    "images": [
+      "SpatialAct/data/images/geometry/spatial_orientation/v1.2/top_isometric/sample_007/isometric.png",
+      "SpatialAct/data/images/geometry/spatial_orientation/v1.2/top_isometric/sample_007/top.png"
+    ]
+  },
+  {
+    "task_type": "top_isometric_direction_consistent",
+    "question": "There are two images: an isometric image and a top-view image.\n- In the top-view image, top is North, bottom is South, left is West, and right is East.\n- In the isometric image, the red arrow indicates the same North direction as the top-view image.\n- Object directions are determined by comparing object center points (bounding box centers).\n\nConsider the westernmost object in the isometric image. Relative to the scene center, which direction is that object located in the top-view image? Choose one option.\n\nIsometric image: <image>\nTop-view image: <image>\nA. southwest\nB. northwest\nC. east\nD. southeast",
+    "answer": "A",
+    "images": [
+      "SpatialAct/data/images/geometry/spatial_orientation/v1.2/top_isometric/sample_094/isometric.png",
+      "SpatialAct/data/images/geometry/spatial_orientation/v1.2/top_isometric/sample_094/top.png"
+    ]
+  },
+  {
+    "task_type": "top_isometric_direction_consistent",
+    "question": "There are two images: an isometric image and a top-view image.\n- In the top-view image, top is North, bottom is South, left is West, and right is East.\n- In the isometric image, the red arrow indicates the same North direction as the top-view image.\n- Object directions are determined by comparing object center points (bounding box centers).\n\nConsider the northernmost object in the isometric image. Relative to the scene center, which direction is that object located in the top-view image? Choose one option.\n\nIsometric image: <image>\nTop-view image: <image>\nA. southeast\nB. southwest\nC. northwest\nD. northeast",
+    "answer": "C",
+    "images": [
+      "SpatialAct/data/images/geometry/spatial_orientation/v1.2/top_isometric/sample_077/isometric.png",
+      "SpatialAct/data/images/geometry/spatial_orientation/v1.2/top_isometric/sample_077/top.png"
+    ]
+  },
+  {
+    "task_type": "top_isometric_direction_consistent",
+    "question": "There are two images: an isometric image and a top-view image.\n- In the top-view image, top is North, bottom is South, left is West, and right is East.\n- In the isometric image, the red arrow indicates the same North direction as the top-view image.\n- Object directions are determined by comparing object center points (bounding box centers).\n\nConsider the northernmost object in the isometric image. Relative to the scene center, which direction is that object located in the top-view image? Choose one option.\n\nIsometric image: <image>\nTop-view image: <image>\nA. south\nB. northwest\nC. southeast\nD. southwest",
+    "answer": "B",
+    "images": [
+      "SpatialAct/data/images/geometry/spatial_orientation/v1.2/top_isometric/sample_013/isometric.png",
+      "SpatialAct/data/images/geometry/spatial_orientation/v1.2/top_isometric/sample_013/top.png"
+    ]
+  },
+  {
+    "task_type": "top_isometric_direction_consistent",
+    "question": "There are two images: an isometric image and a top-view image.\n- In the top-view image, top is North, bottom is South, left is West, and right is East.\n- In the isometric image, the red arrow indicates the same North direction as the top-view image.\n- Object directions are determined by comparing object center points (bounding box centers).\n\nConsider the southernmost object in the isometric image. Relative to the scene center, which direction is that object located in the top-view image? Choose one option.\n\nIsometric image: <image>\nTop-view image: <image>\nA. east\nB. southeast\nC. north\nD. southwest",
+    "answer": "D",
+    "images": [
+      "SpatialAct/data/images/geometry/spatial_orientation/v1.2/top_isometric/sample_021/isometric.png",
+      "SpatialAct/data/images/geometry/spatial_orientation/v1.2/top_isometric/sample_021/top.png"
+    ]
+  },
+  {
+    "task_type": "top_isometric_direction_consistent",
+    "question": "There are two images: an isometric image and a top-view image.\n- In the top-view image, top is North, bottom is South, left is West, and right is East.\n- In the isometric image, the red arrow indicates the same North direction as the top-view image.\n- Object directions are determined by comparing object center points (bounding box centers).\n\nConsider the easternmost object in the isometric image. Relative to the scene center, which direction is that object located in the top-view image? Choose one option.\n\nIsometric image: <image>\nTop-view image: <image>\nA. south\nB. west\nC. east\nD. northwest",
+    "answer": "C",
+    "images": [
+      "SpatialAct/data/images/geometry/spatial_orientation/v1.2/top_isometric/sample_072/isometric.png",
+      "SpatialAct/data/images/geometry/spatial_orientation/v1.2/top_isometric/sample_072/top.png"
+    ]
+  },
+  {
+    "task_type": "top_isometric_direction_consistent",
+    "question": "There are two images: an isometric image and a top-view image.\n- In the top-view image, top is North, bottom is South, left is West, and right is East.\n- In the isometric image, the red arrow indicates the same North direction as the top-view image.\n- Object directions are determined by comparing object center points (bounding box centers).\n\nConsider the westernmost object in the isometric image. Relative to the scene center, which direction is that object located in the top-view image? Choose one option.\n\nIsometric image: <image>\nTop-view image: <image>\nA. southeast\nB. northeast\nC. southwest\nD. northwest",
+    "answer": "D",
+    "images": [
+      "SpatialAct/data/images/geometry/spatial_orientation/v1.2/top_isometric/sample_026/isometric.png",
+      "SpatialAct/data/images/geometry/spatial_orientation/v1.2/top_isometric/sample_026/top.png"
+    ]
+  },
+  {
+    "task_type": "top_isometric_direction_consistent",
+    "question": "There are two images: an isometric image and a top-view image.\n- In the top-view image, top is North, bottom is South, left is West, and right is East.\n- In the isometric image, the red arrow indicates the same North direction as the top-view image.\n- Object directions are determined by comparing object center points (bounding box centers).\n\nConsider the northernmost object in the isometric image. Relative to the scene center, which direction is that object located in the top-view image? Choose one option.\n\nIsometric image: <image>\nTop-view image: <image>\nA. southeast\nB. northeast\nC. northwest\nD. south",
+    "answer": "B",
+    "images": [
+      "SpatialAct/data/images/geometry/spatial_orientation/v1.2/top_isometric/sample_036/isometric.png",
+      "SpatialAct/data/images/geometry/spatial_orientation/v1.2/top_isometric/sample_036/top.png"
+    ]
+  },
+  {
+    "task_type": "top_isometric_direction_consistent",
+    "question": "There are two images: an isometric image and a top-view image.\n- In the top-view image, top is North, bottom is South, left is West, and right is East.\n- In the isometric image, the red arrow indicates the same North direction as the top-view image.\n- Object directions are determined by comparing object center points (bounding box centers).\n\nConsider the westernmost object in the isometric image. Relative to the scene center, which direction is that object located in the top-view image? Choose one option.\n\nIsometric image: <image>\nTop-view image: <image>\nA. west\nB. east\nC. south\nD. northeast",
+    "answer": "A",
+    "images": [
+      "SpatialAct/data/images/geometry/spatial_orientation/v1.2/top_isometric/sample_064/isometric.png",
+      "SpatialAct/data/images/geometry/spatial_orientation/v1.2/top_isometric/sample_064/top.png"
+    ]
+  },
+  {
+    "task_type": "top_isometric_direction_consistent",
+    "question": "There are two images: an isometric image and a top-view image.\n- In the top-view image, top is North, bottom is South, left is West, and right is East.\n- In the isometric image, the red arrow indicates the same North direction as the top-view image.\n- Object directions are determined by comparing object center points (bounding box centers).\n\nConsider the westernmost object in the isometric image. Relative to the scene center, which direction is that object located in the top-view image? Choose one option.\n\nIsometric image: <image>\nTop-view image: <image>\nA. southwest\nB. east\nC. northwest\nD. northeast",
+    "answer": "A",
+    "images": [
+      "SpatialAct/data/images/geometry/spatial_orientation/v1.2/top_isometric/sample_095/isometric.png",
+      "SpatialAct/data/images/geometry/spatial_orientation/v1.2/top_isometric/sample_095/top.png"
+    ]
+  },
+  {
+    "task_type": "top_isometric_direction_consistent",
+    "question": "There are two images: an isometric image and a top-view image.\n- In the top-view image, top is North, bottom is South, left is West, and right is East.\n- In the isometric image, the red arrow indicates the same North direction as the top-view image.\n- Object directions are determined by comparing object center points (bounding box centers).\n\nConsider the northernmost object in the isometric image. Relative to the scene center, which direction is that object located in the top-view image? Choose one option.\n\nIsometric image: <image>\nTop-view image: <image>\nA. south\nB. southwest\nC. northeast\nD. southeast",
+    "answer": "C",
+    "images": [
+      "SpatialAct/data/images/geometry/spatial_orientation/v1.2/top_isometric/sample_009/isometric.png",
+      "SpatialAct/data/images/geometry/spatial_orientation/v1.2/top_isometric/sample_009/top.png"
+    ]
+  },
+  {
+    "task_type": "top_isometric_direction_consistent",
+    "question": "There are two images: an isometric image and a top-view image.\n- In the top-view image, top is North, bottom is South, left is West, and right is East.\n- In the isometric image, the red arrow indicates the same North direction as the top-view image.\n- Object directions are determined by comparing object center points (bounding box centers).\n\nConsider the southernmost object in the isometric image. Relative to the scene center, which direction is that object located in the top-view image? Choose one option.\n\nIsometric image: <image>\nTop-view image: <image>\nA. south\nB. northwest\nC. west\nD. north",
+    "answer": "A",
+    "images": [
+      "SpatialAct/data/images/geometry/spatial_orientation/v1.2/top_isometric/sample_076/isometric.png",
+      "SpatialAct/data/images/geometry/spatial_orientation/v1.2/top_isometric/sample_076/top.png"
+    ]
+  },
+  {
+    "task_type": "top_isometric_direction_consistent",
+    "question": "There are two images: an isometric image and a top-view image.\n- In the top-view image, top is North, bottom is South, left is West, and right is East.\n- In the isometric image, the red arrow indicates the same North direction as the top-view image.\n- Object directions are determined by comparing object center points (bounding box centers).\n\nConsider the northernmost object in the isometric image. Relative to the scene center, which direction is that object located in the top-view image? Choose one option.\n\nIsometric image: <image>\nTop-view image: <image>\nA. northwest\nB. east\nC. northeast\nD. southwest",
+    "answer": "A",
+    "images": [
+      "SpatialAct/data/images/geometry/spatial_orientation/v1.2/top_isometric/sample_004/isometric.png",
+      "SpatialAct/data/images/geometry/spatial_orientation/v1.2/top_isometric/sample_004/top.png"
+    ]
+  },
+  {
+    "task_type": "top_isometric_direction_consistent",
+    "question": "There are two images: an isometric image and a top-view image.\n- In the top-view image, top is North, bottom is South, left is West, and right is East.\n- In the isometric image, the red arrow indicates the same North direction as the top-view image.\n- Object directions are determined by comparing object center points (bounding box centers).\n\nConsider the southernmost object in the isometric image. Relative to the scene center, which direction is that object located in the top-view image? Choose one option.\n\nIsometric image: <image>\nTop-view image: <image>\nA. southwest\nB. northwest\nC. north\nD. southeast",
+    "answer": "A",
+    "images": [
+      "SpatialAct/data/images/geometry/spatial_orientation/v1.2/top_isometric/sample_063/isometric.png",
+      "SpatialAct/data/images/geometry/spatial_orientation/v1.2/top_isometric/sample_063/top.png"
+    ]
+  },
+  {
+    "task_type": "top_isometric_direction_consistent",
+    "question": "There are two images: an isometric image and a top-view image.\n- In the top-view image, top is North, bottom is South, left is West, and right is East.\n- In the isometric image, the red arrow indicates the same North direction as the top-view image.\n- Object directions are determined by comparing object center points (bounding box centers).\n\nConsider the easternmost object in the isometric image. Relative to the scene center, which direction is that object located in the top-view image? Choose one option.\n\nIsometric image: <image>\nTop-view image: <image>\nA. north\nB. east\nC. south\nD. west",
+    "answer": "B",
+    "images": [
+      "SpatialAct/data/images/geometry/spatial_orientation/v1.2/top_isometric/sample_056/isometric.png",
+      "SpatialAct/data/images/geometry/spatial_orientation/v1.2/top_isometric/sample_056/top.png"
+    ]
+  },
+  {
+    "task_type": "top_isometric_direction_consistent",
+    "question": "There are two images: an isometric image and a top-view image.\n- In the top-view image, top is North, bottom is South, left is West, and right is East.\n- In the isometric image, the red arrow indicates the same North direction as the top-view image.\n- Object directions are determined by comparing object center points (bounding box centers).\n\nConsider the easternmost object in the isometric image. Relative to the scene center, which direction is that object located in the top-view image? Choose one option.\n\nIsometric image: <image>\nTop-view image: <image>\nA. southwest\nB. north\nC. southeast\nD. west",
+    "answer": "C",
+    "images": [
+      "SpatialAct/data/images/geometry/spatial_orientation/v1.2/top_isometric/sample_049/isometric.png",
+      "SpatialAct/data/images/geometry/spatial_orientation/v1.2/top_isometric/sample_049/top.png"
+    ]
+  },
+  {
+    "task_type": "top_isometric_direction_consistent",
+    "question": "There are two images: an isometric image and a top-view image.\n- In the top-view image, top is North, bottom is South, left is West, and right is East.\n- In the isometric image, the red arrow indicates the same North direction as the top-view image.\n- Object directions are determined by comparing object center points (bounding box centers).\n\nConsider the easternmost object in the isometric image. Relative to the scene center, which direction is that object located in the top-view image? Choose one option.\n\nIsometric image: <image>\nTop-view image: <image>\nA. southwest\nB. west\nC. north\nD. southeast",
+    "answer": "D",
+    "images": [
+      "SpatialAct/data/images/geometry/spatial_orientation/v1.2/top_isometric/sample_025/isometric.png",
+      "SpatialAct/data/images/geometry/spatial_orientation/v1.2/top_isometric/sample_025/top.png"
+    ]
+  },
+  {
+    "task_type": "top_isometric_direction_consistent",
+    "question": "There are two images: an isometric image and a top-view image.\n- In the top-view image, top is North, bottom is South, left is West, and right is East.\n- In the isometric image, the red arrow indicates the same North direction as the top-view image.\n- Object directions are determined by comparing object center points (bounding box centers).\n\nConsider the southernmost object in the isometric image. Relative to the scene center, which direction is that object located in the top-view image? Choose one option.\n\nIsometric image: <image>\nTop-view image: <image>\nA. southwest\nB. east\nC. southeast\nD. northwest",
+    "answer": "A",
+    "images": [
+      "SpatialAct/data/images/geometry/spatial_orientation/v1.2/top_isometric/sample_052/isometric.png",
+      "SpatialAct/data/images/geometry/spatial_orientation/v1.2/top_isometric/sample_052/top.png"
+    ]
+  },
+  {
+    "task_type": "top_isometric_direction_consistent",
+    "question": "There are two images: an isometric image and a top-view image.\n- In the top-view image, top is North, bottom is South, left is West, and right is East.\n- In the isometric image, the red arrow indicates the same North direction as the top-view image.\n- Object directions are determined by comparing object center points (bounding box centers).\n\nConsider the easternmost object in the isometric image. Relative to the scene center, which direction is that object located in the top-view image? Choose one option.\n\nIsometric image: <image>\nTop-view image: <image>\nA. southeast\nB. northeast\nC. southwest\nD. south",
+    "answer": "B",
+    "images": [
+      "SpatialAct/data/images/geometry/spatial_orientation/v1.2/top_isometric/sample_041/isometric.png",
+      "SpatialAct/data/images/geometry/spatial_orientation/v1.2/top_isometric/sample_041/top.png"
+    ]
+  },
+  {
+    "task_type": "top_isometric_direction_consistent",
+    "question": "There are two images: an isometric image and a top-view image.\n- In the top-view image, top is North, bottom is South, left is West, and right is East.\n- In the isometric image, the red arrow indicates the same North direction as the top-view image.\n- Object directions are determined by comparing object center points (bounding box centers).\n\nConsider the northernmost object in the isometric image. Relative to the scene center, which direction is that object located in the top-view image? Choose one option.\n\nIsometric image: <image>\nTop-view image: <image>\nA. south\nB. west\nC. southeast\nD. north",
+    "answer": "D",
+    "images": [
+      "SpatialAct/data/images/geometry/spatial_orientation/v1.2/top_isometric/sample_080/isometric.png",
+      "SpatialAct/data/images/geometry/spatial_orientation/v1.2/top_isometric/sample_080/top.png"
+    ]
+  },
+  {
+    "task_type": "top_isometric_direction_consistent",
+    "question": "There are two images: an isometric image and a top-view image.\n- In the top-view image, top is North, bottom is South, left is West, and right is East.\n- In the isometric image, the red arrow indicates the same North direction as the top-view image.\n- Object directions are determined by comparing object center points (bounding box centers).\n\nConsider the easternmost object in the isometric image. Relative to the scene center, which direction is that object located in the top-view image? Choose one option.\n\nIsometric image: <image>\nTop-view image: <image>\nA. west\nB. northwest\nC. south\nD. east",
+    "answer": "D",
+    "images": [
+      "SpatialAct/data/images/geometry/spatial_orientation/v1.2/top_isometric/sample_066/isometric.png",
+      "SpatialAct/data/images/geometry/spatial_orientation/v1.2/top_isometric/sample_066/top.png"
+    ]
+  },
+  {
+    "task_type": "top_isometric_direction_consistent",
+    "question": "There are two images: an isometric image and a top-view image.\n- In the top-view image, top is North, bottom is South, left is West, and right is East.\n- In the isometric image, the red arrow indicates the same North direction as the top-view image.\n- Object directions are determined by comparing object center points (bounding box centers).\n\nConsider the southernmost object in the isometric image. Relative to the scene center, which direction is that object located in the top-view image? Choose one option.\n\nIsometric image: <image>\nTop-view image: <image>\nA. northwest\nB. west\nC. north\nD. south",
+    "answer": "D",
+    "images": [
+      "SpatialAct/data/images/geometry/spatial_orientation/v1.2/top_isometric/sample_085/isometric.png",
+      "SpatialAct/data/images/geometry/spatial_orientation/v1.2/top_isometric/sample_085/top.png"
+    ]
+  },
+  {
+    "task_type": "top_isometric_direction_consistent",
+    "question": "There are two images: an isometric image and a top-view image.\n- In the top-view image, top is North, bottom is South, left is West, and right is East.\n- In the isometric image, the red arrow indicates the same North direction as the top-view image.\n- Object directions are determined by comparing object center points (bounding box centers).\n\nConsider the easternmost object in the isometric image. Relative to the scene center, which direction is that object located in the top-view image? Choose one option.\n\nIsometric image: <image>\nTop-view image: <image>\nA. southwest\nB. southeast\nC. northwest\nD. west",
+    "answer": "B",
+    "images": [
+      "SpatialAct/data/images/geometry/spatial_orientation/v1.2/top_isometric/sample_001/isometric.png",
+      "SpatialAct/data/images/geometry/spatial_orientation/v1.2/top_isometric/sample_001/top.png"
+    ]
+  },
+  {
+    "task_type": "top_isometric_direction_consistent",
+    "question": "There are two images: an isometric image and a top-view image.\n- In the top-view image, top is North, bottom is South, left is West, and right is East.\n- In the isometric image, the red arrow indicates the same North direction as the top-view image.\n- Object directions are determined by comparing object center points (bounding box centers).\n\nConsider the northernmost object in the isometric image. Relative to the scene center, which direction is that object located in the top-view image? Choose one option.\n\nIsometric image: <image>\nTop-view image: <image>\nA. east\nB. northwest\nC. southwest\nD. northeast",
+    "answer": "B",
+    "images": [
+      "SpatialAct/data/images/geometry/spatial_orientation/v1.2/top_isometric/sample_005/isometric.png",
+      "SpatialAct/data/images/geometry/spatial_orientation/v1.2/top_isometric/sample_005/top.png"
+    ]
+  },
+  {
+    "task_type": "top_isometric_direction_consistent",
+    "question": "There are two images: an isometric image and a top-view image.\n- In the top-view image, top is North, bottom is South, left is West, and right is East.\n- In the isometric image, the red arrow indicates the same North direction as the top-view image.\n- Object directions are determined by comparing object center points (bounding box centers).\n\nConsider the westernmost object in the isometric image. Relative to the scene center, which direction is that object located in the top-view image? Choose one option.\n\nIsometric image: <image>\nTop-view image: <image>\nA. northwest\nB. northeast\nC. southwest\nD. east",
+    "answer": "A",
+    "images": [
+      "SpatialAct/data/images/geometry/spatial_orientation/v1.2/top_isometric/sample_010/isometric.png",
+      "SpatialAct/data/images/geometry/spatial_orientation/v1.2/top_isometric/sample_010/top.png"
+    ]
+  },
+  {
+    "task_type": "top_isometric_direction_consistent",
+    "question": "There are two images: an isometric image and a top-view image.\n- In the top-view image, top is North, bottom is South, left is West, and right is East.\n- In the isometric image, the red arrow indicates the same North direction as the top-view image.\n- Object directions are determined by comparing object center points (bounding box centers).\n\nConsider the northernmost object in the isometric image. Relative to the scene center, which direction is that object located in the top-view image? Choose one option.\n\nIsometric image: <image>\nTop-view image: <image>\nA. southeast\nB. north\nC. southwest\nD. east",
+    "answer": "B",
+    "images": [
+      "SpatialAct/data/images/geometry/spatial_orientation/v1.2/top_isometric/sample_050/isometric.png",
+      "SpatialAct/data/images/geometry/spatial_orientation/v1.2/top_isometric/sample_050/top.png"
+    ]
+  },
+  {
+    "task_type": "top_isometric_direction_consistent",
+    "question": "There are two images: an isometric image and a top-view image.\n- In the top-view image, top is North, bottom is South, left is West, and right is East.\n- In the isometric image, the red arrow indicates the same North direction as the top-view image.\n- Object directions are determined by comparing object center points (bounding box centers).\n\nConsider the easternmost object in the isometric image. Relative to the scene center, which direction is that object located in the top-view image? Choose one option.\n\nIsometric image: <image>\nTop-view image: <image>\nA. southwest\nB. northwest\nC. southeast\nD. northeast",
+    "answer": "D",
+    "images": [
+      "SpatialAct/data/images/geometry/spatial_orientation/v1.2/top_isometric/sample_071/isometric.png",
+      "SpatialAct/data/images/geometry/spatial_orientation/v1.2/top_isometric/sample_071/top.png"
+    ]
+  },
+  {
+    "task_type": "top_isometric_direction_consistent",
+    "question": "There are two images: an isometric image and a top-view image.\n- In the top-view image, top is North, bottom is South, left is West, and right is East.\n- In the isometric image, the red arrow indicates the same North direction as the top-view image.\n- Object directions are determined by comparing object center points (bounding box centers).\n\nConsider the westernmost object in the isometric image. Relative to the scene center, which direction is that object located in the top-view image? Choose one option.\n\nIsometric image: <image>\nTop-view image: <image>\nA. south\nB. north\nC. west\nD. southeast",
+    "answer": "C",
+    "images": [
+      "SpatialAct/data/images/geometry/spatial_orientation/v1.2/top_isometric/sample_061/isometric.png",
+      "SpatialAct/data/images/geometry/spatial_orientation/v1.2/top_isometric/sample_061/top.png"
+    ]
+  },
+  {
+    "task_type": "isometric_camera_rotate",
+    "question": "There is an isometric image of a scene. In this image, the red arrow indicates the North direction.\nIdentify the westernmost object in the image.\n\nNow imagine that the camera rotates CLOCKWISE by 90 degrees around the scene center.\nWhen the camera rotates, the cardinal directions (north, east, south, west) rotate together with the view.\n\nAfter this rotation, where will that object be located relative to the scene center in the rotated coordinate frame?\n\nChoose one option.\n\nIsometric image: <image>\nA. northeast\nB. southeast\nC. north\nD. southwest",
+    "answer": "D",
+    "images": [
+      "SpatialAct/data/images/geometry/spatial_orientation/v1.2/top_isometric/sample_013/isometric.png"
+    ]
+  }
+]

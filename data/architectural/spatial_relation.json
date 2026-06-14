@@ -1,0 +1,2002 @@
+[
+  {
+    "task_type": "isometric_closest",
+    "question": "Which two buildings are closest to each other? Object positions are determined by the center points (bounding box center) of the buildings. Answer with two numbers joined by 'and' in ascending order (x < y), e.g., '2 and 5'.\nIsometric image: <image>",
+    "answer": "2 and 5",
+    "images": [
+      "SpatialAct/data/images/architectural/spatial_relation/nansha_regions/region_043/isometric.png"
+    ]
+  },
+  {
+    "task_type": "isometric_closest",
+    "question": "Which two buildings are closest to each other? Object positions are determined by the center points (bounding box center) of the buildings. Answer with two numbers joined by 'and' in ascending order (x < y), e.g., '2 and 5'.\nIsometric image: <image>",
+    "answer": "6 and 7",
+    "images": [
+      "SpatialAct/data/images/architectural/spatial_relation/tsinghua_regions/region_029/isometric.png"
+    ]
+  },
+  {
+    "task_type": "isometric_closest",
+    "question": "Which two buildings are closest to each other? Object positions are determined by the center points (bounding box center) of the buildings. Answer with two numbers joined by 'and' in ascending order (x < y), e.g., '2 and 5'.\nIsometric image: <image>",
+    "answer": "2 and 4",
+    "images": [
+      "SpatialAct/data/images/architectural/spatial_relation/nansha_regions/region_041/isometric.png"
+    ]
+  },
+  {
+    "task_type": "isometric_closest",
+    "question": "Which two buildings are closest to each other? Object positions are determined by the center points (bounding box center) of the buildings. Answer with two numbers joined by 'and' in ascending order (x < y), e.g., '2 and 5'.\nIsometric image: <image>",
+    "answer": "5 and 7",
+    "images": [
+      "SpatialAct/data/images/architectural/spatial_relation/nansha_regions/region_135/isometric.png"
+    ]
+  },
+  {
+    "task_type": "isometric_closest",
+    "question": "Which two buildings are closest to each other? Object positions are determined by the center points (bounding box center) of the buildings. Answer with two numbers joined by 'and' in ascending order (x < y), e.g., '2 and 5'.\nIsometric image: <image>",
+    "answer": "1 and 4",
+    "images": [
+      "SpatialAct/data/images/architectural/spatial_relation/nansha_regions/region_080/isometric.png"
+    ]
+  },
+  {
+    "task_type": "isometric_closest",
+    "question": "Which two buildings are closest to each other? Object positions are determined by the center points (bounding box center) of the buildings. Answer with two numbers joined by 'and' in ascending order (x < y), e.g., '2 and 5'.\nIsometric image: <image>",
+    "answer": "4 and 7",
+    "images": [
+      "SpatialAct/data/images/architectural/spatial_relation/nansha_regions/region_071/isometric.png"
+    ]
+  },
+  {
+    "task_type": "isometric_closest",
+    "question": "Which two buildings are closest to each other? Object positions are determined by the center points (bounding box center) of the buildings. Answer with two numbers joined by 'and' in ascending order (x < y), e.g., '2 and 5'.\nIsometric image: <image>",
+    "answer": "2 and 3",
+    "images": [
+      "SpatialAct/data/images/architectural/spatial_relation/nansha_regions/region_123/isometric.png"
+    ]
+  },
+  {
+    "task_type": "isometric_closest",
+    "question": "Which two buildings are closest to each other? Object positions are determined by the center points (bounding box center) of the buildings. Answer with two numbers joined by 'and' in ascending order (x < y), e.g., '2 and 5'.\nIsometric image: <image>",
+    "answer": "1 and 2",
+    "images": [
+      "SpatialAct/data/images/architectural/spatial_relation/nansha_regions/region_091/isometric.png"
+    ]
+  },
+  {
+    "task_type": "isometric_closest",
+    "question": "Which two buildings are closest to each other? Object positions are determined by the center points (bounding box center) of the buildings. Answer with two numbers joined by 'and' in ascending order (x < y), e.g., '2 and 5'.\nIsometric image: <image>",
+    "answer": "1 and 2",
+    "images": [
+      "SpatialAct/data/images/architectural/spatial_relation/tianhe_regions/region_016/isometric.png"
+    ]
+  },
+  {
+    "task_type": "isometric_closest",
+    "question": "Which two buildings are closest to each other? Object positions are determined by the center points (bounding box center) of the buildings. Answer with two numbers joined by 'and' in ascending order (x < y), e.g., '2 and 5'.\nIsometric image: <image>",
+    "answer": "3 and 4",
+    "images": [
+      "SpatialAct/data/images/architectural/spatial_relation/nansha_regions/region_076/isometric.png"
+    ]
+  },
+  {
+    "task_type": "isometric_closest",
+    "question": "Which two buildings are closest to each other? Object positions are determined by the center points (bounding box center) of the buildings. Answer with two numbers joined by 'and' in ascending order (x < y), e.g., '2 and 5'.\nIsometric image: <image>",
+    "answer": "2 and 3",
+    "images": [
+      "SpatialAct/data/images/architectural/spatial_relation/nansha_regions/region_152/isometric.png"
+    ]
+  },
+  {
+    "task_type": "isometric_closest",
+    "question": "Which two buildings are closest to each other? Object positions are determined by the center points (bounding box center) of the buildings. Answer with two numbers joined by 'and' in ascending order (x < y), e.g., '2 and 5'.\nIsometric image: <image>",
+    "answer": "5 and 6",
+    "images": [
+      "SpatialAct/data/images/architectural/spatial_relation/tianhe_regions/region_027/isometric.png"
+    ]
+  },
+  {
+    "task_type": "isometric_closest",
+    "question": "Which two buildings are closest to each other? Object positions are determined by the center points (bounding box center) of the buildings. Answer with two numbers joined by 'and' in ascending order (x < y), e.g., '2 and 5'.\nIsometric image: <image>",
+    "answer": "2 and 3",
+    "images": [
+      "SpatialAct/data/images/architectural/spatial_relation/tianhe_regions/region_050/isometric.png"
+    ]
+  },
+  {
+    "task_type": "isometric_closest",
+    "question": "Which two buildings are closest to each other? Object positions are determined by the center points (bounding box center) of the buildings. Answer with two numbers joined by 'and' in ascending order (x < y), e.g., '2 and 5'.\nIsometric image: <image>",
+    "answer": "4 and 5",
+    "images": [
+      "SpatialAct/data/images/architectural/spatial_relation/tianhe_regions/region_020/isometric.png"
+    ]
+  },
+  {
+    "task_type": "isometric_closest",
+    "question": "Which two buildings are closest to each other? Object positions are determined by the center points (bounding box center) of the buildings. Answer with two numbers joined by 'and' in ascending order (x < y), e.g., '2 and 5'.\nIsometric image: <image>",
+    "answer": "2 and 3",
+    "images": [
+      "SpatialAct/data/images/architectural/spatial_relation/tsinghua_regions/region_013/isometric.png"
+    ]
+  },
+  {
+    "task_type": "isometric_closest",
+    "question": "Which two buildings are closest to each other? Object positions are determined by the center points (bounding box center) of the buildings. Answer with two numbers joined by 'and' in ascending order (x < y), e.g., '2 and 5'.\nIsometric image: <image>",
+    "answer": "6 and 9",
+    "images": [
+      "SpatialAct/data/images/architectural/spatial_relation/nansha_regions/region_039/isometric.png"
+    ]
+  },
+  {
+    "task_type": "isometric_closest",
+    "question": "Which two buildings are closest to each other? Object positions are determined by the center points (bounding box center) of the buildings. Answer with two numbers joined by 'and' in ascending order (x < y), e.g., '2 and 5'.\nIsometric image: <image>",
+    "answer": "2 and 4",
+    "images": [
+      "SpatialAct/data/images/architectural/spatial_relation/nansha_regions/region_045/isometric.png"
+    ]
+  },
+  {
+    "task_type": "isometric_closest",
+    "question": "Which two buildings are closest to each other? Object positions are determined by the center points (bounding box center) of the buildings. Answer with two numbers joined by 'and' in ascending order (x < y), e.g., '2 and 5'.\nIsometric image: <image>",
+    "answer": "3 and 5",
+    "images": [
+      "SpatialAct/data/images/architectural/spatial_relation/nansha_regions/region_102/isometric.png"
+    ]
+  },
+  {
+    "task_type": "isometric_closest",
+    "question": "Which two buildings are closest to each other? Object positions are determined by the center points (bounding box center) of the buildings. Answer with two numbers joined by 'and' in ascending order (x < y), e.g., '2 and 5'.\nIsometric image: <image>",
+    "answer": "5 and 6",
+    "images": [
+      "SpatialAct/data/images/architectural/spatial_relation/nansha_regions/region_010/isometric.png"
+    ]
+  },
+  {
+    "task_type": "isometric_closest",
+    "question": "Which two buildings are closest to each other? Object positions are determined by the center points (bounding box center) of the buildings. Answer with two numbers joined by 'and' in ascending order (x < y), e.g., '2 and 5'.\nIsometric image: <image>",
+    "answer": "2 and 3",
+    "images": [
+      "SpatialAct/data/images/architectural/spatial_relation/nansha_regions/region_032/isometric.png"
+    ]
+  },
+  {
+    "task_type": "isometric_closest",
+    "question": "Which two buildings are closest to each other? Object positions are determined by the center points (bounding box center) of the buildings. Answer with two numbers joined by 'and' in ascending order (x < y), e.g., '2 and 5'.\nIsometric image: <image>",
+    "answer": "3 and 4",
+    "images": [
+      "SpatialAct/data/images/architectural/spatial_relation/nansha_regions/region_015/isometric.png"
+    ]
+  },
+  {
+    "task_type": "isometric_closest",
+    "question": "Which two buildings are closest to each other? Object positions are determined by the center points (bounding box center) of the buildings. Answer with two numbers joined by 'and' in ascending order (x < y), e.g., '2 and 5'.\nIsometric image: <image>",
+    "answer": "4 and 8",
+    "images": [
+      "SpatialAct/data/images/architectural/spatial_relation/tsinghua_regions/region_044/isometric.png"
+    ]
+  },
+  {
+    "task_type": "isometric_closest",
+    "question": "Which two buildings are closest to each other? Object positions are determined by the center points (bounding box center) of the buildings. Answer with two numbers joined by 'and' in ascending order (x < y), e.g., '2 and 5'.\nIsometric image: <image>",
+    "answer": "8 and 9",
+    "images": [
+      "SpatialAct/data/images/architectural/spatial_relation/tsinghua_regions/region_016/isometric.png"
+    ]
+  },
+  {
+    "task_type": "isometric_closest",
+    "question": "Which two buildings are closest to each other? Object positions are determined by the center points (bounding box center) of the buildings. Answer with two numbers joined by 'and' in ascending order (x < y), e.g., '2 and 5'.\nIsometric image: <image>",
+    "answer": "1 and 9",
+    "images": [
+      "SpatialAct/data/images/architectural/spatial_relation/tsinghua_regions/region_041/isometric.png"
+    ]
+  },
+  {
+    "task_type": "isometric_closest",
+    "question": "Which two buildings are closest to each other? Object positions are determined by the center points (bounding box center) of the buildings. Answer with two numbers joined by 'and' in ascending order (x < y), e.g., '2 and 5'.\nIsometric image: <image>",
+    "answer": "2 and 3",
+    "images": [
+      "SpatialAct/data/images/architectural/spatial_relation/nansha_regions/region_033/isometric.png"
+    ]
+  },
+  {
+    "task_type": "isometric_closest",
+    "question": "Which two buildings are closest to each other? Object positions are determined by the center points (bounding box center) of the buildings. Answer with two numbers joined by 'and' in ascending order (x < y), e.g., '2 and 5'.\nIsometric image: <image>",
+    "answer": "5 and 7",
+    "images": [
+      "SpatialAct/data/images/architectural/spatial_relation/tianhe_regions/region_015/isometric.png"
+    ]
+  },
+  {
+    "task_type": "isometric_closest",
+    "question": "Which two buildings are closest to each other? Object positions are determined by the center points (bounding box center) of the buildings. Answer with two numbers joined by 'and' in ascending order (x < y), e.g., '2 and 5'.\nIsometric image: <image>",
+    "answer": "3 and 5",
+    "images": [
+      "SpatialAct/data/images/architectural/spatial_relation/tsinghua_regions/region_019/isometric.png"
+    ]
+  },
+  {
+    "task_type": "isometric_closest",
+    "question": "Which two buildings are closest to each other? Object positions are determined by the center points (bounding box center) of the buildings. Answer with two numbers joined by 'and' in ascending order (x < y), e.g., '2 and 5'.\nIsometric image: <image>",
+    "answer": "3 and 8",
+    "images": [
+      "SpatialAct/data/images/architectural/spatial_relation/tsinghua_regions/region_000/isometric.png"
+    ]
+  },
+  {
+    "task_type": "isometric_closest",
+    "question": "Which two buildings are closest to each other? Object positions are determined by the center points (bounding box center) of the buildings. Answer with two numbers joined by 'and' in ascending order (x < y), e.g., '2 and 5'.\nIsometric image: <image>",
+    "answer": "3 and 5",
+    "images": [
+      "SpatialAct/data/images/architectural/spatial_relation/nansha_regions/region_141/isometric.png"
+    ]
+  },
+  {
+    "task_type": "isometric_closest",
+    "question": "Which two buildings are closest to each other? Object positions are determined by the center points (bounding box center) of the buildings. Answer with two numbers joined by 'and' in ascending order (x < y), e.g., '2 and 5'.\nIsometric image: <image>",
+    "answer": "6 and 7",
+    "images": [
+      "SpatialAct/data/images/architectural/spatial_relation/tsinghua_regions/region_032/isometric.png"
+    ]
+  },
+  {
+    "task_type": "isometric_closest",
+    "question": "Which two buildings are closest to each other? Object positions are determined by the center points (bounding box center) of the buildings. Answer with two numbers joined by 'and' in ascending order (x < y), e.g., '2 and 5'.\nIsometric image: <image>",
+    "answer": "5 and 6",
+    "images": [
+      "SpatialAct/data/images/architectural/spatial_relation/nansha_regions/region_116/isometric.png"
+    ]
+  },
+  {
+    "task_type": "isometric_direction",
+    "question": "In this isometric image, the red arrow points to North. Direction is determined by comparing the center points (bounding box center) of the buildings. Which side is building 5 relative to building 4?\nIsometric image: <image>A. northeast\nB. northwest\nC. south\nD. southeast\nChoose one option from A, B, C, D.",
+    "answer": "B",
+    "images": [
+      "SpatialAct/data/images/architectural/spatial_relation/tsinghua_regions/region_040/isometric.png"
+    ]
+  },
+  {
+    "task_type": "isometric_direction",
+    "question": "In this isometric image, the red arrow points to North. Direction is determined by comparing the center points (bounding box center) of the buildings. Which side is building 9 relative to building 6?\nIsometric image: <image>A. east\nB. west\nC. north\nD. southwest\nChoose one option from A, B, C, D.",
+    "answer": "A",
+    "images": [
+      "SpatialAct/data/images/architectural/spatial_relation/tianhe_regions/region_004/isometric.png"
+    ]
+  },
+  {
+    "task_type": "isometric_direction",
+    "question": "In this isometric image, the red arrow points to North. Direction is determined by comparing the center points (bounding box center) of the buildings. Which side is building 1 relative to building 7?\nIsometric image: <image>A. southwest\nB. north\nC. east\nD. northeast\nChoose one option from A, B, C, D.",
+    "answer": "A",
+    "images": [
+      "SpatialAct/data/images/architectural/spatial_relation/tsinghua_regions/region_036/isometric.png"
+    ]
+  },
+  {
+    "task_type": "isometric_direction",
+    "question": "In this isometric image, the red arrow points to North. Direction is determined by comparing the center points (bounding box center) of the buildings. Which side is building 8 relative to building 1?\nIsometric image: <image>A. east\nB. north\nC. west\nD. southwest\nChoose one option from A, B, C, D.",
+    "answer": "A",
+    "images": [
+      "SpatialAct/data/images/architectural/spatial_relation/tsinghua_regions/region_029/isometric.png"
+    ]
+  },
+  {
+    "task_type": "isometric_direction",
+    "question": "In this isometric image, the red arrow points to North. Direction is determined by comparing the center points (bounding box center) of the buildings. Which side is building 6 relative to building 4?\nIsometric image: <image>A. south\nB. northeast\nC. southwest\nD. southeast\nChoose one option from A, B, C, D.",
+    "answer": "B",
+    "images": [
+      "SpatialAct/data/images/architectural/spatial_relation/nansha_regions/region_102/isometric.png"
+    ]
+  },
+  {
+    "task_type": "isometric_direction",
+    "question": "In this isometric image, the red arrow points to North. Direction is determined by comparing the center points (bounding box center) of the buildings. Which side is building 3 relative to building 2?\nIsometric image: <image>A. northeast\nB. southwest\nC. north\nD. northwest\nChoose one option from A, B, C, D.",
+    "answer": "B",
+    "images": [
+      "SpatialAct/data/images/architectural/spatial_relation/nansha_regions/region_078/isometric.png"
+    ]
+  },
+  {
+    "task_type": "isometric_direction",
+    "question": "In this isometric image, the red arrow points to North. Direction is determined by comparing the center points (bounding box center) of the buildings. Which side is building 8 relative to building 1?\nIsometric image: <image>A. northeast\nB. north\nC. west\nD. southeast\nChoose one option from A, B, C, D.",
+    "answer": "D",
+    "images": [
+      "SpatialAct/data/images/architectural/spatial_relation/nansha_regions/region_092/isometric.png"
+    ]
+  },
+  {
+    "task_type": "isometric_direction",
+    "question": "In this isometric image, the red arrow points to North. Direction is determined by comparing the center points (bounding box center) of the buildings. Which side is building 4 relative to building 1?\nIsometric image: <image>A. northwest\nB. southwest\nC. south\nD. east\nChoose one option from A, B, C, D.",
+    "answer": "D",
+    "images": [
+      "SpatialAct/data/images/architectural/spatial_relation/tsinghua_regions/region_043/isometric.png"
+    ]
+  },
+  {
+    "task_type": "isometric_direction",
+    "question": "In this isometric image, the red arrow points to North. Direction is determined by comparing the center points (bounding box center) of the buildings. Which side is building 2 relative to building 10?\nIsometric image: <image>A. southeast\nB. south\nC. east\nD. north\nChoose one option from A, B, C, D.",
+    "answer": "D",
+    "images": [
+      "SpatialAct/data/images/architectural/spatial_relation/tsinghua_regions/region_053/isometric.png"
+    ]
+  },
+  {
+    "task_type": "isometric_direction",
+    "question": "In this isometric image, the red arrow points to North. Direction is determined by comparing the center points (bounding box center) of the buildings. Which side is building 4 relative to building 1?\nIsometric image: <image>A. south\nB. west\nC. northeast\nD. east\nChoose one option from A, B, C, D.",
+    "answer": "A",
+    "images": [
+      "SpatialAct/data/images/architectural/spatial_relation/tianhe_regions/region_023/isometric.png"
+    ]
+  },
+  {
+    "task_type": "isometric_direction",
+    "question": "In this isometric image, the red arrow points to North. Direction is determined by comparing the center points (bounding box center) of the buildings. Which side is building 8 relative to building 2?\nIsometric image: <image>A. northwest\nB. south\nC. east\nD. west\nChoose one option from A, B, C, D.",
+    "answer": "C",
+    "images": [
+      "SpatialAct/data/images/architectural/spatial_relation/tsinghua_regions/region_010/isometric.png"
+    ]
+  },
+  {
+    "task_type": "isometric_direction",
+    "question": "In this isometric image, the red arrow points to North. Direction is determined by comparing the center points (bounding box center) of the buildings. Which side is building 1 relative to building 5?\nIsometric image: <image>A. east\nB. north\nC. south\nD. northwest\nChoose one option from A, B, C, D.",
+    "answer": "C",
+    "images": [
+      "SpatialAct/data/images/architectural/spatial_relation/tianhe_regions/region_013/isometric.png"
+    ]
+  },
+  {
+    "task_type": "isometric_direction",
+    "question": "In this isometric image, the red arrow points to North. Direction is determined by comparing the center points (bounding box center) of the buildings. Which side is building 5 relative to building 3?\nIsometric image: <image>A. west\nB. southwest\nC. northeast\nD. south\nChoose one option from A, B, C, D.",
+    "answer": "C",
+    "images": [
+      "SpatialAct/data/images/architectural/spatial_relation/nansha_regions/region_014/isometric.png"
+    ]
+  },
+  {
+    "task_type": "isometric_direction",
+    "question": "In this isometric image, the red arrow points to North. Direction is determined by comparing the center points (bounding box center) of the buildings. Which side is building 4 relative to building 3?\nIsometric image: <image>A. north\nB. east\nC. southwest\nD. northwest\nChoose one option from A, B, C, D.",
+    "answer": "B",
+    "images": [
+      "SpatialAct/data/images/architectural/spatial_relation/nansha_regions/region_145/isometric.png"
+    ]
+  },
+  {
+    "task_type": "isometric_direction",
+    "question": "In this isometric image, the red arrow points to North. Direction is determined by comparing the center points (bounding box center) of the buildings. Which side is building 8 relative to building 13?\nIsometric image: <image>A. south\nB. northeast\nC. southeast\nD. west\nChoose one option from A, B, C, D.",
+    "answer": "B",
+    "images": [
+      "SpatialAct/data/images/architectural/spatial_relation/tianhe_regions/region_016/isometric.png"
+    ]
+  },
+  {
+    "task_type": "isometric_direction",
+    "question": "In this isometric image, the red arrow points to North. Direction is determined by comparing the center points (bounding box center) of the buildings. Which side is building 3 relative to building 1?\nIsometric image: <image>A. southeast\nB. northeast\nC. northwest\nD. southwest\nChoose one option from A, B, C, D.",
+    "answer": "A",
+    "images": [
+      "SpatialAct/data/images/architectural/spatial_relation/nansha_regions/region_130/isometric.png"
+    ]
+  },
+  {
+    "task_type": "isometric_direction",
+    "question": "In this isometric image, the red arrow points to North. Direction is determined by comparing the center points (bounding box center) of the buildings. Which side is building 4 relative to building 12?\nIsometric image: <image>A. east\nB. west\nC. north\nD. northwest\nChoose one option from A, B, C, D.",
+    "answer": "A",
+    "images": [
+      "SpatialAct/data/images/architectural/spatial_relation/tsinghua_regions/region_017/isometric.png"
+    ]
+  },
+  {
+    "task_type": "isometric_direction",
+    "question": "In this isometric image, the red arrow points to North. Direction is determined by comparing the center points (bounding box center) of the buildings. Which side is building 4 relative to building 2?\nIsometric image: <image>A. northwest\nB. southwest\nC. north\nD. southeast\nChoose one option from A, B, C, D.",
+    "answer": "D",
+    "images": [
+      "SpatialAct/data/images/architectural/spatial_relation/tianhe_regions/region_001/isometric.png"
+    ]
+  },
+  {
+    "task_type": "isometric_direction",
+    "question": "In this isometric image, the red arrow points to North. Direction is determined by comparing the center points (bounding box center) of the buildings. Which side is building 11 relative to building 8?\nIsometric image: <image>A. west\nB. southeast\nC. northwest\nD. northeast\nChoose one option from A, B, C, D.",
+    "answer": "D",
+    "images": [
+      "SpatialAct/data/images/architectural/spatial_relation/nansha_regions/region_124/isometric.png"
+    ]
+  },
+  {
+    "task_type": "isometric_direction",
+    "question": "In this isometric image, the red arrow points to North. Direction is determined by comparing the center points (bounding box center) of the buildings. Which side is building 11 relative to building 2?\nIsometric image: <image>A. north\nB. east\nC. northwest\nD. south\nChoose one option from A, B, C, D.",
+    "answer": "D",
+    "images": [
+      "SpatialAct/data/images/architectural/spatial_relation/tsinghua_regions/region_001/isometric.png"
+    ]
+  },
+  {
+    "task_type": "isometric_direction",
+    "question": "In this isometric image, the red arrow points to North. Direction is determined by comparing the center points (bounding box center) of the buildings. Which side is building 11 relative to building 7?\nIsometric image: <image>A. southeast\nB. northeast\nC. southwest\nD. north\nChoose one option from A, B, C, D.",
+    "answer": "A",
+    "images": [
+      "SpatialAct/data/images/architectural/spatial_relation/nansha_regions/region_090/isometric.png"
+    ]
+  },
+  {
+    "task_type": "isometric_direction",
+    "question": "In this isometric image, the red arrow points to North. Direction is determined by comparing the center points (bounding box center) of the buildings. Which side is building 1 relative to building 2?\nIsometric image: <image>A. northeast\nB. southeast\nC. north\nD. northwest\nChoose one option from A, B, C, D.",
+    "answer": "B",
+    "images": [
+      "SpatialAct/data/images/architectural/spatial_relation/tsinghua_regions/region_047/isometric.png"
+    ]
+  },
+  {
+    "task_type": "isometric_direction",
+    "question": "In this isometric image, the red arrow points to North. Direction is determined by comparing the center points (bounding box center) of the buildings. Which side is building 5 relative to building 2?\nIsometric image: <image>A. north\nB. south\nC. west\nD. southeast\nChoose one option from A, B, C, D.",
+    "answer": "A",
+    "images": [
+      "SpatialAct/data/images/architectural/spatial_relation/nansha_regions/region_149/isometric.png"
+    ]
+  },
+  {
+    "task_type": "isometric_direction",
+    "question": "In this isometric image, the red arrow points to North. Direction is determined by comparing the center points (bounding box center) of the buildings. Which side is building 3 relative to building 2?\nIsometric image: <image>A. east\nB. west\nC. south\nD. north\nChoose one option from A, B, C, D.",
+    "answer": "D",
+    "images": [
+      "SpatialAct/data/images/architectural/spatial_relation/tianhe_regions/region_054/isometric.png"
+    ]
+  },
+  {
+    "task_type": "isometric_direction",
+    "question": "In this isometric image, the red arrow points to North. Direction is determined by comparing the center points (bounding box center) of the buildings. Which side is building 1 relative to building 2?\nIsometric image: <image>A. east\nB. southwest\nC. northwest\nD. northeast\nChoose one option from A, B, C, D.",
+    "answer": "C",
+    "images": [
+      "SpatialAct/data/images/architectural/spatial_relation/nansha_regions/region_129/isometric.png"
+    ]
+  },
+  {
+    "task_type": "isometric_direction",
+    "question": "In this isometric image, the red arrow points to North. Direction is determined by comparing the center points (bounding box center) of the buildings. Which side is building 1 relative to building 4?\nIsometric image: <image>A. north\nB. east\nC. southwest\nD. south\nChoose one option from A, B, C, D.",
+    "answer": "A",
+    "images": [
+      "SpatialAct/data/images/architectural/spatial_relation/nansha_regions/region_096/isometric.png"
+    ]
+  },
+  {
+    "task_type": "isometric_direction",
+    "question": "In this isometric image, the red arrow points to North. Direction is determined by comparing the center points (bounding box center) of the buildings. Which side is building 8 relative to building 3?\nIsometric image: <image>A. east\nB. north\nC. southwest\nD. south\nChoose one option from A, B, C, D.",
+    "answer": "A",
+    "images": [
+      "SpatialAct/data/images/architectural/spatial_relation/tsinghua_regions/region_002/isometric.png"
+    ]
+  },
+  {
+    "task_type": "isometric_direction",
+    "question": "In this isometric image, the red arrow points to North. Direction is determined by comparing the center points (bounding box center) of the buildings. Which side is building 1 relative to building 3?\nIsometric image: <image>A. north\nB. east\nC. south\nD. northwest\nChoose one option from A, B, C, D.",
+    "answer": "B",
+    "images": [
+      "SpatialAct/data/images/architectural/spatial_relation/nansha_regions/region_025/isometric.png"
+    ]
+  },
+  {
+    "task_type": "isometric_direction",
+    "question": "In this isometric image, the red arrow points to North. Direction is determined by comparing the center points (bounding box center) of the buildings. Which side is building 3 relative to building 5?\nIsometric image: <image>A. east\nB. west\nC. north\nD. northwest\nChoose one option from A, B, C, D.",
+    "answer": "A",
+    "images": [
+      "SpatialAct/data/images/architectural/spatial_relation/nansha_regions/region_023/isometric.png"
+    ]
+  },
+  {
+    "task_type": "isometric_direction",
+    "question": "In this isometric image, the red arrow points to North. Direction is determined by comparing the center points (bounding box center) of the buildings. Which side is building 6 relative to building 1?\nIsometric image: <image>A. northeast\nB. east\nC. northwest\nD. south\nChoose one option from A, B, C, D.",
+    "answer": "D",
+    "images": [
+      "SpatialAct/data/images/architectural/spatial_relation/nansha_regions/region_093/isometric.png"
+    ]
+  },
+  {
+    "task_type": "isometric_direction",
+    "question": "In this isometric image, the red arrow points to North. Direction is determined by comparing the center points (bounding box center) of the buildings. Which side is building 9 relative to building 7?\nIsometric image: <image>A. northwest\nB. northeast\nC. southeast\nD. south\nChoose one option from A, B, C, D.",
+    "answer": "A",
+    "images": [
+      "SpatialAct/data/images/architectural/spatial_relation/nansha_regions/region_072/isometric.png"
+    ]
+  },
+  {
+    "task_type": "isometric_farthest",
+    "question": "Which building is farthest from building 5? Object positions are determined by the center points (bounding box center) of the buildings. Answer with one number.\nIsometric image: <image>",
+    "answer": "1",
+    "images": [
+      "SpatialAct/data/images/architectural/spatial_relation/tianhe_regions/region_055/isometric.png"
+    ]
+  },
+  {
+    "task_type": "isometric_farthest",
+    "question": "Which building is farthest from building 8? Object positions are determined by the center points (bounding box center) of the buildings. Answer with one number.\nIsometric image: <image>",
+    "answer": "2",
+    "images": [
+      "SpatialAct/data/images/architectural/spatial_relation/nansha_regions/region_033/isometric.png"
+    ]
+  },
+  {
+    "task_type": "isometric_farthest",
+    "question": "Which building is farthest from building 1? Object positions are determined by the center points (bounding box center) of the buildings. Answer with one number.\nIsometric image: <image>",
+    "answer": "8",
+    "images": [
+      "SpatialAct/data/images/architectural/spatial_relation/tianhe_regions/region_035/isometric.png"
+    ]
+  },
+  {
+    "task_type": "isometric_farthest",
+    "question": "Which building is farthest from building 9? Object positions are determined by the center points (bounding box center) of the buildings. Answer with one number.\nIsometric image: <image>",
+    "answer": "3",
+    "images": [
+      "SpatialAct/data/images/architectural/spatial_relation/tsinghua_regions/region_006/isometric.png"
+    ]
+  },
+  {
+    "task_type": "isometric_farthest",
+    "question": "Which building is farthest from building 1? Object positions are determined by the center points (bounding box center) of the buildings. Answer with one number.\nIsometric image: <image>",
+    "answer": "3",
+    "images": [
+      "SpatialAct/data/images/architectural/spatial_relation/nansha_regions/region_136/isometric.png"
+    ]
+  },
+  {
+    "task_type": "isometric_farthest",
+    "question": "Which building is farthest from building 3? Object positions are determined by the center points (bounding box center) of the buildings. Answer with one number.\nIsometric image: <image>",
+    "answer": "6",
+    "images": [
+      "SpatialAct/data/images/architectural/spatial_relation/tianhe_regions/region_038/isometric.png"
+    ]
+  },
+  {
+    "task_type": "isometric_farthest",
+    "question": "Which building is farthest from building 7? Object positions are determined by the center points (bounding box center) of the buildings. Answer with one number.\nIsometric image: <image>",
+    "answer": "2",
+    "images": [
+      "SpatialAct/data/images/architectural/spatial_relation/nansha_regions/region_102/isometric.png"
+    ]
+  },
+  {
+    "task_type": "isometric_farthest",
+    "question": "Which building is farthest from building 9? Object positions are determined by the center points (bounding box center) of the buildings. Answer with one number.\nIsometric image: <image>",
+    "answer": "7",
+    "images": [
+      "SpatialAct/data/images/architectural/spatial_relation/tsinghua_regions/region_039/isometric.png"
+    ]
+  },
+  {
+    "task_type": "isometric_farthest",
+    "question": "Which building is farthest from building 1? Object positions are determined by the center points (bounding box center) of the buildings. Answer with one number.\nIsometric image: <image>",
+    "answer": "9",
+    "images": [
+      "SpatialAct/data/images/architectural/spatial_relation/nansha_regions/region_150/isometric.png"
+    ]
+  },
+  {
+    "task_type": "isometric_farthest",
+    "question": "Which building is farthest from building 2? Object positions are determined by the center points (bounding box center) of the buildings. Answer with one number.\nIsometric image: <image>",
+    "answer": "5",
+    "images": [
+      "SpatialAct/data/images/architectural/spatial_relation/tsinghua_regions/region_033/isometric.png"
+    ]
+  },
+  {
+    "task_type": "isometric_farthest",
+    "question": "Which building is farthest from building 7? Object positions are determined by the center points (bounding box center) of the buildings. Answer with one number.\nIsometric image: <image>",
+    "answer": "8",
+    "images": [
+      "SpatialAct/data/images/architectural/spatial_relation/nansha_regions/region_086/isometric.png"
+    ]
+  },
+  {
+    "task_type": "isometric_farthest",
+    "question": "Which building is farthest from building 2? Object positions are determined by the center points (bounding box center) of the buildings. Answer with one number.\nIsometric image: <image>",
+    "answer": "6",
+    "images": [
+      "SpatialAct/data/images/architectural/spatial_relation/nansha_regions/region_123/isometric.png"
+    ]
+  },
+  {
+    "task_type": "isometric_farthest",
+    "question": "Which building is farthest from building 11? Object positions are determined by the center points (bounding box center) of the buildings. Answer with one number.\nIsometric image: <image>",
+    "answer": "1",
+    "images": [
+      "SpatialAct/data/images/architectural/spatial_relation/tianhe_regions/region_025/isometric.png"
+    ]
+  },
+  {
+    "task_type": "isometric_farthest",
+    "question": "Which building is farthest from building 9? Object positions are determined by the center points (bounding box center) of the buildings. Answer with one number.\nIsometric image: <image>",
+    "answer": "1",
+    "images": [
+      "SpatialAct/data/images/architectural/spatial_relation/nansha_regions/region_122/isometric.png"
+    ]
+  },
+  {
+    "task_type": "isometric_farthest",
+    "question": "Which building is farthest from building 3? Object positions are determined by the center points (bounding box center) of the buildings. Answer with one number.\nIsometric image: <image>",
+    "answer": "6",
+    "images": [
+      "SpatialAct/data/images/architectural/spatial_relation/nansha_regions/region_128/isometric.png"
+    ]
+  },
+  {
+    "task_type": "isometric_farthest",
+    "question": "Which building is farthest from building 1? Object positions are determined by the center points (bounding box center) of the buildings. Answer with one number.\nIsometric image: <image>",
+    "answer": "3",
+    "images": [
+      "SpatialAct/data/images/architectural/spatial_relation/tsinghua_regions/region_037/isometric.png"
+    ]
+  },
+  {
+    "task_type": "isometric_farthest",
+    "question": "Which building is farthest from building 5? Object positions are determined by the center points (bounding box center) of the buildings. Answer with one number.\nIsometric image: <image>",
+    "answer": "12",
+    "images": [
+      "SpatialAct/data/images/architectural/spatial_relation/tsinghua_regions/region_019/isometric.png"
+    ]
+  },
+  {
+    "task_type": "isometric_farthest",
+    "question": "Which building is farthest from building 3? Object positions are determined by the center points (bounding box center) of the buildings. Answer with one number.\nIsometric image: <image>",
+    "answer": "2",
+    "images": [
+      "SpatialAct/data/images/architectural/spatial_relation/tianhe_regions/region_027/isometric.png"
+    ]
+  },
+  {
+    "task_type": "isometric_farthest",
+    "question": "Which building is farthest from building 2? Object positions are determined by the center points (bounding box center) of the buildings. Answer with one number.\nIsometric image: <image>",
+    "answer": "1",
+    "images": [
+      "SpatialAct/data/images/architectural/spatial_relation/nansha_regions/region_030/isometric.png"
+    ]
+  },
+  {
+    "task_type": "isometric_farthest",
+    "question": "Which building is farthest from building 2? Object positions are determined by the center points (bounding box center) of the buildings. Answer with one number.\nIsometric image: <image>",
+    "answer": "4",
+    "images": [
+      "SpatialAct/data/images/architectural/spatial_relation/tianhe_regions/region_001/isometric.png"
+    ]
+  },
+  {
+    "task_type": "isometric_farthest",
+    "question": "Which building is farthest from building 3? Object positions are determined by the center points (bounding box center) of the buildings. Answer with one number.\nIsometric image: <image>",
+    "answer": "1",
+    "images": [
+      "SpatialAct/data/images/architectural/spatial_relation/tsinghua_regions/region_013/isometric.png"
+    ]
+  },
+  {
+    "task_type": "isometric_farthest",
+    "question": "Which building is farthest from building 8? Object positions are determined by the center points (bounding box center) of the buildings. Answer with one number.\nIsometric image: <image>",
+    "answer": "14",
+    "images": [
+      "SpatialAct/data/images/architectural/spatial_relation/nansha_regions/region_093/isometric.png"
+    ]
+  },
+  {
+    "task_type": "isometric_farthest",
+    "question": "Which building is farthest from building 8? Object positions are determined by the center points (bounding box center) of the buildings. Answer with one number.\nIsometric image: <image>",
+    "answer": "2",
+    "images": [
+      "SpatialAct/data/images/architectural/spatial_relation/nansha_regions/region_072/isometric.png"
+    ]
+  },
+  {
+    "task_type": "isometric_farthest",
+    "question": "Which building is farthest from building 5? Object positions are determined by the center points (bounding box center) of the buildings. Answer with one number.\nIsometric image: <image>",
+    "answer": "1",
+    "images": [
+      "SpatialAct/data/images/architectural/spatial_relation/tianhe_regions/region_040/isometric.png"
+    ]
+  },
+  {
+    "task_type": "isometric_farthest",
+    "question": "Which building is farthest from building 1? Object positions are determined by the center points (bounding box center) of the buildings. Answer with one number.\nIsometric image: <image>",
+    "answer": "3",
+    "images": [
+      "SpatialAct/data/images/architectural/spatial_relation/nansha_regions/region_116/isometric.png"
+    ]
+  },
+  {
+    "task_type": "isometric_farthest",
+    "question": "Which building is farthest from building 6? Object positions are determined by the center points (bounding box center) of the buildings. Answer with one number.\nIsometric image: <image>",
+    "answer": "4",
+    "images": [
+      "SpatialAct/data/images/architectural/spatial_relation/nansha_regions/region_092/isometric.png"
+    ]
+  },
+  {
+    "task_type": "isometric_farthest",
+    "question": "Which building is farthest from building 2? Object positions are determined by the center points (bounding box center) of the buildings. Answer with one number.\nIsometric image: <image>",
+    "answer": "8",
+    "images": [
+      "SpatialAct/data/images/architectural/spatial_relation/tsinghua_regions/region_031/isometric.png"
+    ]
+  },
+  {
+    "task_type": "isometric_farthest",
+    "question": "Which building is farthest from building 10? Object positions are determined by the center points (bounding box center) of the buildings. Answer with one number.\nIsometric image: <image>",
+    "answer": "1",
+    "images": [
+      "SpatialAct/data/images/architectural/spatial_relation/tianhe_regions/region_007/isometric.png"
+    ]
+  },
+  {
+    "task_type": "isometric_farthest",
+    "question": "Which building is farthest from building 2? Object positions are determined by the center points (bounding box center) of the buildings. Answer with one number.\nIsometric image: <image>",
+    "answer": "4",
+    "images": [
+      "SpatialAct/data/images/architectural/spatial_relation/nansha_regions/region_096/isometric.png"
+    ]
+  },
+  {
+    "task_type": "isometric_farthest",
+    "question": "Which building is farthest from building 5? Object positions are determined by the center points (bounding box center) of the buildings. Answer with one number.\nIsometric image: <image>",
+    "answer": "4",
+    "images": [
+      "SpatialAct/data/images/architectural/spatial_relation/nansha_regions/region_016/isometric.png"
+    ]
+  },
+  {
+    "task_type": "isometric_farthest",
+    "question": "Which building is farthest from building 5? Object positions are determined by the center points (bounding box center) of the buildings. Answer with one number.\nIsometric image: <image>",
+    "answer": "1",
+    "images": [
+      "SpatialAct/data/images/architectural/spatial_relation/nansha_regions/region_001/isometric.png"
+    ]
+  },
+  {
+    "task_type": "isometric_side_count",
+    "question": "In this isometric image, the red arrow points to North. Direction is determined by comparing the center points (bounding box center) of the buildings. A building can be on multiple sides at once (e.g., northeast counts as both north and east).\nHow many buildings are on the north side of building 4? Answer with one number.\nIsometric image: <image>",
+    "answer": "8",
+    "images": [
+      "SpatialAct/data/images/architectural/spatial_relation/tsinghua_regions/region_019/isometric.png"
+    ]
+  },
+  {
+    "task_type": "isometric_side_count",
+    "question": "In this isometric image, the red arrow points to North. Direction is determined by comparing the center points (bounding box center) of the buildings. A building can be on multiple sides at once (e.g., northeast counts as both north and east).\nHow many buildings are on the south side of building 8? Answer with one number.\nIsometric image: <image>",
+    "answer": "1",
+    "images": [
+      "SpatialAct/data/images/architectural/spatial_relation/nansha_regions/region_119/isometric.png"
+    ]
+  },
+  {
+    "task_type": "isometric_side_count",
+    "question": "In this isometric image, the red arrow points to North. Direction is determined by comparing the center points (bounding box center) of the buildings. A building can be on multiple sides at once (e.g., northeast counts as both north and east).\nHow many buildings are on the south side of building 3? Answer with one number.\nIsometric image: <image>",
+    "answer": "2",
+    "images": [
+      "SpatialAct/data/images/architectural/spatial_relation/tianhe_regions/region_054/isometric.png"
+    ]
+  },
+  {
+    "task_type": "isometric_side_count",
+    "question": "In this isometric image, the red arrow points to North. Direction is determined by comparing the center points (bounding box center) of the buildings. A building can be on multiple sides at once (e.g., northeast counts as both north and east).\nHow many buildings are on the north side of building 3? Answer with one number.\nIsometric image: <image>",
+    "answer": "3",
+    "images": [
+      "SpatialAct/data/images/architectural/spatial_relation/tianhe_regions/region_023/isometric.png"
+    ]
+  },
+  {
+    "task_type": "isometric_side_count",
+    "question": "In this isometric image, the red arrow points to North. Direction is determined by comparing the center points (bounding box center) of the buildings. A building can be on multiple sides at once (e.g., northeast counts as both north and east).\nHow many buildings are on the south side of building 1? Answer with one number.\nIsometric image: <image>",
+    "answer": "1",
+    "images": [
+      "SpatialAct/data/images/architectural/spatial_relation/nansha_regions/region_056/isometric.png"
+    ]
+  },
+  {
+    "task_type": "isometric_side_count",
+    "question": "In this isometric image, the red arrow points to North. Direction is determined by comparing the center points (bounding box center) of the buildings. A building can be on multiple sides at once (e.g., northeast counts as both north and east).\nHow many buildings are on the east side of building 3? Answer with one number.\nIsometric image: <image>",
+    "answer": "2",
+    "images": [
+      "SpatialAct/data/images/architectural/spatial_relation/tianhe_regions/region_020/isometric.png"
+    ]
+  },
+  {
+    "task_type": "isometric_side_count",
+    "question": "In this isometric image, the red arrow points to North. Direction is determined by comparing the center points (bounding box center) of the buildings. A building can be on multiple sides at once (e.g., northeast counts as both north and east).\nHow many buildings are on the west side of building 6? Answer with one number.\nIsometric image: <image>",
+    "answer": "8",
+    "images": [
+      "SpatialAct/data/images/architectural/spatial_relation/tsinghua_regions/region_017/isometric.png"
+    ]
+  },
+  {
+    "task_type": "isometric_side_count",
+    "question": "In this isometric image, the red arrow points to North. Direction is determined by comparing the center points (bounding box center) of the buildings. A building can be on multiple sides at once (e.g., northeast counts as both north and east).\nHow many buildings are on the west side of building 3? Answer with one number.\nIsometric image: <image>",
+    "answer": "0",
+    "images": [
+      "SpatialAct/data/images/architectural/spatial_relation/tianhe_regions/region_019/isometric.png"
+    ]
+  },
+  {
+    "task_type": "isometric_side_count",
+    "question": "In this isometric image, the red arrow points to North. Direction is determined by comparing the center points (bounding box center) of the buildings. A building can be on multiple sides at once (e.g., northeast counts as both north and east).\nHow many buildings are on the west side of building 12? Answer with one number.\nIsometric image: <image>",
+    "answer": "3",
+    "images": [
+      "SpatialAct/data/images/architectural/spatial_relation/nansha_regions/region_090/isometric.png"
+    ]
+  },
+  {
+    "task_type": "isometric_side_count",
+    "question": "In this isometric image, the red arrow points to North. Direction is determined by comparing the center points (bounding box center) of the buildings. A building can be on multiple sides at once (e.g., northeast counts as both north and east).\nHow many buildings are on the south side of building 2? Answer with one number.\nIsometric image: <image>",
+    "answer": "5",
+    "images": [
+      "SpatialAct/data/images/architectural/spatial_relation/nansha_regions/region_091/isometric.png"
+    ]
+  },
+  {
+    "task_type": "isometric_side_count",
+    "question": "In this isometric image, the red arrow points to North. Direction is determined by comparing the center points (bounding box center) of the buildings. A building can be on multiple sides at once (e.g., northeast counts as both north and east).\nHow many buildings are on the east side of building 7? Answer with one number.\nIsometric image: <image>",
+    "answer": "6",
+    "images": [
+      "SpatialAct/data/images/architectural/spatial_relation/nansha_regions/region_116/isometric.png"
+    ]
+  },
+  {
+    "task_type": "isometric_side_count",
+    "question": "In this isometric image, the red arrow points to North. Direction is determined by comparing the center points (bounding box center) of the buildings. A building can be on multiple sides at once (e.g., northeast counts as both north and east).\nHow many buildings are on the west side of building 2? Answer with one number.\nIsometric image: <image>",
+    "answer": "4",
+    "images": [
+      "SpatialAct/data/images/architectural/spatial_relation/tianhe_regions/region_027/isometric.png"
+    ]
+  },
+  {
+    "task_type": "isometric_side_count",
+    "question": "In this isometric image, the red arrow points to North. Direction is determined by comparing the center points (bounding box center) of the buildings. A building can be on multiple sides at once (e.g., northeast counts as both north and east).\nHow many buildings are on the north side of building 2? Answer with one number.\nIsometric image: <image>",
+    "answer": "0",
+    "images": [
+      "SpatialAct/data/images/architectural/spatial_relation/nansha_regions/region_072/isometric.png"
+    ]
+  },
+  {
+    "task_type": "isometric_side_count",
+    "question": "In this isometric image, the red arrow points to North. Direction is determined by comparing the center points (bounding box center) of the buildings. A building can be on multiple sides at once (e.g., northeast counts as both north and east).\nHow many buildings are on the west side of building 5? Answer with one number.\nIsometric image: <image>",
+    "answer": "2",
+    "images": [
+      "SpatialAct/data/images/architectural/spatial_relation/tsinghua_regions/region_040/isometric.png"
+    ]
+  },
+  {
+    "task_type": "isometric_side_count",
+    "question": "In this isometric image, the red arrow points to North. Direction is determined by comparing the center points (bounding box center) of the buildings. A building can be on multiple sides at once (e.g., northeast counts as both north and east).\nHow many buildings are on the east side of building 3? Answer with one number.\nIsometric image: <image>",
+    "answer": "5",
+    "images": [
+      "SpatialAct/data/images/architectural/spatial_relation/tianhe_regions/region_015/isometric.png"
+    ]
+  },
+  {
+    "task_type": "isometric_side_count",
+    "question": "In this isometric image, the red arrow points to North. Direction is determined by comparing the center points (bounding box center) of the buildings. A building can be on multiple sides at once (e.g., northeast counts as both north and east).\nHow many buildings are on the west side of building 2? Answer with one number.\nIsometric image: <image>",
+    "answer": "0",
+    "images": [
+      "SpatialAct/data/images/architectural/spatial_relation/tianhe_regions/region_041/isometric.png"
+    ]
+  },
+  {
+    "task_type": "isometric_side_count",
+    "question": "In this isometric image, the red arrow points to North. Direction is determined by comparing the center points (bounding box center) of the buildings. A building can be on multiple sides at once (e.g., northeast counts as both north and east).\nHow many buildings are on the east side of building 1? Answer with one number.\nIsometric image: <image>",
+    "answer": "2",
+    "images": [
+      "SpatialAct/data/images/architectural/spatial_relation/nansha_regions/region_081/isometric.png"
+    ]
+  },
+  {
+    "task_type": "isometric_side_count",
+    "question": "In this isometric image, the red arrow points to North. Direction is determined by comparing the center points (bounding box center) of the buildings. A building can be on multiple sides at once (e.g., northeast counts as both north and east).\nHow many buildings are on the east side of building 6? Answer with one number.\nIsometric image: <image>",
+    "answer": "4",
+    "images": [
+      "SpatialAct/data/images/architectural/spatial_relation/tsinghua_regions/region_005/isometric.png"
+    ]
+  },
+  {
+    "task_type": "isometric_side_count",
+    "question": "In this isometric image, the red arrow points to North. Direction is determined by comparing the center points (bounding box center) of the buildings. A building can be on multiple sides at once (e.g., northeast counts as both north and east).\nHow many buildings are on the south side of building 7? Answer with one number.\nIsometric image: <image>",
+    "answer": "9",
+    "images": [
+      "SpatialAct/data/images/architectural/spatial_relation/tsinghua_regions/region_027/isometric.png"
+    ]
+  },
+  {
+    "task_type": "isometric_side_count",
+    "question": "In this isometric image, the red arrow points to North. Direction is determined by comparing the center points (bounding box center) of the buildings. A building can be on multiple sides at once (e.g., northeast counts as both north and east).\nHow many buildings are on the south side of building 3? Answer with one number.\nIsometric image: <image>",
+    "answer": "0",
+    "images": [
+      "SpatialAct/data/images/architectural/spatial_relation/nansha_regions/region_130/isometric.png"
+    ]
+  },
+  {
+    "task_type": "isometric_side_count",
+    "question": "In this isometric image, the red arrow points to North. Direction is determined by comparing the center points (bounding box center) of the buildings. A building can be on multiple sides at once (e.g., northeast counts as both north and east).\nHow many buildings are on the south side of building 2? Answer with one number.\nIsometric image: <image>",
+    "answer": "1",
+    "images": [
+      "SpatialAct/data/images/architectural/spatial_relation/nansha_regions/region_015/isometric.png"
+    ]
+  },
+  {
+    "task_type": "isometric_side_count",
+    "question": "In this isometric image, the red arrow points to North. Direction is determined by comparing the center points (bounding box center) of the buildings. A building can be on multiple sides at once (e.g., northeast counts as both north and east).\nHow many buildings are on the west side of building 4? Answer with one number.\nIsometric image: <image>",
+    "answer": "0",
+    "images": [
+      "SpatialAct/data/images/architectural/spatial_relation/nansha_regions/region_123/isometric.png"
+    ]
+  },
+  {
+    "task_type": "isometric_side_count",
+    "question": "In this isometric image, the red arrow points to North. Direction is determined by comparing the center points (bounding box center) of the buildings. A building can be on multiple sides at once (e.g., northeast counts as both north and east).\nHow many buildings are on the south side of building 5? Answer with one number.\nIsometric image: <image>",
+    "answer": "5",
+    "images": [
+      "SpatialAct/data/images/architectural/spatial_relation/nansha_regions/region_124/isometric.png"
+    ]
+  },
+  {
+    "task_type": "isometric_side_count",
+    "question": "In this isometric image, the red arrow points to North. Direction is determined by comparing the center points (bounding box center) of the buildings. A building can be on multiple sides at once (e.g., northeast counts as both north and east).\nHow many buildings are on the east side of building 3? Answer with one number.\nIsometric image: <image>",
+    "answer": "2",
+    "images": [
+      "SpatialAct/data/images/architectural/spatial_relation/tsinghua_regions/region_055/isometric.png"
+    ]
+  },
+  {
+    "task_type": "isometric_side_count",
+    "question": "In this isometric image, the red arrow points to North. Direction is determined by comparing the center points (bounding box center) of the buildings. A building can be on multiple sides at once (e.g., northeast counts as both north and east).\nHow many buildings are on the west side of building 7? Answer with one number.\nIsometric image: <image>",
+    "answer": "4",
+    "images": [
+      "SpatialAct/data/images/architectural/spatial_relation/nansha_regions/region_065/isometric.png"
+    ]
+  },
+  {
+    "task_type": "isometric_side_count",
+    "question": "In this isometric image, the red arrow points to North. Direction is determined by comparing the center points (bounding box center) of the buildings. A building can be on multiple sides at once (e.g., northeast counts as both north and east).\nHow many buildings are on the north side of building 2? Answer with one number.\nIsometric image: <image>",
+    "answer": "0",
+    "images": [
+      "SpatialAct/data/images/architectural/spatial_relation/tsinghua_regions/region_036/isometric.png"
+    ]
+  },
+  {
+    "task_type": "isometric_side_count",
+    "question": "In this isometric image, the red arrow points to North. Direction is determined by comparing the center points (bounding box center) of the buildings. A building can be on multiple sides at once (e.g., northeast counts as both north and east).\nHow many buildings are on the north side of building 4? Answer with one number.\nIsometric image: <image>",
+    "answer": "3",
+    "images": [
+      "SpatialAct/data/images/architectural/spatial_relation/nansha_regions/region_087/isometric.png"
+    ]
+  },
+  {
+    "task_type": "isometric_side_count",
+    "question": "In this isometric image, the red arrow points to North. Direction is determined by comparing the center points (bounding box center) of the buildings. A building can be on multiple sides at once (e.g., northeast counts as both north and east).\nHow many buildings are on the west side of building 2? Answer with one number.\nIsometric image: <image>",
+    "answer": "1",
+    "images": [
+      "SpatialAct/data/images/architectural/spatial_relation/nansha_regions/region_136/isometric.png"
+    ]
+  },
+  {
+    "task_type": "isometric_side_count",
+    "question": "In this isometric image, the red arrow points to North. Direction is determined by comparing the center points (bounding box center) of the buildings. A building can be on multiple sides at once (e.g., northeast counts as both north and east).\nHow many buildings are on the east side of building 2? Answer with one number.\nIsometric image: <image>",
+    "answer": "3",
+    "images": [
+      "SpatialAct/data/images/architectural/spatial_relation/nansha_regions/region_058/isometric.png"
+    ]
+  },
+  {
+    "task_type": "isometric_side_count",
+    "question": "In this isometric image, the red arrow points to North. Direction is determined by comparing the center points (bounding box center) of the buildings. A building can be on multiple sides at once (e.g., northeast counts as both north and east).\nHow many buildings are on the east side of building 2? Answer with one number.\nIsometric image: <image>",
+    "answer": "2",
+    "images": [
+      "SpatialAct/data/images/architectural/spatial_relation/nansha_regions/region_149/isometric.png"
+    ]
+  },
+  {
+    "task_type": "isometric_side_count",
+    "question": "In this isometric image, the red arrow points to North. Direction is determined by comparing the center points (bounding box center) of the buildings. A building can be on multiple sides at once (e.g., northeast counts as both north and east).\nHow many buildings are on the north side of building 8? Answer with one number.\nIsometric image: <image>",
+    "answer": "8",
+    "images": [
+      "SpatialAct/data/images/architectural/spatial_relation/tsinghua_regions/region_001/isometric.png"
+    ]
+  },
+  {
+    "task_type": "top_closest",
+    "question": "Which two buildings are closest to each other? Object positions are determined by the center points (bounding box center) of the buildings. Answer with two numbers joined by 'and' in ascending order (x < y), e.g., '2 and 5'.\nTop-view image: <image>",
+    "answer": "4 and 8",
+    "images": [
+      "SpatialAct/data/images/architectural/spatial_relation/nansha_regions/region_119/top.png"
+    ]
+  },
+  {
+    "task_type": "top_closest",
+    "question": "Which two buildings are closest to each other? Object positions are determined by the center points (bounding box center) of the buildings. Answer with two numbers joined by 'and' in ascending order (x < y), e.g., '2 and 5'.\nTop-view image: <image>",
+    "answer": "2 and 4",
+    "images": [
+      "SpatialAct/data/images/architectural/spatial_relation/tianhe_regions/region_040/top.png"
+    ]
+  },
+  {
+    "task_type": "top_closest",
+    "question": "Which two buildings are closest to each other? Object positions are determined by the center points (bounding box center) of the buildings. Answer with two numbers joined by 'and' in ascending order (x < y), e.g., '2 and 5'.\nTop-view image: <image>",
+    "answer": "1 and 2",
+    "images": [
+      "SpatialAct/data/images/architectural/spatial_relation/nansha_regions/region_096/top.png"
+    ]
+  },
+  {
+    "task_type": "top_closest",
+    "question": "Which two buildings are closest to each other? Object positions are determined by the center points (bounding box center) of the buildings. Answer with two numbers joined by 'and' in ascending order (x < y), e.g., '2 and 5'.\nTop-view image: <image>",
+    "answer": "6 and 7",
+    "images": [
+      "SpatialAct/data/images/architectural/spatial_relation/tsinghua_regions/region_029/top.png"
+    ]
+  },
+  {
+    "task_type": "top_closest",
+    "question": "Which two buildings are closest to each other? Object positions are determined by the center points (bounding box center) of the buildings. Answer with two numbers joined by 'and' in ascending order (x < y), e.g., '2 and 5'.\nTop-view image: <image>",
+    "answer": "1 and 2",
+    "images": [
+      "SpatialAct/data/images/architectural/spatial_relation/tsinghua_regions/region_006/top.png"
+    ]
+  },
+  {
+    "task_type": "top_closest",
+    "question": "Which two buildings are closest to each other? Object positions are determined by the center points (bounding box center) of the buildings. Answer with two numbers joined by 'and' in ascending order (x < y), e.g., '2 and 5'.\nTop-view image: <image>",
+    "answer": "1 and 9",
+    "images": [
+      "SpatialAct/data/images/architectural/spatial_relation/tsinghua_regions/region_041/top.png"
+    ]
+  },
+  {
+    "task_type": "top_closest",
+    "question": "Which two buildings are closest to each other? Object positions are determined by the center points (bounding box center) of the buildings. Answer with two numbers joined by 'and' in ascending order (x < y), e.g., '2 and 5'.\nTop-view image: <image>",
+    "answer": "2 and 3",
+    "images": [
+      "SpatialAct/data/images/architectural/spatial_relation/tianhe_regions/region_037/top.png"
+    ]
+  },
+  {
+    "task_type": "top_closest",
+    "question": "Which two buildings are closest to each other? Object positions are determined by the center points (bounding box center) of the buildings. Answer with two numbers joined by 'and' in ascending order (x < y), e.g., '2 and 5'.\nTop-view image: <image>",
+    "answer": "8 and 9",
+    "images": [
+      "SpatialAct/data/images/architectural/spatial_relation/tsinghua_regions/region_016/top.png"
+    ]
+  },
+  {
+    "task_type": "top_closest",
+    "question": "Which two buildings are closest to each other? Object positions are determined by the center points (bounding box center) of the buildings. Answer with two numbers joined by 'and' in ascending order (x < y), e.g., '2 and 5'.\nTop-view image: <image>",
+    "answer": "2 and 3",
+    "images": [
+      "SpatialAct/data/images/architectural/spatial_relation/tsinghua_regions/region_013/top.png"
+    ]
+  },
+  {
+    "task_type": "top_closest",
+    "question": "Which two buildings are closest to each other? Object positions are determined by the center points (bounding box center) of the buildings. Answer with two numbers joined by 'and' in ascending order (x < y), e.g., '2 and 5'.\nTop-view image: <image>",
+    "answer": "1 and 2",
+    "images": [
+      "SpatialAct/data/images/architectural/spatial_relation/nansha_regions/region_151/top.png"
+    ]
+  },
+  {
+    "task_type": "top_closest",
+    "question": "Which two buildings are closest to each other? Object positions are determined by the center points (bounding box center) of the buildings. Answer with two numbers joined by 'and' in ascending order (x < y), e.g., '2 and 5'.\nTop-view image: <image>",
+    "answer": "3 and 7",
+    "images": [
+      "SpatialAct/data/images/architectural/spatial_relation/tsinghua_regions/region_047/top.png"
+    ]
+  },
+  {
+    "task_type": "top_closest",
+    "question": "Which two buildings are closest to each other? Object positions are determined by the center points (bounding box center) of the buildings. Answer with two numbers joined by 'and' in ascending order (x < y), e.g., '2 and 5'.\nTop-view image: <image>",
+    "answer": "1 and 2",
+    "images": [
+      "SpatialAct/data/images/architectural/spatial_relation/tianhe_regions/region_038/top.png"
+    ]
+  },
+  {
+    "task_type": "top_closest",
+    "question": "Which two buildings are closest to each other? Object positions are determined by the center points (bounding box center) of the buildings. Answer with two numbers joined by 'and' in ascending order (x < y), e.g., '2 and 5'.\nTop-view image: <image>",
+    "answer": "3 and 4",
+    "images": [
+      "SpatialAct/data/images/architectural/spatial_relation/tianhe_regions/region_052/top.png"
+    ]
+  },
+  {
+    "task_type": "top_closest",
+    "question": "Which two buildings are closest to each other? Object positions are determined by the center points (bounding box center) of the buildings. Answer with two numbers joined by 'and' in ascending order (x < y), e.g., '2 and 5'.\nTop-view image: <image>",
+    "answer": "2 and 11",
+    "images": [
+      "SpatialAct/data/images/architectural/spatial_relation/tsinghua_regions/region_039/top.png"
+    ]
+  },
+  {
+    "task_type": "top_closest",
+    "question": "Which two buildings are closest to each other? Object positions are determined by the center points (bounding box center) of the buildings. Answer with two numbers joined by 'and' in ascending order (x < y), e.g., '2 and 5'.\nTop-view image: <image>",
+    "answer": "3 and 5",
+    "images": [
+      "SpatialAct/data/images/architectural/spatial_relation/tianhe_regions/region_041/top.png"
+    ]
+  },
+  {
+    "task_type": "top_closest",
+    "question": "Which two buildings are closest to each other? Object positions are determined by the center points (bounding box center) of the buildings. Answer with two numbers joined by 'and' in ascending order (x < y), e.g., '2 and 5'.\nTop-view image: <image>",
+    "answer": "6 and 7",
+    "images": [
+      "SpatialAct/data/images/architectural/spatial_relation/nansha_regions/region_065/top.png"
+    ]
+  },
+  {
+    "task_type": "top_closest",
+    "question": "Which two buildings are closest to each other? Object positions are determined by the center points (bounding box center) of the buildings. Answer with two numbers joined by 'and' in ascending order (x < y), e.g., '2 and 5'.\nTop-view image: <image>",
+    "answer": "4 and 5",
+    "images": [
+      "SpatialAct/data/images/architectural/spatial_relation/nansha_regions/region_060/top.png"
+    ]
+  },
+  {
+    "task_type": "top_closest",
+    "question": "Which two buildings are closest to each other? Object positions are determined by the center points (bounding box center) of the buildings. Answer with two numbers joined by 'and' in ascending order (x < y), e.g., '2 and 5'.\nTop-view image: <image>",
+    "answer": "3 and 5",
+    "images": [
+      "SpatialAct/data/images/architectural/spatial_relation/nansha_regions/region_149/top.png"
+    ]
+  },
+  {
+    "task_type": "top_closest",
+    "question": "Which two buildings are closest to each other? Object positions are determined by the center points (bounding box center) of the buildings. Answer with two numbers joined by 'and' in ascending order (x < y), e.g., '2 and 5'.\nTop-view image: <image>",
+    "answer": "10 and 12",
+    "images": [
+      "SpatialAct/data/images/architectural/spatial_relation/tsinghua_regions/region_027/top.png"
+    ]
+  },
+  {
+    "task_type": "top_closest",
+    "question": "Which two buildings are closest to each other? Object positions are determined by the center points (bounding box center) of the buildings. Answer with two numbers joined by 'and' in ascending order (x < y), e.g., '2 and 5'.\nTop-view image: <image>",
+    "answer": "7 and 8",
+    "images": [
+      "SpatialAct/data/images/architectural/spatial_relation/tsinghua_regions/region_009/top.png"
+    ]
+  },
+  {
+    "task_type": "top_closest",
+    "question": "Which two buildings are closest to each other? Object positions are determined by the center points (bounding box center) of the buildings. Answer with two numbers joined by 'and' in ascending order (x < y), e.g., '2 and 5'.\nTop-view image: <image>",
+    "answer": "1 and 2",
+    "images": [
+      "SpatialAct/data/images/architectural/spatial_relation/tianhe_regions/region_035/top.png"
+    ]
+  },
+  {
+    "task_type": "top_closest",
+    "question": "Which two buildings are closest to each other? Object positions are determined by the center points (bounding box center) of the buildings. Answer with two numbers joined by 'and' in ascending order (x < y), e.g., '2 and 5'.\nTop-view image: <image>",
+    "answer": "1 and 2",
+    "images": [
+      "SpatialAct/data/images/architectural/spatial_relation/nansha_regions/region_036/top.png"
+    ]
+  },
+  {
+    "task_type": "top_closest",
+    "question": "Which two buildings are closest to each other? Object positions are determined by the center points (bounding box center) of the buildings. Answer with two numbers joined by 'and' in ascending order (x < y), e.g., '2 and 5'.\nTop-view image: <image>",
+    "answer": "1 and 8",
+    "images": [
+      "SpatialAct/data/images/architectural/spatial_relation/nansha_regions/region_122/top.png"
+    ]
+  },
+  {
+    "task_type": "top_closest",
+    "question": "Which two buildings are closest to each other? Object positions are determined by the center points (bounding box center) of the buildings. Answer with two numbers joined by 'and' in ascending order (x < y), e.g., '2 and 5'.\nTop-view image: <image>",
+    "answer": "2 and 6",
+    "images": [
+      "SpatialAct/data/images/architectural/spatial_relation/nansha_regions/region_031/top.png"
+    ]
+  },
+  {
+    "task_type": "top_closest",
+    "question": "Which two buildings are closest to each other? Object positions are determined by the center points (bounding box center) of the buildings. Answer with two numbers joined by 'and' in ascending order (x < y), e.g., '2 and 5'.\nTop-view image: <image>",
+    "answer": "3 and 4",
+    "images": [
+      "SpatialAct/data/images/architectural/spatial_relation/nansha_regions/region_015/top.png"
+    ]
+  },
+  {
+    "task_type": "top_closest",
+    "question": "Which two buildings are closest to each other? Object positions are determined by the center points (bounding box center) of the buildings. Answer with two numbers joined by 'and' in ascending order (x < y), e.g., '2 and 5'.\nTop-view image: <image>",
+    "answer": "4 and 8",
+    "images": [
+      "SpatialAct/data/images/architectural/spatial_relation/tsinghua_regions/region_044/top.png"
+    ]
+  },
+  {
+    "task_type": "top_closest",
+    "question": "Which two buildings are closest to each other? Object positions are determined by the center points (bounding box center) of the buildings. Answer with two numbers joined by 'and' in ascending order (x < y), e.g., '2 and 5'.\nTop-view image: <image>",
+    "answer": "2 and 3",
+    "images": [
+      "SpatialAct/data/images/architectural/spatial_relation/nansha_regions/region_145/top.png"
+    ]
+  },
+  {
+    "task_type": "top_closest",
+    "question": "Which two buildings are closest to each other? Object positions are determined by the center points (bounding box center) of the buildings. Answer with two numbers joined by 'and' in ascending order (x < y), e.g., '2 and 5'.\nTop-view image: <image>",
+    "answer": "2 and 6",
+    "images": [
+      "SpatialAct/data/images/architectural/spatial_relation/nansha_regions/region_014/top.png"
+    ]
+  },
+  {
+    "task_type": "top_closest",
+    "question": "Which two buildings are closest to each other? Object positions are determined by the center points (bounding box center) of the buildings. Answer with two numbers joined by 'and' in ascending order (x < y), e.g., '2 and 5'.\nTop-view image: <image>",
+    "answer": "4 and 5",
+    "images": [
+      "SpatialAct/data/images/architectural/spatial_relation/tianhe_regions/region_045/top.png"
+    ]
+  },
+  {
+    "task_type": "top_closest",
+    "question": "Which two buildings are closest to each other? Object positions are determined by the center points (bounding box center) of the buildings. Answer with two numbers joined by 'and' in ascending order (x < y), e.g., '2 and 5'.\nTop-view image: <image>",
+    "answer": "2 and 5",
+    "images": [
+      "SpatialAct/data/images/architectural/spatial_relation/nansha_regions/region_043/top.png"
+    ]
+  },
+  {
+    "task_type": "top_closest",
+    "question": "Which two buildings are closest to each other? Object positions are determined by the center points (bounding box center) of the buildings. Answer with two numbers joined by 'and' in ascending order (x < y), e.g., '2 and 5'.\nTop-view image: <image>",
+    "answer": "3 and 11",
+    "images": [
+      "SpatialAct/data/images/architectural/spatial_relation/nansha_regions/region_107/top.png"
+    ]
+  },
+  {
+    "task_type": "top_direction",
+    "question": "In this top-view image: top is North, bottom is South, left is West, right is East. Direction is determined by comparing the center points (bounding box center) of the buildings. Which side is building 4 relative to building 2?\nTop-view image: <image>A. southwest\nB. north\nC. east\nD. northwest\nChoose one option from A, B, C, D.",
+    "answer": "C",
+    "images": [
+      "SpatialAct/data/images/architectural/spatial_relation/nansha_regions/region_128/top.png"
+    ]
+  },
+  {
+    "task_type": "top_direction",
+    "question": "In this top-view image: top is North, bottom is South, left is West, right is East. Direction is determined by comparing the center points (bounding box center) of the buildings. Which side is building 2 relative to building 1?\nTop-view image: <image>A. southwest\nB. east\nC. south\nD. northwest\nChoose one option from A, B, C, D.",
+    "answer": "D",
+    "images": [
+      "SpatialAct/data/images/architectural/spatial_relation/nansha_regions/region_107/top.png"
+    ]
+  },
+  {
+    "task_type": "top_direction",
+    "question": "In this top-view image: top is North, bottom is South, left is West, right is East. Direction is determined by comparing the center points (bounding box center) of the buildings. Which side is building 2 relative to building 4?\nTop-view image: <image>A. southeast\nB. west\nC. northwest\nD. northeast\nChoose one option from A, B, C, D.",
+    "answer": "D",
+    "images": [
+      "SpatialAct/data/images/architectural/spatial_relation/nansha_regions/region_151/top.png"
+    ]
+  },
+  {
+    "task_type": "top_direction",
+    "question": "In this top-view image: top is North, bottom is South, left is West, right is East. Direction is determined by comparing the center points (bounding box center) of the buildings. Which side is building 2 relative to building 3?\nTop-view image: <image>A. northeast\nB. east\nC. southwest\nD. northwest\nChoose one option from A, B, C, D.",
+    "answer": "D",
+    "images": [
+      "SpatialAct/data/images/architectural/spatial_relation/tsinghua_regions/region_013/top.png"
+    ]
+  },
+  {
+    "task_type": "top_direction",
+    "question": "In this top-view image: top is North, bottom is South, left is West, right is East. Direction is determined by comparing the center points (bounding box center) of the buildings. Which side is building 3 relative to building 9?\nTop-view image: <image>A. northeast\nB. north\nC. northwest\nD. south\nChoose one option from A, B, C, D.",
+    "answer": "D",
+    "images": [
+      "SpatialAct/data/images/architectural/spatial_relation/nansha_regions/region_143/top.png"
+    ]
+  },
+  {
+    "task_type": "top_direction",
+    "question": "In this top-view image: top is North, bottom is South, left is West, right is East. Direction is determined by comparing the center points (bounding box center) of the buildings. Which side is building 3 relative to building 4?\nTop-view image: <image>A. east\nB. south\nC. northwest\nD. north\nChoose one option from A, B, C, D.",
+    "answer": "B",
+    "images": [
+      "SpatialAct/data/images/architectural/spatial_relation/tsinghua_regions/region_026/top.png"
+    ]
+  },
+  {
+    "task_type": "top_direction",
+    "question": "In this top-view image: top is North, bottom is South, left is West, right is East. Direction is determined by comparing the center points (bounding box center) of the buildings. Which side is building 8 relative to building 14?\nTop-view image: <image>A. southwest\nB. northeast\nC. northwest\nD. southeast\nChoose one option from A, B, C, D.",
+    "answer": "B",
+    "images": [
+      "SpatialAct/data/images/architectural/spatial_relation/nansha_regions/region_097/top.png"
+    ]
+  },
+  {
+    "task_type": "top_direction",
+    "question": "In this top-view image: top is North, bottom is South, left is West, right is East. Direction is determined by comparing the center points (bounding box center) of the buildings. Which side is building 1 relative to building 6?\nTop-view image: <image>A. southeast\nB. north\nC. northwest\nD. west\nChoose one option from A, B, C, D.",
+    "answer": "A",
+    "images": [
+      "SpatialAct/data/images/architectural/spatial_relation/nansha_regions/region_079/top.png"
+    ]
+  },
+  {
+    "task_type": "top_direction",
+    "question": "In this top-view image: top is North, bottom is South, left is West, right is East. Direction is determined by comparing the center points (bounding box center) of the buildings. Which side is building 5 relative to building 1?\nTop-view image: <image>A. south\nB. west\nC. east\nD. north\nChoose one option from A, B, C, D.",
+    "answer": "D",
+    "images": [
+      "SpatialAct/data/images/architectural/spatial_relation/tianhe_regions/region_027/top.png"
+    ]
+  },
+  {
+    "task_type": "top_direction",
+    "question": "In this top-view image: top is North, bottom is South, left is West, right is East. Direction is determined by comparing the center points (bounding box center) of the buildings. Which side is building 14 relative to building 7?\nTop-view image: <image>A. northeast\nB. west\nC. south\nD. southeast\nChoose one option from A, B, C, D.",
+    "answer": "B",
+    "images": [
+      "SpatialAct/data/images/architectural/spatial_relation/nansha_regions/region_093/top.png"
+    ]
+  },
+  {
+    "task_type": "top_direction",
+    "question": "In this top-view image: top is North, bottom is South, left is West, right is East. Direction is determined by comparing the center points (bounding box center) of the buildings. Which side is building 6 relative to building 1?\nTop-view image: <image>A. east\nB. northwest\nC. south\nD. northeast\nChoose one option from A, B, C, D.",
+    "answer": "C",
+    "images": [
+      "SpatialAct/data/images/architectural/spatial_relation/tsinghua_regions/region_001/top.png"
+    ]
+  },
+  {
+    "task_type": "top_direction",
+    "question": "In this top-view image: top is North, bottom is South, left is West, right is East. Direction is determined by comparing the center points (bounding box center) of the buildings. Which side is building 1 relative to building 5?\nTop-view image: <image>A. southeast\nB. southwest\nC. northeast\nD. north\nChoose one option from A, B, C, D.",
+    "answer": "A",
+    "images": [
+      "SpatialAct/data/images/architectural/spatial_relation/nansha_regions/region_141/top.png"
+    ]
+  },
+  {
+    "task_type": "top_direction",
+    "question": "In this top-view image: top is North, bottom is South, left is West, right is East. Direction is determined by comparing the center points (bounding box center) of the buildings. Which side is building 2 relative to building 3?\nTop-view image: <image>A. southeast\nB. southwest\nC. northeast\nD. northwest\nChoose one option from A, B, C, D.",
+    "answer": "D",
+    "images": [
+      "SpatialAct/data/images/architectural/spatial_relation/nansha_regions/region_080/top.png"
+    ]
+  },
+  {
+    "task_type": "top_direction",
+    "question": "In this top-view image: top is North, bottom is South, left is West, right is East. Direction is determined by comparing the center points (bounding box center) of the buildings. Which side is building 5 relative to building 1?\nTop-view image: <image>A. south\nB. southwest\nC. west\nD. east\nChoose one option from A, B, C, D.",
+    "answer": "D",
+    "images": [
+      "SpatialAct/data/images/architectural/spatial_relation/tianhe_regions/region_040/top.png"
+    ]
+  },
+  {
+    "task_type": "top_direction",
+    "question": "In this top-view image: top is North, bottom is South, left is West, right is East. Direction is determined by comparing the center points (bounding box center) of the buildings. Which side is building 9 relative to building 3?\nTop-view image: <image>A. northwest\nB. southwest\nC. south\nD. southeast\nChoose one option from A, B, C, D.",
+    "answer": "A",
+    "images": [
+      "SpatialAct/data/images/architectural/spatial_relation/nansha_regions/region_001/top.png"
+    ]
+  },
+  {
+    "task_type": "top_direction",
+    "question": "In this top-view image: top is North, bottom is South, left is West, right is East. Direction is determined by comparing the center points (bounding box center) of the buildings. Which side is building 4 relative to building 6?\nTop-view image: <image>A. south\nB. southwest\nC. east\nD. northwest\nChoose one option from A, B, C, D.",
+    "answer": "D",
+    "images": [
+      "SpatialAct/data/images/architectural/spatial_relation/nansha_regions/region_075/top.png"
+    ]
+  },
+  {
+    "task_type": "top_direction",
+    "question": "In this top-view image: top is North, bottom is South, left is West, right is East. Direction is determined by comparing the center points (bounding box center) of the buildings. Which side is building 7 relative to building 4?\nTop-view image: <image>A. southeast\nB. northwest\nC. north\nD. west\nChoose one option from A, B, C, D.",
+    "answer": "A",
+    "images": [
+      "SpatialAct/data/images/architectural/spatial_relation/nansha_regions/region_102/top.png"
+    ]
+  },
+  {
+    "task_type": "top_direction",
+    "question": "In this top-view image: top is North, bottom is South, left is West, right is East. Direction is determined by comparing the center points (bounding box center) of the buildings. Which side is building 3 relative to building 2?\nTop-view image: <image>A. southeast\nB. north\nC. east\nD. west\nChoose one option from A, B, C, D.",
+    "answer": "D",
+    "images": [
+      "SpatialAct/data/images/architectural/spatial_relation/tsinghua_regions/region_046/top.png"
+    ]
+  },
+  {
+    "task_type": "top_direction",
+    "question": "In this top-view image: top is North, bottom is South, left is West, right is East. Direction is determined by comparing the center points (bounding box center) of the buildings. Which side is building 3 relative to building 2?\nTop-view image: <image>A. southwest\nB. north\nC. southeast\nD. northeast\nChoose one option from A, B, C, D.",
+    "answer": "C",
+    "images": [
+      "SpatialAct/data/images/architectural/spatial_relation/tsinghua_regions/region_028/top.png"
+    ]
+  },
+  {
+    "task_type": "top_direction",
+    "question": "In this top-view image: top is North, bottom is South, left is West, right is East. Direction is determined by comparing the center points (bounding box center) of the buildings. Which side is building 8 relative to building 10?\nTop-view image: <image>A. south\nB. west\nC. southwest\nD. northeast\nChoose one option from A, B, C, D.",
+    "answer": "D",
+    "images": [
+      "SpatialAct/data/images/architectural/spatial_relation/nansha_regions/region_124/top.png"
+    ]
+  },
+  {
+    "task_type": "top_direction",
+    "question": "In this top-view image: top is North, bottom is South, left is West, right is East. Direction is determined by comparing the center points (bounding box center) of the buildings. Which side is building 1 relative to building 10?\nTop-view image: <image>A. east\nB. west\nC. north\nD. south\nChoose one option from A, B, C, D.",
+    "answer": "D",
+    "images": [
+      "SpatialAct/data/images/architectural/spatial_relation/tsinghua_regions/region_032/top.png"
+    ]
+  },
+  {
+    "task_type": "top_direction",
+    "question": "In this top-view image: top is North, bottom is South, left is West, right is East. Direction is determined by comparing the center points (bounding box center) of the buildings. Which side is building 6 relative to building 10?\nTop-view image: <image>A. south\nB. east\nC. southwest\nD. north\nChoose one option from A, B, C, D.",
+    "answer": "B",
+    "images": [
+      "SpatialAct/data/images/architectural/spatial_relation/nansha_regions/region_010/top.png"
+    ]
+  },
+  {
+    "task_type": "top_direction",
+    "question": "In this top-view image: top is North, bottom is South, left is West, right is East. Direction is determined by comparing the center points (bounding box center) of the buildings. Which side is building 2 relative to building 1?\nTop-view image: <image>A. northwest\nB. southwest\nC. north\nD. southeast\nChoose one option from A, B, C, D.",
+    "answer": "D",
+    "images": [
+      "SpatialAct/data/images/architectural/spatial_relation/nansha_regions/region_129/top.png"
+    ]
+  },
+  {
+    "task_type": "top_direction",
+    "question": "In this top-view image: top is North, bottom is South, left is West, right is East. Direction is determined by comparing the center points (bounding box center) of the buildings. Which side is building 3 relative to building 2?\nTop-view image: <image>A. north\nB. west\nC. southeast\nD. northeast\nChoose one option from A, B, C, D.",
+    "answer": "C",
+    "images": [
+      "SpatialAct/data/images/architectural/spatial_relation/tsinghua_regions/region_055/top.png"
+    ]
+  },
+  {
+    "task_type": "top_direction",
+    "question": "In this top-view image: top is North, bottom is South, left is West, right is East. Direction is determined by comparing the center points (bounding box center) of the buildings. Which side is building 2 relative to building 4?\nTop-view image: <image>A. southwest\nB. northeast\nC. northwest\nD. south\nChoose one option from A, B, C, D.",
+    "answer": "B",
+    "images": [
+      "SpatialAct/data/images/architectural/spatial_relation/nansha_regions/region_028/top.png"
+    ]
+  },
+  {
+    "task_type": "top_direction",
+    "question": "In this top-view image: top is North, bottom is South, left is West, right is East. Direction is determined by comparing the center points (bounding box center) of the buildings. Which side is building 7 relative to building 3?\nTop-view image: <image>A. southeast\nB. northwest\nC. northeast\nD. southwest\nChoose one option from A, B, C, D.",
+    "answer": "D",
+    "images": [
+      "SpatialAct/data/images/architectural/spatial_relation/tianhe_regions/region_035/top.png"
+    ]
+  },
+  {
+    "task_type": "top_direction",
+    "question": "In this top-view image: top is North, bottom is South, left is West, right is East. Direction is determined by comparing the center points (bounding box center) of the buildings. Which side is building 1 relative to building 3?\nTop-view image: <image>A. west\nB. north\nC. southeast\nD. east\nChoose one option from A, B, C, D.",
+    "answer": "A",
+    "images": [
+      "SpatialAct/data/images/architectural/spatial_relation/tianhe_regions/region_005/top.png"
+    ]
+  },
+  {
+    "task_type": "top_direction",
+    "question": "In this top-view image: top is North, bottom is South, left is West, right is East. Direction is determined by comparing the center points (bounding box center) of the buildings. Which side is building 2 relative to building 8?\nTop-view image: <image>A. north\nB. southwest\nC. south\nD. east\nChoose one option from A, B, C, D.",
+    "answer": "A",
+    "images": [
+      "SpatialAct/data/images/architectural/spatial_relation/tsinghua_regions/region_044/top.png"
+    ]
+  },
+  {
+    "task_type": "top_direction",
+    "question": "In this top-view image: top is North, bottom is South, left is West, right is East. Direction is determined by comparing the center points (bounding box center) of the buildings. Which side is building 2 relative to building 1?\nTop-view image: <image>A. east\nB. north\nC. south\nD. west\nChoose one option from A, B, C, D.",
+    "answer": "C",
+    "images": [
+      "SpatialAct/data/images/architectural/spatial_relation/nansha_regions/region_116/top.png"
+    ]
+  },
+  {
+    "task_type": "top_direction",
+    "question": "In this top-view image: top is North, bottom is South, left is West, right is East. Direction is determined by comparing the center points (bounding box center) of the buildings. Which side is building 10 relative to building 1?\nTop-view image: <image>A. east\nB. north\nC. northeast\nD. south\nChoose one option from A, B, C, D.",
+    "answer": "D",
+    "images": [
+      "SpatialAct/data/images/architectural/spatial_relation/tianhe_regions/region_033/top.png"
+    ]
+  },
+  {
+    "task_type": "top_direction",
+    "question": "In this top-view image: top is North, bottom is South, left is West, right is East. Direction is determined by comparing the center points (bounding box center) of the buildings. Which side is building 1 relative to building 6?\nTop-view image: <image>A. north\nB. northwest\nC. south\nD. east\nChoose one option from A, B, C, D.",
+    "answer": "C",
+    "images": [
+      "SpatialAct/data/images/architectural/spatial_relation/tsinghua_regions/region_047/top.png"
+    ]
+  },
+  {
+    "task_type": "top_farthest",
+    "question": "Which building is farthest from building 6? Object positions are determined by the center points (bounding box center) of the buildings. Answer with one number.\nTop-view image: <image>",
+    "answer": "2",
+    "images": [
+      "SpatialAct/data/images/architectural/spatial_relation/nansha_regions/region_072/top.png"
+    ]
+  },
+  {
+    "task_type": "top_farthest",
+    "question": "Which building is farthest from building 7? Object positions are determined by the center points (bounding box center) of the buildings. Answer with one number.\nTop-view image: <image>",
+    "answer": "2",
+    "images": [
+      "SpatialAct/data/images/architectural/spatial_relation/nansha_regions/region_102/top.png"
+    ]
+  },
+  {
+    "task_type": "top_farthest",
+    "question": "Which building is farthest from building 1? Object positions are determined by the center points (bounding box center) of the buildings. Answer with one number.\nTop-view image: <image>",
+    "answer": "4",
+    "images": [
+      "SpatialAct/data/images/architectural/spatial_relation/tsinghua_regions/region_003/top.png"
+    ]
+  },
+  {
+    "task_type": "top_farthest",
+    "question": "Which building is farthest from building 9? Object positions are determined by the center points (bounding box center) of the buildings. Answer with one number.\nTop-view image: <image>",
+    "answer": "11",
+    "images": [
+      "SpatialAct/data/images/architectural/spatial_relation/nansha_regions/region_039/top.png"
+    ]
+  },
+  {
+    "task_type": "top_farthest",
+    "question": "Which building is farthest from building 1? Object positions are determined by the center points (bounding box center) of the buildings. Answer with one number.\nTop-view image: <image>",
+    "answer": "12",
+    "images": [
+      "SpatialAct/data/images/architectural/spatial_relation/tsinghua_regions/region_033/top.png"
+    ]
+  },
+  {
+    "task_type": "top_farthest",
+    "question": "Which building is farthest from building 4? Object positions are determined by the center points (bounding box center) of the buildings. Answer with one number.\nTop-view image: <image>",
+    "answer": "1",
+    "images": [
+      "SpatialAct/data/images/architectural/spatial_relation/tsinghua_regions/region_041/top.png"
+    ]
+  },
+  {
+    "task_type": "top_farthest",
+    "question": "Which building is farthest from building 5? Object positions are determined by the center points (bounding box center) of the buildings. Answer with one number.\nTop-view image: <image>",
+    "answer": "13",
+    "images": [
+      "SpatialAct/data/images/architectural/spatial_relation/tianhe_regions/region_007/top.png"
+    ]
+  },
+  {
+    "task_type": "top_farthest",
+    "question": "Which building is farthest from building 1? Object positions are determined by the center points (bounding box center) of the buildings. Answer with one number.\nTop-view image: <image>",
+    "answer": "2",
+    "images": [
+      "SpatialAct/data/images/architectural/spatial_relation/nansha_regions/region_077/top.png"
+    ]
+  },
+  {
+    "task_type": "top_farthest",
+    "question": "Which building is farthest from building 7? Object positions are determined by the center points (bounding box center) of the buildings. Answer with one number.\nTop-view image: <image>",
+    "answer": "2",
+    "images": [
+      "SpatialAct/data/images/architectural/spatial_relation/nansha_regions/region_008/top.png"
+    ]
+  },
+  {
+    "task_type": "top_farthest",
+    "question": "Which building is farthest from building 5? Object positions are determined by the center points (bounding box center) of the buildings. Answer with one number.\nTop-view image: <image>",
+    "answer": "14",
+    "images": [
+      "SpatialAct/data/images/architectural/spatial_relation/nansha_regions/region_093/top.png"
+    ]
+  },
+  {
+    "task_type": "top_farthest",
+    "question": "Which building is farthest from building 1? Object positions are determined by the center points (bounding box center) of the buildings. Answer with one number.\nTop-view image: <image>",
+    "answer": "3",
+    "images": [
+      "SpatialAct/data/images/architectural/spatial_relation/tsinghua_regions/region_028/top.png"
+    ]
+  },
+  {
+    "task_type": "top_farthest",
+    "question": "Which building is farthest from building 7? Object positions are determined by the center points (bounding box center) of the buildings. Answer with one number.\nTop-view image: <image>",
+    "answer": "2",
+    "images": [
+      "SpatialAct/data/images/architectural/spatial_relation/tianhe_regions/region_035/top.png"
+    ]
+  },
+  {
+    "task_type": "top_farthest",
+    "question": "Which building is farthest from building 6? Object positions are determined by the center points (bounding box center) of the buildings. Answer with one number.\nTop-view image: <image>",
+    "answer": "5",
+    "images": [
+      "SpatialAct/data/images/architectural/spatial_relation/nansha_regions/region_079/top.png"
+    ]
+  },
+  {
+    "task_type": "top_farthest",
+    "question": "Which building is farthest from building 6? Object positions are determined by the center points (bounding box center) of the buildings. Answer with one number.\nTop-view image: <image>",
+    "answer": "13",
+    "images": [
+      "SpatialAct/data/images/architectural/spatial_relation/tianhe_regions/region_016/top.png"
+    ]
+  },
+  {
+    "task_type": "top_farthest",
+    "question": "Which building is farthest from building 11? Object positions are determined by the center points (bounding box center) of the buildings. Answer with one number.\nTop-view image: <image>",
+    "answer": "12",
+    "images": [
+      "SpatialAct/data/images/architectural/spatial_relation/nansha_regions/region_054/top.png"
+    ]
+  },
+  {
+    "task_type": "top_farthest",
+    "question": "Which building is farthest from building 4? Object positions are determined by the center points (bounding box center) of the buildings. Answer with one number.\nTop-view image: <image>",
+    "answer": "1",
+    "images": [
+      "SpatialAct/data/images/architectural/spatial_relation/tianhe_regions/region_023/top.png"
+    ]
+  },
+  {
+    "task_type": "top_farthest",
+    "question": "Which building is farthest from building 2? Object positions are determined by the center points (bounding box center) of the buildings. Answer with one number.\nTop-view image: <image>",
+    "answer": "1",
+    "images": [
+      "SpatialAct/data/images/architectural/spatial_relation/nansha_regions/region_126/top.png"
+    ]
+  },
+  {
+    "task_type": "top_farthest",
+    "question": "Which building is farthest from building 11? Object positions are determined by the center points (bounding box center) of the buildings. Answer with one number.\nTop-view image: <image>",
+    "answer": "10",
+    "images": [
+      "SpatialAct/data/images/architectural/spatial_relation/tsinghua_regions/region_046/top.png"
+    ]
+  },
+  {
+    "task_type": "top_farthest",
+    "question": "Which building is farthest from building 3? Object positions are determined by the center points (bounding box center) of the buildings. Answer with one number.\nTop-view image: <image>",
+    "answer": "9",
+    "images": [
+      "SpatialAct/data/images/architectural/spatial_relation/tsinghua_regions/region_020/top.png"
+    ]
+  },
+  {
+    "task_type": "top_farthest",
+    "question": "Which building is farthest from building 6? Object positions are determined by the center points (bounding box center) of the buildings. Answer with one number.\nTop-view image: <image>",
+    "answer": "5",
+    "images": [
+      "SpatialAct/data/images/architectural/spatial_relation/nansha_regions/region_117/top.png"
+    ]
+  },
+  {
+    "task_type": "top_farthest",
+    "question": "Which building is farthest from building 5? Object positions are determined by the center points (bounding box center) of the buildings. Answer with one number.\nTop-view image: <image>",
+    "answer": "2",
+    "images": [
+      "SpatialAct/data/images/architectural/spatial_relation/nansha_regions/region_119/top.png"
+    ]
+  },
+  {
+    "task_type": "top_farthest",
+    "question": "Which building is farthest from building 2? Object positions are determined by the center points (bounding box center) of the buildings. Answer with one number.\nTop-view image: <image>",
+    "answer": "1",
+    "images": [
+      "SpatialAct/data/images/architectural/spatial_relation/nansha_regions/region_047/top.png"
+    ]
+  },
+  {
+    "task_type": "top_farthest",
+    "question": "Which building is farthest from building 3? Object positions are determined by the center points (bounding box center) of the buildings. Answer with one number.\nTop-view image: <image>",
+    "answer": "2",
+    "images": [
+      "SpatialAct/data/images/architectural/spatial_relation/nansha_regions/region_018/top.png"
+    ]
+  },
+  {
+    "task_type": "top_farthest",
+    "question": "Which building is farthest from building 5? Object positions are determined by the center points (bounding box center) of the buildings. Answer with one number.\nTop-view image: <image>",
+    "answer": "11",
+    "images": [
+      "SpatialAct/data/images/architectural/spatial_relation/nansha_regions/region_143/top.png"
+    ]
+  },
+  {
+    "task_type": "top_farthest",
+    "question": "Which building is farthest from building 8? Object positions are determined by the center points (bounding box center) of the buildings. Answer with one number.\nTop-view image: <image>",
+    "answer": "7",
+    "images": [
+      "SpatialAct/data/images/architectural/spatial_relation/nansha_regions/region_107/top.png"
+    ]
+  },
+  {
+    "task_type": "top_farthest",
+    "question": "Which building is farthest from building 2? Object positions are determined by the center points (bounding box center) of the buildings. Answer with one number.\nTop-view image: <image>",
+    "answer": "1",
+    "images": [
+      "SpatialAct/data/images/architectural/spatial_relation/tsinghua_regions/region_049/top.png"
+    ]
+  },
+  {
+    "task_type": "top_farthest",
+    "question": "Which building is farthest from building 3? Object positions are determined by the center points (bounding box center) of the buildings. Answer with one number.\nTop-view image: <image>",
+    "answer": "6",
+    "images": [
+      "SpatialAct/data/images/architectural/spatial_relation/tianhe_regions/region_038/top.png"
+    ]
+  },
+  {
+    "task_type": "top_farthest",
+    "question": "Which building is farthest from building 2? Object positions are determined by the center points (bounding box center) of the buildings. Answer with one number.\nTop-view image: <image>",
+    "answer": "1",
+    "images": [
+      "SpatialAct/data/images/architectural/spatial_relation/nansha_regions/region_030/top.png"
+    ]
+  },
+  {
+    "task_type": "top_farthest",
+    "question": "Which building is farthest from building 1? Object positions are determined by the center points (bounding box center) of the buildings. Answer with one number.\nTop-view image: <image>",
+    "answer": "6",
+    "images": [
+      "SpatialAct/data/images/architectural/spatial_relation/nansha_regions/region_124/top.png"
+    ]
+  },
+  {
+    "task_type": "top_farthest",
+    "question": "Which building is farthest from building 9? Object positions are determined by the center points (bounding box center) of the buildings. Answer with one number.\nTop-view image: <image>",
+    "answer": "12",
+    "images": [
+      "SpatialAct/data/images/architectural/spatial_relation/tsinghua_regions/region_027/top.png"
+    ]
+  },
+  {
+    "task_type": "top_farthest",
+    "question": "Which building is farthest from building 8? Object positions are determined by the center points (bounding box center) of the buildings. Answer with one number.\nTop-view image: <image>",
+    "answer": "7",
+    "images": [
+      "SpatialAct/data/images/architectural/spatial_relation/nansha_regions/region_059/top.png"
+    ]
+  },
+  {
+    "task_type": "top_side_count",
+    "question": "In this top-view image: top is North, bottom is South, left is West, right is East. Direction is determined by comparing the center points (bounding box center) of the buildings. A building can be on multiple sides at once (e.g., northwest counts as both north and west).\nHow many buildings are on the north side of building 4? Answer with one number.\nTop-view image: <image>",
+    "answer": "6",
+    "images": [
+      "SpatialAct/data/images/architectural/spatial_relation/tsinghua_regions/region_053/top.png"
+    ]
+  },
+  {
+    "task_type": "top_side_count",
+    "question": "In this top-view image: top is North, bottom is South, left is West, right is East. Direction is determined by comparing the center points (bounding box center) of the buildings. A building can be on multiple sides at once (e.g., northwest counts as both north and west).\nHow many buildings are on the south side of building 7? Answer with one number.\nTop-view image: <image>",
+    "answer": "5",
+    "images": [
+      "SpatialAct/data/images/architectural/spatial_relation/tsinghua_regions/region_025/top.png"
+    ]
+  },
+  {
+    "task_type": "top_side_count",
+    "question": "In this top-view image: top is North, bottom is South, left is West, right is East. Direction is determined by comparing the center points (bounding box center) of the buildings. A building can be on multiple sides at once (e.g., northwest counts as both north and west).\nHow many buildings are on the north side of building 3? Answer with one number.\nTop-view image: <image>",
+    "answer": "5",
+    "images": [
+      "SpatialAct/data/images/architectural/spatial_relation/nansha_regions/region_102/top.png"
+    ]
+  },
+  {
+    "task_type": "top_side_count",
+    "question": "In this top-view image: top is North, bottom is South, left is West, right is East. Direction is determined by comparing the center points (bounding box center) of the buildings. A building can be on multiple sides at once (e.g., northwest counts as both north and west).\nHow many buildings are on the north side of building 1? Answer with one number.\nTop-view image: <image>",
+    "answer": "3",
+    "images": [
+      "SpatialAct/data/images/architectural/spatial_relation/tianhe_regions/region_027/top.png"
+    ]
+  },
+  {
+    "task_type": "top_side_count",
+    "question": "In this top-view image: top is North, bottom is South, left is West, right is East. Direction is determined by comparing the center points (bounding box center) of the buildings. A building can be on multiple sides at once (e.g., northwest counts as both north and west).\nHow many buildings are on the south side of building 2? Answer with one number.\nTop-view image: <image>",
+    "answer": "1",
+    "images": [
+      "SpatialAct/data/images/architectural/spatial_relation/nansha_regions/region_111/top.png"
+    ]
+  },
+  {
+    "task_type": "top_side_count",
+    "question": "In this top-view image: top is North, bottom is South, left is West, right is East. Direction is determined by comparing the center points (bounding box center) of the buildings. A building can be on multiple sides at once (e.g., northwest counts as both north and west).\nHow many buildings are on the south side of building 2? Answer with one number.\nTop-view image: <image>",
+    "answer": "9",
+    "images": [
+      "SpatialAct/data/images/architectural/spatial_relation/nansha_regions/region_090/top.png"
+    ]
+  },
+  {
+    "task_type": "top_side_count",
+    "question": "In this top-view image: top is North, bottom is South, left is West, right is East. Direction is determined by comparing the center points (bounding box center) of the buildings. A building can be on multiple sides at once (e.g., northwest counts as both north and west).\nHow many buildings are on the south side of building 5? Answer with one number.\nTop-view image: <image>",
+    "answer": "4",
+    "images": [
+      "SpatialAct/data/images/architectural/spatial_relation/nansha_regions/region_033/top.png"
+    ]
+  },
+  {
+    "task_type": "top_side_count",
+    "question": "In this top-view image: top is North, bottom is South, left is West, right is East. Direction is determined by comparing the center points (bounding box center) of the buildings. A building can be on multiple sides at once (e.g., northwest counts as both north and west).\nHow many buildings are on the west side of building 10? Answer with one number.\nTop-view image: <image>",
+    "answer": "7",
+    "images": [
+      "SpatialAct/data/images/architectural/spatial_relation/nansha_regions/region_107/top.png"
+    ]
+  },
+  {
+    "task_type": "top_side_count",
+    "question": "In this top-view image: top is North, bottom is South, left is West, right is East. Direction is determined by comparing the center points (bounding box center) of the buildings. A building can be on multiple sides at once (e.g., northwest counts as both north and west).\nHow many buildings are on the south side of building 5? Answer with one number.\nTop-view image: <image>",
+    "answer": "2",
+    "images": [
+      "SpatialAct/data/images/architectural/spatial_relation/nansha_regions/region_078/top.png"
+    ]
+  },
+  {
+    "task_type": "top_side_count",
+    "question": "In this top-view image: top is North, bottom is South, left is West, right is East. Direction is determined by comparing the center points (bounding box center) of the buildings. A building can be on multiple sides at once (e.g., northwest counts as both north and west).\nHow many buildings are on the south side of building 3? Answer with one number.\nTop-view image: <image>",
+    "answer": "0",
+    "images": [
+      "SpatialAct/data/images/architectural/spatial_relation/tianhe_regions/region_005/top.png"
+    ]
+  },
+  {
+    "task_type": "top_side_count",
+    "question": "In this top-view image: top is North, bottom is South, left is West, right is East. Direction is determined by comparing the center points (bounding box center) of the buildings. A building can be on multiple sides at once (e.g., northwest counts as both north and west).\nHow many buildings are on the south side of building 11? Answer with one number.\nTop-view image: <image>",
+    "answer": "1",
+    "images": [
+      "SpatialAct/data/images/architectural/spatial_relation/nansha_regions/region_010/top.png"
+    ]
+  },
+  {
+    "task_type": "top_side_count",
+    "question": "In this top-view image: top is North, bottom is South, left is West, right is East. Direction is determined by comparing the center points (bounding box center) of the buildings. A building can be on multiple sides at once (e.g., northwest counts as both north and west).\nHow many buildings are on the west side of building 2? Answer with one number.\nTop-view image: <image>",
+    "answer": "11",
+    "images": [
+      "SpatialAct/data/images/architectural/spatial_relation/nansha_regions/region_054/top.png"
+    ]
+  },
+  {
+    "task_type": "top_side_count",
+    "question": "In this top-view image: top is North, bottom is South, left is West, right is East. Direction is determined by comparing the center points (bounding box center) of the buildings. A building can be on multiple sides at once (e.g., northwest counts as both north and west).\nHow many buildings are on the south side of building 3? Answer with one number.\nTop-view image: <image>",
+    "answer": "4",
+    "images": [
+      "SpatialAct/data/images/architectural/spatial_relation/tsinghua_regions/region_012/top.png"
+    ]
+  },
+  {
+    "task_type": "top_side_count",
+    "question": "In this top-view image: top is North, bottom is South, left is West, right is East. Direction is determined by comparing the center points (bounding box center) of the buildings. A building can be on multiple sides at once (e.g., northwest counts as both north and west).\nHow many buildings are on the south side of building 10? Answer with one number.\nTop-view image: <image>",
+    "answer": "9",
+    "images": [
+      "SpatialAct/data/images/architectural/spatial_relation/nansha_regions/region_092/top.png"
+    ]
+  },
+  {
+    "task_type": "top_side_count",
+    "question": "In this top-view image: top is North, bottom is South, left is West, right is East. Direction is determined by comparing the center points (bounding box center) of the buildings. A building can be on multiple sides at once (e.g., northwest counts as both north and west).\nHow many buildings are on the east side of building 2? Answer with one number.\nTop-view image: <image>",
+    "answer": "1",
+    "images": [
+      "SpatialAct/data/images/architectural/spatial_relation/nansha_regions/region_106/top.png"
+    ]
+  },
+  {
+    "task_type": "top_side_count",
+    "question": "In this top-view image: top is North, bottom is South, left is West, right is East. Direction is determined by comparing the center points (bounding box center) of the buildings. A building can be on multiple sides at once (e.g., northwest counts as both north and west).\nHow many buildings are on the south side of building 2? Answer with one number.\nTop-view image: <image>",
+    "answer": "0",
+    "images": [
+      "SpatialAct/data/images/architectural/spatial_relation/nansha_regions/region_008/top.png"
+    ]
+  },
+  {
+    "task_type": "top_side_count",
+    "question": "In this top-view image: top is North, bottom is South, left is West, right is East. Direction is determined by comparing the center points (bounding box center) of the buildings. A building can be on multiple sides at once (e.g., northwest counts as both north and west).\nHow many buildings are on the south side of building 5? Answer with one number.\nTop-view image: <image>",
+    "answer": "0",
+    "images": [
+      "SpatialAct/data/images/architectural/spatial_relation/nansha_regions/region_032/top.png"
+    ]
+  },
+  {
+    "task_type": "top_side_count",
+    "question": "In this top-view image: top is North, bottom is South, left is West, right is East. Direction is determined by comparing the center points (bounding box center) of the buildings. A building can be on multiple sides at once (e.g., northwest counts as both north and west).\nHow many buildings are on the east side of building 4? Answer with one number.\nTop-view image: <image>",
+    "answer": "4",
+    "images": [
+      "SpatialAct/data/images/architectural/spatial_relation/tsinghua_regions/region_015/top.png"
+    ]
+  },
+  {
+    "task_type": "top_side_count",
+    "question": "In this top-view image: top is North, bottom is South, left is West, right is East. Direction is determined by comparing the center points (bounding box center) of the buildings. A building can be on multiple sides at once (e.g., northwest counts as both north and west).\nHow many buildings are on the east side of building 1? Answer with one number.\nTop-view image: <image>",
+    "answer": "1",
+    "images": [
+      "SpatialAct/data/images/architectural/spatial_relation/nansha_regions/region_080/top.png"
+    ]
+  },
+  {
+    "task_type": "top_side_count",
+    "question": "In this top-view image: top is North, bottom is South, left is West, right is East. Direction is determined by comparing the center points (bounding box center) of the buildings. A building can be on multiple sides at once (e.g., northwest counts as both north and west).\nHow many buildings are on the north side of building 10? Answer with one number.\nTop-view image: <image>",
+    "answer": "1",
+    "images": [
+      "SpatialAct/data/images/architectural/spatial_relation/nansha_regions/region_028/top.png"
+    ]
+  },
+  {
+    "task_type": "top_side_count",
+    "question": "In this top-view image: top is North, bottom is South, left is West, right is East. Direction is determined by comparing the center points (bounding box center) of the buildings. A building can be on multiple sides at once (e.g., northwest counts as both north and west).\nHow many buildings are on the east side of building 2? Answer with one number.\nTop-view image: <image>",
+    "answer": "10",
+    "images": [
+      "SpatialAct/data/images/architectural/spatial_relation/nansha_regions/region_093/top.png"
+    ]
+  },
+  {
+    "task_type": "top_side_count",
+    "question": "In this top-view image: top is North, bottom is South, left is West, right is East. Direction is determined by comparing the center points (bounding box center) of the buildings. A building can be on multiple sides at once (e.g., northwest counts as both north and west).\nHow many buildings are on the south side of building 4? Answer with one number.\nTop-view image: <image>",
+    "answer": "1",
+    "images": [
+      "SpatialAct/data/images/architectural/spatial_relation/nansha_regions/region_152/top.png"
+    ]
+  },
+  {
+    "task_type": "top_side_count",
+    "question": "In this top-view image: top is North, bottom is South, left is West, right is East. Direction is determined by comparing the center points (bounding box center) of the buildings. A building can be on multiple sides at once (e.g., northwest counts as both north and west).\nHow many buildings are on the east side of building 4? Answer with one number.\nTop-view image: <image>",
+    "answer": "0",
+    "images": [
+      "SpatialAct/data/images/architectural/spatial_relation/nansha_regions/region_076/top.png"
+    ]
+  },
+  {
+    "task_type": "top_side_count",
+    "question": "In this top-view image: top is North, bottom is South, left is West, right is East. Direction is determined by comparing the center points (bounding box center) of the buildings. A building can be on multiple sides at once (e.g., northwest counts as both north and west).\nHow many buildings are on the north side of building 2? Answer with one number.\nTop-view image: <image>",
+    "answer": "1",
+    "images": [
+      "SpatialAct/data/images/architectural/spatial_relation/tsinghua_regions/region_050/top.png"
+    ]
+  },
+  {
+    "task_type": "top_side_count",
+    "question": "In this top-view image: top is North, bottom is South, left is West, right is East. Direction is determined by comparing the center points (bounding box center) of the buildings. A building can be on multiple sides at once (e.g., northwest counts as both north and west).\nHow many buildings are on the west side of building 2? Answer with one number.\nTop-view image: <image>",
+    "answer": "2",
+    "images": [
+      "SpatialAct/data/images/architectural/spatial_relation/nansha_regions/region_126/top.png"
+    ]
+  },
+  {
+    "task_type": "top_side_count",
+    "question": "In this top-view image: top is North, bottom is South, left is West, right is East. Direction is determined by comparing the center points (bounding box center) of the buildings. A building can be on multiple sides at once (e.g., northwest counts as both north and west).\nHow many buildings are on the north side of building 2? Answer with one number.\nTop-view image: <image>",
+    "answer": "0",
+    "images": [
+      "SpatialAct/data/images/architectural/spatial_relation/nansha_regions/region_141/top.png"
+    ]
+  },
+  {
+    "task_type": "top_side_count",
+    "question": "In this top-view image: top is North, bottom is South, left is West, right is East. Direction is determined by comparing the center points (bounding box center) of the buildings. A building can be on multiple sides at once (e.g., northwest counts as both north and west).\nHow many buildings are on the north side of building 1? Answer with one number.\nTop-view image: <image>",
+    "answer": "0",
+    "images": [
+      "SpatialAct/data/images/architectural/spatial_relation/nansha_regions/region_144/top.png"
+    ]
+  },
+  {
+    "task_type": "top_side_count",
+    "question": "In this top-view image: top is North, bottom is South, left is West, right is East. Direction is determined by comparing the center points (bounding box center) of the buildings. A building can be on multiple sides at once (e.g., northwest counts as both north and west).\nHow many buildings are on the north side of building 5? Answer with one number.\nTop-view image: <image>",
+    "answer": "6",
+    "images": [
+      "SpatialAct/data/images/architectural/spatial_relation/nansha_regions/region_059/top.png"
+    ]
+  },
+  {
+    "task_type": "top_side_count",
+    "question": "In this top-view image: top is North, bottom is South, left is West, right is East. Direction is determined by comparing the center points (bounding box center) of the buildings. A building can be on multiple sides at once (e.g., northwest counts as both north and west).\nHow many buildings are on the north side of building 2? Answer with one number.\nTop-view image: <image>",
+    "answer": "7",
+    "images": [
+      "SpatialAct/data/images/architectural/spatial_relation/nansha_regions/region_118/top.png"
+    ]
+  },
+  {
+    "task_type": "top_side_count",
+    "question": "In this top-view image: top is North, bottom is South, left is West, right is East. Direction is determined by comparing the center points (bounding box center) of the buildings. A building can be on multiple sides at once (e.g., northwest counts as both north and west).\nHow many buildings are on the west side of building 6? Answer with one number.\nTop-view image: <image>",
+    "answer": "7",
+    "images": [
+      "SpatialAct/data/images/architectural/spatial_relation/nansha_regions/region_128/top.png"
+    ]
+  },
+  {
+    "task_type": "top_side_count",
+    "question": "In this top-view image: top is North, bottom is South, left is West, right is East. Direction is determined by comparing the center points (bounding box center) of the buildings. A building can be on multiple sides at once (e.g., northwest counts as both north and west).\nHow many buildings are on the north side of building 2? Answer with one number.\nTop-view image: <image>",
+    "answer": "0",
+    "images": [
+      "SpatialAct/data/images/architectural/spatial_relation/nansha_regions/region_130/top.png"
+    ]
+  },
+  {
+    "task_type": "isometric_side_count",
+    "question": "In this isometric image, the red arrow points to North. Direction is determined by comparing the center points (bounding box center) of the buildings. A building can be on multiple sides at once (e.g., northeast counts as both north and east).\nHow many buildings are on the south side of building 6? Answer with one number.\nIsometric image: <image>",
+    "answer": "5",
+    "images": [
+      "SpatialAct/data/images/architectural/spatial_relation/tianhe_regions/region_026/isometric.png"
+    ]
+  },
+  {
+    "task_type": "top_side_count",
+    "question": "In this top-view image: top is North, bottom is South, left is West, right is East. Direction is determined by comparing the center points (bounding box center) of the buildings. A building can be on multiple sides at once (e.g., northwest counts as both north and west).\nHow many buildings are on the north side of building 1? Answer with one number.\nTop-view image: <image>",
+    "answer": "3",
+    "images": [
+      "SpatialAct/data/images/architectural/spatial_relation/tianhe_regions/region_055/top.png"
+    ]
+  }
+]

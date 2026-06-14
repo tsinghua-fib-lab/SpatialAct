@@ -1,0 +1,802 @@
+[
+  {
+    "task_type": "isometric_closest",
+    "question": "Which two objects are closest to each other? Object positions are determined by the center points (bounding box center) of the buildings. Answer with two numbers joined by 'and' in ascending order (x < y), e.g., '2 and 5'.\nIsometric image: <image>\nChoose one option from A, B, C, D.",
+    "answer": "1 and 5",
+    "images": [
+      "SpatialAct/data/images/geometry/spatial_relation/v1.2/top_isometric/sample_046/isometric.png"
+    ]
+  },
+  {
+    "task_type": "isometric_closest",
+    "question": "Which two objects are closest to each other? Object positions are determined by the center points (bounding box center) of the buildings. Answer with two numbers joined by 'and' in ascending order (x < y), e.g., '2 and 5'.\nIsometric image: <image>\nChoose one option from A, B, C, D.",
+    "answer": "1 and 3",
+    "images": [
+      "SpatialAct/data/images/geometry/spatial_relation/v1.2/top_isometric/sample_061/isometric.png"
+    ]
+  },
+  {
+    "task_type": "isometric_closest",
+    "question": "Which two objects are closest to each other? Object positions are determined by the center points (bounding box center) of the buildings. Answer with two numbers joined by 'and' in ascending order (x < y), e.g., '2 and 5'.\nIsometric image: <image>\nChoose one option from A, B, C, D.",
+    "answer": "1 and 3",
+    "images": [
+      "SpatialAct/data/images/geometry/spatial_relation/v1.2/top_isometric/sample_044/isometric.png"
+    ]
+  },
+  {
+    "task_type": "isometric_closest",
+    "question": "Which two objects are closest to each other? Object positions are determined by the center points (bounding box center) of the buildings. Answer with two numbers joined by 'and' in ascending order (x < y), e.g., '2 and 5'.\nIsometric image: <image>\nChoose one option from A, B, C, D.",
+    "answer": "1 and 5",
+    "images": [
+      "SpatialAct/data/images/geometry/spatial_relation/v1.2/top_isometric/sample_057/isometric.png"
+    ]
+  },
+  {
+    "task_type": "isometric_closest",
+    "question": "Which two objects are closest to each other? Object positions are determined by the center points (bounding box center) of the buildings. Answer with two numbers joined by 'and' in ascending order (x < y), e.g., '2 and 5'.\nIsometric image: <image>\nChoose one option from A, B, C, D.",
+    "answer": "4 and 5",
+    "images": [
+      "SpatialAct/data/images/geometry/spatial_relation/v1.2/top_isometric/sample_081/isometric.png"
+    ]
+  },
+  {
+    "task_type": "isometric_closest",
+    "question": "Which two objects are closest to each other? Object positions are determined by the center points (bounding box center) of the buildings. Answer with two numbers joined by 'and' in ascending order (x < y), e.g., '2 and 5'.\nIsometric image: <image>\nChoose one option from A, B, C, D.",
+    "answer": "3 and 4",
+    "images": [
+      "SpatialAct/data/images/geometry/spatial_relation/v1.2/top_isometric/sample_067/isometric.png"
+    ]
+  },
+  {
+    "task_type": "isometric_closest",
+    "question": "Which two objects are closest to each other? Object positions are determined by the center points (bounding box center) of the buildings. Answer with two numbers joined by 'and' in ascending order (x < y), e.g., '2 and 5'.\nIsometric image: <image>\nChoose one option from A, B, C, D.",
+    "answer": "1 and 4",
+    "images": [
+      "SpatialAct/data/images/geometry/spatial_relation/v1.2/top_isometric/sample_077/isometric.png"
+    ]
+  },
+  {
+    "task_type": "isometric_closest",
+    "question": "Which two objects are closest to each other? Object positions are determined by the center points (bounding box center) of the buildings. Answer with two numbers joined by 'and' in ascending order (x < y), e.g., '2 and 5'.\nIsometric image: <image>\nChoose one option from A, B, C, D.",
+    "answer": "4 and 5",
+    "images": [
+      "SpatialAct/data/images/geometry/spatial_relation/v1.2/top_isometric/sample_071/isometric.png"
+    ]
+  },
+  {
+    "task_type": "isometric_closest",
+    "question": "Which two objects are closest to each other? Object positions are determined by the center points (bounding box center) of the buildings. Answer with two numbers joined by 'and' in ascending order (x < y), e.g., '2 and 5'.\nIsometric image: <image>\nChoose one option from A, B, C, D.",
+    "answer": "3 and 5",
+    "images": [
+      "SpatialAct/data/images/geometry/spatial_relation/v1.2/top_isometric/sample_034/isometric.png"
+    ]
+  },
+  {
+    "task_type": "isometric_closest",
+    "question": "Which two objects are closest to each other? Object positions are determined by the center points (bounding box center) of the buildings. Answer with two numbers joined by 'and' in ascending order (x < y), e.g., '2 and 5'.\nIsometric image: <image>\nChoose one option from A, B, C, D.",
+    "answer": "3 and 4",
+    "images": [
+      "SpatialAct/data/images/geometry/spatial_relation/v1.2/top_isometric/sample_080/isometric.png"
+    ]
+  },
+  {
+    "task_type": "isometric_closest",
+    "question": "Which two objects are closest to each other? Object positions are determined by the center points (bounding box center) of the buildings. Answer with two numbers joined by 'and' in ascending order (x < y), e.g., '2 and 5'.\nIsometric image: <image>\nChoose one option from A, B, C, D.",
+    "answer": "2 and 5",
+    "images": [
+      "SpatialAct/data/images/geometry/spatial_relation/v1.2/top_isometric/sample_008/isometric.png"
+    ]
+  },
+  {
+    "task_type": "isometric_closest",
+    "question": "Which two objects are closest to each other? Object positions are determined by the center points (bounding box center) of the buildings. Answer with two numbers joined by 'and' in ascending order (x < y), e.g., '2 and 5'.\nIsometric image: <image>\nChoose one option from A, B, C, D.",
+    "answer": "2 and 3",
+    "images": [
+      "SpatialAct/data/images/geometry/spatial_relation/v1.2/top_isometric/sample_011/isometric.png"
+    ]
+  },
+  {
+    "task_type": "isometric_direction",
+    "question": "In this isometric image, the red arrow points to North. Direction is determined by comparing the center points (bounding box center) of the objects. Which side is object 3 relative to object 4?\nIsometric image: <image>\nA. northeast\nB. south\nC. northwest\nD. east\nChoose one option from A, B, C, D.",
+    "answer": "B",
+    "images": [
+      "SpatialAct/data/images/geometry/spatial_relation/v1.2/top_isometric/sample_076/isometric.png"
+    ]
+  },
+  {
+    "task_type": "isometric_direction",
+    "question": "In this isometric image, the red arrow points to North. Direction is determined by comparing the center points (bounding box center) of the objects. Which side is object 1 relative to object 3?\nIsometric image: <image>\nA. northwest\nB. northeast\nC. south\nD. west\nChoose one option from A, B, C, D.",
+    "answer": "D",
+    "images": [
+      "SpatialAct/data/images/geometry/spatial_relation/v1.2/top_isometric/sample_023/isometric.png"
+    ]
+  },
+  {
+    "task_type": "isometric_direction",
+    "question": "In this isometric image, the red arrow points to North. Direction is determined by comparing the center points (bounding box center) of the objects. Which side is object 2 relative to object 3?\nIsometric image: <image>\nA. north\nB. east\nC. south\nD. northeast\nChoose one option from A, B, C, D.",
+    "answer": "B",
+    "images": [
+      "SpatialAct/data/images/geometry/spatial_relation/v1.2/top_isometric/sample_077/isometric.png"
+    ]
+  },
+  {
+    "task_type": "isometric_direction",
+    "question": "In this isometric image, the red arrow points to North. Direction is determined by comparing the center points (bounding box center) of the objects. Which side is object 2 relative to object 3?\nIsometric image: <image>\nA. northwest\nB. west\nC. southwest\nD. southeast\nChoose one option from A, B, C, D.",
+    "answer": "B",
+    "images": [
+      "SpatialAct/data/images/geometry/spatial_relation/v1.2/top_isometric/sample_035/isometric.png"
+    ]
+  },
+  {
+    "task_type": "isometric_direction",
+    "question": "In this isometric image, the red arrow points to North. Direction is determined by comparing the center points (bounding box center) of the objects. Which side is object 4 relative to object 3?\nIsometric image: <image>\nA. south\nB. east\nC. north\nD. northwest\nChoose one option from A, B, C, D.",
+    "answer": "B",
+    "images": [
+      "SpatialAct/data/images/geometry/spatial_relation/v1.2/top_isometric/sample_058/isometric.png"
+    ]
+  },
+  {
+    "task_type": "isometric_direction",
+    "question": "In this isometric image, the red arrow points to North. Direction is determined by comparing the center points (bounding box center) of the objects. Which side is object 3 relative to object 2?\nIsometric image: <image>\nA. northwest\nB. south\nC. southwest\nD. southeast\nChoose one option from A, B, C, D.",
+    "answer": "B",
+    "images": [
+      "SpatialAct/data/images/geometry/spatial_relation/v1.2/top_isometric/sample_007/isometric.png"
+    ]
+  },
+  {
+    "task_type": "isometric_direction",
+    "question": "In this isometric image, the red arrow points to North. Direction is determined by comparing the center points (bounding box center) of the objects. Which side is object 3 relative to object 5?\nIsometric image: <image>\nA. northeast\nB. east\nC. northwest\nD. southwest\nChoose one option from A, B, C, D.",
+    "answer": "C",
+    "images": [
+      "SpatialAct/data/images/geometry/spatial_relation/v1.2/top_isometric/sample_097/isometric.png"
+    ]
+  },
+  {
+    "task_type": "isometric_direction",
+    "question": "In this isometric image, the red arrow points to North. Direction is determined by comparing the center points (bounding box center) of the objects. Which side is object 4 relative to object 1?\nIsometric image: <image>\nA. south\nB. north\nC. southwest\nD. southeast\nChoose one option from A, B, C, D.",
+    "answer": "A",
+    "images": [
+      "SpatialAct/data/images/geometry/spatial_relation/v1.2/top_isometric/sample_040/isometric.png"
+    ]
+  },
+  {
+    "task_type": "isometric_direction",
+    "question": "In this isometric image, the red arrow points to North. Direction is determined by comparing the center points (bounding box center) of the objects. Which side is object 4 relative to object 1?\nIsometric image: <image>\nA. south\nB. northwest\nC. northeast\nD. east\nChoose one option from A, B, C, D.",
+    "answer": "B",
+    "images": [
+      "SpatialAct/data/images/geometry/spatial_relation/v1.2/top_isometric/sample_033/isometric.png"
+    ]
+  },
+  {
+    "task_type": "isometric_direction",
+    "question": "In this isometric image, the red arrow points to North. Direction is determined by comparing the center points (bounding box center) of the objects. Which side is object 3 relative to object 4?\nIsometric image: <image>\nA. southwest\nB. northeast\nC. north\nD. south\nChoose one option from A, B, C, D.",
+    "answer": "C",
+    "images": [
+      "SpatialAct/data/images/geometry/spatial_relation/v1.2/top_isometric/sample_061/isometric.png"
+    ]
+  },
+  {
+    "task_type": "isometric_direction",
+    "question": "In this isometric image, the red arrow points to North. Direction is determined by comparing the center points (bounding box center) of the objects. Which side is object 4 relative to object 1?\nIsometric image: <image>\nA. south\nB. east\nC. west\nD. northwest\nChoose one option from A, B, C, D.",
+    "answer": "B",
+    "images": [
+      "SpatialAct/data/images/geometry/spatial_relation/v1.2/top_isometric/sample_080/isometric.png"
+    ]
+  },
+  {
+    "task_type": "isometric_direction",
+    "question": "In this isometric image, the red arrow points to North. Direction is determined by comparing the center points (bounding box center) of the objects. Which side is object 5 relative to object 3?\nIsometric image: <image>\nA. northeast\nB. northwest\nC. southwest\nD. west\nChoose one option from A, B, C, D.",
+    "answer": "A",
+    "images": [
+      "SpatialAct/data/images/geometry/spatial_relation/v1.2/top_isometric/sample_036/isometric.png"
+    ]
+  },
+  {
+    "task_type": "isometric_farthest",
+    "question": "Which object is farthest from object 4? Object positions are determined by the center points (bounding box center) of the buildings. Answer with one number.\nIsometric image: <image>",
+    "answer": "5",
+    "images": [
+      "SpatialAct/data/images/geometry/spatial_relation/v1.2/top_isometric/sample_041/isometric.png"
+    ]
+  },
+  {
+    "task_type": "isometric_farthest",
+    "question": "Which object is farthest from object 5? Object positions are determined by the center points (bounding box center) of the buildings. Answer with one number.\nIsometric image: <image>",
+    "answer": "3",
+    "images": [
+      "SpatialAct/data/images/geometry/spatial_relation/v1.2/top_isometric/sample_097/isometric.png"
+    ]
+  },
+  {
+    "task_type": "isometric_farthest",
+    "question": "Which object is farthest from object 1? Object positions are determined by the center points (bounding box center) of the buildings. Answer with one number.\nIsometric image: <image>",
+    "answer": "3",
+    "images": [
+      "SpatialAct/data/images/geometry/spatial_relation/v1.2/top_isometric/sample_018/isometric.png"
+    ]
+  },
+  {
+    "task_type": "isometric_farthest",
+    "question": "Which object is farthest from object 3? Object positions are determined by the center points (bounding box center) of the buildings. Answer with one number.\nIsometric image: <image>",
+    "answer": "2",
+    "images": [
+      "SpatialAct/data/images/geometry/spatial_relation/v1.2/top_isometric/sample_089/isometric.png"
+    ]
+  },
+  {
+    "task_type": "isometric_farthest",
+    "question": "Which object is farthest from object 5? Object positions are determined by the center points (bounding box center) of the buildings. Answer with one number.\nIsometric image: <image>",
+    "answer": "4",
+    "images": [
+      "SpatialAct/data/images/geometry/spatial_relation/v1.2/top_isometric/sample_064/isometric.png"
+    ]
+  },
+  {
+    "task_type": "isometric_farthest",
+    "question": "Which object is farthest from object 2? Object positions are determined by the center points (bounding box center) of the buildings. Answer with one number.\nIsometric image: <image>",
+    "answer": "4",
+    "images": [
+      "SpatialAct/data/images/geometry/spatial_relation/v1.2/top_isometric/sample_091/isometric.png"
+    ]
+  },
+  {
+    "task_type": "isometric_farthest",
+    "question": "Which object is farthest from object 3? Object positions are determined by the center points (bounding box center) of the buildings. Answer with one number.\nIsometric image: <image>",
+    "answer": "5",
+    "images": [
+      "SpatialAct/data/images/geometry/spatial_relation/v1.2/top_isometric/sample_096/isometric.png"
+    ]
+  },
+  {
+    "task_type": "isometric_farthest",
+    "question": "Which object is farthest from object 1? Object positions are determined by the center points (bounding box center) of the buildings. Answer with one number.\nIsometric image: <image>",
+    "answer": "5",
+    "images": [
+      "SpatialAct/data/images/geometry/spatial_relation/v1.2/top_isometric/sample_003/isometric.png"
+    ]
+  },
+  {
+    "task_type": "isometric_farthest",
+    "question": "Which object is farthest from object 1? Object positions are determined by the center points (bounding box center) of the buildings. Answer with one number.\nIsometric image: <image>",
+    "answer": "5",
+    "images": [
+      "SpatialAct/data/images/geometry/spatial_relation/v1.2/top_isometric/sample_050/isometric.png"
+    ]
+  },
+  {
+    "task_type": "isometric_farthest",
+    "question": "Which object is farthest from object 1? Object positions are determined by the center points (bounding box center) of the buildings. Answer with one number.\nIsometric image: <image>",
+    "answer": "5",
+    "images": [
+      "SpatialAct/data/images/geometry/spatial_relation/v1.2/top_isometric/sample_011/isometric.png"
+    ]
+  },
+  {
+    "task_type": "isometric_farthest",
+    "question": "Which object is farthest from object 4? Object positions are determined by the center points (bounding box center) of the buildings. Answer with one number.\nIsometric image: <image>",
+    "answer": "2",
+    "images": [
+      "SpatialAct/data/images/geometry/spatial_relation/v1.2/top_isometric/sample_015/isometric.png"
+    ]
+  },
+  {
+    "task_type": "isometric_farthest",
+    "question": "Which object is farthest from object 4? Object positions are determined by the center points (bounding box center) of the buildings. Answer with one number.\nIsometric image: <image>",
+    "answer": "3",
+    "images": [
+      "SpatialAct/data/images/geometry/spatial_relation/v1.2/top_isometric/sample_063/isometric.png"
+    ]
+  },
+  {
+    "task_type": "isometric_side_count",
+    "question": "In this isometric image, the red arrow points to North. Direction is determined by comparing the center points (bounding box center) of the objects. An object can be on multiple sides at once (e.g., northeast counts as both north and east).\nHow many objects are on the east side of object 1? Answer with one number.\nIsometric image: <image>",
+    "answer": "1",
+    "images": [
+      "SpatialAct/data/images/geometry/spatial_relation/v1.2/top_isometric/sample_055/isometric.png"
+    ]
+  },
+  {
+    "task_type": "isometric_side_count",
+    "question": "In this isometric image, the red arrow points to North. Direction is determined by comparing the center points (bounding box center) of the objects. An object can be on multiple sides at once (e.g., northeast counts as both north and east).\nHow many objects are on the south side of object 1? Answer with one number.\nIsometric image: <image>",
+    "answer": "1",
+    "images": [
+      "SpatialAct/data/images/geometry/spatial_relation/v1.2/top_isometric/sample_062/isometric.png"
+    ]
+  },
+  {
+    "task_type": "isometric_side_count",
+    "question": "In this isometric image, the red arrow points to North. Direction is determined by comparing the center points (bounding box center) of the objects. An object can be on multiple sides at once (e.g., northeast counts as both north and east).\nHow many objects are on the north side of object 1? Answer with one number.\nIsometric image: <image>",
+    "answer": "3",
+    "images": [
+      "SpatialAct/data/images/geometry/spatial_relation/v1.2/top_isometric/sample_099/isometric.png"
+    ]
+  },
+  {
+    "task_type": "isometric_side_count",
+    "question": "In this isometric image, the red arrow points to North. Direction is determined by comparing the center points (bounding box center) of the objects. An object can be on multiple sides at once (e.g., northeast counts as both north and east).\nHow many objects are on the east side of object 1? Answer with one number.\nIsometric image: <image>",
+    "answer": "3",
+    "images": [
+      "SpatialAct/data/images/geometry/spatial_relation/v1.2/top_isometric/sample_035/isometric.png"
+    ]
+  },
+  {
+    "task_type": "isometric_side_count",
+    "question": "In this isometric image, the red arrow points to North. Direction is determined by comparing the center points (bounding box center) of the objects. An object can be on multiple sides at once (e.g., northeast counts as both north and east).\nHow many objects are on the west side of object 3? Answer with one number.\nIsometric image: <image>",
+    "answer": "0",
+    "images": [
+      "SpatialAct/data/images/geometry/spatial_relation/v1.2/top_isometric/sample_051/isometric.png"
+    ]
+  },
+  {
+    "task_type": "isometric_side_count",
+    "question": "In this isometric image, the red arrow points to North. Direction is determined by comparing the center points (bounding box center) of the objects. An object can be on multiple sides at once (e.g., northeast counts as both north and east).\nHow many objects are on the north side of object 2? Answer with one number.\nIsometric image: <image>",
+    "answer": "0",
+    "images": [
+      "SpatialAct/data/images/geometry/spatial_relation/v1.2/top_isometric/sample_001/isometric.png"
+    ]
+  },
+  {
+    "task_type": "isometric_side_count",
+    "question": "In this isometric image, the red arrow points to North. Direction is determined by comparing the center points (bounding box center) of the objects. An object can be on multiple sides at once (e.g., northeast counts as both north and east).\nHow many objects are on the west side of object 1? Answer with one number.\nIsometric image: <image>",
+    "answer": "0",
+    "images": [
+      "SpatialAct/data/images/geometry/spatial_relation/v1.2/top_isometric/sample_042/isometric.png"
+    ]
+  },
+  {
+    "task_type": "isometric_side_count",
+    "question": "In this isometric image, the red arrow points to North. Direction is determined by comparing the center points (bounding box center) of the objects. An object can be on multiple sides at once (e.g., northeast counts as both north and east).\nHow many objects are on the north side of object 2? Answer with one number.\nIsometric image: <image>",
+    "answer": "3",
+    "images": [
+      "SpatialAct/data/images/geometry/spatial_relation/v1.2/top_isometric/sample_078/isometric.png"
+    ]
+  },
+  {
+    "task_type": "isometric_side_count",
+    "question": "In this isometric image, the red arrow points to North. Direction is determined by comparing the center points (bounding box center) of the objects. An object can be on multiple sides at once (e.g., northeast counts as both north and east).\nHow many objects are on the east side of object 5? Answer with one number.\nIsometric image: <image>",
+    "answer": "2",
+    "images": [
+      "SpatialAct/data/images/geometry/spatial_relation/v1.2/top_isometric/sample_022/isometric.png"
+    ]
+  },
+  {
+    "task_type": "isometric_side_count",
+    "question": "In this isometric image, the red arrow points to North. Direction is determined by comparing the center points (bounding box center) of the objects. An object can be on multiple sides at once (e.g., northeast counts as both north and east).\nHow many objects are on the east side of object 4? Answer with one number.\nIsometric image: <image>",
+    "answer": "4",
+    "images": [
+      "SpatialAct/data/images/geometry/spatial_relation/v1.2/top_isometric/sample_069/isometric.png"
+    ]
+  },
+  {
+    "task_type": "isometric_side_count",
+    "question": "In this isometric image, the red arrow points to North. Direction is determined by comparing the center points (bounding box center) of the objects. An object can be on multiple sides at once (e.g., northeast counts as both north and east).\nHow many objects are on the west side of object 5? Answer with one number.\nIsometric image: <image>",
+    "answer": "4",
+    "images": [
+      "SpatialAct/data/images/geometry/spatial_relation/v1.2/top_isometric/sample_070/isometric.png"
+    ]
+  },
+  {
+    "task_type": "isometric_side_count",
+    "question": "In this isometric image, the red arrow points to North. Direction is determined by comparing the center points (bounding box center) of the objects. An object can be on multiple sides at once (e.g., northeast counts as both north and east).\nHow many objects are on the south side of object 3? Answer with one number.\nIsometric image: <image>",
+    "answer": "0",
+    "images": [
+      "SpatialAct/data/images/geometry/spatial_relation/v1.2/top_isometric/sample_095/isometric.png"
+    ]
+  },
+  {
+    "task_type": "top_closest",
+    "question": "Which two objects are closest to each other? Object positions are determined by the center points (bounding box center) of the buildings. Answer with two numbers joined by 'and' in ascending order (x < y), e.g., '2 and 5'.\nTop-view image: <image>\nChoose one option from A, B, C, D.",
+    "answer": "1 and 5",
+    "images": [
+      "SpatialAct/data/images/geometry/spatial_relation/v1.2/top_isometric/sample_057/top.png"
+    ]
+  },
+  {
+    "task_type": "top_closest",
+    "question": "Which two objects are closest to each other? Object positions are determined by the center points (bounding box center) of the buildings. Answer with two numbers joined by 'and' in ascending order (x < y), e.g., '2 and 5'.\nTop-view image: <image>\nChoose one option from A, B, C, D.",
+    "answer": "2 and 5",
+    "images": [
+      "SpatialAct/data/images/geometry/spatial_relation/v1.2/top_isometric/sample_026/top.png"
+    ]
+  },
+  {
+    "task_type": "top_closest",
+    "question": "Which two objects are closest to each other? Object positions are determined by the center points (bounding box center) of the buildings. Answer with two numbers joined by 'and' in ascending order (x < y), e.g., '2 and 5'.\nTop-view image: <image>\nChoose one option from A, B, C, D.",
+    "answer": "1 and 3",
+    "images": [
+      "SpatialAct/data/images/geometry/spatial_relation/v1.2/top_isometric/sample_005/top.png"
+    ]
+  },
+  {
+    "task_type": "top_closest",
+    "question": "Which two objects are closest to each other? Object positions are determined by the center points (bounding box center) of the buildings. Answer with two numbers joined by 'and' in ascending order (x < y), e.g., '2 and 5'.\nTop-view image: <image>\nChoose one option from A, B, C, D.",
+    "answer": "2 and 5",
+    "images": [
+      "SpatialAct/data/images/geometry/spatial_relation/v1.2/top_isometric/sample_013/top.png"
+    ]
+  },
+  {
+    "task_type": "top_closest",
+    "question": "Which two objects are closest to each other? Object positions are determined by the center points (bounding box center) of the buildings. Answer with two numbers joined by 'and' in ascending order (x < y), e.g., '2 and 5'.\nTop-view image: <image>\nChoose one option from A, B, C, D.",
+    "answer": "1 and 3",
+    "images": [
+      "SpatialAct/data/images/geometry/spatial_relation/v1.2/top_isometric/sample_061/top.png"
+    ]
+  },
+  {
+    "task_type": "top_closest",
+    "question": "Which two objects are closest to each other? Object positions are determined by the center points (bounding box center) of the buildings. Answer with two numbers joined by 'and' in ascending order (x < y), e.g., '2 and 5'.\nTop-view image: <image>\nChoose one option from A, B, C, D.",
+    "answer": "1 and 5",
+    "images": [
+      "SpatialAct/data/images/geometry/spatial_relation/v1.2/top_isometric/sample_024/top.png"
+    ]
+  },
+  {
+    "task_type": "top_closest",
+    "question": "Which two objects are closest to each other? Object positions are determined by the center points (bounding box center) of the buildings. Answer with two numbers joined by 'and' in ascending order (x < y), e.g., '2 and 5'.\nTop-view image: <image>\nChoose one option from A, B, C, D.",
+    "answer": "1 and 5",
+    "images": [
+      "SpatialAct/data/images/geometry/spatial_relation/v1.2/top_isometric/sample_022/top.png"
+    ]
+  },
+  {
+    "task_type": "top_closest",
+    "question": "Which two objects are closest to each other? Object positions are determined by the center points (bounding box center) of the buildings. Answer with two numbers joined by 'and' in ascending order (x < y), e.g., '2 and 5'.\nTop-view image: <image>\nChoose one option from A, B, C, D.",
+    "answer": "1 and 3",
+    "images": [
+      "SpatialAct/data/images/geometry/spatial_relation/v1.2/top_isometric/sample_038/top.png"
+    ]
+  },
+  {
+    "task_type": "top_closest",
+    "question": "Which two objects are closest to each other? Object positions are determined by the center points (bounding box center) of the buildings. Answer with two numbers joined by 'and' in ascending order (x < y), e.g., '2 and 5'.\nTop-view image: <image>\nChoose one option from A, B, C, D.",
+    "answer": "1 and 2",
+    "images": [
+      "SpatialAct/data/images/geometry/spatial_relation/v1.2/top_isometric/sample_025/top.png"
+    ]
+  },
+  {
+    "task_type": "top_closest",
+    "question": "Which two objects are closest to each other? Object positions are determined by the center points (bounding box center) of the buildings. Answer with two numbers joined by 'and' in ascending order (x < y), e.g., '2 and 5'.\nTop-view image: <image>\nChoose one option from A, B, C, D.",
+    "answer": "3 and 5",
+    "images": [
+      "SpatialAct/data/images/geometry/spatial_relation/v1.2/top_isometric/sample_052/top.png"
+    ]
+  },
+  {
+    "task_type": "top_closest",
+    "question": "Which two objects are closest to each other? Object positions are determined by the center points (bounding box center) of the buildings. Answer with two numbers joined by 'and' in ascending order (x < y), e.g., '2 and 5'.\nTop-view image: <image>\nChoose one option from A, B, C, D.",
+    "answer": "2 and 5",
+    "images": [
+      "SpatialAct/data/images/geometry/spatial_relation/v1.2/top_isometric/sample_085/top.png"
+    ]
+  },
+  {
+    "task_type": "top_closest",
+    "question": "Which two objects are closest to each other? Object positions are determined by the center points (bounding box center) of the buildings. Answer with two numbers joined by 'and' in ascending order (x < y), e.g., '2 and 5'.\nTop-view image: <image>\nChoose one option from A, B, C, D.",
+    "answer": "3 and 4",
+    "images": [
+      "SpatialAct/data/images/geometry/spatial_relation/v1.2/top_isometric/sample_067/top.png"
+    ]
+  },
+  {
+    "task_type": "top_direction",
+    "question": "In this top-view image: top is North, bottom is South, left is West, right is East. Direction is determined by comparing the center points (bounding box center) of the objects. Which side is object 2 relative to object 1?\nTop-view image: <image>\nA. southeast\nB. northeast\nC. northwest\nD. north\nChoose one option from A, B, C, D.",
+    "answer": "A",
+    "images": [
+      "SpatialAct/data/images/geometry/spatial_relation/v1.2/top_isometric/sample_042/top.png"
+    ]
+  },
+  {
+    "task_type": "top_direction",
+    "question": "In this top-view image: top is North, bottom is South, left is West, right is East. Direction is determined by comparing the center points (bounding box center) of the objects. Which side is object 3 relative to object 2?\nTop-view image: <image>\nA. southeast\nB. southwest\nC. north\nD. south\nChoose one option from A, B, C, D.",
+    "answer": "D",
+    "images": [
+      "SpatialAct/data/images/geometry/spatial_relation/v1.2/top_isometric/sample_041/top.png"
+    ]
+  },
+  {
+    "task_type": "top_direction",
+    "question": "In this top-view image: top is North, bottom is South, left is West, right is East. Direction is determined by comparing the center points (bounding box center) of the objects. Which side is object 5 relative to object 4?\nTop-view image: <image>\nA. northeast\nB. south\nC. north\nD. east\nChoose one option from A, B, C, D.",
+    "answer": "B",
+    "images": [
+      "SpatialAct/data/images/geometry/spatial_relation/v1.2/top_isometric/sample_091/top.png"
+    ]
+  },
+  {
+    "task_type": "top_direction",
+    "question": "In this top-view image: top is North, bottom is South, left is West, right is East. Direction is determined by comparing the center points (bounding box center) of the objects. Which side is object 1 relative to object 4?\nTop-view image: <image>\nA. northwest\nB. southeast\nC. southwest\nD. north\nChoose one option from A, B, C, D.",
+    "answer": "C",
+    "images": [
+      "SpatialAct/data/images/geometry/spatial_relation/v1.2/top_isometric/sample_009/top.png"
+    ]
+  },
+  {
+    "task_type": "top_direction",
+    "question": "In this top-view image: top is North, bottom is South, left is West, right is East. Direction is determined by comparing the center points (bounding box center) of the objects. Which side is object 4 relative to object 3?\nTop-view image: <image>\nA. northwest\nB. northeast\nC. south\nD. east\nChoose one option from A, B, C, D.",
+    "answer": "A",
+    "images": [
+      "SpatialAct/data/images/geometry/spatial_relation/v1.2/top_isometric/sample_065/top.png"
+    ]
+  },
+  {
+    "task_type": "top_direction",
+    "question": "In this top-view image: top is North, bottom is South, left is West, right is East. Direction is determined by comparing the center points (bounding box center) of the objects. Which side is object 2 relative to object 3?\nTop-view image: <image>\nA. northeast\nB. southeast\nC. southwest\nD. west\nChoose one option from A, B, C, D.",
+    "answer": "A",
+    "images": [
+      "SpatialAct/data/images/geometry/spatial_relation/v1.2/top_isometric/sample_050/top.png"
+    ]
+  },
+  {
+    "task_type": "top_direction",
+    "question": "In this top-view image: top is North, bottom is South, left is West, right is East. Direction is determined by comparing the center points (bounding box center) of the objects. Which side is object 4 relative to object 2?\nTop-view image: <image>\nA. southwest\nB. southeast\nC. south\nD. east\nChoose one option from A, B, C, D.",
+    "answer": "C",
+    "images": [
+      "SpatialAct/data/images/geometry/spatial_relation/v1.2/top_isometric/sample_001/top.png"
+    ]
+  },
+  {
+    "task_type": "top_direction",
+    "question": "In this top-view image: top is North, bottom is South, left is West, right is East. Direction is determined by comparing the center points (bounding box center) of the objects. Which side is object 1 relative to object 2?\nTop-view image: <image>\nA. south\nB. northeast\nC. southeast\nD. northwest\nChoose one option from A, B, C, D.",
+    "answer": "D",
+    "images": [
+      "SpatialAct/data/images/geometry/spatial_relation/v1.2/top_isometric/sample_070/top.png"
+    ]
+  },
+  {
+    "task_type": "top_direction",
+    "question": "In this top-view image: top is North, bottom is South, left is West, right is East. Direction is determined by comparing the center points (bounding box center) of the objects. Which side is object 4 relative to object 3?\nTop-view image: <image>\nA. northwest\nB. south\nC. southeast\nD. north\nChoose one option from A, B, C, D.",
+    "answer": "B",
+    "images": [
+      "SpatialAct/data/images/geometry/spatial_relation/v1.2/top_isometric/sample_015/top.png"
+    ]
+  },
+  {
+    "task_type": "top_direction",
+    "question": "In this top-view image: top is North, bottom is South, left is West, right is East. Direction is determined by comparing the center points (bounding box center) of the objects. Which side is object 4 relative to object 5?\nTop-view image: <image>\nA. south\nB. east\nC. northwest\nD. west\nChoose one option from A, B, C, D.",
+    "answer": "A",
+    "images": [
+      "SpatialAct/data/images/geometry/spatial_relation/v1.2/top_isometric/sample_078/top.png"
+    ]
+  },
+  {
+    "task_type": "top_direction",
+    "question": "In this top-view image: top is North, bottom is South, left is West, right is East. Direction is determined by comparing the center points (bounding box center) of the objects. Which side is object 4 relative to object 2?\nTop-view image: <image>\nA. north\nB. east\nC. northeast\nD. south\nChoose one option from A, B, C, D.",
+    "answer": "A",
+    "images": [
+      "SpatialAct/data/images/geometry/spatial_relation/v1.2/top_isometric/sample_073/top.png"
+    ]
+  },
+  {
+    "task_type": "top_direction",
+    "question": "In this top-view image: top is North, bottom is South, left is West, right is East. Direction is determined by comparing the center points (bounding box center) of the objects. Which side is object 5 relative to object 4?\nTop-view image: <image>\nA. south\nB. northeast\nC. southeast\nD. west\nChoose one option from A, B, C, D.",
+    "answer": "D",
+    "images": [
+      "SpatialAct/data/images/geometry/spatial_relation/v1.2/top_isometric/sample_010/top.png"
+    ]
+  },
+  {
+    "task_type": "top_farthest",
+    "question": "Which object is farthest from object 4? Object positions are determined by the center points (bounding box center) of the buildings. Answer with one number.\nTop-view image: <image>",
+    "answer": "2",
+    "images": [
+      "SpatialAct/data/images/geometry/spatial_relation/v1.2/top_isometric/sample_049/top.png"
+    ]
+  },
+  {
+    "task_type": "top_farthest",
+    "question": "Which object is farthest from object 1? Object positions are determined by the center points (bounding box center) of the buildings. Answer with one number.\nTop-view image: <image>",
+    "answer": "2",
+    "images": [
+      "SpatialAct/data/images/geometry/spatial_relation/v1.2/top_isometric/sample_077/top.png"
+    ]
+  },
+  {
+    "task_type": "top_farthest",
+    "question": "Which object is farthest from object 5? Object positions are determined by the center points (bounding box center) of the buildings. Answer with one number.\nTop-view image: <image>",
+    "answer": "1",
+    "images": [
+      "SpatialAct/data/images/geometry/spatial_relation/v1.2/top_isometric/sample_047/top.png"
+    ]
+  },
+  {
+    "task_type": "top_farthest",
+    "question": "Which object is farthest from object 1? Object positions are determined by the center points (bounding box center) of the buildings. Answer with one number.\nTop-view image: <image>",
+    "answer": "2",
+    "images": [
+      "SpatialAct/data/images/geometry/spatial_relation/v1.2/top_isometric/sample_019/top.png"
+    ]
+  },
+  {
+    "task_type": "top_farthest",
+    "question": "Which object is farthest from object 5? Object positions are determined by the center points (bounding box center) of the buildings. Answer with one number.\nTop-view image: <image>",
+    "answer": "1",
+    "images": [
+      "SpatialAct/data/images/geometry/spatial_relation/v1.2/top_isometric/sample_048/top.png"
+    ]
+  },
+  {
+    "task_type": "top_farthest",
+    "question": "Which object is farthest from object 1? Object positions are determined by the center points (bounding box center) of the buildings. Answer with one number.\nTop-view image: <image>",
+    "answer": "3",
+    "images": [
+      "SpatialAct/data/images/geometry/spatial_relation/v1.2/top_isometric/sample_039/top.png"
+    ]
+  },
+  {
+    "task_type": "top_farthest",
+    "question": "Which object is farthest from object 2? Object positions are determined by the center points (bounding box center) of the buildings. Answer with one number.\nTop-view image: <image>",
+    "answer": "3",
+    "images": [
+      "SpatialAct/data/images/geometry/spatial_relation/v1.2/top_isometric/sample_089/top.png"
+    ]
+  },
+  {
+    "task_type": "top_farthest",
+    "question": "Which object is farthest from object 2? Object positions are determined by the center points (bounding box center) of the buildings. Answer with one number.\nTop-view image: <image>",
+    "answer": "4",
+    "images": [
+      "SpatialAct/data/images/geometry/spatial_relation/v1.2/top_isometric/sample_010/top.png"
+    ]
+  },
+  {
+    "task_type": "top_farthest",
+    "question": "Which object is farthest from object 5? Object positions are determined by the center points (bounding box center) of the buildings. Answer with one number.\nTop-view image: <image>",
+    "answer": "1",
+    "images": [
+      "SpatialAct/data/images/geometry/spatial_relation/v1.2/top_isometric/sample_032/top.png"
+    ]
+  },
+  {
+    "task_type": "top_farthest",
+    "question": "Which object is farthest from object 4? Object positions are determined by the center points (bounding box center) of the buildings. Answer with one number.\nTop-view image: <image>",
+    "answer": "1",
+    "images": [
+      "SpatialAct/data/images/geometry/spatial_relation/v1.2/top_isometric/sample_037/top.png"
+    ]
+  },
+  {
+    "task_type": "top_farthest",
+    "question": "Which object is farthest from object 3? Object positions are determined by the center points (bounding box center) of the buildings. Answer with one number.\nTop-view image: <image>",
+    "answer": "2",
+    "images": [
+      "SpatialAct/data/images/geometry/spatial_relation/v1.2/top_isometric/sample_023/top.png"
+    ]
+  },
+  {
+    "task_type": "top_farthest",
+    "question": "Which object is farthest from object 1? Object positions are determined by the center points (bounding box center) of the buildings. Answer with one number.\nTop-view image: <image>",
+    "answer": "4",
+    "images": [
+      "SpatialAct/data/images/geometry/spatial_relation/v1.2/top_isometric/sample_033/top.png"
+    ]
+  },
+  {
+    "task_type": "top_side_count",
+    "question": "In this top-view image: top is North, bottom is South, left is West, right is East. Direction is determined by comparing the center points (bounding box center) of the objects. An object can be on multiple sides at once (e.g., northwest counts as both north and west).\nHow many objects are on the north side of object 5? Answer with one number.\nTop-view image: <image>",
+    "answer": "0",
+    "images": [
+      "SpatialAct/data/images/geometry/spatial_relation/v1.2/top_isometric/sample_056/top.png"
+    ]
+  },
+  {
+    "task_type": "top_side_count",
+    "question": "In this top-view image: top is North, bottom is South, left is West, right is East. Direction is determined by comparing the center points (bounding box center) of the objects. An object can be on multiple sides at once (e.g., northwest counts as both north and west).\nHow many objects are on the east side of object 2? Answer with one number.\nTop-view image: <image>",
+    "answer": "1",
+    "images": [
+      "SpatialAct/data/images/geometry/spatial_relation/v1.2/top_isometric/sample_069/top.png"
+    ]
+  },
+  {
+    "task_type": "top_side_count",
+    "question": "In this top-view image: top is North, bottom is South, left is West, right is East. Direction is determined by comparing the center points (bounding box center) of the objects. An object can be on multiple sides at once (e.g., northwest counts as both north and west).\nHow many objects are on the north side of object 5? Answer with one number.\nTop-view image: <image>",
+    "answer": "1",
+    "images": [
+      "SpatialAct/data/images/geometry/spatial_relation/v1.2/top_isometric/sample_027/top.png"
+    ]
+  },
+  {
+    "task_type": "top_side_count",
+    "question": "In this top-view image: top is North, bottom is South, left is West, right is East. Direction is determined by comparing the center points (bounding box center) of the objects. An object can be on multiple sides at once (e.g., northwest counts as both north and west).\nHow many objects are on the east side of object 2? Answer with one number.\nTop-view image: <image>",
+    "answer": "0",
+    "images": [
+      "SpatialAct/data/images/geometry/spatial_relation/v1.2/top_isometric/sample_077/top.png"
+    ]
+  },
+  {
+    "task_type": "top_side_count",
+    "question": "In this top-view image: top is North, bottom is South, left is West, right is East. Direction is determined by comparing the center points (bounding box center) of the objects. An object can be on multiple sides at once (e.g., northwest counts as both north and west).\nHow many objects are on the west side of object 5? Answer with one number.\nTop-view image: <image>",
+    "answer": "1",
+    "images": [
+      "SpatialAct/data/images/geometry/spatial_relation/v1.2/top_isometric/sample_011/top.png"
+    ]
+  },
+  {
+    "task_type": "top_side_count",
+    "question": "In this top-view image: top is North, bottom is South, left is West, right is East. Direction is determined by comparing the center points (bounding box center) of the objects. An object can be on multiple sides at once (e.g., northwest counts as both north and west).\nHow many objects are on the south side of object 2? Answer with one number.\nTop-view image: <image>",
+    "answer": "2",
+    "images": [
+      "SpatialAct/data/images/geometry/spatial_relation/v1.2/top_isometric/sample_002/top.png"
+    ]
+  },
+  {
+    "task_type": "top_side_count",
+    "question": "In this top-view image: top is North, bottom is South, left is West, right is East. Direction is determined by comparing the center points (bounding box center) of the objects. An object can be on multiple sides at once (e.g., northwest counts as both north and west).\nHow many objects are on the south side of object 2? Answer with one number.\nTop-view image: <image>",
+    "answer": "4",
+    "images": [
+      "SpatialAct/data/images/geometry/spatial_relation/v1.2/top_isometric/sample_090/top.png"
+    ]
+  },
+  {
+    "task_type": "top_side_count",
+    "question": "In this top-view image: top is North, bottom is South, left is West, right is East. Direction is determined by comparing the center points (bounding box center) of the objects. An object can be on multiple sides at once (e.g., northwest counts as both north and west).\nHow many objects are on the west side of object 4? Answer with one number.\nTop-view image: <image>",
+    "answer": "0",
+    "images": [
+      "SpatialAct/data/images/geometry/spatial_relation/v1.2/top_isometric/sample_012/top.png"
+    ]
+  },
+  {
+    "task_type": "top_side_count",
+    "question": "In this top-view image: top is North, bottom is South, left is West, right is East. Direction is determined by comparing the center points (bounding box center) of the objects. An object can be on multiple sides at once (e.g., northwest counts as both north and west).\nHow many objects are on the north side of object 5? Answer with one number.\nTop-view image: <image>",
+    "answer": "4",
+    "images": [
+      "SpatialAct/data/images/geometry/spatial_relation/v1.2/top_isometric/sample_025/top.png"
+    ]
+  },
+  {
+    "task_type": "top_side_count",
+    "question": "In this top-view image: top is North, bottom is South, left is West, right is East. Direction is determined by comparing the center points (bounding box center) of the objects. An object can be on multiple sides at once (e.g., northwest counts as both north and west).\nHow many objects are on the east side of object 2? Answer with one number.\nTop-view image: <image>",
+    "answer": "1",
+    "images": [
+      "SpatialAct/data/images/geometry/spatial_relation/v1.2/top_isometric/sample_046/top.png"
+    ]
+  },
+  {
+    "task_type": "top_side_count",
+    "question": "In this top-view image: top is North, bottom is South, left is West, right is East. Direction is determined by comparing the center points (bounding box center) of the objects. An object can be on multiple sides at once (e.g., northwest counts as both north and west).\nHow many objects are on the south side of object 1? Answer with one number.\nTop-view image: <image>",
+    "answer": "1",
+    "images": [
+      "SpatialAct/data/images/geometry/spatial_relation/v1.2/top_isometric/sample_094/top.png"
+    ]
+  },
+  {
+    "task_type": "top_side_count",
+    "question": "In this top-view image: top is North, bottom is South, left is West, right is East. Direction is determined by comparing the center points (bounding box center) of the objects. An object can be on multiple sides at once (e.g., northwest counts as both north and west).\nHow many objects are on the east side of object 5? Answer with one number.\nTop-view image: <image>",
+    "answer": "4",
+    "images": [
+      "SpatialAct/data/images/geometry/spatial_relation/v1.2/top_isometric/sample_001/top.png"
+    ]
+  },
+  {
+    "task_type": "isometric_closest",
+    "question": "Which two objects are closest to each other? Object positions are determined by the center points (bounding box center) of the buildings. Answer with two numbers joined by 'and' in ascending order (x < y), e.g., '2 and 5'.\nIsometric image: <image>\nChoose one option from A, B, C, D.",
+    "answer": "1 and 2",
+    "images": [
+      "SpatialAct/data/images/geometry/spatial_relation/v1.2/top_isometric/sample_033/isometric.png"
+    ]
+  },
+  {
+    "task_type": "isometric_direction",
+    "question": "In this isometric image, the red arrow points to North. Direction is determined by comparing the center points (bounding box center) of the objects. Which side is object 4 relative to object 5?\nIsometric image: <image>\nA. west\nB. southwest\nC. southeast\nD. north\nChoose one option from A, B, C, D.",
+    "answer": "D",
+    "images": [
+      "SpatialAct/data/images/geometry/spatial_relation/v1.2/top_isometric/sample_057/isometric.png"
+    ]
+  },
+  {
+    "task_type": "isometric_farthest",
+    "question": "Which object is farthest from object 5? Object positions are determined by the center points (bounding box center) of the buildings. Answer with one number.\nIsometric image: <image>",
+    "answer": "4",
+    "images": [
+      "SpatialAct/data/images/geometry/spatial_relation/v1.2/top_isometric/sample_070/isometric.png"
+    ]
+  },
+  {
+    "task_type": "isometric_side_count",
+    "question": "In this isometric image, the red arrow points to North. Direction is determined by comparing the center points (bounding box center) of the objects. An object can be on multiple sides at once (e.g., northeast counts as both north and east).\nHow many objects are on the north side of object 1? Answer with one number.\nIsometric image: <image>",
+    "answer": "0",
+    "images": [
+      "SpatialAct/data/images/geometry/spatial_relation/v1.2/top_isometric/sample_075/isometric.png"
+    ]
+  }
+]

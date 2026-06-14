@@ -1,0 +1,2002 @@
+[
+  {
+    "task_type": "top_move_overlap",
+    "question": "There is one image: a top-view image.\nDirections in the image: North=up, South=down, East=right, West=left.\nIf building 4 is moved East by 1 units, will it overlap (collide) with building 3? Answer with Yes or No.\n\nTop-view image: <image>\nNote: the image includes a 1 unit scale bar.\n",
+    "answer": "No",
+    "images": [
+      "SpatialAct/data/images/architectural/spatial_visualization/tianhe_regions/region_001_v02/top_move.png"
+    ]
+  },
+  {
+    "task_type": "top_move_overlap",
+    "question": "There is one image: a top-view image.\nDirections in the image: North=up, South=down, East=right, West=left.\nIf building 4 is moved East by 5 units, will it overlap (collide) with building 1? Answer with Yes or No.\n\nTop-view image: <image>\nNote: the image includes a 1 unit scale bar.\n",
+    "answer": "Yes",
+    "images": [
+      "SpatialAct/data/images/architectural/spatial_visualization/nansha_regions/region_123_v02/top_move.png"
+    ]
+  },
+  {
+    "task_type": "top_move_overlap",
+    "question": "There is one image: a top-view image.\nDirections in the image: North=up, South=down, East=right, West=left.\nIf building 2 is moved East by 1 units, will it overlap (collide) with building 3? Answer with Yes or No.\n\nTop-view image: <image>\nNote: the image includes a 1 unit scale bar.\n",
+    "answer": "No",
+    "images": [
+      "SpatialAct/data/images/architectural/spatial_visualization/nansha_regions/region_090_v02/top_move.png"
+    ]
+  },
+  {
+    "task_type": "top_move_overlap",
+    "question": "There is one image: a top-view image.\nDirections in the image: North=up, South=down, East=right, West=left.\nIf building 7 is moved North by 1 units, will it overlap (collide) with building 2? Answer with Yes or No.\n\nTop-view image: <image>\nNote: the image includes a 1 unit scale bar.\n",
+    "answer": "No",
+    "images": [
+      "SpatialAct/data/images/architectural/spatial_visualization/tsinghua_regions/region_000_v02/top_move.png"
+    ]
+  },
+  {
+    "task_type": "top_move_overlap",
+    "question": "There is one image: a top-view image.\nDirections in the image: North=up, South=down, East=right, West=left.\nIf building 1 is moved East by 3 units, will it overlap (collide) with building 2? Answer with Yes or No.\n\nTop-view image: <image>\nNote: the image includes a 1 unit scale bar.\n",
+    "answer": "No",
+    "images": [
+      "SpatialAct/data/images/architectural/spatial_visualization/nansha_regions/region_082_v03/top_move.png"
+    ]
+  },
+  {
+    "task_type": "top_move_overlap",
+    "question": "There is one image: a top-view image.\nDirections in the image: North=up, South=down, East=right, West=left.\nIf building 7 is moved East by 3 units, will it overlap (collide) with building 1? Answer with Yes or No.\n\nTop-view image: <image>\nNote: the image includes a 1 unit scale bar.\n",
+    "answer": "No",
+    "images": [
+      "SpatialAct/data/images/architectural/spatial_visualization/nansha_regions/region_119_v03/top_move.png"
+    ]
+  },
+  {
+    "task_type": "top_move_overlap",
+    "question": "There is one image: a top-view image.\nDirections in the image: North=up, South=down, East=right, West=left.\nIf building 3 is moved East by 2 units, will it overlap (collide) with building 4? Answer with Yes or No.\n\nTop-view image: <image>\nNote: the image includes a 1 unit scale bar.\n",
+    "answer": "Yes",
+    "images": [
+      "SpatialAct/data/images/architectural/spatial_visualization/tianhe_regions/region_041_v01/top_move.png"
+    ]
+  },
+  {
+    "task_type": "top_move_overlap",
+    "question": "There is one image: a top-view image.\nDirections in the image: North=up, South=down, East=right, West=left.\nIf building 1 is moved North by 5 units, will it overlap (collide) with building 3? Answer with Yes or No.\n\nTop-view image: <image>\nNote: the image includes a 1 unit scale bar.\n",
+    "answer": "No",
+    "images": [
+      "SpatialAct/data/images/architectural/spatial_visualization/tsinghua_regions/region_043_v01/top_move.png"
+    ]
+  },
+  {
+    "task_type": "top_move_overlap",
+    "question": "There is one image: a top-view image.\nDirections in the image: North=up, South=down, East=right, West=left.\nIf building 7 is moved East by 10 units, will it overlap (collide) with building 1? Answer with Yes or No.\n\nTop-view image: <image>\nNote: the image includes a 1 unit scale bar.\n",
+    "answer": "Yes",
+    "images": [
+      "SpatialAct/data/images/architectural/spatial_visualization/nansha_regions/region_001_v03/top_move.png"
+    ]
+  },
+  {
+    "task_type": "top_move_overlap",
+    "question": "There is one image: a top-view image.\nDirections in the image: North=up, South=down, East=right, West=left.\nIf building 5 is moved West by 3 units, will it overlap (collide) with building 1? Answer with Yes or No.\n\nTop-view image: <image>\nNote: the image includes a 1 unit scale bar.\n",
+    "answer": "No",
+    "images": [
+      "SpatialAct/data/images/architectural/spatial_visualization/nansha_regions/region_098_v02/top_move.png"
+    ]
+  },
+  {
+    "task_type": "top_move_overlap",
+    "question": "There is one image: a top-view image.\nDirections in the image: North=up, South=down, East=right, West=left.\nIf building 4 is moved West by 6 units, will it overlap (collide) with building 3? Answer with Yes or No.\n\nTop-view image: <image>\nNote: the image includes a 1 unit scale bar.\n",
+    "answer": "No",
+    "images": [
+      "SpatialAct/data/images/architectural/spatial_visualization/tianhe_regions/region_016_v03/top_move.png"
+    ]
+  },
+  {
+    "task_type": "top_move_overlap",
+    "question": "There is one image: a top-view image.\nDirections in the image: North=up, South=down, East=right, West=left.\nIf building 7 is moved South by 1 units, will it overlap (collide) with building 1? Answer with Yes or No.\n\nTop-view image: <image>\nNote: the image includes a 1 unit scale bar.\n",
+    "answer": "No",
+    "images": [
+      "SpatialAct/data/images/architectural/spatial_visualization/tsinghua_regions/region_002_v02/top_move.png"
+    ]
+  },
+  {
+    "task_type": "top_move_overlap",
+    "question": "There is one image: a top-view image.\nDirections in the image: North=up, South=down, East=right, West=left.\nIf building 7 is moved South by 2 units, will it overlap (collide) with building 1? Answer with Yes or No.\n\nTop-view image: <image>\nNote: the image includes a 1 unit scale bar.\n",
+    "answer": "Yes",
+    "images": [
+      "SpatialAct/data/images/architectural/spatial_visualization/tsinghua_regions/region_053_v02/top_move.png"
+    ]
+  },
+  {
+    "task_type": "top_move_overlap",
+    "question": "There is one image: a top-view image.\nDirections in the image: North=up, South=down, East=right, West=left.\nIf building 2 is moved South by 6 units, will it overlap (collide) with building 4? Answer with Yes or No.\n\nTop-view image: <image>\nNote: the image includes a 1 unit scale bar.\n",
+    "answer": "Yes",
+    "images": [
+      "SpatialAct/data/images/architectural/spatial_visualization/tsinghua_regions/region_016_v01/top_move.png"
+    ]
+  },
+  {
+    "task_type": "top_move_overlap",
+    "question": "There is one image: a top-view image.\nDirections in the image: North=up, South=down, East=right, West=left.\nIf building 2 is moved East by 6 units, will it overlap (collide) with building 1? Answer with Yes or No.\n\nTop-view image: <image>\nNote: the image includes a 1 unit scale bar.\n",
+    "answer": "No",
+    "images": [
+      "SpatialAct/data/images/architectural/spatial_visualization/nansha_regions/region_130_v01/top_move.png"
+    ]
+  },
+  {
+    "task_type": "top_move_overlap",
+    "question": "There is one image: a top-view image.\nDirections in the image: North=up, South=down, East=right, West=left.\nIf building 5 is moved South by 2 units, will it overlap (collide) with building 4? Answer with Yes or No.\n\nTop-view image: <image>\nNote: the image includes a 1 unit scale bar.\n",
+    "answer": "No",
+    "images": [
+      "SpatialAct/data/images/architectural/spatial_visualization/tianhe_regions/region_041_v02/top_move.png"
+    ]
+  },
+  {
+    "task_type": "top_move_overlap",
+    "question": "There is one image: a top-view image.\nDirections in the image: North=up, South=down, East=right, West=left.\nIf building 5 is moved South by 5 units, will it overlap (collide) with building 4? Answer with Yes or No.\n\nTop-view image: <image>\nNote: the image includes a 1 unit scale bar.\n",
+    "answer": "No",
+    "images": [
+      "SpatialAct/data/images/architectural/spatial_visualization/nansha_regions/region_014_v02/top_move.png"
+    ]
+  },
+  {
+    "task_type": "top_move_overlap",
+    "question": "There is one image: a top-view image.\nDirections in the image: North=up, South=down, East=right, West=left.\nIf building 1 is moved East by 6 units, will it overlap (collide) with building 3? Answer with Yes or No.\n\nTop-view image: <image>\nNote: the image includes a 1 unit scale bar.\n",
+    "answer": "No",
+    "images": [
+      "SpatialAct/data/images/architectural/spatial_visualization/tianhe_regions/region_037_v03/top_move.png"
+    ]
+  },
+  {
+    "task_type": "top_move_overlap",
+    "question": "There is one image: a top-view image.\nDirections in the image: North=up, South=down, East=right, West=left.\nIf building 3 is moved South by 1 units, will it overlap (collide) with building 4? Answer with Yes or No.\n\nTop-view image: <image>\nNote: the image includes a 1 unit scale bar.\n",
+    "answer": "Yes",
+    "images": [
+      "SpatialAct/data/images/architectural/spatial_visualization/nansha_regions/region_090_v01/top_move.png"
+    ]
+  },
+  {
+    "task_type": "top_move_overlap",
+    "question": "There is one image: a top-view image.\nDirections in the image: North=up, South=down, East=right, West=left.\nIf building 10 is moved South by 2 units, will it overlap (collide) with building 1? Answer with Yes or No.\n\nTop-view image: <image>\nNote: the image includes a 1 unit scale bar.\n",
+    "answer": "No",
+    "images": [
+      "SpatialAct/data/images/architectural/spatial_visualization/tsinghua_regions/region_010_v02/top_move.png"
+    ]
+  },
+  {
+    "task_type": "top_move_overlap",
+    "question": "There is one image: a top-view image.\nDirections in the image: North=up, South=down, East=right, West=left.\nIf building 4 is moved South by 3 units, will it overlap (collide) with building 3? Answer with Yes or No.\n\nTop-view image: <image>\nNote: the image includes a 1 unit scale bar.\n",
+    "answer": "Yes",
+    "images": [
+      "SpatialAct/data/images/architectural/spatial_visualization/nansha_regions/region_028_v02/top_move.png"
+    ]
+  },
+  {
+    "task_type": "top_move_overlap",
+    "question": "There is one image: a top-view image.\nDirections in the image: North=up, South=down, East=right, West=left.\nIf building 2 is moved North by 3 units, will it overlap (collide) with building 1? Answer with Yes or No.\n\nTop-view image: <image>\nNote: the image includes a 1 unit scale bar.\n",
+    "answer": "Yes",
+    "images": [
+      "SpatialAct/data/images/architectural/spatial_visualization/nansha_regions/region_001_v01/top_move.png"
+    ]
+  },
+  {
+    "task_type": "top_move_overlap",
+    "question": "There is one image: a top-view image.\nDirections in the image: North=up, South=down, East=right, West=left.\nIf building 7 is moved West by 1 units, will it overlap (collide) with building 1? Answer with Yes or No.\n\nTop-view image: <image>\nNote: the image includes a 1 unit scale bar.\n",
+    "answer": "No",
+    "images": [
+      "SpatialAct/data/images/architectural/spatial_visualization/tsinghua_regions/region_006_v02/top_move.png"
+    ]
+  },
+  {
+    "task_type": "top_move_overlap",
+    "question": "There is one image: a top-view image.\nDirections in the image: North=up, South=down, East=right, West=left.\nIf building 6 is moved South by 2 units, will it overlap (collide) with building 1? Answer with Yes or No.\n\nTop-view image: <image>\nNote: the image includes a 1 unit scale bar.\n",
+    "answer": "No",
+    "images": [
+      "SpatialAct/data/images/architectural/spatial_visualization/tsinghua_regions/region_032_v03/top_move.png"
+    ]
+  },
+  {
+    "task_type": "top_move_overlap",
+    "question": "There is one image: a top-view image.\nDirections in the image: North=up, South=down, East=right, West=left.\nIf building 5 is moved East by 2 units, will it overlap (collide) with building 1? Answer with Yes or No.\n\nTop-view image: <image>\nNote: the image includes a 1 unit scale bar.\n",
+    "answer": "No",
+    "images": [
+      "SpatialAct/data/images/architectural/spatial_visualization/tsinghua_regions/region_027_v01/top_move.png"
+    ]
+  },
+  {
+    "task_type": "top_move_overlap",
+    "question": "There is one image: a top-view image.\nDirections in the image: North=up, South=down, East=right, West=left.\nIf building 2 is moved East by 1 units, will it overlap (collide) with building 1? Answer with Yes or No.\n\nTop-view image: <image>\nNote: the image includes a 1 unit scale bar.\n",
+    "answer": "No",
+    "images": [
+      "SpatialAct/data/images/architectural/spatial_visualization/tsinghua_regions/region_053_v03/top_move.png"
+    ]
+  },
+  {
+    "task_type": "top_move_overlap",
+    "question": "There is one image: a top-view image.\nDirections in the image: North=up, South=down, East=right, West=left.\nIf building 5 is moved West by 3 units, will it overlap (collide) with building 1? Answer with Yes or No.\n\nTop-view image: <image>\nNote: the image includes a 1 unit scale bar.\n",
+    "answer": "No",
+    "images": [
+      "SpatialAct/data/images/architectural/spatial_visualization/nansha_regions/region_018_v02/top_move.png"
+    ]
+  },
+  {
+    "task_type": "top_move_overlap",
+    "question": "There is one image: a top-view image.\nDirections in the image: North=up, South=down, East=right, West=left.\nIf building 4 is moved South by 3 units, will it overlap (collide) with building 2? Answer with Yes or No.\n\nTop-view image: <image>\nNote: the image includes a 1 unit scale bar.\n",
+    "answer": "Yes",
+    "images": [
+      "SpatialAct/data/images/architectural/spatial_visualization/nansha_regions/region_030_v03/top_move.png"
+    ]
+  },
+  {
+    "task_type": "top_move_overlap",
+    "question": "There is one image: a top-view image.\nDirections in the image: North=up, South=down, East=right, West=left.\nIf building 2 is moved North by 10 units, will it overlap (collide) with building 1? Answer with Yes or No.\n\nTop-view image: <image>\nNote: the image includes a 1 unit scale bar.\n",
+    "answer": "Yes",
+    "images": [
+      "SpatialAct/data/images/architectural/spatial_visualization/nansha_regions/region_116_v03/top_move.png"
+    ]
+  },
+  {
+    "task_type": "top_move_overlap",
+    "question": "There is one image: a top-view image.\nDirections in the image: North=up, South=down, East=right, West=left.\nIf building 2 is moved East by 1 units, will it overlap (collide) with building 1? Answer with Yes or No.\n\nTop-view image: <image>\nNote: the image includes a 1 unit scale bar.\n",
+    "answer": "No",
+    "images": [
+      "SpatialAct/data/images/architectural/spatial_visualization/tsinghua_regions/region_025_v01/top_move.png"
+    ]
+  },
+  {
+    "task_type": "top_move_overlap",
+    "question": "There is one image: a top-view image.\nDirections in the image: North=up, South=down, East=right, West=left.\nIf building 5 is moved South by 5 units, will it overlap (collide) with building 2? Answer with Yes or No.\n\nTop-view image: <image>\nNote: the image includes a 1 unit scale bar.\n",
+    "answer": "Yes",
+    "images": [
+      "SpatialAct/data/images/architectural/spatial_visualization/nansha_regions/region_149_v02/top_move.png"
+    ]
+  },
+  {
+    "task_type": "top_move_overlap",
+    "question": "There is one image: a top-view image.\nDirections in the image: North=up, South=down, East=right, West=left.\nIf building 2 is moved North by 3 units, will it overlap (collide) with building 1? Answer with Yes or No.\n\nTop-view image: <image>\nNote: the image includes a 1 unit scale bar.\n",
+    "answer": "Yes",
+    "images": [
+      "SpatialAct/data/images/architectural/spatial_visualization/tsinghua_regions/region_009_v02/top_move.png"
+    ]
+  },
+  {
+    "task_type": "top_move_overlap",
+    "question": "There is one image: a top-view image.\nDirections in the image: North=up, South=down, East=right, West=left.\nIf building 6 is moved West by 6 units, will it overlap (collide) with building 1? Answer with Yes or No.\n\nTop-view image: <image>\nNote: the image includes a 1 unit scale bar.\n",
+    "answer": "No",
+    "images": [
+      "SpatialAct/data/images/architectural/spatial_visualization/nansha_regions/region_149_v01/top_move.png"
+    ]
+  },
+  {
+    "task_type": "top_move_overlap",
+    "question": "There is one image: a top-view image.\nDirections in the image: North=up, South=down, East=right, West=left.\nIf building 3 is moved South by 5 units, will it overlap (collide) with building 1? Answer with Yes or No.\n\nTop-view image: <image>\nNote: the image includes a 1 unit scale bar.\n",
+    "answer": "No",
+    "images": [
+      "SpatialAct/data/images/architectural/spatial_visualization/tianhe_regions/region_020_v03/top_move.png"
+    ]
+  },
+  {
+    "task_type": "top_move_overlap",
+    "question": "There is one image: a top-view image.\nDirections in the image: North=up, South=down, East=right, West=left.\nIf building 6 is moved North by 2 units, will it overlap (collide) with building 3? Answer with Yes or No.\n\nTop-view image: <image>\nNote: the image includes a 1 unit scale bar.\n",
+    "answer": "No",
+    "images": [
+      "SpatialAct/data/images/architectural/spatial_visualization/nansha_regions/region_071_v03/top_move.png"
+    ]
+  },
+  {
+    "task_type": "top_move_overlap",
+    "question": "There is one image: a top-view image.\nDirections in the image: North=up, South=down, East=right, West=left.\nIf building 8 is moved South by 3 units, will it overlap (collide) with building 1? Answer with Yes or No.\n\nTop-view image: <image>\nNote: the image includes a 1 unit scale bar.\n",
+    "answer": "Yes",
+    "images": [
+      "SpatialAct/data/images/architectural/spatial_visualization/tsinghua_regions/region_019_v01/top_move.png"
+    ]
+  },
+  {
+    "task_type": "top_move_overlap",
+    "question": "There is one image: a top-view image.\nDirections in the image: North=up, South=down, East=right, West=left.\nIf building 1 is moved East by 5 units, will it overlap (collide) with building 2? Answer with Yes or No.\n\nTop-view image: <image>\nNote: the image includes a 1 unit scale bar.\n",
+    "answer": "Yes",
+    "images": [
+      "SpatialAct/data/images/architectural/spatial_visualization/tianhe_regions/region_055_v02/top_move.png"
+    ]
+  },
+  {
+    "task_type": "top_move_overlap",
+    "question": "There is one image: a top-view image.\nDirections in the image: North=up, South=down, East=right, West=left.\nIf building 3 is moved South by 1 units, will it overlap (collide) with building 1? Answer with Yes or No.\n\nTop-view image: <image>\nNote: the image includes a 1 unit scale bar.\n",
+    "answer": "No",
+    "images": [
+      "SpatialAct/data/images/architectural/spatial_visualization/nansha_regions/region_130_v03/top_move.png"
+    ]
+  },
+  {
+    "task_type": "top_move_overlap",
+    "question": "There is one image: a top-view image.\nDirections in the image: North=up, South=down, East=right, West=left.\nIf building 4 is moved West by 3 units, will it overlap (collide) with building 1? Answer with Yes or No.\n\nTop-view image: <image>\nNote: the image includes a 1 unit scale bar.\n",
+    "answer": "No",
+    "images": [
+      "SpatialAct/data/images/architectural/spatial_visualization/nansha_regions/region_117_v01/top_move.png"
+    ]
+  },
+  {
+    "task_type": "top_move_overlap",
+    "question": "There is one image: a top-view image.\nDirections in the image: North=up, South=down, East=right, West=left.\nIf building 1 is moved East by 3 units, will it overlap (collide) with building 2? Answer with Yes or No.\n\nTop-view image: <image>\nNote: the image includes a 1 unit scale bar.\n",
+    "answer": "No",
+    "images": [
+      "SpatialAct/data/images/architectural/spatial_visualization/nansha_regions/region_075_v02/top_move.png"
+    ]
+  },
+  {
+    "task_type": "top_move_overlap",
+    "question": "There is one image: a top-view image.\nDirections in the image: North=up, South=down, East=right, West=left.\nIf building 8 is moved North by 1 units, will it overlap (collide) with building 1? Answer with Yes or No.\n\nTop-view image: <image>\nNote: the image includes a 1 unit scale bar.\n",
+    "answer": "No",
+    "images": [
+      "SpatialAct/data/images/architectural/spatial_visualization/nansha_regions/region_041_v03/top_move.png"
+    ]
+  },
+  {
+    "task_type": "top_move_overlap",
+    "question": "There is one image: a top-view image.\nDirections in the image: North=up, South=down, East=right, West=left.\nIf building 7 is moved East by 6 units, will it overlap (collide) with building 1? Answer with Yes or No.\n\nTop-view image: <image>\nNote: the image includes a 1 unit scale bar.\n",
+    "answer": "No",
+    "images": [
+      "SpatialAct/data/images/architectural/spatial_visualization/nansha_regions/region_023_v01/top_move.png"
+    ]
+  },
+  {
+    "task_type": "top_move_overlap",
+    "question": "There is one image: a top-view image.\nDirections in the image: North=up, South=down, East=right, West=left.\nIf building 5 is moved South by 2 units, will it overlap (collide) with building 2? Answer with Yes or No.\n\nTop-view image: <image>\nNote: the image includes a 1 unit scale bar.\n",
+    "answer": "Yes",
+    "images": [
+      "SpatialAct/data/images/architectural/spatial_visualization/tsinghua_regions/region_000_v03/top_move.png"
+    ]
+  },
+  {
+    "task_type": "top_move_overlap",
+    "question": "There is one image: a top-view image.\nDirections in the image: North=up, South=down, East=right, West=left.\nIf building 3 is moved North by 1 units, will it overlap (collide) with building 2? Answer with Yes or No.\n\nTop-view image: <image>\nNote: the image includes a 1 unit scale bar.\n",
+    "answer": "No",
+    "images": [
+      "SpatialAct/data/images/architectural/spatial_visualization/nansha_regions/region_149_v03/top_move.png"
+    ]
+  },
+  {
+    "task_type": "top_move_overlap",
+    "question": "There is one image: a top-view image.\nDirections in the image: North=up, South=down, East=right, West=left.\nIf building 1 is moved West by 5 units, will it overlap (collide) with building 2? Answer with Yes or No.\n\nTop-view image: <image>\nNote: the image includes a 1 unit scale bar.\n",
+    "answer": "No",
+    "images": [
+      "SpatialAct/data/images/architectural/spatial_visualization/nansha_regions/region_123_v01/top_move.png"
+    ]
+  },
+  {
+    "task_type": "top_move_overlap",
+    "question": "There is one image: a top-view image.\nDirections in the image: North=up, South=down, East=right, West=left.\nIf building 5 is moved South by 10 units, will it overlap (collide) with building 1? Answer with Yes or No.\n\nTop-view image: <image>\nNote: the image includes a 1 unit scale bar.\n",
+    "answer": "Yes",
+    "images": [
+      "SpatialAct/data/images/architectural/spatial_visualization/nansha_regions/region_086_v02/top_move.png"
+    ]
+  },
+  {
+    "task_type": "top_move_overlap",
+    "question": "There is one image: a top-view image.\nDirections in the image: North=up, South=down, East=right, West=left.\nIf building 9 is moved East by 6 units, will it overlap (collide) with building 1? Answer with Yes or No.\n\nTop-view image: <image>\nNote: the image includes a 1 unit scale bar.\n",
+    "answer": "Yes",
+    "images": [
+      "SpatialAct/data/images/architectural/spatial_visualization/nansha_regions/region_002_v02/top_move.png"
+    ]
+  },
+  {
+    "task_type": "top_move_overlap",
+    "question": "There is one image: a top-view image.\nDirections in the image: North=up, South=down, East=right, West=left.\nIf building 5 is moved West by 1 units, will it overlap (collide) with building 1? Answer with Yes or No.\n\nTop-view image: <image>\nNote: the image includes a 1 unit scale bar.\n",
+    "answer": "No",
+    "images": [
+      "SpatialAct/data/images/architectural/spatial_visualization/tianhe_regions/region_020_v01/top_move.png"
+    ]
+  },
+  {
+    "task_type": "top_move_overlap",
+    "question": "There is one image: a top-view image.\nDirections in the image: North=up, South=down, East=right, West=left.\nIf building 5 is moved North by 1 units, will it overlap (collide) with building 1? Answer with Yes or No.\n\nTop-view image: <image>\nNote: the image includes a 1 unit scale bar.\n",
+    "answer": "No",
+    "images": [
+      "SpatialAct/data/images/architectural/spatial_visualization/tsinghua_regions/region_001_v01/top_move.png"
+    ]
+  },
+  {
+    "task_type": "top_move_overlap",
+    "question": "There is one image: a top-view image.\nDirections in the image: North=up, South=down, East=right, West=left.\nIf building 4 is moved East by 3 units, will it overlap (collide) with building 1? Answer with Yes or No.\n\nTop-view image: <image>\nNote: the image includes a 1 unit scale bar.\n",
+    "answer": "No",
+    "images": [
+      "SpatialAct/data/images/architectural/spatial_visualization/nansha_regions/region_059_v03/top_move.png"
+    ]
+  },
+  {
+    "task_type": "top_move_overlap",
+    "question": "There is one image: a top-view image.\nDirections in the image: North=up, South=down, East=right, West=left.\nIf building 3 is moved East by 3 units, will it overlap (collide) with building 1? Answer with Yes or No.\n\nTop-view image: <image>\nNote: the image includes a 1 unit scale bar.\n",
+    "answer": "No",
+    "images": [
+      "SpatialAct/data/images/architectural/spatial_visualization/tsinghua_regions/region_049_v03/top_move.png"
+    ]
+  },
+  {
+    "task_type": "top_move_overlap",
+    "question": "There is one image: a top-view image.\nDirections in the image: North=up, South=down, East=right, West=left.\nIf building 3 is moved East by 5 units, will it overlap (collide) with building 2? Answer with Yes or No.\n\nTop-view image: <image>\nNote: the image includes a 1 unit scale bar.\n",
+    "answer": "No",
+    "images": [
+      "SpatialAct/data/images/architectural/spatial_visualization/nansha_regions/region_009_v01/top_move.png"
+    ]
+  },
+  {
+    "task_type": "top_move_overlap",
+    "question": "There is one image: a top-view image.\nDirections in the image: North=up, South=down, East=right, West=left.\nIf building 3 is moved West by 1 units, will it overlap (collide) with building 1? Answer with Yes or No.\n\nTop-view image: <image>\nNote: the image includes a 1 unit scale bar.\n",
+    "answer": "No",
+    "images": [
+      "SpatialAct/data/images/architectural/spatial_visualization/tsinghua_regions/region_047_v02/top_move.png"
+    ]
+  },
+  {
+    "task_type": "top_move_overlap",
+    "question": "There is one image: a top-view image.\nDirections in the image: North=up, South=down, East=right, West=left.\nIf building 1 is moved East by 3 units, will it overlap (collide) with building 3? Answer with Yes or No.\n\nTop-view image: <image>\nNote: the image includes a 1 unit scale bar.\n",
+    "answer": "Yes",
+    "images": [
+      "SpatialAct/data/images/architectural/spatial_visualization/nansha_regions/region_059_v02/top_move.png"
+    ]
+  },
+  {
+    "task_type": "top_move_overlap",
+    "question": "There is one image: a top-view image.\nDirections in the image: North=up, South=down, East=right, West=left.\nIf building 5 is moved South by 1 units, will it overlap (collide) with building 1? Answer with Yes or No.\n\nTop-view image: <image>\nNote: the image includes a 1 unit scale bar.\n",
+    "answer": "No",
+    "images": [
+      "SpatialAct/data/images/architectural/spatial_visualization/nansha_regions/region_091_v03/top_move.png"
+    ]
+  },
+  {
+    "task_type": "top_move_overlap",
+    "question": "There is one image: a top-view image.\nDirections in the image: North=up, South=down, East=right, West=left.\nIf building 3 is moved East by 3 units, will it overlap (collide) with building 1? Answer with Yes or No.\n\nTop-view image: <image>\nNote: the image includes a 1 unit scale bar.\n",
+    "answer": "Yes",
+    "images": [
+      "SpatialAct/data/images/architectural/spatial_visualization/tianhe_regions/region_020_v02/top_move.png"
+    ]
+  },
+  {
+    "task_type": "top_move_overlap",
+    "question": "There is one image: a top-view image.\nDirections in the image: North=up, South=down, East=right, West=left.\nIf building 4 is moved East by 1 units, will it overlap (collide) with building 1? Answer with Yes or No.\n\nTop-view image: <image>\nNote: the image includes a 1 unit scale bar.\n",
+    "answer": "No",
+    "images": [
+      "SpatialAct/data/images/architectural/spatial_visualization/tsinghua_regions/region_029_v01/top_move.png"
+    ]
+  },
+  {
+    "task_type": "top_move_overlap",
+    "question": "There is one image: a top-view image.\nDirections in the image: North=up, South=down, East=right, West=left.\nIf building 4 is moved South by 3 units, will it overlap (collide) with building 1? Answer with Yes or No.\n\nTop-view image: <image>\nNote: the image includes a 1 unit scale bar.\n",
+    "answer": "No",
+    "images": [
+      "SpatialAct/data/images/architectural/spatial_visualization/tsinghua_regions/region_039_v01/top_move.png"
+    ]
+  },
+  {
+    "task_type": "top_move_overlap",
+    "question": "There is one image: a top-view image.\nDirections in the image: North=up, South=down, East=right, West=left.\nIf building 7 is moved South by 2 units, will it overlap (collide) with building 1? Answer with Yes or No.\n\nTop-view image: <image>\nNote: the image includes a 1 unit scale bar.\n",
+    "answer": "No",
+    "images": [
+      "SpatialAct/data/images/architectural/spatial_visualization/tsinghua_regions/region_037_v01/top_move.png"
+    ]
+  },
+  {
+    "task_type": "top_move_overlap",
+    "question": "There is one image: a top-view image.\nDirections in the image: North=up, South=down, East=right, West=left.\nIf building 1 is moved North by 2 units, will it overlap (collide) with building 2? Answer with Yes or No.\n\nTop-view image: <image>\nNote: the image includes a 1 unit scale bar.\n",
+    "answer": "No",
+    "images": [
+      "SpatialAct/data/images/architectural/spatial_visualization/tianhe_regions/region_054_v02/top_move.png"
+    ]
+  },
+  {
+    "task_type": "top_move_overlap",
+    "question": "There is one image: a top-view image.\nDirections in the image: North=up, South=down, East=right, West=left.\nIf building 1 is moved South by 1 units, will it overlap (collide) with building 2? Answer with Yes or No.\n\nTop-view image: <image>\nNote: the image includes a 1 unit scale bar.\n",
+    "answer": "No",
+    "images": [
+      "SpatialAct/data/images/architectural/spatial_visualization/tsinghua_regions/region_029_v03/top_move.png"
+    ]
+  },
+  {
+    "task_type": "top_move_overlap",
+    "question": "There is one image: a top-view image.\nDirections in the image: North=up, South=down, East=right, West=left.\nIf building 6 is moved West by 5 units, will it overlap (collide) with building 5? Answer with Yes or No.\n\nTop-view image: <image>\nNote: the image includes a 1 unit scale bar.\n",
+    "answer": "Yes",
+    "images": [
+      "SpatialAct/data/images/architectural/spatial_visualization/nansha_regions/region_075_v01/top_move.png"
+    ]
+  },
+  {
+    "task_type": "top_move_overlap",
+    "question": "There is one image: a top-view image.\nDirections in the image: North=up, South=down, East=right, West=left.\nIf building 5 is moved East by 2 units, will it overlap (collide) with building 3? Answer with Yes or No.\n\nTop-view image: <image>\nNote: the image includes a 1 unit scale bar.\n",
+    "answer": "No",
+    "images": [
+      "SpatialAct/data/images/architectural/spatial_visualization/tianhe_regions/region_004_v03/top_move.png"
+    ]
+  },
+  {
+    "task_type": "top_move_overlap",
+    "question": "There is one image: a top-view image.\nDirections in the image: North=up, South=down, East=right, West=left.\nIf building 4 is moved North by 2 units, will it overlap (collide) with building 1? Answer with Yes or No.\n\nTop-view image: <image>\nNote: the image includes a 1 unit scale bar.\n",
+    "answer": "No",
+    "images": [
+      "SpatialAct/data/images/architectural/spatial_visualization/tsinghua_regions/region_009_v03/top_move.png"
+    ]
+  },
+  {
+    "task_type": "top_move_overlap",
+    "question": "There is one image: a top-view image.\nDirections in the image: North=up, South=down, East=right, West=left.\nIf building 2 is moved South by 5 units, will it overlap (collide) with building 3? Answer with Yes or No.\n\nTop-view image: <image>\nNote: the image includes a 1 unit scale bar.\n",
+    "answer": "Yes",
+    "images": [
+      "SpatialAct/data/images/architectural/spatial_visualization/tsinghua_regions/region_000_v01/top_move.png"
+    ]
+  },
+  {
+    "task_type": "top_move_overlap",
+    "question": "There is one image: a top-view image.\nDirections in the image: North=up, South=down, East=right, West=left.\nIf building 1 is moved South by 6 units, will it overlap (collide) with building 2? Answer with Yes or No.\n\nTop-view image: <image>\nNote: the image includes a 1 unit scale bar.\n",
+    "answer": "Yes",
+    "images": [
+      "SpatialAct/data/images/architectural/spatial_visualization/nansha_regions/region_010_v01/top_move.png"
+    ]
+  },
+  {
+    "task_type": "top_move_overlap",
+    "question": "There is one image: a top-view image.\nDirections in the image: North=up, South=down, East=right, West=left.\nIf building 3 is moved West by 2 units, will it overlap (collide) with building 1? Answer with Yes or No.\n\nTop-view image: <image>\nNote: the image includes a 1 unit scale bar.\n",
+    "answer": "No",
+    "images": [
+      "SpatialAct/data/images/architectural/spatial_visualization/tsinghua_regions/region_035_v03/top_move.png"
+    ]
+  },
+  {
+    "task_type": "top_move_overlap",
+    "question": "There is one image: a top-view image.\nDirections in the image: North=up, South=down, East=right, West=left.\nIf building 1 is moved South by 3 units, will it overlap (collide) with building 2? Answer with Yes or No.\n\nTop-view image: <image>\nNote: the image includes a 1 unit scale bar.\n",
+    "answer": "Yes",
+    "images": [
+      "SpatialAct/data/images/architectural/spatial_visualization/tsinghua_regions/region_031_v01/top_move.png"
+    ]
+  },
+  {
+    "task_type": "top_move_overlap",
+    "question": "There is one image: a top-view image.\nDirections in the image: North=up, South=down, East=right, West=left.\nIf building 11 is moved West by 6 units, will it overlap (collide) with building 2? Answer with Yes or No.\n\nTop-view image: <image>\nNote: the image includes a 1 unit scale bar.\n",
+    "answer": "No",
+    "images": [
+      "SpatialAct/data/images/architectural/spatial_visualization/tsinghua_regions/region_020_v01/top_move.png"
+    ]
+  },
+  {
+    "task_type": "top_move_overlap",
+    "question": "There is one image: a top-view image.\nDirections in the image: North=up, South=down, East=right, West=left.\nIf building 3 is moved East by 2 units, will it overlap (collide) with building 4? Answer with Yes or No.\n\nTop-view image: <image>\nNote: the image includes a 1 unit scale bar.\n",
+    "answer": "Yes",
+    "images": [
+      "SpatialAct/data/images/architectural/spatial_visualization/tianhe_regions/region_041_v03/top_move.png"
+    ]
+  },
+  {
+    "task_type": "top_move_overlap",
+    "question": "There is one image: a top-view image.\nDirections in the image: North=up, South=down, East=right, West=left.\nIf building 12 is moved East by 2 units, will it overlap (collide) with building 1? Answer with Yes or No.\n\nTop-view image: <image>\nNote: the image includes a 1 unit scale bar.\n",
+    "answer": "No",
+    "images": [
+      "SpatialAct/data/images/architectural/spatial_visualization/tsinghua_regions/region_005_v01/top_move.png"
+    ]
+  },
+  {
+    "task_type": "top_move_overlap",
+    "question": "There is one image: a top-view image.\nDirections in the image: North=up, South=down, East=right, West=left.\nIf building 1 is moved West by 1 units, will it overlap (collide) with building 2? Answer with Yes or No.\n\nTop-view image: <image>\nNote: the image includes a 1 unit scale bar.\n",
+    "answer": "No",
+    "images": [
+      "SpatialAct/data/images/architectural/spatial_visualization/tsinghua_regions/region_039_v03/top_move.png"
+    ]
+  },
+  {
+    "task_type": "top_move_overlap",
+    "question": "There is one image: a top-view image.\nDirections in the image: North=up, South=down, East=right, West=left.\nIf building 4 is moved South by 5 units, will it overlap (collide) with building 1? Answer with Yes or No.\n\nTop-view image: <image>\nNote: the image includes a 1 unit scale bar.\n",
+    "answer": "Yes",
+    "images": [
+      "SpatialAct/data/images/architectural/spatial_visualization/tsinghua_regions/region_013_v03/top_move.png"
+    ]
+  },
+  {
+    "task_type": "top_move_overlap",
+    "question": "There is one image: a top-view image.\nDirections in the image: North=up, South=down, East=right, West=left.\nIf building 8 is moved West by 1 units, will it overlap (collide) with building 2? Answer with Yes or No.\n\nTop-view image: <image>\nNote: the image includes a 1 unit scale bar.\n",
+    "answer": "No",
+    "images": [
+      "SpatialAct/data/images/architectural/spatial_visualization/tianhe_regions/region_007_v03/top_move.png"
+    ]
+  },
+  {
+    "task_type": "top_move_overlap",
+    "question": "There is one image: a top-view image.\nDirections in the image: North=up, South=down, East=right, West=left.\nIf building 1 is moved East by 3 units, will it overlap (collide) with building 3? Answer with Yes or No.\n\nTop-view image: <image>\nNote: the image includes a 1 unit scale bar.\n",
+    "answer": "Yes",
+    "images": [
+      "SpatialAct/data/images/architectural/spatial_visualization/nansha_regions/region_058_v01/top_move.png"
+    ]
+  },
+  {
+    "task_type": "top_move_overlap",
+    "question": "There is one image: a top-view image.\nDirections in the image: North=up, South=down, East=right, West=left.\nIf building 1 is moved North by 2 units, will it overlap (collide) with building 2? Answer with Yes or No.\n\nTop-view image: <image>\nNote: the image includes a 1 unit scale bar.\n",
+    "answer": "Yes",
+    "images": [
+      "SpatialAct/data/images/architectural/spatial_visualization/tianhe_regions/region_050_v01/top_move.png"
+    ]
+  },
+  {
+    "task_type": "top_move_overlap",
+    "question": "There is one image: a top-view image.\nDirections in the image: North=up, South=down, East=right, West=left.\nIf building 4 is moved East by 10 units, will it overlap (collide) with building 1? Answer with Yes or No.\n\nTop-view image: <image>\nNote: the image includes a 1 unit scale bar.\n",
+    "answer": "Yes",
+    "images": [
+      "SpatialAct/data/images/architectural/spatial_visualization/tsinghua_regions/region_015_v02/top_move.png"
+    ]
+  },
+  {
+    "task_type": "top_move_overlap",
+    "question": "There is one image: a top-view image.\nDirections in the image: North=up, South=down, East=right, West=left.\nIf building 6 is moved North by 6 units, will it overlap (collide) with building 1? Answer with Yes or No.\n\nTop-view image: <image>\nNote: the image includes a 1 unit scale bar.\n",
+    "answer": "No",
+    "images": [
+      "SpatialAct/data/images/architectural/spatial_visualization/nansha_regions/region_072_v02/top_move.png"
+    ]
+  },
+  {
+    "task_type": "top_move_overlap",
+    "question": "There is one image: a top-view image.\nDirections in the image: North=up, South=down, East=right, West=left.\nIf building 5 is moved South by 2 units, will it overlap (collide) with building 1? Answer with Yes or No.\n\nTop-view image: <image>\nNote: the image includes a 1 unit scale bar.\n",
+    "answer": "Yes",
+    "images": [
+      "SpatialAct/data/images/architectural/spatial_visualization/tsinghua_regions/region_037_v02/top_move.png"
+    ]
+  },
+  {
+    "task_type": "top_move_overlap",
+    "question": "There is one image: a top-view image.\nDirections in the image: North=up, South=down, East=right, West=left.\nIf building 1 is moved South by 2 units, will it overlap (collide) with building 2? Answer with Yes or No.\n\nTop-view image: <image>\nNote: the image includes a 1 unit scale bar.\n",
+    "answer": "No",
+    "images": [
+      "SpatialAct/data/images/architectural/spatial_visualization/tianhe_regions/region_050_v02/top_move.png"
+    ]
+  },
+  {
+    "task_type": "top_move_overlap",
+    "question": "There is one image: a top-view image.\nDirections in the image: North=up, South=down, East=right, West=left.\nIf building 2 is moved North by 3 units, will it overlap (collide) with building 1? Answer with Yes or No.\n\nTop-view image: <image>\nNote: the image includes a 1 unit scale bar.\n",
+    "answer": "No",
+    "images": [
+      "SpatialAct/data/images/architectural/spatial_visualization/tianhe_regions/region_040_v03/top_move.png"
+    ]
+  },
+  {
+    "task_type": "top_move_overlap",
+    "question": "There is one image: a top-view image.\nDirections in the image: North=up, South=down, East=right, West=left.\nIf building 2 is moved South by 2 units, will it overlap (collide) with building 1? Answer with Yes or No.\n\nTop-view image: <image>\nNote: the image includes a 1 unit scale bar.\n",
+    "answer": "Yes",
+    "images": [
+      "SpatialAct/data/images/architectural/spatial_visualization/tsinghua_regions/region_006_v03/top_move.png"
+    ]
+  },
+  {
+    "task_type": "top_move_overlap",
+    "question": "There is one image: a top-view image.\nDirections in the image: North=up, South=down, East=right, West=left.\nIf building 1 is moved West by 6 units, will it overlap (collide) with building 2? Answer with Yes or No.\n\nTop-view image: <image>\nNote: the image includes a 1 unit scale bar.\n",
+    "answer": "Yes",
+    "images": [
+      "SpatialAct/data/images/architectural/spatial_visualization/tianhe_regions/region_054_v01/top_move.png"
+    ]
+  },
+  {
+    "task_type": "top_move_overlap",
+    "question": "There is one image: a top-view image.\nDirections in the image: North=up, South=down, East=right, West=left.\nIf building 2 is moved South by 3 units, will it overlap (collide) with building 3? Answer with Yes or No.\n\nTop-view image: <image>\nNote: the image includes a 1 unit scale bar.\n",
+    "answer": "No",
+    "images": [
+      "SpatialAct/data/images/architectural/spatial_visualization/tsinghua_regions/region_055_v02/top_move.png"
+    ]
+  },
+  {
+    "task_type": "top_move_overlap",
+    "question": "There is one image: a top-view image.\nDirections in the image: North=up, South=down, East=right, West=left.\nIf building 5 is moved East by 5 units, will it overlap (collide) with building 2? Answer with Yes or No.\n\nTop-view image: <image>\nNote: the image includes a 1 unit scale bar.\n",
+    "answer": "No",
+    "images": [
+      "SpatialAct/data/images/architectural/spatial_visualization/tsinghua_regions/region_016_v02/top_move.png"
+    ]
+  },
+  {
+    "task_type": "top_move_overlap",
+    "question": "There is one image: a top-view image.\nDirections in the image: North=up, South=down, East=right, West=left.\nIf building 7 is moved East by 1 units, will it overlap (collide) with building 3? Answer with Yes or No.\n\nTop-view image: <image>\nNote: the image includes a 1 unit scale bar.\n",
+    "answer": "No",
+    "images": [
+      "SpatialAct/data/images/architectural/spatial_visualization/nansha_regions/region_059_v01/top_move.png"
+    ]
+  },
+  {
+    "task_type": "top_move_overlap",
+    "question": "There is one image: a top-view image.\nDirections in the image: North=up, South=down, East=right, West=left.\nIf building 11 is moved West by 2 units, will it overlap (collide) with building 10? Answer with Yes or No.\n\nTop-view image: <image>\nNote: the image includes a 1 unit scale bar.\n",
+    "answer": "No",
+    "images": [
+      "SpatialAct/data/images/architectural/spatial_visualization/nansha_regions/region_065_v03/top_move.png"
+    ]
+  },
+  {
+    "task_type": "top_move_overlap",
+    "question": "There is one image: a top-view image.\nDirections in the image: North=up, South=down, East=right, West=left.\nIf building 1 is moved North by 10 units, will it overlap (collide) with building 2? Answer with Yes or No.\n\nTop-view image: <image>\nNote: the image includes a 1 unit scale bar.\n",
+    "answer": "Yes",
+    "images": [
+      "SpatialAct/data/images/architectural/spatial_visualization/tsinghua_regions/region_013_v01/top_move.png"
+    ]
+  },
+  {
+    "task_type": "top_move_overlap",
+    "question": "There is one image: a top-view image.\nDirections in the image: North=up, South=down, East=right, West=left.\nIf building 2 is moved East by 3 units, will it overlap (collide) with building 3? Answer with Yes or No.\n\nTop-view image: <image>\nNote: the image includes a 1 unit scale bar.\n",
+    "answer": "Yes",
+    "images": [
+      "SpatialAct/data/images/architectural/spatial_visualization/tianhe_regions/region_001_v01/top_move.png"
+    ]
+  },
+  {
+    "task_type": "top_move_overlap",
+    "question": "There is one image: a top-view image.\nDirections in the image: North=up, South=down, East=right, West=left.\nIf building 9 is moved South by 3 units, will it overlap (collide) with building 1? Answer with Yes or No.\n\nTop-view image: <image>\nNote: the image includes a 1 unit scale bar.\n",
+    "answer": "No",
+    "images": [
+      "SpatialAct/data/images/architectural/spatial_visualization/nansha_regions/region_033_v03/top_move.png"
+    ]
+  },
+  {
+    "task_type": "top_move_overlap",
+    "question": "There is one image: a top-view image.\nDirections in the image: North=up, South=down, East=right, West=left.\nIf building 5 is moved South by 2 units, will it overlap (collide) with building 1? Answer with Yes or No.\n\nTop-view image: <image>\nNote: the image includes a 1 unit scale bar.\n",
+    "answer": "Yes",
+    "images": [
+      "SpatialAct/data/images/architectural/spatial_visualization/nansha_regions/region_060_v03/top_move.png"
+    ]
+  },
+  {
+    "task_type": "top_move_overlap",
+    "question": "There is one image: a top-view image.\nDirections in the image: North=up, South=down, East=right, West=left.\nIf building 3 is moved North by 3 units, will it overlap (collide) with building 1? Answer with Yes or No.\n\nTop-view image: <image>\nNote: the image includes a 1 unit scale bar.\n",
+    "answer": "Yes",
+    "images": [
+      "SpatialAct/data/images/architectural/spatial_visualization/tsinghua_regions/region_028_v03/top_move.png"
+    ]
+  },
+  {
+    "task_type": "top_move_overlap",
+    "question": "There is one image: a top-view image.\nDirections in the image: North=up, South=down, East=right, West=left.\nIf building 3 is moved South by 2 units, will it overlap (collide) with building 2? Answer with Yes or No.\n\nTop-view image: <image>\nNote: the image includes a 1 unit scale bar.\n",
+    "answer": "Yes",
+    "images": [
+      "SpatialAct/data/images/architectural/spatial_visualization/nansha_regions/region_009_v02/top_move.png"
+    ]
+  },
+  {
+    "task_type": "top_move_overlap",
+    "question": "There is one image: a top-view image.\nDirections in the image: North=up, South=down, East=right, West=left.\nIf building 8 is moved North by 10 units, will it overlap (collide) with building 1? Answer with Yes or No.\n\nTop-view image: <image>\nNote: the image includes a 1 unit scale bar.\n",
+    "answer": "Yes",
+    "images": [
+      "SpatialAct/data/images/architectural/spatial_visualization/nansha_regions/region_023_v02/top_move.png"
+    ]
+  },
+  {
+    "task_type": "top_move_overlap",
+    "question": "There is one image: a top-view image.\nDirections in the image: North=up, South=down, East=right, West=left.\nIf building 2 is moved East by 3 units, will it overlap (collide) with building 1? Answer with Yes or No.\n\nTop-view image: <image>\nNote: the image includes a 1 unit scale bar.\n",
+    "answer": "No",
+    "images": [
+      "SpatialAct/data/images/architectural/spatial_visualization/tsinghua_regions/region_043_v03/top_move.png"
+    ]
+  },
+  {
+    "task_type": "top_move_overlap",
+    "question": "There is one image: a top-view image.\nDirections in the image: North=up, South=down, East=right, West=left.\nIf building 2 is moved South by 2 units, will it overlap (collide) with building 3? Answer with Yes or No.\n\nTop-view image: <image>\nNote: the image includes a 1 unit scale bar.\n",
+    "answer": "No",
+    "images": [
+      "SpatialAct/data/images/architectural/spatial_visualization/nansha_regions/region_081_v02/top_move.png"
+    ]
+  },
+  {
+    "task_type": "top_move_overlap",
+    "question": "There is one image: a top-view image.\nDirections in the image: North=up, South=down, East=right, West=left.\nIf building 7 is moved West by 2 units, will it overlap (collide) with building 1? Answer with Yes or No.\n\nTop-view image: <image>\nNote: the image includes a 1 unit scale bar.\n",
+    "answer": "No",
+    "images": [
+      "SpatialAct/data/images/architectural/spatial_visualization/tsinghua_regions/region_001_v03/top_move.png"
+    ]
+  },
+  {
+    "task_type": "top_move_overlap",
+    "question": "There is one image: a top-view image.\nDirections in the image: North=up, South=down, East=right, West=left.\nIf building 3 is moved South by 2 units, will it overlap (collide) with building 1? Answer with Yes or No.\n\nTop-view image: <image>\nNote: the image includes a 1 unit scale bar.\n",
+    "answer": "Yes",
+    "images": [
+      "SpatialAct/data/images/architectural/spatial_visualization/nansha_regions/region_079_v03/top_move.png"
+    ]
+  },
+  {
+    "task_type": "top_move_overlap",
+    "question": "There is one image: a top-view image.\nDirections in the image: North=up, South=down, East=right, West=left.\nIf building 1 is moved North by 10 units, will it overlap (collide) with building 2? Answer with Yes or No.\n\nTop-view image: <image>\nNote: the image includes a 1 unit scale bar.\n",
+    "answer": "Yes",
+    "images": [
+      "SpatialAct/data/images/architectural/spatial_visualization/nansha_regions/region_043_v03/top_move.png"
+    ]
+  },
+  {
+    "task_type": "top_move_overlap",
+    "question": "There is one image: a top-view image.\nDirections in the image: North=up, South=down, East=right, West=left.\nIf building 3 is moved South by 6 units, will it overlap (collide) with building 1? Answer with Yes or No.\n\nTop-view image: <image>\nNote: the image includes a 1 unit scale bar.\n",
+    "answer": "Yes",
+    "images": [
+      "SpatialAct/data/images/architectural/spatial_visualization/nansha_regions/region_036_v03/top_move.png"
+    ]
+  },
+  {
+    "task_type": "top_move_overlap",
+    "question": "There is one image: a top-view image.\nDirections in the image: North=up, South=down, East=right, West=left.\nIf building 2 is moved South by 2 units, will it overlap (collide) with building 3? Answer with Yes or No.\n\nTop-view image: <image>\nNote: the image includes a 1 unit scale bar.\n",
+    "answer": "Yes",
+    "images": [
+      "SpatialAct/data/images/architectural/spatial_visualization/tianhe_regions/region_033_v03/top_move.png"
+    ]
+  },
+  {
+    "task_type": "top_move_overlap",
+    "question": "There is one image: a top-view image.\nDirections in the image: North=up, South=down, East=right, West=left.\nIf building 8 is moved East by 2 units, will it overlap (collide) with building 6? Answer with Yes or No.\n\nTop-view image: <image>\nNote: the image includes a 1 unit scale bar.\n",
+    "answer": "No",
+    "images": [
+      "SpatialAct/data/images/architectural/spatial_visualization/nansha_regions/region_028_v03/top_move.png"
+    ]
+  },
+  {
+    "task_type": "top_move_overlap",
+    "question": "There is one image: a top-view image.\nDirections in the image: North=up, South=down, East=right, West=left.\nIf building 5 is moved East by 1 units, will it overlap (collide) with building 1? Answer with Yes or No.\n\nTop-view image: <image>\nNote: the image includes a 1 unit scale bar.\n",
+    "answer": "No",
+    "images": [
+      "SpatialAct/data/images/architectural/spatial_visualization/nansha_regions/region_102_v02/top_move.png"
+    ]
+  },
+  {
+    "task_type": "top_move_overlap",
+    "question": "There is one image: a top-view image.\nDirections in the image: North=up, South=down, East=right, West=left.\nIf building 2 is moved West by 6 units, will it overlap (collide) with building 1? Answer with Yes or No.\n\nTop-view image: <image>\nNote: the image includes a 1 unit scale bar.\n",
+    "answer": "No",
+    "images": [
+      "SpatialAct/data/images/architectural/spatial_visualization/tsinghua_regions/region_035_v01/top_move.png"
+    ]
+  },
+  {
+    "task_type": "top_move_overlap",
+    "question": "There is one image: a top-view image.\nDirections in the image: North=up, South=down, East=right, West=left.\nIf building 4 is moved West by 6 units, will it overlap (collide) with building 1? Answer with Yes or No.\n\nTop-view image: <image>\nNote: the image includes a 1 unit scale bar.\n",
+    "answer": "Yes",
+    "images": [
+      "SpatialAct/data/images/architectural/spatial_visualization/nansha_regions/region_041_v02/top_move.png"
+    ]
+  },
+  {
+    "task_type": "top_move_overlap",
+    "question": "There is one image: a top-view image.\nDirections in the image: North=up, South=down, East=right, West=left.\nIf building 1 is moved South by 6 units, will it overlap (collide) with building 2? Answer with Yes or No.\n\nTop-view image: <image>\nNote: the image includes a 1 unit scale bar.\n",
+    "answer": "No",
+    "images": [
+      "SpatialAct/data/images/architectural/spatial_visualization/nansha_regions/region_044_v01/top_move.png"
+    ]
+  },
+  {
+    "task_type": "top_move_overlap",
+    "question": "There is one image: a top-view image.\nDirections in the image: North=up, South=down, East=right, West=left.\nIf building 6 is moved East by 3 units, will it overlap (collide) with building 1? Answer with Yes or No.\n\nTop-view image: <image>\nNote: the image includes a 1 unit scale bar.\n",
+    "answer": "Yes",
+    "images": [
+      "SpatialAct/data/images/architectural/spatial_visualization/nansha_regions/region_008_v03/top_move.png"
+    ]
+  },
+  {
+    "task_type": "top_move_overlap",
+    "question": "There is one image: a top-view image.\nDirections in the image: North=up, South=down, East=right, West=left.\nIf building 3 is moved South by 3 units, will it overlap (collide) with building 1? Answer with Yes or No.\n\nTop-view image: <image>\nNote: the image includes a 1 unit scale bar.\n",
+    "answer": "Yes",
+    "images": [
+      "SpatialAct/data/images/architectural/spatial_visualization/nansha_regions/region_096_v03/top_move.png"
+    ]
+  },
+  {
+    "task_type": "top_move_overlap",
+    "question": "There is one image: a top-view image.\nDirections in the image: North=up, South=down, East=right, West=left.\nIf building 6 is moved West by 6 units, will it overlap (collide) with building 1? Answer with Yes or No.\n\nTop-view image: <image>\nNote: the image includes a 1 unit scale bar.\n",
+    "answer": "No",
+    "images": [
+      "SpatialAct/data/images/architectural/spatial_visualization/nansha_regions/region_047_v01/top_move.png"
+    ]
+  },
+  {
+    "task_type": "top_move_overlap",
+    "question": "There is one image: a top-view image.\nDirections in the image: North=up, South=down, East=right, West=left.\nIf building 5 is moved South by 1 units, will it overlap (collide) with building 4? Answer with Yes or No.\n\nTop-view image: <image>\nNote: the image includes a 1 unit scale bar.\n",
+    "answer": "No",
+    "images": [
+      "SpatialAct/data/images/architectural/spatial_visualization/nansha_regions/region_044_v03/top_move.png"
+    ]
+  },
+  {
+    "task_type": "top_move_overlap",
+    "question": "There is one image: a top-view image.\nDirections in the image: North=up, South=down, East=right, West=left.\nIf building 1 is moved East by 2 units, will it overlap (collide) with building 2? Answer with Yes or No.\n\nTop-view image: <image>\nNote: the image includes a 1 unit scale bar.\n",
+    "answer": "No",
+    "images": [
+      "SpatialAct/data/images/architectural/spatial_visualization/tsinghua_regions/region_049_v01/top_move.png"
+    ]
+  },
+  {
+    "task_type": "top_move_overlap",
+    "question": "There is one image: a top-view image.\nDirections in the image: North=up, South=down, East=right, West=left.\nIf building 3 is moved East by 3 units, will it overlap (collide) with building 1? Answer with Yes or No.\n\nTop-view image: <image>\nNote: the image includes a 1 unit scale bar.\n",
+    "answer": "Yes",
+    "images": [
+      "SpatialAct/data/images/architectural/spatial_visualization/nansha_regions/region_118_v03/top_move.png"
+    ]
+  },
+  {
+    "task_type": "top_move_overlap",
+    "question": "There is one image: a top-view image.\nDirections in the image: North=up, South=down, East=right, West=left.\nIf building 1 is moved West by 2 units, will it overlap (collide) with building 2? Answer with Yes or No.\n\nTop-view image: <image>\nNote: the image includes a 1 unit scale bar.\n",
+    "answer": "Yes",
+    "images": [
+      "SpatialAct/data/images/architectural/spatial_visualization/nansha_regions/region_130_v02/top_move.png"
+    ]
+  },
+  {
+    "task_type": "top_move_overlap",
+    "question": "There is one image: a top-view image.\nDirections in the image: North=up, South=down, East=right, West=left.\nIf building 1 is moved North by 5 units, will it overlap (collide) with building 2? Answer with Yes or No.\n\nTop-view image: <image>\nNote: the image includes a 1 unit scale bar.\n",
+    "answer": "No",
+    "images": [
+      "SpatialAct/data/images/architectural/spatial_visualization/tsinghua_regions/region_031_v02/top_move.png"
+    ]
+  },
+  {
+    "task_type": "top_move_overlap",
+    "question": "There is one image: a top-view image.\nDirections in the image: North=up, South=down, East=right, West=left.\nIf building 14 is moved East by 5 units, will it overlap (collide) with building 2? Answer with Yes or No.\n\nTop-view image: <image>\nNote: the image includes a 1 unit scale bar.\n",
+    "answer": "No",
+    "images": [
+      "SpatialAct/data/images/architectural/spatial_visualization/nansha_regions/region_143_v01/top_move.png"
+    ]
+  },
+  {
+    "task_type": "top_move_overlap",
+    "question": "There is one image: a top-view image.\nDirections in the image: North=up, South=down, East=right, West=left.\nIf building 1 is moved South by 5 units, will it overlap (collide) with building 2? Answer with Yes or No.\n\nTop-view image: <image>\nNote: the image includes a 1 unit scale bar.\n",
+    "answer": "Yes",
+    "images": [
+      "SpatialAct/data/images/architectural/spatial_visualization/nansha_regions/region_094_v03/top_move.png"
+    ]
+  },
+  {
+    "task_type": "top_move_overlap",
+    "question": "There is one image: a top-view image.\nDirections in the image: North=up, South=down, East=right, West=left.\nIf building 3 is moved West by 6 units, will it overlap (collide) with building 1? Answer with Yes or No.\n\nTop-view image: <image>\nNote: the image includes a 1 unit scale bar.\n",
+    "answer": "Yes",
+    "images": [
+      "SpatialAct/data/images/architectural/spatial_visualization/tianhe_regions/region_005_v01/top_move.png"
+    ]
+  },
+  {
+    "task_type": "top_move_overlap",
+    "question": "There is one image: a top-view image.\nDirections in the image: North=up, South=down, East=right, West=left.\nIf building 1 is moved West by 3 units, will it overlap (collide) with building 2? Answer with Yes or No.\n\nTop-view image: <image>\nNote: the image includes a 1 unit scale bar.\n",
+    "answer": "Yes",
+    "images": [
+      "SpatialAct/data/images/architectural/spatial_visualization/tsinghua_regions/region_042_v03/top_move.png"
+    ]
+  },
+  {
+    "task_type": "top_move_overlap",
+    "question": "There is one image: a top-view image.\nDirections in the image: North=up, South=down, East=right, West=left.\nIf building 3 is moved West by 2 units, will it overlap (collide) with building 1? Answer with Yes or No.\n\nTop-view image: <image>\nNote: the image includes a 1 unit scale bar.\n",
+    "answer": "No",
+    "images": [
+      "SpatialAct/data/images/architectural/spatial_visualization/tsinghua_regions/region_012_v03/top_move.png"
+    ]
+  },
+  {
+    "task_type": "top_move_overlap",
+    "question": "There is one image: a top-view image.\nDirections in the image: North=up, South=down, East=right, West=left.\nIf building 6 is moved North by 10 units, will it overlap (collide) with building 1? Answer with Yes or No.\n\nTop-view image: <image>\nNote: the image includes a 1 unit scale bar.\n",
+    "answer": "No",
+    "images": [
+      "SpatialAct/data/images/architectural/spatial_visualization/nansha_regions/region_031_v01/top_move.png"
+    ]
+  },
+  {
+    "task_type": "top_move_overlap",
+    "question": "There is one image: a top-view image.\nDirections in the image: North=up, South=down, East=right, West=left.\nIf building 2 is moved North by 3 units, will it overlap (collide) with building 4? Answer with Yes or No.\n\nTop-view image: <image>\nNote: the image includes a 1 unit scale bar.\n",
+    "answer": "Yes",
+    "images": [
+      "SpatialAct/data/images/architectural/spatial_visualization/nansha_regions/region_030_v01/top_move.png"
+    ]
+  },
+  {
+    "task_type": "top_move_overlap",
+    "question": "There is one image: a top-view image.\nDirections in the image: North=up, South=down, East=right, West=left.\nIf building 6 is moved South by 2 units, will it overlap (collide) with building 2? Answer with Yes or No.\n\nTop-view image: <image>\nNote: the image includes a 1 unit scale bar.\n",
+    "answer": "No",
+    "images": [
+      "SpatialAct/data/images/architectural/spatial_visualization/nansha_regions/region_043_v02/top_move.png"
+    ]
+  },
+  {
+    "task_type": "top_move_overlap",
+    "question": "There is one image: a top-view image.\nDirections in the image: North=up, South=down, East=right, West=left.\nIf building 7 is moved North by 1 units, will it overlap (collide) with building 1? Answer with Yes or No.\n\nTop-view image: <image>\nNote: the image includes a 1 unit scale bar.\n",
+    "answer": "No",
+    "images": [
+      "SpatialAct/data/images/architectural/spatial_visualization/nansha_regions/region_001_v02/top_move.png"
+    ]
+  },
+  {
+    "task_type": "top_move_overlap",
+    "question": "There is one image: a top-view image.\nDirections in the image: North=up, South=down, East=right, West=left.\nIf building 7 is moved East by 10 units, will it overlap (collide) with building 1? Answer with Yes or No.\n\nTop-view image: <image>\nNote: the image includes a 1 unit scale bar.\n",
+    "answer": "Yes",
+    "images": [
+      "SpatialAct/data/images/architectural/spatial_visualization/nansha_regions/region_047_v02/top_move.png"
+    ]
+  },
+  {
+    "task_type": "top_move_overlap",
+    "question": "There is one image: a top-view image.\nDirections in the image: North=up, South=down, East=right, West=left.\nIf building 5 is moved North by 2 units, will it overlap (collide) with building 1? Answer with Yes or No.\n\nTop-view image: <image>\nNote: the image includes a 1 unit scale bar.\n",
+    "answer": "No",
+    "images": [
+      "SpatialAct/data/images/architectural/spatial_visualization/nansha_regions/region_031_v03/top_move.png"
+    ]
+  },
+  {
+    "task_type": "top_swap_overlap",
+    "question": "There is one image: a top-view image.\nIf we swap the positions of building 4 and building 5, will there be any building-to-building overlap (collision) in the scene AFTER the swap? Answer with Yes or No.\n\nTop-view image: <image>",
+    "answer": "No",
+    "images": [
+      "SpatialAct/data/images/architectural/spatial_visualization/tianhe_regions/region_033_v01/top_swap.png"
+    ]
+  },
+  {
+    "task_type": "top_swap_overlap",
+    "question": "There is one image: a top-view image.\nIf we swap the positions of building 1 and building 2, will there be any building-to-building overlap (collision) in the scene AFTER the swap? Answer with Yes or No.\n\nTop-view image: <image>",
+    "answer": "Yes",
+    "images": [
+      "SpatialAct/data/images/architectural/spatial_visualization/nansha_regions/region_141_v02/top_swap.png"
+    ]
+  },
+  {
+    "task_type": "top_swap_overlap",
+    "question": "There is one image: a top-view image.\nIf we swap the positions of building 1 and building 2, will there be any building-to-building overlap (collision) in the scene AFTER the swap? Answer with Yes or No.\n\nTop-view image: <image>",
+    "answer": "No",
+    "images": [
+      "SpatialAct/data/images/architectural/spatial_visualization/tsinghua_regions/region_043_v02/top_swap.png"
+    ]
+  },
+  {
+    "task_type": "top_swap_overlap",
+    "question": "There is one image: a top-view image.\nIf we swap the positions of building 9 and building 10, will there be any building-to-building overlap (collision) in the scene AFTER the swap? Answer with Yes or No.\n\nTop-view image: <image>",
+    "answer": "Yes",
+    "images": [
+      "SpatialAct/data/images/architectural/spatial_visualization/nansha_regions/region_010_v02/top_swap.png"
+    ]
+  },
+  {
+    "task_type": "top_swap_overlap",
+    "question": "There is one image: a top-view image.\nIf we swap the positions of building 5 and building 7, will there be any building-to-building overlap (collision) in the scene AFTER the swap? Answer with Yes or No.\n\nTop-view image: <image>",
+    "answer": "No",
+    "images": [
+      "SpatialAct/data/images/architectural/spatial_visualization/tsinghua_regions/region_009_v02/top_swap.png"
+    ]
+  },
+  {
+    "task_type": "top_swap_overlap",
+    "question": "There is one image: a top-view image.\nIf we swap the positions of building 10 and building 13, will there be any building-to-building overlap (collision) in the scene AFTER the swap? Answer with Yes or No.\n\nTop-view image: <image>",
+    "answer": "Yes",
+    "images": [
+      "SpatialAct/data/images/architectural/spatial_visualization/tianhe_regions/region_037_v03/top_swap.png"
+    ]
+  },
+  {
+    "task_type": "top_swap_overlap",
+    "question": "There is one image: a top-view image.\nIf we swap the positions of building 4 and building 7, will there be any building-to-building overlap (collision) in the scene AFTER the swap? Answer with Yes or No.\n\nTop-view image: <image>",
+    "answer": "Yes",
+    "images": [
+      "SpatialAct/data/images/architectural/spatial_visualization/nansha_regions/region_116_v02/top_swap.png"
+    ]
+  },
+  {
+    "task_type": "top_swap_overlap",
+    "question": "There is one image: a top-view image.\nIf we swap the positions of building 7 and building 12, will there be any building-to-building overlap (collision) in the scene AFTER the swap? Answer with Yes or No.\n\nTop-view image: <image>",
+    "answer": "Yes",
+    "images": [
+      "SpatialAct/data/images/architectural/spatial_visualization/tsinghua_regions/region_019_v02/top_swap.png"
+    ]
+  },
+  {
+    "task_type": "top_swap_overlap",
+    "question": "There is one image: a top-view image.\nIf we swap the positions of building 2 and building 7, will there be any building-to-building overlap (collision) in the scene AFTER the swap? Answer with Yes or No.\n\nTop-view image: <image>",
+    "answer": "Yes",
+    "images": [
+      "SpatialAct/data/images/architectural/spatial_visualization/nansha_regions/region_047_v03/top_swap.png"
+    ]
+  },
+  {
+    "task_type": "top_swap_overlap",
+    "question": "There is one image: a top-view image.\nIf we swap the positions of building 7 and building 8, will there be any building-to-building overlap (collision) in the scene AFTER the swap? Answer with Yes or No.\n\nTop-view image: <image>",
+    "answer": "No",
+    "images": [
+      "SpatialAct/data/images/architectural/spatial_visualization/nansha_regions/region_045_v01/top_swap.png"
+    ]
+  },
+  {
+    "task_type": "top_swap_overlap",
+    "question": "There is one image: a top-view image.\nIf we swap the positions of building 8 and building 13, will there be any building-to-building overlap (collision) in the scene AFTER the swap? Answer with Yes or No.\n\nTop-view image: <image>",
+    "answer": "Yes",
+    "images": [
+      "SpatialAct/data/images/architectural/spatial_visualization/tianhe_regions/region_007_v03/top_swap.png"
+    ]
+  },
+  {
+    "task_type": "top_swap_overlap",
+    "question": "There is one image: a top-view image.\nIf we swap the positions of building 2 and building 5, will there be any building-to-building overlap (collision) in the scene AFTER the swap? Answer with Yes or No.\n\nTop-view image: <image>",
+    "answer": "No",
+    "images": [
+      "SpatialAct/data/images/architectural/spatial_visualization/nansha_regions/region_060_v03/top_swap.png"
+    ]
+  },
+  {
+    "task_type": "top_swap_overlap",
+    "question": "There is one image: a top-view image.\nIf we swap the positions of building 3 and building 10, will there be any building-to-building overlap (collision) in the scene AFTER the swap? Answer with Yes or No.\n\nTop-view image: <image>",
+    "answer": "Yes",
+    "images": [
+      "SpatialAct/data/images/architectural/spatial_visualization/tsinghua_regions/region_010_v02/top_swap.png"
+    ]
+  },
+  {
+    "task_type": "top_swap_overlap",
+    "question": "There is one image: a top-view image.\nIf we swap the positions of building 8 and building 13, will there be any building-to-building overlap (collision) in the scene AFTER the swap? Answer with Yes or No.\n\nTop-view image: <image>",
+    "answer": "Yes",
+    "images": [
+      "SpatialAct/data/images/architectural/spatial_visualization/tianhe_regions/region_025_v01/top_swap.png"
+    ]
+  },
+  {
+    "task_type": "top_swap_overlap",
+    "question": "There is one image: a top-view image.\nIf we swap the positions of building 1 and building 3, will there be any building-to-building overlap (collision) in the scene AFTER the swap? Answer with Yes or No.\n\nTop-view image: <image>",
+    "answer": "No",
+    "images": [
+      "SpatialAct/data/images/architectural/spatial_visualization/tsinghua_regions/region_028_v03/top_swap.png"
+    ]
+  },
+  {
+    "task_type": "top_swap_overlap",
+    "question": "There is one image: a top-view image.\nIf we swap the positions of building 1 and building 2, will there be any building-to-building overlap (collision) in the scene AFTER the swap? Answer with Yes or No.\n\nTop-view image: <image>",
+    "answer": "No",
+    "images": [
+      "SpatialAct/data/images/architectural/spatial_visualization/tsinghua_regions/region_055_v03/top_swap.png"
+    ]
+  },
+  {
+    "task_type": "top_swap_overlap",
+    "question": "There is one image: a top-view image.\nIf we swap the positions of building 2 and building 3, will there be any building-to-building overlap (collision) in the scene AFTER the swap? Answer with Yes or No.\n\nTop-view image: <image>",
+    "answer": "No",
+    "images": [
+      "SpatialAct/data/images/architectural/spatial_visualization/nansha_regions/region_081_v01/top_swap.png"
+    ]
+  },
+  {
+    "task_type": "top_swap_overlap",
+    "question": "There is one image: a top-view image.\nIf we swap the positions of building 1 and building 5, will there be any building-to-building overlap (collision) in the scene AFTER the swap? Answer with Yes or No.\n\nTop-view image: <image>",
+    "answer": "No",
+    "images": [
+      "SpatialAct/data/images/architectural/spatial_visualization/tsinghua_regions/region_047_v01/top_swap.png"
+    ]
+  },
+  {
+    "task_type": "top_swap_overlap",
+    "question": "There is one image: a top-view image.\nIf we swap the positions of building 1 and building 5, will there be any building-to-building overlap (collision) in the scene AFTER the swap? Answer with Yes or No.\n\nTop-view image: <image>",
+    "answer": "Yes",
+    "images": [
+      "SpatialAct/data/images/architectural/spatial_visualization/tianhe_regions/region_020_v03/top_swap.png"
+    ]
+  },
+  {
+    "task_type": "top_swap_overlap",
+    "question": "There is one image: a top-view image.\nIf we swap the positions of building 2 and building 5, will there be any building-to-building overlap (collision) in the scene AFTER the swap? Answer with Yes or No.\n\nTop-view image: <image>",
+    "answer": "Yes",
+    "images": [
+      "SpatialAct/data/images/architectural/spatial_visualization/nansha_regions/region_078_v03/top_swap.png"
+    ]
+  },
+  {
+    "task_type": "top_swap_overlap",
+    "question": "There is one image: a top-view image.\nIf we swap the positions of building 2 and building 9, will there be any building-to-building overlap (collision) in the scene AFTER the swap? Answer with Yes or No.\n\nTop-view image: <image>",
+    "answer": "Yes",
+    "images": [
+      "SpatialAct/data/images/architectural/spatial_visualization/nansha_regions/region_011_v03/top_swap.png"
+    ]
+  },
+  {
+    "task_type": "top_swap_overlap",
+    "question": "There is one image: a top-view image.\nIf we swap the positions of building 1 and building 2, will there be any building-to-building overlap (collision) in the scene AFTER the swap? Answer with Yes or No.\n\nTop-view image: <image>",
+    "answer": "No",
+    "images": [
+      "SpatialAct/data/images/architectural/spatial_visualization/nansha_regions/region_129_v03/top_swap.png"
+    ]
+  },
+  {
+    "task_type": "top_swap_overlap",
+    "question": "There is one image: a top-view image.\nIf we swap the positions of building 1 and building 6, will there be any building-to-building overlap (collision) in the scene AFTER the swap? Answer with Yes or No.\n\nTop-view image: <image>",
+    "answer": "Yes",
+    "images": [
+      "SpatialAct/data/images/architectural/spatial_visualization/nansha_regions/region_079_v02/top_swap.png"
+    ]
+  },
+  {
+    "task_type": "top_swap_overlap",
+    "question": "There is one image: a top-view image.\nIf we swap the positions of building 10 and building 11, will there be any building-to-building overlap (collision) in the scene AFTER the swap? Answer with Yes or No.\n\nTop-view image: <image>",
+    "answer": "Yes",
+    "images": [
+      "SpatialAct/data/images/architectural/spatial_visualization/nansha_regions/region_033_v01/top_swap.png"
+    ]
+  },
+  {
+    "task_type": "top_swap_overlap",
+    "question": "There is one image: a top-view image.\nIf we swap the positions of building 5 and building 7, will there be any building-to-building overlap (collision) in the scene AFTER the swap? Answer with Yes or No.\n\nTop-view image: <image>",
+    "answer": "No",
+    "images": [
+      "SpatialAct/data/images/architectural/spatial_visualization/tsinghua_regions/region_016_v01/top_swap.png"
+    ]
+  },
+  {
+    "task_type": "top_swap_overlap",
+    "question": "There is one image: a top-view image.\nIf we swap the positions of building 5 and building 7, will there be any building-to-building overlap (collision) in the scene AFTER the swap? Answer with Yes or No.\n\nTop-view image: <image>",
+    "answer": "No",
+    "images": [
+      "SpatialAct/data/images/architectural/spatial_visualization/nansha_regions/region_102_v01/top_swap.png"
+    ]
+  },
+  {
+    "task_type": "top_swap_overlap",
+    "question": "There is one image: a top-view image.\nIf we swap the positions of building 9 and building 10, will there be any building-to-building overlap (collision) in the scene AFTER the swap? Answer with Yes or No.\n\nTop-view image: <image>",
+    "answer": "No",
+    "images": [
+      "SpatialAct/data/images/architectural/spatial_visualization/nansha_regions/region_011_v02/top_swap.png"
+    ]
+  },
+  {
+    "task_type": "top_swap_overlap",
+    "question": "There is one image: a top-view image.\nIf we swap the positions of building 1 and building 4, will there be any building-to-building overlap (collision) in the scene AFTER the swap? Answer with Yes or No.\n\nTop-view image: <image>",
+    "answer": "No",
+    "images": [
+      "SpatialAct/data/images/architectural/spatial_visualization/nansha_regions/region_152_v03/top_swap.png"
+    ]
+  },
+  {
+    "task_type": "top_swap_overlap",
+    "question": "There is one image: a top-view image.\nIf we swap the positions of building 3 and building 6, will there be any building-to-building overlap (collision) in the scene AFTER the swap? Answer with Yes or No.\n\nTop-view image: <image>",
+    "answer": "Yes",
+    "images": [
+      "SpatialAct/data/images/architectural/spatial_visualization/nansha_regions/region_128_v03/top_swap.png"
+    ]
+  },
+  {
+    "task_type": "top_swap_overlap",
+    "question": "There is one image: a top-view image.\nIf we swap the positions of building 3 and building 5, will there be any building-to-building overlap (collision) in the scene AFTER the swap? Answer with Yes or No.\n\nTop-view image: <image>",
+    "answer": "No",
+    "images": [
+      "SpatialAct/data/images/architectural/spatial_visualization/nansha_regions/region_079_v01/top_swap.png"
+    ]
+  },
+  {
+    "task_type": "top_swap_overlap",
+    "question": "There is one image: a top-view image.\nIf we swap the positions of building 1 and building 3, will there be any building-to-building overlap (collision) in the scene AFTER the swap? Answer with Yes or No.\n\nTop-view image: <image>",
+    "answer": "No",
+    "images": [
+      "SpatialAct/data/images/architectural/spatial_visualization/tsinghua_regions/region_035_v02/top_swap.png"
+    ]
+  },
+  {
+    "task_type": "top_swap_overlap",
+    "question": "There is one image: a top-view image.\nIf we swap the positions of building 1 and building 4, will there be any building-to-building overlap (collision) in the scene AFTER the swap? Answer with Yes or No.\n\nTop-view image: <image>",
+    "answer": "No",
+    "images": [
+      "SpatialAct/data/images/architectural/spatial_visualization/nansha_regions/region_098_v01/top_swap.png"
+    ]
+  },
+  {
+    "task_type": "top_swap_overlap",
+    "question": "There is one image: a top-view image.\nIf we swap the positions of building 3 and building 7, will there be any building-to-building overlap (collision) in the scene AFTER the swap? Answer with Yes or No.\n\nTop-view image: <image>",
+    "answer": "No",
+    "images": [
+      "SpatialAct/data/images/architectural/spatial_visualization/tianhe_regions/region_050_v03/top_swap.png"
+    ]
+  },
+  {
+    "task_type": "top_swap_overlap",
+    "question": "There is one image: a top-view image.\nIf we swap the positions of building 1 and building 4, will there be any building-to-building overlap (collision) in the scene AFTER the swap? Answer with Yes or No.\n\nTop-view image: <image>",
+    "answer": "No",
+    "images": [
+      "SpatialAct/data/images/architectural/spatial_visualization/tsinghua_regions/region_010_v01/top_swap.png"
+    ]
+  },
+  {
+    "task_type": "top_swap_overlap",
+    "question": "There is one image: a top-view image.\nIf we swap the positions of building 1 and building 4, will there be any building-to-building overlap (collision) in the scene AFTER the swap? Answer with Yes or No.\n\nTop-view image: <image>",
+    "answer": "No",
+    "images": [
+      "SpatialAct/data/images/architectural/spatial_visualization/nansha_regions/region_032_v03/top_swap.png"
+    ]
+  },
+  {
+    "task_type": "top_swap_overlap",
+    "question": "There is one image: a top-view image.\nIf we swap the positions of building 3 and building 8, will there be any building-to-building overlap (collision) in the scene AFTER the swap? Answer with Yes or No.\n\nTop-view image: <image>",
+    "answer": "No",
+    "images": [
+      "SpatialAct/data/images/architectural/spatial_visualization/tsinghua_regions/region_020_v02/top_swap.png"
+    ]
+  },
+  {
+    "task_type": "top_swap_overlap",
+    "question": "There is one image: a top-view image.\nIf we swap the positions of building 8 and building 15, will there be any building-to-building overlap (collision) in the scene AFTER the swap? Answer with Yes or No.\n\nTop-view image: <image>",
+    "answer": "Yes",
+    "images": [
+      "SpatialAct/data/images/architectural/spatial_visualization/tianhe_regions/region_016_v01/top_swap.png"
+    ]
+  },
+  {
+    "task_type": "top_swap_overlap",
+    "question": "There is one image: a top-view image.\nIf we swap the positions of building 1 and building 2, will there be any building-to-building overlap (collision) in the scene AFTER the swap? Answer with Yes or No.\n\nTop-view image: <image>",
+    "answer": "No",
+    "images": [
+      "SpatialAct/data/images/architectural/spatial_visualization/tsinghua_regions/region_055_v01/top_swap.png"
+    ]
+  },
+  {
+    "task_type": "top_swap_overlap",
+    "question": "There is one image: a top-view image.\nIf we swap the positions of building 3 and building 6, will there be any building-to-building overlap (collision) in the scene AFTER the swap? Answer with Yes or No.\n\nTop-view image: <image>",
+    "answer": "No",
+    "images": [
+      "SpatialAct/data/images/architectural/spatial_visualization/nansha_regions/region_102_v03/top_swap.png"
+    ]
+  },
+  {
+    "task_type": "top_swap_overlap",
+    "question": "There is one image: a top-view image.\nIf we swap the positions of building 2 and building 10, will there be any building-to-building overlap (collision) in the scene AFTER the swap? Answer with Yes or No.\n\nTop-view image: <image>",
+    "answer": "No",
+    "images": [
+      "SpatialAct/data/images/architectural/spatial_visualization/tsinghua_regions/region_017_v02/top_swap.png"
+    ]
+  },
+  {
+    "task_type": "top_swap_overlap",
+    "question": "There is one image: a top-view image.\nIf we swap the positions of building 3 and building 4, will there be any building-to-building overlap (collision) in the scene AFTER the swap? Answer with Yes or No.\n\nTop-view image: <image>",
+    "answer": "Yes",
+    "images": [
+      "SpatialAct/data/images/architectural/spatial_visualization/tianhe_regions/region_048_v03/top_swap.png"
+    ]
+  },
+  {
+    "task_type": "top_swap_overlap",
+    "question": "There is one image: a top-view image.\nIf we swap the positions of building 2 and building 3, will there be any building-to-building overlap (collision) in the scene AFTER the swap? Answer with Yes or No.\n\nTop-view image: <image>",
+    "answer": "No",
+    "images": [
+      "SpatialAct/data/images/architectural/spatial_visualization/tianhe_regions/region_054_v03/top_swap.png"
+    ]
+  },
+  {
+    "task_type": "top_swap_overlap",
+    "question": "There is one image: a top-view image.\nIf we swap the positions of building 1 and building 6, will there be any building-to-building overlap (collision) in the scene AFTER the swap? Answer with Yes or No.\n\nTop-view image: <image>",
+    "answer": "Yes",
+    "images": [
+      "SpatialAct/data/images/architectural/spatial_visualization/tianhe_regions/region_034_v01/top_swap.png"
+    ]
+  },
+  {
+    "task_type": "top_swap_overlap",
+    "question": "There is one image: a top-view image.\nIf we swap the positions of building 1 and building 5, will there be any building-to-building overlap (collision) in the scene AFTER the swap? Answer with Yes or No.\n\nTop-view image: <image>",
+    "answer": "No",
+    "images": [
+      "SpatialAct/data/images/architectural/spatial_visualization/nansha_regions/region_016_v03/top_swap.png"
+    ]
+  },
+  {
+    "task_type": "top_swap_overlap",
+    "question": "There is one image: a top-view image.\nIf we swap the positions of building 5 and building 6, will there be any building-to-building overlap (collision) in the scene AFTER the swap? Answer with Yes or No.\n\nTop-view image: <image>",
+    "answer": "No",
+    "images": [
+      "SpatialAct/data/images/architectural/spatial_visualization/tianhe_regions/region_050_v01/top_swap.png"
+    ]
+  },
+  {
+    "task_type": "top_swap_overlap",
+    "question": "There is one image: a top-view image.\nIf we swap the positions of building 1 and building 5, will there be any building-to-building overlap (collision) in the scene AFTER the swap? Answer with Yes or No.\n\nTop-view image: <image>",
+    "answer": "No",
+    "images": [
+      "SpatialAct/data/images/architectural/spatial_visualization/tianhe_regions/region_019_v03/top_swap.png"
+    ]
+  },
+  {
+    "task_type": "top_swap_overlap",
+    "question": "There is one image: a top-view image.\nIf we swap the positions of building 3 and building 4, will there be any building-to-building overlap (collision) in the scene AFTER the swap? Answer with Yes or No.\n\nTop-view image: <image>",
+    "answer": "No",
+    "images": [
+      "SpatialAct/data/images/architectural/spatial_visualization/tsinghua_regions/region_000_v03/top_swap.png"
+    ]
+  },
+  {
+    "task_type": "top_swap_overlap",
+    "question": "There is one image: a top-view image.\nIf we swap the positions of building 1 and building 2, will there be any building-to-building overlap (collision) in the scene AFTER the swap? Answer with Yes or No.\n\nTop-view image: <image>",
+    "answer": "No",
+    "images": [
+      "SpatialAct/data/images/architectural/spatial_visualization/tsinghua_regions/region_044_v03/top_swap.png"
+    ]
+  },
+  {
+    "task_type": "top_swap_overlap",
+    "question": "There is one image: a top-view image.\nIf we swap the positions of building 2 and building 4, will there be any building-to-building overlap (collision) in the scene AFTER the swap? Answer with Yes or No.\n\nTop-view image: <image>",
+    "answer": "Yes",
+    "images": [
+      "SpatialAct/data/images/architectural/spatial_visualization/nansha_regions/region_041_v03/top_swap.png"
+    ]
+  },
+  {
+    "task_type": "top_swap_overlap",
+    "question": "There is one image: a top-view image.\nIf we swap the positions of building 2 and building 8, will there be any building-to-building overlap (collision) in the scene AFTER the swap? Answer with Yes or No.\n\nTop-view image: <image>",
+    "answer": "Yes",
+    "images": [
+      "SpatialAct/data/images/architectural/spatial_visualization/nansha_regions/region_092_v02/top_swap.png"
+    ]
+  },
+  {
+    "task_type": "top_swap_overlap",
+    "question": "There is one image: a top-view image.\nIf we swap the positions of building 1 and building 12, will there be any building-to-building overlap (collision) in the scene AFTER the swap? Answer with Yes or No.\n\nTop-view image: <image>",
+    "answer": "No",
+    "images": [
+      "SpatialAct/data/images/architectural/spatial_visualization/tsinghua_regions/region_005_v02/top_swap.png"
+    ]
+  },
+  {
+    "task_type": "top_swap_overlap",
+    "question": "There is one image: a top-view image.\nIf we swap the positions of building 5 and building 6, will there be any building-to-building overlap (collision) in the scene AFTER the swap? Answer with Yes or No.\n\nTop-view image: <image>",
+    "answer": "No",
+    "images": [
+      "SpatialAct/data/images/architectural/spatial_visualization/nansha_regions/region_043_v01/top_swap.png"
+    ]
+  },
+  {
+    "task_type": "top_swap_overlap",
+    "question": "There is one image: a top-view image.\nIf we swap the positions of building 3 and building 5, will there be any building-to-building overlap (collision) in the scene AFTER the swap? Answer with Yes or No.\n\nTop-view image: <image>",
+    "answer": "No",
+    "images": [
+      "SpatialAct/data/images/architectural/spatial_visualization/tsinghua_regions/region_037_v02/top_swap.png"
+    ]
+  },
+  {
+    "task_type": "top_swap_overlap",
+    "question": "There is one image: a top-view image.\nIf we swap the positions of building 3 and building 7, will there be any building-to-building overlap (collision) in the scene AFTER the swap? Answer with Yes or No.\n\nTop-view image: <image>",
+    "answer": "Yes",
+    "images": [
+      "SpatialAct/data/images/architectural/spatial_visualization/tsinghua_regions/region_039_v03/top_swap.png"
+    ]
+  },
+  {
+    "task_type": "top_swap_overlap",
+    "question": "There is one image: a top-view image.\nIf we swap the positions of building 5 and building 7, will there be any building-to-building overlap (collision) in the scene AFTER the swap? Answer with Yes or No.\n\nTop-view image: <image>",
+    "answer": "No",
+    "images": [
+      "SpatialAct/data/images/architectural/spatial_visualization/nansha_regions/region_054_v03/top_swap.png"
+    ]
+  },
+  {
+    "task_type": "top_swap_overlap",
+    "question": "There is one image: a top-view image.\nIf we swap the positions of building 2 and building 9, will there be any building-to-building overlap (collision) in the scene AFTER the swap? Answer with Yes or No.\n\nTop-view image: <image>",
+    "answer": "No",
+    "images": [
+      "SpatialAct/data/images/architectural/spatial_visualization/tsinghua_regions/region_027_v02/top_swap.png"
+    ]
+  },
+  {
+    "task_type": "top_swap_overlap",
+    "question": "There is one image: a top-view image.\nIf we swap the positions of building 4 and building 8, will there be any building-to-building overlap (collision) in the scene AFTER the swap? Answer with Yes or No.\n\nTop-view image: <image>",
+    "answer": "No",
+    "images": [
+      "SpatialAct/data/images/architectural/spatial_visualization/tsinghua_regions/region_050_v01/top_swap.png"
+    ]
+  },
+  {
+    "task_type": "top_swap_overlap",
+    "question": "There is one image: a top-view image.\nIf we swap the positions of building 1 and building 2, will there be any building-to-building overlap (collision) in the scene AFTER the swap? Answer with Yes or No.\n\nTop-view image: <image>",
+    "answer": "No",
+    "images": [
+      "SpatialAct/data/images/architectural/spatial_visualization/tsinghua_regions/region_013_v03/top_swap.png"
+    ]
+  },
+  {
+    "task_type": "top_swap_overlap",
+    "question": "There is one image: a top-view image.\nIf we swap the positions of building 4 and building 5, will there be any building-to-building overlap (collision) in the scene AFTER the swap? Answer with Yes or No.\n\nTop-view image: <image>",
+    "answer": "No",
+    "images": [
+      "SpatialAct/data/images/architectural/spatial_visualization/tsinghua_regions/region_040_v03/top_swap.png"
+    ]
+  },
+  {
+    "task_type": "top_swap_overlap",
+    "question": "There is one image: a top-view image.\nIf we swap the positions of building 3 and building 5, will there be any building-to-building overlap (collision) in the scene AFTER the swap? Answer with Yes or No.\n\nTop-view image: <image>",
+    "answer": "No",
+    "images": [
+      "SpatialAct/data/images/architectural/spatial_visualization/nansha_regions/region_080_v02/top_swap.png"
+    ]
+  },
+  {
+    "task_type": "top_swap_overlap",
+    "question": "There is one image: a top-view image.\nIf we swap the positions of building 1 and building 5, will there be any building-to-building overlap (collision) in the scene AFTER the swap? Answer with Yes or No.\n\nTop-view image: <image>",
+    "answer": "Yes",
+    "images": [
+      "SpatialAct/data/images/architectural/spatial_visualization/tianhe_regions/region_027_v03/top_swap.png"
+    ]
+  },
+  {
+    "task_type": "top_swap_overlap",
+    "question": "There is one image: a top-view image.\nIf we swap the positions of building 4 and building 7, will there be any building-to-building overlap (collision) in the scene AFTER the swap? Answer with Yes or No.\n\nTop-view image: <image>",
+    "answer": "No",
+    "images": [
+      "SpatialAct/data/images/architectural/spatial_visualization/nansha_regions/region_023_v02/top_swap.png"
+    ]
+  },
+  {
+    "task_type": "top_swap_overlap",
+    "question": "There is one image: a top-view image.\nIf we swap the positions of building 1 and building 3, will there be any building-to-building overlap (collision) in the scene AFTER the swap? Answer with Yes or No.\n\nTop-view image: <image>",
+    "answer": "Yes",
+    "images": [
+      "SpatialAct/data/images/architectural/spatial_visualization/nansha_regions/region_081_v02/top_swap.png"
+    ]
+  },
+  {
+    "task_type": "top_swap_overlap",
+    "question": "There is one image: a top-view image.\nIf we swap the positions of building 5 and building 6, will there be any building-to-building overlap (collision) in the scene AFTER the swap? Answer with Yes or No.\n\nTop-view image: <image>",
+    "answer": "No",
+    "images": [
+      "SpatialAct/data/images/architectural/spatial_visualization/nansha_regions/region_016_v01/top_swap.png"
+    ]
+  },
+  {
+    "task_type": "top_swap_overlap",
+    "question": "There is one image: a top-view image.\nIf we swap the positions of building 5 and building 10, will there be any building-to-building overlap (collision) in the scene AFTER the swap? Answer with Yes or No.\n\nTop-view image: <image>",
+    "answer": "Yes",
+    "images": [
+      "SpatialAct/data/images/architectural/spatial_visualization/nansha_regions/region_033_v03/top_swap.png"
+    ]
+  },
+  {
+    "task_type": "top_swap_overlap",
+    "question": "There is one image: a top-view image.\nIf we swap the positions of building 5 and building 9, will there be any building-to-building overlap (collision) in the scene AFTER the swap? Answer with Yes or No.\n\nTop-view image: <image>",
+    "answer": "No",
+    "images": [
+      "SpatialAct/data/images/architectural/spatial_visualization/nansha_regions/region_001_v01/top_swap.png"
+    ]
+  },
+  {
+    "task_type": "top_swap_overlap",
+    "question": "There is one image: a top-view image.\nIf we swap the positions of building 1 and building 3, will there be any building-to-building overlap (collision) in the scene AFTER the swap? Answer with Yes or No.\n\nTop-view image: <image>",
+    "answer": "No",
+    "images": [
+      "SpatialAct/data/images/architectural/spatial_visualization/tsinghua_regions/region_049_v02/top_swap.png"
+    ]
+  },
+  {
+    "task_type": "top_swap_overlap",
+    "question": "There is one image: a top-view image.\nIf we swap the positions of building 1 and building 4, will there be any building-to-building overlap (collision) in the scene AFTER the swap? Answer with Yes or No.\n\nTop-view image: <image>",
+    "answer": "No",
+    "images": [
+      "SpatialAct/data/images/architectural/spatial_visualization/tianhe_regions/region_040_v02/top_swap.png"
+    ]
+  },
+  {
+    "task_type": "top_swap_overlap",
+    "question": "There is one image: a top-view image.\nIf we swap the positions of building 3 and building 7, will there be any building-to-building overlap (collision) in the scene AFTER the swap? Answer with Yes or No.\n\nTop-view image: <image>",
+    "answer": "Yes",
+    "images": [
+      "SpatialAct/data/images/architectural/spatial_visualization/nansha_regions/region_098_v02/top_swap.png"
+    ]
+  },
+  {
+    "task_type": "top_swap_overlap",
+    "question": "There is one image: a top-view image.\nIf we swap the positions of building 1 and building 5, will there be any building-to-building overlap (collision) in the scene AFTER the swap? Answer with Yes or No.\n\nTop-view image: <image>",
+    "answer": "Yes",
+    "images": [
+      "SpatialAct/data/images/architectural/spatial_visualization/tianhe_regions/region_020_v01/top_swap.png"
+    ]
+  },
+  {
+    "task_type": "top_swap_overlap",
+    "question": "There is one image: a top-view image.\nIf we swap the positions of building 8 and building 13, will there be any building-to-building overlap (collision) in the scene AFTER the swap? Answer with Yes or No.\n\nTop-view image: <image>",
+    "answer": "Yes",
+    "images": [
+      "SpatialAct/data/images/architectural/spatial_visualization/tsinghua_regions/region_027_v01/top_swap.png"
+    ]
+  },
+  {
+    "task_type": "top_swap_overlap",
+    "question": "There is one image: a top-view image.\nIf we swap the positions of building 2 and building 4, will there be any building-to-building overlap (collision) in the scene AFTER the swap? Answer with Yes or No.\n\nTop-view image: <image>",
+    "answer": "Yes",
+    "images": [
+      "SpatialAct/data/images/architectural/spatial_visualization/tsinghua_regions/region_043_v03/top_swap.png"
+    ]
+  },
+  {
+    "task_type": "top_swap_overlap",
+    "question": "There is one image: a top-view image.\nIf we swap the positions of building 1 and building 6, will there be any building-to-building overlap (collision) in the scene AFTER the swap? Answer with Yes or No.\n\nTop-view image: <image>",
+    "answer": "Yes",
+    "images": [
+      "SpatialAct/data/images/architectural/spatial_visualization/tianhe_regions/region_038_v02/top_swap.png"
+    ]
+  },
+  {
+    "task_type": "top_swap_overlap",
+    "question": "There is one image: a top-view image.\nIf we swap the positions of building 2 and building 11, will there be any building-to-building overlap (collision) in the scene AFTER the swap? Answer with Yes or No.\n\nTop-view image: <image>",
+    "answer": "Yes",
+    "images": [
+      "SpatialAct/data/images/architectural/spatial_visualization/tianhe_regions/region_033_v02/top_swap.png"
+    ]
+  },
+  {
+    "task_type": "top_swap_overlap",
+    "question": "There is one image: a top-view image.\nIf we swap the positions of building 1 and building 3, will there be any building-to-building overlap (collision) in the scene AFTER the swap? Answer with Yes or No.\n\nTop-view image: <image>",
+    "answer": "No",
+    "images": [
+      "SpatialAct/data/images/architectural/spatial_visualization/nansha_regions/region_025_v01/top_swap.png"
+    ]
+  },
+  {
+    "task_type": "top_swap_overlap",
+    "question": "There is one image: a top-view image.\nIf we swap the positions of building 1 and building 8, will there be any building-to-building overlap (collision) in the scene AFTER the swap? Answer with Yes or No.\n\nTop-view image: <image>",
+    "answer": "No",
+    "images": [
+      "SpatialAct/data/images/architectural/spatial_visualization/tsinghua_regions/region_046_v02/top_swap.png"
+    ]
+  },
+  {
+    "task_type": "top_swap_overlap",
+    "question": "There is one image: a top-view image.\nIf we swap the positions of building 2 and building 5, will there be any building-to-building overlap (collision) in the scene AFTER the swap? Answer with Yes or No.\n\nTop-view image: <image>",
+    "answer": "Yes",
+    "images": [
+      "SpatialAct/data/images/architectural/spatial_visualization/nansha_regions/region_078_v01/top_swap.png"
+    ]
+  },
+  {
+    "task_type": "top_swap_overlap",
+    "question": "There is one image: a top-view image.\nIf we swap the positions of building 1 and building 8, will there be any building-to-building overlap (collision) in the scene AFTER the swap? Answer with Yes or No.\n\nTop-view image: <image>",
+    "answer": "Yes",
+    "images": [
+      "SpatialAct/data/images/architectural/spatial_visualization/tsinghua_regions/region_000_v02/top_swap.png"
+    ]
+  },
+  {
+    "task_type": "top_swap_overlap",
+    "question": "There is one image: a top-view image.\nIf we swap the positions of building 1 and building 5, will there be any building-to-building overlap (collision) in the scene AFTER the swap? Answer with Yes or No.\n\nTop-view image: <image>",
+    "answer": "No",
+    "images": [
+      "SpatialAct/data/images/architectural/spatial_visualization/tianhe_regions/region_019_v01/top_swap.png"
+    ]
+  },
+  {
+    "task_type": "top_swap_overlap",
+    "question": "There is one image: a top-view image.\nIf we swap the positions of building 1 and building 4, will there be any building-to-building overlap (collision) in the scene AFTER the swap? Answer with Yes or No.\n\nTop-view image: <image>",
+    "answer": "Yes",
+    "images": [
+      "SpatialAct/data/images/architectural/spatial_visualization/tianhe_regions/region_052_v03/top_swap.png"
+    ]
+  },
+  {
+    "task_type": "top_swap_overlap",
+    "question": "There is one image: a top-view image.\nIf we swap the positions of building 6 and building 7, will there be any building-to-building overlap (collision) in the scene AFTER the swap? Answer with Yes or No.\n\nTop-view image: <image>",
+    "answer": "No",
+    "images": [
+      "SpatialAct/data/images/architectural/spatial_visualization/tianhe_regions/region_015_v03/top_swap.png"
+    ]
+  },
+  {
+    "task_type": "top_swap_overlap",
+    "question": "There is one image: a top-view image.\nIf we swap the positions of building 1 and building 4, will there be any building-to-building overlap (collision) in the scene AFTER the swap? Answer with Yes or No.\n\nTop-view image: <image>",
+    "answer": "Yes",
+    "images": [
+      "SpatialAct/data/images/architectural/spatial_visualization/nansha_regions/region_106_v03/top_swap.png"
+    ]
+  },
+  {
+    "task_type": "top_swap_overlap",
+    "question": "There is one image: a top-view image.\nIf we swap the positions of building 3 and building 5, will there be any building-to-building overlap (collision) in the scene AFTER the swap? Answer with Yes or No.\n\nTop-view image: <image>",
+    "answer": "No",
+    "images": [
+      "SpatialAct/data/images/architectural/spatial_visualization/tsinghua_regions/region_013_v01/top_swap.png"
+    ]
+  },
+  {
+    "task_type": "top_swap_overlap",
+    "question": "There is one image: a top-view image.\nIf we swap the positions of building 11 and building 15, will there be any building-to-building overlap (collision) in the scene AFTER the swap? Answer with Yes or No.\n\nTop-view image: <image>",
+    "answer": "Yes",
+    "images": [
+      "SpatialAct/data/images/architectural/spatial_visualization/nansha_regions/region_028_v03/top_swap.png"
+    ]
+  },
+  {
+    "task_type": "top_swap_overlap",
+    "question": "There is one image: a top-view image.\nIf we swap the positions of building 1 and building 3, will there be any building-to-building overlap (collision) in the scene AFTER the swap? Answer with Yes or No.\n\nTop-view image: <image>",
+    "answer": "No",
+    "images": [
+      "SpatialAct/data/images/architectural/spatial_visualization/tsinghua_regions/region_042_v01/top_swap.png"
+    ]
+  },
+  {
+    "task_type": "top_swap_overlap",
+    "question": "There is one image: a top-view image.\nIf we swap the positions of building 2 and building 3, will there be any building-to-building overlap (collision) in the scene AFTER the swap? Answer with Yes or No.\n\nTop-view image: <image>",
+    "answer": "No",
+    "images": [
+      "SpatialAct/data/images/architectural/spatial_visualization/nansha_regions/region_145_v02/top_swap.png"
+    ]
+  },
+  {
+    "task_type": "top_swap_overlap",
+    "question": "There is one image: a top-view image.\nIf we swap the positions of building 2 and building 6, will there be any building-to-building overlap (collision) in the scene AFTER the swap? Answer with Yes or No.\n\nTop-view image: <image>",
+    "answer": "Yes",
+    "images": [
+      "SpatialAct/data/images/architectural/spatial_visualization/tsinghua_regions/region_003_v01/top_swap.png"
+    ]
+  },
+  {
+    "task_type": "top_swap_overlap",
+    "question": "There is one image: a top-view image.\nIf we swap the positions of building 1 and building 3, will there be any building-to-building overlap (collision) in the scene AFTER the swap? Answer with Yes or No.\n\nTop-view image: <image>",
+    "answer": "No",
+    "images": [
+      "SpatialAct/data/images/architectural/spatial_visualization/nansha_regions/region_030_v03/top_swap.png"
+    ]
+  },
+  {
+    "task_type": "top_swap_overlap",
+    "question": "There is one image: a top-view image.\nIf we swap the positions of building 1 and building 2, will there be any building-to-building overlap (collision) in the scene AFTER the swap? Answer with Yes or No.\n\nTop-view image: <image>",
+    "answer": "No",
+    "images": [
+      "SpatialAct/data/images/architectural/spatial_visualization/nansha_regions/region_149_v02/top_swap.png"
+    ]
+  },
+  {
+    "task_type": "top_swap_overlap",
+    "question": "There is one image: a top-view image.\nIf we swap the positions of building 2 and building 4, will there be any building-to-building overlap (collision) in the scene AFTER the swap? Answer with Yes or No.\n\nTop-view image: <image>",
+    "answer": "Yes",
+    "images": [
+      "SpatialAct/data/images/architectural/spatial_visualization/tianhe_regions/region_040_v03/top_swap.png"
+    ]
+  },
+  {
+    "task_type": "top_swap_overlap",
+    "question": "There is one image: a top-view image.\nIf we swap the positions of building 4 and building 6, will there be any building-to-building overlap (collision) in the scene AFTER the swap? Answer with Yes or No.\n\nTop-view image: <image>",
+    "answer": "Yes",
+    "images": [
+      "SpatialAct/data/images/architectural/spatial_visualization/tsinghua_regions/region_046_v03/top_swap.png"
+    ]
+  },
+  {
+    "task_type": "top_swap_overlap",
+    "question": "There is one image: a top-view image.\nIf we swap the positions of building 13 and building 14, will there be any building-to-building overlap (collision) in the scene AFTER the swap? Answer with Yes or No.\n\nTop-view image: <image>",
+    "answer": "Yes",
+    "images": [
+      "SpatialAct/data/images/architectural/spatial_visualization/nansha_regions/region_071_v01/top_swap.png"
+    ]
+  },
+  {
+    "task_type": "top_swap_overlap",
+    "question": "There is one image: a top-view image.\nIf we swap the positions of building 4 and building 6, will there be any building-to-building overlap (collision) in the scene AFTER the swap? Answer with Yes or No.\n\nTop-view image: <image>",
+    "answer": "No",
+    "images": [
+      "SpatialAct/data/images/architectural/spatial_visualization/nansha_regions/region_123_v02/top_swap.png"
+    ]
+  },
+  {
+    "task_type": "top_swap_overlap",
+    "question": "There is one image: a top-view image.\nIf we swap the positions of building 2 and building 7, will there be any building-to-building overlap (collision) in the scene AFTER the swap? Answer with Yes or No.\n\nTop-view image: <image>",
+    "answer": "No",
+    "images": [
+      "SpatialAct/data/images/architectural/spatial_visualization/tsinghua_regions/region_002_v01/top_swap.png"
+    ]
+  },
+  {
+    "task_type": "top_swap_overlap",
+    "question": "There is one image: a top-view image.\nIf we swap the positions of building 1 and building 5, will there be any building-to-building overlap (collision) in the scene AFTER the swap? Answer with Yes or No.\n\nTop-view image: <image>",
+    "answer": "Yes",
+    "images": [
+      "SpatialAct/data/images/architectural/spatial_visualization/tsinghua_regions/region_012_v01/top_swap.png"
+    ]
+  },
+  {
+    "task_type": "top_swap_overlap",
+    "question": "There is one image: a top-view image.\nIf we swap the positions of building 1 and building 2, will there be any building-to-building overlap (collision) in the scene AFTER the swap? Answer with Yes or No.\n\nTop-view image: <image>",
+    "answer": "Yes",
+    "images": [
+      "SpatialAct/data/images/architectural/spatial_visualization/tsinghua_regions/region_049_v03/top_swap.png"
+    ]
+  },
+  {
+    "task_type": "top_swap_overlap",
+    "question": "There is one image: a top-view image.\nIf we swap the positions of building 3 and building 4, will there be any building-to-building overlap (collision) in the scene AFTER the swap? Answer with Yes or No.\n\nTop-view image: <image>",
+    "answer": "Yes",
+    "images": [
+      "SpatialAct/data/images/architectural/spatial_visualization/tianhe_regions/region_023_v02/top_swap.png"
+    ]
+  },
+  {
+    "task_type": "top_swap_overlap",
+    "question": "There is one image: a top-view image.\nIf we swap the positions of building 1 and building 2, will there be any building-to-building overlap (collision) in the scene AFTER the swap? Answer with Yes or No.\n\nTop-view image: <image>",
+    "answer": "No",
+    "images": [
+      "SpatialAct/data/images/architectural/spatial_visualization/tianhe_regions/region_054_v01/top_swap.png"
+    ]
+  },
+  {
+    "task_type": "top_swap_overlap",
+    "question": "There is one image: a top-view image.\nIf we swap the positions of building 2 and building 6, will there be any building-to-building overlap (collision) in the scene AFTER the swap? Answer with Yes or No.\n\nTop-view image: <image>",
+    "answer": "No",
+    "images": [
+      "SpatialAct/data/images/architectural/spatial_visualization/tsinghua_regions/region_026_v01/top_swap.png"
+    ]
+  },
+  {
+    "task_type": "top_swap_overlap",
+    "question": "There is one image: a top-view image.\nIf we swap the positions of building 3 and building 6, will there be any building-to-building overlap (collision) in the scene AFTER the swap? Answer with Yes or No.\n\nTop-view image: <image>",
+    "answer": "Yes",
+    "images": [
+      "SpatialAct/data/images/architectural/spatial_visualization/nansha_regions/region_031_v03/top_swap.png"
+    ]
+  },
+  {
+    "task_type": "top_swap_overlap",
+    "question": "There is one image: a top-view image.\nIf we swap the positions of building 3 and building 6, will there be any building-to-building overlap (collision) in the scene AFTER the swap? Answer with Yes or No.\n\nTop-view image: <image>",
+    "answer": "No",
+    "images": [
+      "SpatialAct/data/images/architectural/spatial_visualization/tsinghua_regions/region_003_v02/top_swap.png"
+    ]
+  },
+  {
+    "task_type": "top_swap_overlap",
+    "question": "There is one image: a top-view image.\nIf we swap the positions of building 3 and building 9, will there be any building-to-building overlap (collision) in the scene AFTER the swap? Answer with Yes or No.\n\nTop-view image: <image>",
+    "answer": "No",
+    "images": [
+      "SpatialAct/data/images/architectural/spatial_visualization/nansha_regions/region_072_v03/top_swap.png"
+    ]
+  },
+  {
+    "task_type": "top_swap_overlap",
+    "question": "There is one image: a top-view image.\nIf we swap the positions of building 10 and building 11, will there be any building-to-building overlap (collision) in the scene AFTER the swap? Answer with Yes or No.\n\nTop-view image: <image>",
+    "answer": "Yes",
+    "images": [
+      "SpatialAct/data/images/architectural/spatial_visualization/tsinghua_regions/region_020_v01/top_swap.png"
+    ]
+  },
+  {
+    "task_type": "top_swap_overlap",
+    "question": "There is one image: a top-view image.\nIf we swap the positions of building 2 and building 4, will there be any building-to-building overlap (collision) in the scene AFTER the swap? Answer with Yes or No.\n\nTop-view image: <image>",
+    "answer": "Yes",
+    "images": [
+      "SpatialAct/data/images/architectural/spatial_visualization/tsinghua_regions/region_012_v03/top_swap.png"
+    ]
+  },
+  {
+    "task_type": "top_swap_overlap",
+    "question": "There is one image: a top-view image.\nIf we swap the positions of building 1 and building 3, will there be any building-to-building overlap (collision) in the scene AFTER the swap? Answer with Yes or No.\n\nTop-view image: <image>",
+    "answer": "Yes",
+    "images": [
+      "SpatialAct/data/images/architectural/spatial_visualization/nansha_regions/region_032_v02/top_swap.png"
+    ]
+  },
+  {
+    "task_type": "top_swap_overlap",
+    "question": "There is one image: a top-view image.\nIf we swap the positions of building 2 and building 4, will there be any building-to-building overlap (collision) in the scene AFTER the swap? Answer with Yes or No.\n\nTop-view image: <image>",
+    "answer": "No",
+    "images": [
+      "SpatialAct/data/images/architectural/spatial_visualization/nansha_regions/region_096_v01/top_swap.png"
+    ]
+  },
+  {
+    "task_type": "top_swap_overlap",
+    "question": "There is one image: a top-view image.\nIf we swap the positions of building 2 and building 6, will there be any building-to-building overlap (collision) in the scene AFTER the swap? Answer with Yes or No.\n\nTop-view image: <image>",
+    "answer": "No",
+    "images": [
+      "SpatialAct/data/images/architectural/spatial_visualization/tsinghua_regions/region_026_v03/top_swap.png"
+    ]
+  },
+  {
+    "task_type": "top_swap_overlap",
+    "question": "There is one image: a top-view image.\nIf we swap the positions of building 5 and building 8, will there be any building-to-building overlap (collision) in the scene AFTER the swap? Answer with Yes or No.\n\nTop-view image: <image>",
+    "answer": "Yes",
+    "images": [
+      "SpatialAct/data/images/architectural/spatial_visualization/nansha_regions/region_002_v03/top_swap.png"
+    ]
+  },
+  {
+    "task_type": "top_swap_overlap",
+    "question": "There is one image: a top-view image.\nIf we swap the positions of building 2 and building 3, will there be any building-to-building overlap (collision) in the scene AFTER the swap? Answer with Yes or No.\n\nTop-view image: <image>",
+    "answer": "No",
+    "images": [
+      "SpatialAct/data/images/architectural/spatial_visualization/nansha_regions/region_129_v01/top_swap.png"
+    ]
+  },
+  {
+    "task_type": "top_swap_overlap",
+    "question": "There is one image: a top-view image.\nIf we swap the positions of building 3 and building 4, will there be any building-to-building overlap (collision) in the scene AFTER the swap? Answer with Yes or No.\n\nTop-view image: <image>",
+    "answer": "No",
+    "images": [
+      "SpatialAct/data/images/architectural/spatial_visualization/tianhe_regions/region_052_v02/top_swap.png"
+    ]
+  },
+  {
+    "task_type": "top_swap_overlap",
+    "question": "There is one image: a top-view image.\nIf we swap the positions of building 1 and building 3, will there be any building-to-building overlap (collision) in the scene AFTER the swap? Answer with Yes or No.\n\nTop-view image: <image>",
+    "answer": "No",
+    "images": [
+      "SpatialAct/data/images/architectural/spatial_visualization/tsinghua_regions/region_028_v01/top_swap.png"
+    ]
+  },
+  {
+    "task_type": "top_swap_overlap",
+    "question": "There is one image: a top-view image.\nIf we swap the positions of building 2 and building 3, will there be any building-to-building overlap (collision) in the scene AFTER the swap? Answer with Yes or No.\n\nTop-view image: <image>",
+    "answer": "Yes",
+    "images": [
+      "SpatialAct/data/images/architectural/spatial_visualization/nansha_regions/region_008_v02/top_swap.png"
+    ]
+  },
+  {
+    "task_type": "top_swap_overlap",
+    "question": "There is one image: a top-view image.\nIf we swap the positions of building 2 and building 5, will there be any building-to-building overlap (collision) in the scene AFTER the swap? Answer with Yes or No.\n\nTop-view image: <image>",
+    "answer": "Yes",
+    "images": [
+      "SpatialAct/data/images/architectural/spatial_visualization/nansha_regions/region_145_v01/top_swap.png"
+    ]
+  },
+  {
+    "task_type": "top_swap_overlap",
+    "question": "There is one image: a top-view image.\nIf we swap the positions of building 3 and building 6, will there be any building-to-building overlap (collision) in the scene AFTER the swap? Answer with Yes or No.\n\nTop-view image: <image>",
+    "answer": "Yes",
+    "images": [
+      "SpatialAct/data/images/architectural/spatial_visualization/tsinghua_regions/region_002_v02/top_swap.png"
+    ]
+  },
+  {
+    "task_type": "top_swap_overlap",
+    "question": "There is one image: a top-view image.\nIf we swap the positions of building 1 and building 2, will there be any building-to-building overlap (collision) in the scene AFTER the swap? Answer with Yes or No.\n\nTop-view image: <image>",
+    "answer": "No",
+    "images": [
+      "SpatialAct/data/images/architectural/spatial_visualization/nansha_regions/region_130_v02/top_swap.png"
+    ]
+  },
+  {
+    "task_type": "top_swap_overlap",
+    "question": "There is one image: a top-view image.\nIf we swap the positions of building 1 and building 11, will there be any building-to-building overlap (collision) in the scene AFTER the swap? Answer with Yes or No.\n\nTop-view image: <image>",
+    "answer": "Yes",
+    "images": [
+      "SpatialAct/data/images/architectural/spatial_visualization/nansha_regions/region_093_v03/top_swap.png"
+    ]
+  },
+  {
+    "task_type": "top_swap_overlap",
+    "question": "There is one image: a top-view image.\nIf we swap the positions of building 8 and building 12, will there be any building-to-building overlap (collision) in the scene AFTER the swap? Answer with Yes or No.\n\nTop-view image: <image>",
+    "answer": "No",
+    "images": [
+      "SpatialAct/data/images/architectural/spatial_visualization/nansha_regions/region_124_v03/top_swap.png"
+    ]
+  },
+  {
+    "task_type": "top_swap_overlap",
+    "question": "There is one image: a top-view image.\nIf we swap the positions of building 1 and building 2, will there be any building-to-building overlap (collision) in the scene AFTER the swap? Answer with Yes or No.\n\nTop-view image: <image>",
+    "answer": "Yes",
+    "images": [
+      "SpatialAct/data/images/architectural/spatial_visualization/tsinghua_regions/region_049_v01/top_swap.png"
+    ]
+  },
+  {
+    "task_type": "top_swap_overlap",
+    "question": "There is one image: a top-view image.\nIf we swap the positions of building 2 and building 9, will there be any building-to-building overlap (collision) in the scene AFTER the swap? Answer with Yes or No.\n\nTop-view image: <image>",
+    "answer": "No",
+    "images": [
+      "SpatialAct/data/images/architectural/spatial_visualization/nansha_regions/region_033_v02/top_swap.png"
+    ]
+  },
+  {
+    "task_type": "top_swap_overlap",
+    "question": "There is one image: a top-view image.\nIf we swap the positions of building 3 and building 5, will there be any building-to-building overlap (collision) in the scene AFTER the swap? Answer with Yes or No.\n\nTop-view image: <image>",
+    "answer": "No",
+    "images": [
+      "SpatialAct/data/images/architectural/spatial_visualization/tianhe_regions/region_027_v02/top_swap.png"
+    ]
+  },
+  {
+    "task_type": "top_swap_overlap",
+    "question": "There is one image: a top-view image.\nIf we swap the positions of building 4 and building 6, will there be any building-to-building overlap (collision) in the scene AFTER the swap? Answer with Yes or No.\n\nTop-view image: <image>",
+    "answer": "Yes",
+    "images": [
+      "SpatialAct/data/images/architectural/spatial_visualization/nansha_regions/region_014_v02/top_swap.png"
+    ]
+  },
+  {
+    "task_type": "top_swap_overlap",
+    "question": "There is one image: a top-view image.\nIf we swap the positions of building 1 and building 11, will there be any building-to-building overlap (collision) in the scene AFTER the swap? Answer with Yes or No.\n\nTop-view image: <image>",
+    "answer": "No",
+    "images": [
+      "SpatialAct/data/images/architectural/spatial_visualization/nansha_regions/region_118_v01/top_swap.png"
+    ]
+  },
+  {
+    "task_type": "top_swap_overlap",
+    "question": "There is one image: a top-view image.\nIf we swap the positions of building 1 and building 4, will there be any building-to-building overlap (collision) in the scene AFTER the swap? Answer with Yes or No.\n\nTop-view image: <image>",
+    "answer": "Yes",
+    "images": [
+      "SpatialAct/data/images/architectural/spatial_visualization/nansha_regions/region_036_v02/top_swap.png"
+    ]
+  },
+  {
+    "task_type": "top_swap_overlap",
+    "question": "There is one image: a top-view image.\nIf we swap the positions of building 1 and building 2, will there be any building-to-building overlap (collision) in the scene AFTER the swap? Answer with Yes or No.\n\nTop-view image: <image>",
+    "answer": "No",
+    "images": [
+      "SpatialAct/data/images/architectural/spatial_visualization/tianhe_regions/region_041_v03/top_swap.png"
+    ]
+  },
+  {
+    "task_type": "top_swap_overlap",
+    "question": "There is one image: a top-view image.\nIf we swap the positions of building 5 and building 7, will there be any building-to-building overlap (collision) in the scene AFTER the swap? Answer with Yes or No.\n\nTop-view image: <image>",
+    "answer": "No",
+    "images": [
+      "SpatialAct/data/images/architectural/spatial_visualization/nansha_regions/region_116_v03/top_swap.png"
+    ]
+  }
+]

@@ -1,0 +1,1802 @@
+[
+  {
+    "task_type": "counting",
+    "question": "How many cabinet objects are in the room? Answer with only one number.\nTop-view image: <image>\nIsometric-view image: <image>",
+    "answer": "2",
+    "images": [
+      "SpatialAct/data/images/indoor/object_meaning/indoor_scenes_complex-10-15/arkitscenes__Training__48458713_clean/raw_views/top.png",
+      "SpatialAct/data/images/indoor/object_meaning/indoor_scenes_complex-10-15/arkitscenes__Training__48458713_clean/raw_views/isometric.png"
+    ]
+  },
+  {
+    "task_type": "counting",
+    "question": "How many basket objects are in the room? Answer with only one number.\nTop-view image: <image>\nIsometric-view image: <image>",
+    "answer": "2",
+    "images": [
+      "SpatialAct/data/images/indoor/object_meaning/indoor_scenes_complex-10-15/arkitscenes__Validation__41254412_clean/raw_views/top.png",
+      "SpatialAct/data/images/indoor/object_meaning/indoor_scenes_complex-10-15/arkitscenes__Validation__41254412_clean/raw_views/isometric.png"
+    ]
+  },
+  {
+    "task_type": "counting",
+    "question": "How many window objects are in the room? Answer with only one number.\nTop-view image: <image>\nIsometric-view image: <image>",
+    "answer": "4",
+    "images": [
+      "SpatialAct/data/images/indoor/object_meaning/indoor_scenes_complex-10-15/matterport3d__B6ByNegPMKs__region13_clean/raw_views/top.png",
+      "SpatialAct/data/images/indoor/object_meaning/indoor_scenes_complex-10-15/matterport3d__B6ByNegPMKs__region13_clean/raw_views/isometric.png"
+    ]
+  },
+  {
+    "task_type": "counting",
+    "question": "How many cabinet objects are in the room? Answer with only one number.\nTop-view image: <image>\nIsometric-view image: <image>",
+    "answer": "2",
+    "images": [
+      "SpatialAct/data/images/indoor/object_meaning/indoor_scenes_simple-5-10/arkitscenes__Training__44358241_clean/raw_views/top.png",
+      "SpatialAct/data/images/indoor/object_meaning/indoor_scenes_simple-5-10/arkitscenes__Training__44358241_clean/raw_views/isometric.png"
+    ]
+  },
+  {
+    "task_type": "counting",
+    "question": "How many picture objects are in the room? Answer with only one number.\nTop-view image: <image>\nIsometric-view image: <image>",
+    "answer": "2",
+    "images": [
+      "SpatialAct/data/images/indoor/object_meaning/indoor_scenes_complex-10-15/matterport3d__5LpN3gDmAk7__region12_clean/raw_views/top.png",
+      "SpatialAct/data/images/indoor/object_meaning/indoor_scenes_complex-10-15/matterport3d__5LpN3gDmAk7__region12_clean/raw_views/isometric.png"
+    ]
+  },
+  {
+    "task_type": "counting",
+    "question": "How many chair objects are in the room? Answer with only one number.\nTop-view image: <image>\nIsometric-view image: <image>",
+    "answer": "2",
+    "images": [
+      "SpatialAct/data/images/indoor/object_meaning/indoor_scenes_complex-10-15/scannet__scene0129_00_clean/raw_views/top.png",
+      "SpatialAct/data/images/indoor/object_meaning/indoor_scenes_complex-10-15/scannet__scene0129_00_clean/raw_views/isometric.png"
+    ]
+  },
+  {
+    "task_type": "counting",
+    "question": "How many cabinet objects are in the room? Answer with only one number.\nTop-view image: <image>\nIsometric-view image: <image>",
+    "answer": "2",
+    "images": [
+      "SpatialAct/data/images/indoor/object_meaning/indoor_scenes_complex-10-15/arkitscenes__Training__41126567_clean/raw_views/top.png",
+      "SpatialAct/data/images/indoor/object_meaning/indoor_scenes_complex-10-15/arkitscenes__Training__41126567_clean/raw_views/isometric.png"
+    ]
+  },
+  {
+    "task_type": "counting",
+    "question": "How many door objects are in the room? Answer with only one number.\nTop-view image: <image>\nIsometric-view image: <image>",
+    "answer": "2",
+    "images": [
+      "SpatialAct/data/images/indoor/object_meaning/indoor_scenes_simple-5-10/scannet__scene0055_02_clean/raw_views/top.png",
+      "SpatialAct/data/images/indoor/object_meaning/indoor_scenes_simple-5-10/scannet__scene0055_02_clean/raw_views/isometric.png"
+    ]
+  },
+  {
+    "task_type": "counting",
+    "question": "How many window objects are in the room? Answer with only one number.\nTop-view image: <image>\nIsometric-view image: <image>",
+    "answer": "2",
+    "images": [
+      "SpatialAct/data/images/indoor/object_meaning/indoor_scenes_complex-10-15/scannet__scene0035_01_clean/raw_views/top.png",
+      "SpatialAct/data/images/indoor/object_meaning/indoor_scenes_complex-10-15/scannet__scene0035_01_clean/raw_views/isometric.png"
+    ]
+  },
+  {
+    "task_type": "counting",
+    "question": "How many column objects are in the room? Answer with only one number.\nTop-view image: <image>\nIsometric-view image: <image>",
+    "answer": "4",
+    "images": [
+      "SpatialAct/data/images/indoor/object_meaning/indoor_scenes_complex-10-15/matterport3d__B6ByNegPMKs__region31_clean/raw_views/top.png",
+      "SpatialAct/data/images/indoor/object_meaning/indoor_scenes_complex-10-15/matterport3d__B6ByNegPMKs__region31_clean/raw_views/isometric.png"
+    ]
+  },
+  {
+    "task_type": "counting",
+    "question": "How many light objects are in the room? Answer with only one number.\nTop-view image: <image>\nIsometric-view image: <image>",
+    "answer": "2",
+    "images": [
+      "SpatialAct/data/images/indoor/object_meaning/indoor_scenes_complex-10-15/scannet__scene0112_01_clean/raw_views/top.png",
+      "SpatialAct/data/images/indoor/object_meaning/indoor_scenes_complex-10-15/scannet__scene0112_01_clean/raw_views/isometric.png"
+    ]
+  },
+  {
+    "task_type": "counting",
+    "question": "How many light objects are in the room? Answer with only one number.\nTop-view image: <image>\nIsometric-view image: <image>",
+    "answer": "2",
+    "images": [
+      "SpatialAct/data/images/indoor/object_meaning/indoor_scenes_complex-10-15/matterport3d__1pXnuDYAj8r__region7_clean/raw_views/top.png",
+      "SpatialAct/data/images/indoor/object_meaning/indoor_scenes_complex-10-15/matterport3d__1pXnuDYAj8r__region7_clean/raw_views/isometric.png"
+    ]
+  },
+  {
+    "task_type": "counting",
+    "question": "How many chair objects are in the room? Answer with only one number.\nTop-view image: <image>\nIsometric-view image: <image>",
+    "answer": "6",
+    "images": [
+      "SpatialAct/data/images/indoor/object_meaning/indoor_scenes_complex-10-15/arkitscenes__Training__44358289_clean/raw_views/top.png",
+      "SpatialAct/data/images/indoor/object_meaning/indoor_scenes_complex-10-15/arkitscenes__Training__44358289_clean/raw_views/isometric.png"
+    ]
+  },
+  {
+    "task_type": "counting",
+    "question": "How many sink objects are in the room? Answer with only one number.\nTop-view image: <image>\nIsometric-view image: <image>",
+    "answer": "2",
+    "images": [
+      "SpatialAct/data/images/indoor/object_meaning/indoor_scenes_complex-10-15/scannet__scene0399_00_clean/raw_views/top.png",
+      "SpatialAct/data/images/indoor/object_meaning/indoor_scenes_complex-10-15/scannet__scene0399_00_clean/raw_views/isometric.png"
+    ]
+  },
+  {
+    "task_type": "counting",
+    "question": "How many bin objects are in the room? Answer with only one number.\nTop-view image: <image>\nIsometric-view image: <image>",
+    "answer": "1",
+    "images": [
+      "SpatialAct/data/images/indoor/object_meaning/indoor_scenes_complex-10-15/matterport3d__V2XKFyX4ASd__region3_clean/raw_views/top.png",
+      "SpatialAct/data/images/indoor/object_meaning/indoor_scenes_complex-10-15/matterport3d__V2XKFyX4ASd__region3_clean/raw_views/isometric.png"
+    ]
+  },
+  {
+    "task_type": "counting",
+    "question": "How many picture objects are in the room? Answer with only one number.\nTop-view image: <image>\nIsometric-view image: <image>",
+    "answer": "9",
+    "images": [
+      "SpatialAct/data/images/indoor/object_meaning/indoor_scenes_complex-10-15/3rscan__634d11c7-6833-255d-8d76-86fe90beafdc_clean/raw_views/top.png",
+      "SpatialAct/data/images/indoor/object_meaning/indoor_scenes_complex-10-15/3rscan__634d11c7-6833-255d-8d76-86fe90beafdc_clean/raw_views/isometric.png"
+    ]
+  },
+  {
+    "task_type": "counting",
+    "question": "How many chair objects are in the room? Answer with only one number.\nTop-view image: <image>\nIsometric-view image: <image>",
+    "answer": "3",
+    "images": [
+      "SpatialAct/data/images/indoor/object_meaning/indoor_scenes_complex-10-15/3rscan__68bae76c-3567-2f7c-827d-373035a2d942_clean/raw_views/top.png",
+      "SpatialAct/data/images/indoor/object_meaning/indoor_scenes_complex-10-15/3rscan__68bae76c-3567-2f7c-827d-373035a2d942_clean/raw_views/isometric.png"
+    ]
+  },
+  {
+    "task_type": "counting",
+    "question": "How many bin objects are in the room? Answer with only one number.\nTop-view image: <image>\nIsometric-view image: <image>",
+    "answer": "2",
+    "images": [
+      "SpatialAct/data/images/indoor/object_meaning/indoor_scenes_simple-5-10/arkitscenes__Training__43649615_clean/raw_views/top.png",
+      "SpatialAct/data/images/indoor/object_meaning/indoor_scenes_simple-5-10/arkitscenes__Training__43649615_clean/raw_views/isometric.png"
+    ]
+  },
+  {
+    "task_type": "counting",
+    "question": "How many table objects are in the room? Answer with only one number.\nTop-view image: <image>\nIsometric-view image: <image>",
+    "answer": "2",
+    "images": [
+      "SpatialAct/data/images/indoor/object_meaning/indoor_scenes_complex-10-15/matterport3d__zsNo4HB9uLZ__region9_clean/raw_views/top.png",
+      "SpatialAct/data/images/indoor/object_meaning/indoor_scenes_complex-10-15/matterport3d__zsNo4HB9uLZ__region9_clean/raw_views/isometric.png"
+    ]
+  },
+  {
+    "task_type": "counting",
+    "question": "How many picture objects are in the room? Answer with only one number.\nTop-view image: <image>\nIsometric-view image: <image>",
+    "answer": "6",
+    "images": [
+      "SpatialAct/data/images/indoor/object_meaning/indoor_scenes_complex-10-15/matterport3d__gTV8FGcVJC9__region7_clean/raw_views/top.png",
+      "SpatialAct/data/images/indoor/object_meaning/indoor_scenes_complex-10-15/matterport3d__gTV8FGcVJC9__region7_clean/raw_views/isometric.png"
+    ]
+  },
+  {
+    "task_type": "counting",
+    "question": "How many cabinet objects are in the room? Answer with only one number.\nTop-view image: <image>\nIsometric-view image: <image>",
+    "answer": "2",
+    "images": [
+      "SpatialAct/data/images/indoor/object_meaning/indoor_scenes_complex-10-15/arkitscenes__Training__42898342_clean/raw_views/top.png",
+      "SpatialAct/data/images/indoor/object_meaning/indoor_scenes_complex-10-15/arkitscenes__Training__42898342_clean/raw_views/isometric.png"
+    ]
+  },
+  {
+    "task_type": "counting",
+    "question": "How many chair objects are in the room? Answer with only one number.\nTop-view image: <image>\nIsometric-view image: <image>",
+    "answer": "2",
+    "images": [
+      "SpatialAct/data/images/indoor/object_meaning/indoor_scenes_simple-5-10/scannet__scene0316_00_clean/raw_views/top.png",
+      "SpatialAct/data/images/indoor/object_meaning/indoor_scenes_simple-5-10/scannet__scene0316_00_clean/raw_views/isometric.png"
+    ]
+  },
+  {
+    "task_type": "counting",
+    "question": "How many mirror objects are in the room? Answer with only one number.\nTop-view image: <image>\nIsometric-view image: <image>",
+    "answer": "2",
+    "images": [
+      "SpatialAct/data/images/indoor/object_meaning/indoor_scenes_complex-10-15/scannet__scene0083_00_clean/raw_views/top.png",
+      "SpatialAct/data/images/indoor/object_meaning/indoor_scenes_complex-10-15/scannet__scene0083_00_clean/raw_views/isometric.png"
+    ]
+  },
+  {
+    "task_type": "counting",
+    "question": "How many chair objects are in the room? Answer with only one number.\nTop-view image: <image>\nIsometric-view image: <image>",
+    "answer": "4",
+    "images": [
+      "SpatialAct/data/images/indoor/object_meaning/indoor_scenes_simple-5-10/scannet__scene0371_01_clean/raw_views/top.png",
+      "SpatialAct/data/images/indoor/object_meaning/indoor_scenes_simple-5-10/scannet__scene0371_01_clean/raw_views/isometric.png"
+    ]
+  },
+  {
+    "task_type": "counting",
+    "question": "How many chair objects are in the room? Answer with only one number.\nTop-view image: <image>\nIsometric-view image: <image>",
+    "answer": "1",
+    "images": [
+      "SpatialAct/data/images/indoor/object_meaning/indoor_scenes_simple-5-10/scannet__scene0382_00_clean/raw_views/top.png",
+      "SpatialAct/data/images/indoor/object_meaning/indoor_scenes_simple-5-10/scannet__scene0382_00_clean/raw_views/isometric.png"
+    ]
+  },
+  {
+    "task_type": "counting",
+    "question": "How many table objects are in the room? Answer with only one number.\nTop-view image: <image>\nIsometric-view image: <image>",
+    "answer": "3",
+    "images": [
+      "SpatialAct/data/images/indoor/object_meaning/indoor_scenes_complex-10-15/arkitscenes__Training__45261644_clean/raw_views/top.png",
+      "SpatialAct/data/images/indoor/object_meaning/indoor_scenes_complex-10-15/arkitscenes__Training__45261644_clean/raw_views/isometric.png"
+    ]
+  },
+  {
+    "task_type": "counting",
+    "question": "How many picture objects are in the room? Answer with only one number.\nTop-view image: <image>\nIsometric-view image: <image>",
+    "answer": "2",
+    "images": [
+      "SpatialAct/data/images/indoor/object_meaning/indoor_scenes_complex-10-15/3rscan__ab835f94-54c6-29a1-9872-210a98f12c12_clean/raw_views/top.png",
+      "SpatialAct/data/images/indoor/object_meaning/indoor_scenes_complex-10-15/3rscan__ab835f94-54c6-29a1-9872-210a98f12c12_clean/raw_views/isometric.png"
+    ]
+  },
+  {
+    "task_type": "counting",
+    "question": "How many table objects are in the room? Answer with only one number.\nTop-view image: <image>\nIsometric-view image: <image>",
+    "answer": "3",
+    "images": [
+      "SpatialAct/data/images/indoor/object_meaning/indoor_scenes_complex-10-15/scannet__scene0036_01_clean/raw_views/top.png",
+      "SpatialAct/data/images/indoor/object_meaning/indoor_scenes_complex-10-15/scannet__scene0036_01_clean/raw_views/isometric.png"
+    ]
+  },
+  {
+    "task_type": "distance_farthest",
+    "question": "Which numbered object is farthest from the cabinet? Answer with only one number.\nTop-view image: <image>\nIsometric-view image: <image>",
+    "answer": "3",
+    "images": [
+      "SpatialAct/data/images/indoor/object_meaning/indoor_scenes_simple-5-10/matterport3d__uNb9QFRL6hY__region19_clean/qa_images/qa07_top_ref.png",
+      "SpatialAct/data/images/indoor/object_meaning/indoor_scenes_simple-5-10/matterport3d__uNb9QFRL6hY__region19_clean/qa_images/qa07_isometric_ref.png"
+    ]
+  },
+  {
+    "task_type": "distance_farthest",
+    "question": "Which numbered object is farthest from the bed? Answer with only one number.\nTop-view image: <image>\nIsometric-view image: <image>",
+    "answer": "1",
+    "images": [
+      "SpatialAct/data/images/indoor/object_meaning/indoor_scenes_complex-10-15/arkitscenes__Training__47334761_clean/qa_images/qa07_top_ref.png",
+      "SpatialAct/data/images/indoor/object_meaning/indoor_scenes_complex-10-15/arkitscenes__Training__47334761_clean/qa_images/qa07_isometric_ref.png"
+    ]
+  },
+  {
+    "task_type": "distance_farthest",
+    "question": "Which numbered object is farthest from the switch? Answer with only one number.\nTop-view image: <image>\nIsometric-view image: <image>",
+    "answer": "1",
+    "images": [
+      "SpatialAct/data/images/indoor/object_meaning/indoor_scenes_complex-10-15/3rscan__82def5da-25ba-20f9-8810-71be905b83db_clean/qa_images/qa07_top_ref.png",
+      "SpatialAct/data/images/indoor/object_meaning/indoor_scenes_complex-10-15/3rscan__82def5da-25ba-20f9-8810-71be905b83db_clean/qa_images/qa07_isometric_ref.png"
+    ]
+  },
+  {
+    "task_type": "distance_farthest",
+    "question": "Which numbered object is farthest from the cabinet? Answer with only one number.\nTop-view image: <image>\nIsometric-view image: <image>",
+    "answer": "4",
+    "images": [
+      "SpatialAct/data/images/indoor/object_meaning/indoor_scenes_complex-10-15/3rscan__baf6738b-8e94-22f8-8085-24c4e5ef5220_clean/qa_images/qa06_top_ref.png",
+      "SpatialAct/data/images/indoor/object_meaning/indoor_scenes_complex-10-15/3rscan__baf6738b-8e94-22f8-8085-24c4e5ef5220_clean/qa_images/qa06_isometric_ref.png"
+    ]
+  },
+  {
+    "task_type": "distance_farthest",
+    "question": "Which numbered object is farthest from the couch? Answer with only one number.\nTop-view image: <image>\nIsometric-view image: <image>",
+    "answer": "2",
+    "images": [
+      "SpatialAct/data/images/indoor/object_meaning/indoor_scenes_complex-10-15/arkitscenes__Training__47332309_clean/qa_images/qa07_top_ref.png",
+      "SpatialAct/data/images/indoor/object_meaning/indoor_scenes_complex-10-15/arkitscenes__Training__47332309_clean/qa_images/qa07_isometric_ref.png"
+    ]
+  },
+  {
+    "task_type": "distance_farthest",
+    "question": "Which numbered object is farthest from the mirror? Answer with only one number.\nTop-view image: <image>\nIsometric-view image: <image>",
+    "answer": "1",
+    "images": [
+      "SpatialAct/data/images/indoor/object_meaning/indoor_scenes_complex-10-15/arkitscenes__Training__48018015_clean/qa_images/qa07_top_ref.png",
+      "SpatialAct/data/images/indoor/object_meaning/indoor_scenes_complex-10-15/arkitscenes__Training__48018015_clean/qa_images/qa07_isometric_ref.png"
+    ]
+  },
+  {
+    "task_type": "distance_nearest",
+    "question": "Which numbered object is closest to the door? Answer with only one number.\nTop-view image: <image>\nIsometric-view image: <image>",
+    "answer": "3",
+    "images": [
+      "SpatialAct/data/images/indoor/object_meaning/indoor_scenes_complex-10-15/arkitscenes__Training__47334761_clean/qa_images/qa06_top_ref.png",
+      "SpatialAct/data/images/indoor/object_meaning/indoor_scenes_complex-10-15/arkitscenes__Training__47334761_clean/qa_images/qa06_isometric_ref.png"
+    ]
+  },
+  {
+    "task_type": "distance_nearest",
+    "question": "Which numbered object is closest to the sign? Answer with only one number.\nTop-view image: <image>\nIsometric-view image: <image>",
+    "answer": "2",
+    "images": [
+      "SpatialAct/data/images/indoor/object_meaning/indoor_scenes_complex-10-15/3rscan__82def5da-25ba-20f9-8810-71be905b83db_clean/qa_images/qa06_top_ref.png",
+      "SpatialAct/data/images/indoor/object_meaning/indoor_scenes_complex-10-15/3rscan__82def5da-25ba-20f9-8810-71be905b83db_clean/qa_images/qa06_isometric_ref.png"
+    ]
+  },
+  {
+    "task_type": "distance_nearest",
+    "question": "Which numbered object is closest to the cabinet? Answer with only one number.\nTop-view image: <image>\nIsometric-view image: <image>",
+    "answer": "4",
+    "images": [
+      "SpatialAct/data/images/indoor/object_meaning/indoor_scenes_simple-5-10/matterport3d__uNb9QFRL6hY__region19_clean/qa_images/qa06_top_ref.png",
+      "SpatialAct/data/images/indoor/object_meaning/indoor_scenes_simple-5-10/matterport3d__uNb9QFRL6hY__region19_clean/qa_images/qa06_isometric_ref.png"
+    ]
+  },
+  {
+    "task_type": "distance_nearest",
+    "question": "Which numbered object is closest to the bin? Answer with only one number.\nTop-view image: <image>\nIsometric-view image: <image>",
+    "answer": "2",
+    "images": [
+      "SpatialAct/data/images/indoor/object_meaning/indoor_scenes_complex-10-15/scannet__scene0067_02_clean/qa_images/qa05_top_ref.png",
+      "SpatialAct/data/images/indoor/object_meaning/indoor_scenes_complex-10-15/scannet__scene0067_02_clean/qa_images/qa05_isometric_ref.png"
+    ]
+  },
+  {
+    "task_type": "distance_nearest",
+    "question": "Which numbered object is closest to the chair? Answer with only one number.\nTop-view image: <image>\nIsometric-view image: <image>",
+    "answer": "3",
+    "images": [
+      "SpatialAct/data/images/indoor/object_meaning/indoor_scenes_complex-10-15/arkitscenes__Training__48018015_clean/qa_images/qa06_top_ref.png",
+      "SpatialAct/data/images/indoor/object_meaning/indoor_scenes_complex-10-15/arkitscenes__Training__48018015_clean/qa_images/qa06_isometric_ref.png"
+    ]
+  },
+  {
+    "task_type": "distance_nearest",
+    "question": "Which numbered object is closest to the cabinet? Answer with only one number.\nTop-view image: <image>\nIsometric-view image: <image>",
+    "answer": "4",
+    "images": [
+      "SpatialAct/data/images/indoor/object_meaning/indoor_scenes_complex-10-15/arkitscenes__Training__47332309_clean/qa_images/qa06_top_ref.png",
+      "SpatialAct/data/images/indoor/object_meaning/indoor_scenes_complex-10-15/arkitscenes__Training__47332309_clean/qa_images/qa06_isometric_ref.png"
+    ]
+  },
+  {
+    "task_type": "distance_nearest",
+    "question": "Which numbered object is closest to the bed? Answer with only one number.\nTop-view image: <image>\nIsometric-view image: <image>",
+    "answer": "2",
+    "images": [
+      "SpatialAct/data/images/indoor/object_meaning/indoor_scenes_simple-5-10/scannet__scene0055_02_clean/qa_images/qa05_top_ref.png",
+      "SpatialAct/data/images/indoor/object_meaning/indoor_scenes_simple-5-10/scannet__scene0055_02_clean/qa_images/qa05_isometric_ref.png"
+    ]
+  },
+  {
+    "task_type": "distance_nearest",
+    "question": "Which numbered object is closest to the chair? Answer with only one number.\nTop-view image: <image>\nIsometric-view image: <image>",
+    "answer": "1",
+    "images": [
+      "SpatialAct/data/images/indoor/object_meaning/indoor_scenes_complex-10-15/scannet__scene0332_00_clean/qa_images/qa05_top_ref.png",
+      "SpatialAct/data/images/indoor/object_meaning/indoor_scenes_complex-10-15/scannet__scene0332_00_clean/qa_images/qa05_isometric_ref.png"
+    ]
+  },
+  {
+    "task_type": "object_identification_mcq",
+    "question": "Which numbered object is a chair? Answer with only one number.\nTop-view image: <image>\nIsometric-view image: <image>",
+    "answer": "2",
+    "images": [
+      "SpatialAct/data/images/indoor/object_meaning/indoor_scenes_complex-10-15/scannet__scene0332_00_clean/qa_images/qa03_top_ref.png",
+      "SpatialAct/data/images/indoor/object_meaning/indoor_scenes_complex-10-15/scannet__scene0332_00_clean/qa_images/qa03_isometric_ref.png"
+    ]
+  },
+  {
+    "task_type": "object_identification_mcq",
+    "question": "Which numbered object is a bin? Answer with only one number.\nTop-view image: <image>\nIsometric-view image: <image>",
+    "answer": "4",
+    "images": [
+      "SpatialAct/data/images/indoor/object_meaning/indoor_scenes_simple-5-10/scannet__scene0371_01_clean/qa_images/qa03_top_ref.png",
+      "SpatialAct/data/images/indoor/object_meaning/indoor_scenes_simple-5-10/scannet__scene0371_01_clean/qa_images/qa03_isometric_ref.png"
+    ]
+  },
+  {
+    "task_type": "object_identification_mcq",
+    "question": "Which numbered object is a bin? Answer with only one number.\nTop-view image: <image>\nIsometric-view image: <image>",
+    "answer": "4",
+    "images": [
+      "SpatialAct/data/images/indoor/object_meaning/indoor_scenes_simple-5-10/3rscan__8eabc416-5af7-2f32-862f-bc1a368d2932_clean/qa_images/qa03_top_ref.png",
+      "SpatialAct/data/images/indoor/object_meaning/indoor_scenes_simple-5-10/3rscan__8eabc416-5af7-2f32-862f-bc1a368d2932_clean/qa_images/qa03_isometric_ref.png"
+    ]
+  },
+  {
+    "task_type": "object_identification_mcq",
+    "question": "Which numbered object is a switch? Answer with only one number.\nTop-view image: <image>\nIsometric-view image: <image>",
+    "answer": "4",
+    "images": [
+      "SpatialAct/data/images/indoor/object_meaning/indoor_scenes_complex-10-15/matterport3d__5LpN3gDmAk7__region12_clean/qa_images/qa03_top_ref.png",
+      "SpatialAct/data/images/indoor/object_meaning/indoor_scenes_complex-10-15/matterport3d__5LpN3gDmAk7__region12_clean/qa_images/qa03_isometric_ref.png"
+    ]
+  },
+  {
+    "task_type": "object_identification_mcq",
+    "question": "Which numbered object is a chair? Answer with only one number.\nTop-view image: <image>\nIsometric-view image: <image>",
+    "answer": "3",
+    "images": [
+      "SpatialAct/data/images/indoor/object_meaning/indoor_scenes_complex-10-15/arkitscenes__Training__48018015_clean/qa_images/qa03_top_ref.png",
+      "SpatialAct/data/images/indoor/object_meaning/indoor_scenes_complex-10-15/arkitscenes__Training__48018015_clean/qa_images/qa03_isometric_ref.png"
+    ]
+  },
+  {
+    "task_type": "object_identification_mcq",
+    "question": "Which numbered object is a cabinet? Answer with only one number.\nTop-view image: <image>\nIsometric-view image: <image>",
+    "answer": "1",
+    "images": [
+      "SpatialAct/data/images/indoor/object_meaning/indoor_scenes_complex-10-15/arkitscenes__Training__47332309_clean/qa_images/qa03_top_ref.png",
+      "SpatialAct/data/images/indoor/object_meaning/indoor_scenes_complex-10-15/arkitscenes__Training__47332309_clean/qa_images/qa03_isometric_ref.png"
+    ]
+  },
+  {
+    "task_type": "object_identification_mcq",
+    "question": "Which numbered object is a cabinet? Answer with only one number.\nTop-view image: <image>\nIsometric-view image: <image>",
+    "answer": "1",
+    "images": [
+      "SpatialAct/data/images/indoor/object_meaning/indoor_scenes_simple-5-10/matterport3d__uNb9QFRL6hY__region19_clean/qa_images/qa03_top_ref.png",
+      "SpatialAct/data/images/indoor/object_meaning/indoor_scenes_simple-5-10/matterport3d__uNb9QFRL6hY__region19_clean/qa_images/qa03_isometric_ref.png"
+    ]
+  },
+  {
+    "task_type": "object_identification_mcq",
+    "question": "Which numbered object is a bin? Answer with only one number.\nTop-view image: <image>\nIsometric-view image: <image>",
+    "answer": "3",
+    "images": [
+      "SpatialAct/data/images/indoor/object_meaning/indoor_scenes_complex-10-15/scannet__scene0036_01_clean/qa_images/qa03_top_ref.png",
+      "SpatialAct/data/images/indoor/object_meaning/indoor_scenes_complex-10-15/scannet__scene0036_01_clean/qa_images/qa03_isometric_ref.png"
+    ]
+  },
+  {
+    "task_type": "object_identification_mcq",
+    "question": "Which numbered object is a bin? Answer with only one number.\nTop-view image: <image>\nIsometric-view image: <image>",
+    "answer": "4",
+    "images": [
+      "SpatialAct/data/images/indoor/object_meaning/indoor_scenes_complex-10-15/scannet__scene0399_00_clean/qa_images/qa03_top_ref.png",
+      "SpatialAct/data/images/indoor/object_meaning/indoor_scenes_complex-10-15/scannet__scene0399_00_clean/qa_images/qa03_isometric_ref.png"
+    ]
+  },
+  {
+    "task_type": "object_identification_mcq",
+    "question": "Which numbered object is a commode? Answer with only one number.\nTop-view image: <image>\nIsometric-view image: <image>",
+    "answer": "1",
+    "images": [
+      "SpatialAct/data/images/indoor/object_meaning/indoor_scenes_simple-5-10/3rscan__0cac7627-8d6f-2d13-8eac-41764b5f2c5b_clean/qa_images/qa03_top_ref.png",
+      "SpatialAct/data/images/indoor/object_meaning/indoor_scenes_simple-5-10/3rscan__0cac7627-8d6f-2d13-8eac-41764b5f2c5b_clean/qa_images/qa03_isometric_ref.png"
+    ]
+  },
+  {
+    "task_type": "object_identification_mcq",
+    "question": "Which numbered object is a table? Answer with only one number.\nTop-view image: <image>\nIsometric-view image: <image>",
+    "answer": "4",
+    "images": [
+      "SpatialAct/data/images/indoor/object_meaning/indoor_scenes_simple-5-10/scannet__scene0013_01_clean/qa_images/qa03_top_ref.png",
+      "SpatialAct/data/images/indoor/object_meaning/indoor_scenes_simple-5-10/scannet__scene0013_01_clean/qa_images/qa03_isometric_ref.png"
+    ]
+  },
+  {
+    "task_type": "object_identification_mcq",
+    "question": "Which numbered object is a toilet? Answer with only one number.\nTop-view image: <image>\nIsometric-view image: <image>",
+    "answer": "1",
+    "images": [
+      "SpatialAct/data/images/indoor/object_meaning/indoor_scenes_complex-10-15/arkitscenes__Training__42898123_clean/qa_images/qa03_top_ref.png",
+      "SpatialAct/data/images/indoor/object_meaning/indoor_scenes_complex-10-15/arkitscenes__Training__42898123_clean/qa_images/qa03_isometric_ref.png"
+    ]
+  },
+  {
+    "task_type": "object_identification_mcq",
+    "question": "Which numbered object is a flowerpot? Answer with only one number.\nTop-view image: <image>\nIsometric-view image: <image>",
+    "answer": "4",
+    "images": [
+      "SpatialAct/data/images/indoor/object_meaning/indoor_scenes_complex-10-15/matterport3d__zsNo4HB9uLZ__region9_clean/qa_images/qa03_top_ref.png",
+      "SpatialAct/data/images/indoor/object_meaning/indoor_scenes_complex-10-15/matterport3d__zsNo4HB9uLZ__region9_clean/qa_images/qa03_isometric_ref.png"
+    ]
+  },
+  {
+    "task_type": "object_identification_mcq",
+    "question": "Which numbered object is a table? Answer with only one number.\nTop-view image: <image>\nIsometric-view image: <image>",
+    "answer": "1",
+    "images": [
+      "SpatialAct/data/images/indoor/object_meaning/indoor_scenes_simple-5-10/matterport3d__B6ByNegPMKs__region26_clean/qa_images/qa03_top_ref.png",
+      "SpatialAct/data/images/indoor/object_meaning/indoor_scenes_simple-5-10/matterport3d__B6ByNegPMKs__region26_clean/qa_images/qa03_isometric_ref.png"
+    ]
+  },
+  {
+    "task_type": "object_identification_mcq",
+    "question": "Which numbered object is a cabinet? Answer with only one number.\nTop-view image: <image>\nIsometric-view image: <image>",
+    "answer": "3",
+    "images": [
+      "SpatialAct/data/images/indoor/object_meaning/indoor_scenes_simple-5-10/3rscan__501ebf0b-a3bb-263f-86fd-7ef000a19588_clean/qa_images/qa03_top_ref.png",
+      "SpatialAct/data/images/indoor/object_meaning/indoor_scenes_simple-5-10/3rscan__501ebf0b-a3bb-263f-86fd-7ef000a19588_clean/qa_images/qa03_isometric_ref.png"
+    ]
+  },
+  {
+    "task_type": "object_identification_mcq",
+    "question": "Which numbered object is a switch? Answer with only one number.\nTop-view image: <image>\nIsometric-view image: <image>",
+    "answer": "4",
+    "images": [
+      "SpatialAct/data/images/indoor/object_meaning/indoor_scenes_complex-10-15/matterport3d__pRbA3pwrgk9__region7_clean/qa_images/qa03_top_ref.png",
+      "SpatialAct/data/images/indoor/object_meaning/indoor_scenes_complex-10-15/matterport3d__pRbA3pwrgk9__region7_clean/qa_images/qa03_isometric_ref.png"
+    ]
+  },
+  {
+    "task_type": "object_identification_mcq",
+    "question": "Which numbered object is a cabinet? Answer with only one number.\nTop-view image: <image>\nIsometric-view image: <image>",
+    "answer": "2",
+    "images": [
+      "SpatialAct/data/images/indoor/object_meaning/indoor_scenes_complex-10-15/scannet__scene0065_00_clean/qa_images/qa03_top_ref.png",
+      "SpatialAct/data/images/indoor/object_meaning/indoor_scenes_complex-10-15/scannet__scene0065_00_clean/qa_images/qa03_isometric_ref.png"
+    ]
+  },
+  {
+    "task_type": "object_identification_mcq",
+    "question": "Which numbered object is a table? Answer with only one number.\nTop-view image: <image>\nIsometric-view image: <image>",
+    "answer": "3",
+    "images": [
+      "SpatialAct/data/images/indoor/object_meaning/indoor_scenes_complex-10-15/arkitscenes__Training__42898120_clean/qa_images/qa03_top_ref.png",
+      "SpatialAct/data/images/indoor/object_meaning/indoor_scenes_complex-10-15/arkitscenes__Training__42898120_clean/qa_images/qa03_isometric_ref.png"
+    ]
+  },
+  {
+    "task_type": "object_identification_mcq",
+    "question": "Which numbered object is a hook? Answer with only one number.\nTop-view image: <image>\nIsometric-view image: <image>",
+    "answer": "4",
+    "images": [
+      "SpatialAct/data/images/indoor/object_meaning/indoor_scenes_complex-10-15/3rscan__ab835f8b-54c6-29a1-9a7a-4770a0eb74ff_clean/qa_images/qa03_top_ref.png",
+      "SpatialAct/data/images/indoor/object_meaning/indoor_scenes_complex-10-15/3rscan__ab835f8b-54c6-29a1-9a7a-4770a0eb74ff_clean/qa_images/qa03_isometric_ref.png"
+    ]
+  },
+  {
+    "task_type": "object_identification_mcq",
+    "question": "Which numbered object is a box? Answer with only one number.\nTop-view image: <image>\nIsometric-view image: <image>",
+    "answer": "2",
+    "images": [
+      "SpatialAct/data/images/indoor/object_meaning/indoor_scenes_complex-10-15/3rscan__ab835f94-54c6-29a1-9872-210a98f12c12_clean/qa_images/qa03_top_ref.png",
+      "SpatialAct/data/images/indoor/object_meaning/indoor_scenes_complex-10-15/3rscan__ab835f94-54c6-29a1-9872-210a98f12c12_clean/qa_images/qa03_isometric_ref.png"
+    ]
+  },
+  {
+    "task_type": "object_identification_mcq",
+    "question": "Which numbered object is a box? Answer with only one number.\nTop-view image: <image>\nIsometric-view image: <image>",
+    "answer": "2",
+    "images": [
+      "SpatialAct/data/images/indoor/object_meaning/indoor_scenes_complex-10-15/3rscan__77361fca-d054-2a22-8974-547ca1fbb90f_clean/qa_images/qa03_top_ref.png",
+      "SpatialAct/data/images/indoor/object_meaning/indoor_scenes_complex-10-15/3rscan__77361fca-d054-2a22-8974-547ca1fbb90f_clean/qa_images/qa03_isometric_ref.png"
+    ]
+  },
+  {
+    "task_type": "object_identification_mcq",
+    "question": "Which numbered object is a chair? Answer with only one number.\nTop-view image: <image>\nIsometric-view image: <image>",
+    "answer": "3",
+    "images": [
+      "SpatialAct/data/images/indoor/object_meaning/indoor_scenes_complex-10-15/matterport3d__sT4fr6TAbpF__region12_clean/qa_images/qa03_top_ref.png",
+      "SpatialAct/data/images/indoor/object_meaning/indoor_scenes_complex-10-15/matterport3d__sT4fr6TAbpF__region12_clean/qa_images/qa03_isometric_ref.png"
+    ]
+  },
+  {
+    "task_type": "object_identification_mcq",
+    "question": "Which numbered object is a vent? Answer with only one number.\nTop-view image: <image>\nIsometric-view image: <image>",
+    "answer": "4",
+    "images": [
+      "SpatialAct/data/images/indoor/object_meaning/indoor_scenes_complex-10-15/matterport3d__B6ByNegPMKs__region13_clean/qa_images/qa03_top_ref.png",
+      "SpatialAct/data/images/indoor/object_meaning/indoor_scenes_complex-10-15/matterport3d__B6ByNegPMKs__region13_clean/qa_images/qa03_isometric_ref.png"
+    ]
+  },
+  {
+    "task_type": "object_identification_mcq",
+    "question": "Which numbered object is a bin? Answer with only one number.\nTop-view image: <image>\nIsometric-view image: <image>",
+    "answer": "4",
+    "images": [
+      "SpatialAct/data/images/indoor/object_meaning/indoor_scenes_complex-10-15/matterport3d__B6ByNegPMKs__region31_clean/qa_images/qa03_top_ref.png",
+      "SpatialAct/data/images/indoor/object_meaning/indoor_scenes_complex-10-15/matterport3d__B6ByNegPMKs__region31_clean/qa_images/qa03_isometric_ref.png"
+    ]
+  },
+  {
+    "task_type": "object_identification_mcq",
+    "question": "Which numbered object is a chair? Answer with only one number.\nTop-view image: <image>\nIsometric-view image: <image>",
+    "answer": "2",
+    "images": [
+      "SpatialAct/data/images/indoor/object_meaning/indoor_scenes_complex-10-15/arkitscenes__Training__42899295_clean/qa_images/qa03_top_ref.png",
+      "SpatialAct/data/images/indoor/object_meaning/indoor_scenes_complex-10-15/arkitscenes__Training__42899295_clean/qa_images/qa03_isometric_ref.png"
+    ]
+  },
+  {
+    "task_type": "object_identification_mcq",
+    "question": "Which numbered object is a chair? Answer with only one number.\nTop-view image: <image>\nIsometric-view image: <image>",
+    "answer": "1",
+    "images": [
+      "SpatialAct/data/images/indoor/object_meaning/indoor_scenes_simple-5-10/scannet__scene0055_02_clean/qa_images/qa03_top_ref.png",
+      "SpatialAct/data/images/indoor/object_meaning/indoor_scenes_simple-5-10/scannet__scene0055_02_clean/qa_images/qa03_isometric_ref.png"
+    ]
+  },
+  {
+    "task_type": "object_identification_mcq",
+    "question": "Which numbered object is a light? Answer with only one number.\nTop-view image: <image>\nIsometric-view image: <image>",
+    "answer": "4",
+    "images": [
+      "SpatialAct/data/images/indoor/object_meaning/indoor_scenes_complex-10-15/3rscan__c9fb7aa5-2a5b-2cf7-902e-42a0339c7242_clean/qa_images/qa03_top_ref.png",
+      "SpatialAct/data/images/indoor/object_meaning/indoor_scenes_complex-10-15/3rscan__c9fb7aa5-2a5b-2cf7-902e-42a0339c7242_clean/qa_images/qa03_isometric_ref.png"
+    ]
+  },
+  {
+    "task_type": "object_identification_mcq",
+    "question": "Which numbered object is a bed? Answer with only one number.\nTop-view image: <image>\nIsometric-view image: <image>",
+    "answer": "1",
+    "images": [
+      "SpatialAct/data/images/indoor/object_meaning/indoor_scenes_complex-10-15/arkitscenes__Training__47334761_clean/qa_images/qa03_top_ref.png",
+      "SpatialAct/data/images/indoor/object_meaning/indoor_scenes_complex-10-15/arkitscenes__Training__47334761_clean/qa_images/qa03_isometric_ref.png"
+    ]
+  },
+  {
+    "task_type": "object_identification_name",
+    "question": "What is object 1?\nA. cabinet\nB. bed\nC. chair\nD. table\nTop-view image: <image>\nIsometric-view image: <image>\nChoose one option from A, B, C, D.",
+    "answer": "D",
+    "images": [
+      "SpatialAct/data/images/indoor/object_meaning/indoor_scenes_simple-5-10/3rscan__c9fb7aa7-2a5b-2cf7-916d-d38eeeeda87f_clean/qa_images/qa02_top_ref.png",
+      "SpatialAct/data/images/indoor/object_meaning/indoor_scenes_simple-5-10/3rscan__c9fb7aa7-2a5b-2cf7-916d-d38eeeeda87f_clean/qa_images/qa02_isometric_ref.png"
+    ]
+  },
+  {
+    "task_type": "object_identification_name",
+    "question": "What is object 1?\nA. chair\nB. cart\nC. table\nD. shelf\nTop-view image: <image>\nIsometric-view image: <image>\nChoose one option from A, B, C, D.",
+    "answer": "C",
+    "images": [
+      "SpatialAct/data/images/indoor/object_meaning/indoor_scenes_complex-10-15/scannet__scene0343_00_clean/qa_images/qa02_top_ref.png",
+      "SpatialAct/data/images/indoor/object_meaning/indoor_scenes_complex-10-15/scannet__scene0343_00_clean/qa_images/qa02_isometric_ref.png"
+    ]
+  },
+  {
+    "task_type": "object_identification_name",
+    "question": "What is object 1?\nA. light\nB. picture\nC. holder\nD. door\nTop-view image: <image>\nIsometric-view image: <image>\nChoose one option from A, B, C, D.",
+    "answer": "B",
+    "images": [
+      "SpatialAct/data/images/indoor/object_meaning/indoor_scenes_complex-10-15/matterport3d__V2XKFyX4ASd__region3_clean/qa_images/qa02_top_ref.png",
+      "SpatialAct/data/images/indoor/object_meaning/indoor_scenes_complex-10-15/matterport3d__V2XKFyX4ASd__region3_clean/qa_images/qa02_isometric_ref.png"
+    ]
+  },
+  {
+    "task_type": "object_identification_name",
+    "question": "What is object 1?\nA. chair\nB. teapot\nC. basket\nD. table\nTop-view image: <image>\nIsometric-view image: <image>\nChoose one option from A, B, C, D.",
+    "answer": "A",
+    "images": [
+      "SpatialAct/data/images/indoor/object_meaning/indoor_scenes_complex-10-15/arkitscenes__Training__44358289_clean/qa_images/qa02_top_ref.png",
+      "SpatialAct/data/images/indoor/object_meaning/indoor_scenes_complex-10-15/arkitscenes__Training__44358289_clean/qa_images/qa02_isometric_ref.png"
+    ]
+  },
+  {
+    "task_type": "object_identification_name",
+    "question": "What is object 1?\nA. toilet\nB. bin\nC. dispenser\nD. door\nTop-view image: <image>\nIsometric-view image: <image>\nChoose one option from A, B, C, D.",
+    "answer": "D",
+    "images": [
+      "SpatialAct/data/images/indoor/object_meaning/indoor_scenes_complex-10-15/scannet__scene0112_01_clean/qa_images/qa02_top_ref.png",
+      "SpatialAct/data/images/indoor/object_meaning/indoor_scenes_complex-10-15/scannet__scene0112_01_clean/qa_images/qa02_isometric_ref.png"
+    ]
+  },
+  {
+    "task_type": "object_identification_name",
+    "question": "What is object 1?\nA. rod\nB. window\nC. door\nD. mirror\nTop-view image: <image>\nIsometric-view image: <image>\nChoose one option from A, B, C, D.",
+    "answer": "C",
+    "images": [
+      "SpatialAct/data/images/indoor/object_meaning/indoor_scenes_complex-10-15/matterport3d__1pXnuDYAj8r__region7_clean/qa_images/qa02_top_ref.png",
+      "SpatialAct/data/images/indoor/object_meaning/indoor_scenes_complex-10-15/matterport3d__1pXnuDYAj8r__region7_clean/qa_images/qa02_isometric_ref.png"
+    ]
+  },
+  {
+    "task_type": "object_identification_name",
+    "question": "What is object 1?\nA. pot\nB. vase\nC. plant\nD. table\nTop-view image: <image>\nIsometric-view image: <image>\nChoose one option from A, B, C, D.",
+    "answer": "A",
+    "images": [
+      "SpatialAct/data/images/indoor/object_meaning/indoor_scenes_complex-10-15/3rscan__68bae76a-3567-2f7c-8143-f70365deb0f7_clean/qa_images/qa02_top_ref.png",
+      "SpatialAct/data/images/indoor/object_meaning/indoor_scenes_complex-10-15/3rscan__68bae76a-3567-2f7c-8143-f70365deb0f7_clean/qa_images/qa02_isometric_ref.png"
+    ]
+  },
+  {
+    "task_type": "object_identification_name",
+    "question": "What is object 1?\nA. stool\nB. table\nC. window\nD. bench\nTop-view image: <image>\nIsometric-view image: <image>\nChoose one option from A, B, C, D.",
+    "answer": "B",
+    "images": [
+      "SpatialAct/data/images/indoor/object_meaning/indoor_scenes_complex-10-15/3rscan__47319772-f9f7-2a1a-9768-108df4f37ab9_clean/qa_images/qa02_top_ref.png",
+      "SpatialAct/data/images/indoor/object_meaning/indoor_scenes_complex-10-15/3rscan__47319772-f9f7-2a1a-9768-108df4f37ab9_clean/qa_images/qa02_isometric_ref.png"
+    ]
+  },
+  {
+    "task_type": "object_identification_name",
+    "question": "What is object 1?\nA. table\nB. plant\nC. chair\nD. cabinet\nTop-view image: <image>\nIsometric-view image: <image>\nChoose one option from A, B, C, D.",
+    "answer": "B",
+    "images": [
+      "SpatialAct/data/images/indoor/object_meaning/indoor_scenes_complex-10-15/3rscan__77361fc8-d054-2a22-8868-c3de4283fff7_clean/qa_images/qa02_top_ref.png",
+      "SpatialAct/data/images/indoor/object_meaning/indoor_scenes_complex-10-15/3rscan__77361fc8-d054-2a22-8868-c3de4283fff7_clean/qa_images/qa02_isometric_ref.png"
+    ]
+  },
+  {
+    "task_type": "object_identification_name",
+    "question": "What is object 1?\nA. door\nB. fire extinguisher\nC. rack\nD. chair\nTop-view image: <image>\nIsometric-view image: <image>\nChoose one option from A, B, C, D.",
+    "answer": "A",
+    "images": [
+      "SpatialAct/data/images/indoor/object_meaning/indoor_scenes_complex-10-15/scannet__scene0242_02_clean/qa_images/qa02_top_ref.png",
+      "SpatialAct/data/images/indoor/object_meaning/indoor_scenes_complex-10-15/scannet__scene0242_02_clean/qa_images/qa02_isometric_ref.png"
+    ]
+  },
+  {
+    "task_type": "object_identification_name",
+    "question": "What is object 1?\nA. blackboard\nB. switch\nC. window\nD. cushion\nTop-view image: <image>\nIsometric-view image: <image>\nChoose one option from A, B, C, D.",
+    "answer": "B",
+    "images": [
+      "SpatialAct/data/images/indoor/object_meaning/indoor_scenes_complex-10-15/scannet__scene0036_01_clean/qa_images/qa02_top_ref.png",
+      "SpatialAct/data/images/indoor/object_meaning/indoor_scenes_complex-10-15/scannet__scene0036_01_clean/qa_images/qa02_isometric_ref.png"
+    ]
+  },
+  {
+    "task_type": "object_identification_name",
+    "question": "What is object 1?\nA. couch\nB. picture\nC. chair\nD. table\nTop-view image: <image>\nIsometric-view image: <image>\nChoose one option from A, B, C, D.",
+    "answer": "A",
+    "images": [
+      "SpatialAct/data/images/indoor/object_meaning/indoor_scenes_simple-5-10/scannet__scene0113_00_clean/qa_images/qa02_top_ref.png",
+      "SpatialAct/data/images/indoor/object_meaning/indoor_scenes_simple-5-10/scannet__scene0113_00_clean/qa_images/qa02_isometric_ref.png"
+    ]
+  },
+  {
+    "task_type": "object_identification_name",
+    "question": "What is object 1?\nA. box\nB. shelf\nC. picture\nD. door\nTop-view image: <image>\nIsometric-view image: <image>\nChoose one option from A, B, C, D.",
+    "answer": "A",
+    "images": [
+      "SpatialAct/data/images/indoor/object_meaning/indoor_scenes_simple-5-10/3rscan__0cac7627-8d6f-2d13-8eac-41764b5f2c5b_clean/qa_images/qa02_top_ref.png",
+      "SpatialAct/data/images/indoor/object_meaning/indoor_scenes_simple-5-10/3rscan__0cac7627-8d6f-2d13-8eac-41764b5f2c5b_clean/qa_images/qa02_isometric_ref.png"
+    ]
+  },
+  {
+    "task_type": "object_identification_name",
+    "question": "What is object 1?\nA. window\nB. doorframe\nC. window frame\nD. plant\nTop-view image: <image>\nIsometric-view image: <image>\nChoose one option from A, B, C, D.",
+    "answer": "D",
+    "images": [
+      "SpatialAct/data/images/indoor/object_meaning/indoor_scenes_simple-5-10/matterport3d__Vvot9Ly1tCj__region2_clean/qa_images/qa02_top_ref.png",
+      "SpatialAct/data/images/indoor/object_meaning/indoor_scenes_simple-5-10/matterport3d__Vvot9Ly1tCj__region2_clean/qa_images/qa02_isometric_ref.png"
+    ]
+  },
+  {
+    "task_type": "object_identification_name",
+    "question": "What is object 1?\nA. picture\nB. stool\nC. table\nD. light\nTop-view image: <image>\nIsometric-view image: <image>\nChoose one option from A, B, C, D.",
+    "answer": "B",
+    "images": [
+      "SpatialAct/data/images/indoor/object_meaning/indoor_scenes_simple-5-10/matterport3d__B6ByNegPMKs__region26_clean/qa_images/qa02_top_ref.png",
+      "SpatialAct/data/images/indoor/object_meaning/indoor_scenes_simple-5-10/matterport3d__B6ByNegPMKs__region26_clean/qa_images/qa02_isometric_ref.png"
+    ]
+  },
+  {
+    "task_type": "object_identification_name",
+    "question": "What is object 1?\nA. shelf\nB. toilet\nC. stool\nD. door\nTop-view image: <image>\nIsometric-view image: <image>\nChoose one option from A, B, C, D.",
+    "answer": "D",
+    "images": [
+      "SpatialAct/data/images/indoor/object_meaning/indoor_scenes_simple-5-10/3rscan__0ad2d3a7-79e2-2212-9a1b-8737842a24e2_clean/qa_images/qa02_top_ref.png",
+      "SpatialAct/data/images/indoor/object_meaning/indoor_scenes_simple-5-10/3rscan__0ad2d3a7-79e2-2212-9a1b-8737842a24e2_clean/qa_images/qa02_isometric_ref.png"
+    ]
+  },
+  {
+    "task_type": "object_identification_name",
+    "question": "What is object 1?\nA. window\nB. cabinet\nC. couch\nD. door\nTop-view image: <image>\nIsometric-view image: <image>\nChoose one option from A, B, C, D.",
+    "answer": "A",
+    "images": [
+      "SpatialAct/data/images/indoor/object_meaning/indoor_scenes_complex-10-15/arkitscenes__Training__48018015_clean/qa_images/qa02_top_ref.png",
+      "SpatialAct/data/images/indoor/object_meaning/indoor_scenes_complex-10-15/arkitscenes__Training__48018015_clean/qa_images/qa02_isometric_ref.png"
+    ]
+  },
+  {
+    "task_type": "object_identification_name",
+    "question": "What is object 1?\nA. chair\nB. couch\nC. cabinet\nD. flowerpot\nTop-view image: <image>\nIsometric-view image: <image>\nChoose one option from A, B, C, D.",
+    "answer": "D",
+    "images": [
+      "SpatialAct/data/images/indoor/object_meaning/indoor_scenes_complex-10-15/arkitscenes__Training__47332309_clean/qa_images/qa02_top_ref.png",
+      "SpatialAct/data/images/indoor/object_meaning/indoor_scenes_complex-10-15/arkitscenes__Training__47332309_clean/qa_images/qa02_isometric_ref.png"
+    ]
+  },
+  {
+    "task_type": "object_identification_name",
+    "question": "What is object 1?\nA. lamp\nB. chair\nC. table\nD. couch\nTop-view image: <image>\nIsometric-view image: <image>\nChoose one option from A, B, C, D.",
+    "answer": "C",
+    "images": [
+      "SpatialAct/data/images/indoor/object_meaning/indoor_scenes_complex-10-15/scannet__scene0344_00_clean/qa_images/qa02_top_ref.png",
+      "SpatialAct/data/images/indoor/object_meaning/indoor_scenes_complex-10-15/scannet__scene0344_00_clean/qa_images/qa02_isometric_ref.png"
+    ]
+  },
+  {
+    "task_type": "object_identification_name",
+    "question": "What is object 1?\nA. box\nB. doorframe\nC. picture\nD. switch\nTop-view image: <image>\nIsometric-view image: <image>\nChoose one option from A, B, C, D.",
+    "answer": "C",
+    "images": [
+      "SpatialAct/data/images/indoor/object_meaning/indoor_scenes_complex-10-15/3rscan__ab835f94-54c6-29a1-9872-210a98f12c12_clean/qa_images/qa02_top_ref.png",
+      "SpatialAct/data/images/indoor/object_meaning/indoor_scenes_complex-10-15/3rscan__ab835f94-54c6-29a1-9872-210a98f12c12_clean/qa_images/qa02_isometric_ref.png"
+    ]
+  },
+  {
+    "task_type": "object_identification_name",
+    "question": "What is object 1?\nA. door\nB. alarm\nC. doorframe\nD. light\nTop-view image: <image>\nIsometric-view image: <image>\nChoose one option from A, B, C, D.",
+    "answer": "D",
+    "images": [
+      "SpatialAct/data/images/indoor/object_meaning/indoor_scenes_simple-5-10/matterport3d__kEZ7cmS4wCh__region10_clean/qa_images/qa02_top_ref.png",
+      "SpatialAct/data/images/indoor/object_meaning/indoor_scenes_simple-5-10/matterport3d__kEZ7cmS4wCh__region10_clean/qa_images/qa02_isometric_ref.png"
+    ]
+  },
+  {
+    "task_type": "object_identification_name",
+    "question": "What is object 1?\nA. pillow\nB. bed\nC. curtain\nD. picture\nTop-view image: <image>\nIsometric-view image: <image>\nChoose one option from A, B, C, D.",
+    "answer": "D",
+    "images": [
+      "SpatialAct/data/images/indoor/object_meaning/indoor_scenes_simple-5-10/3rscan__1d23400e-e280-2b1a-8dec-67a551146c3a_clean/qa_images/qa02_top_ref.png",
+      "SpatialAct/data/images/indoor/object_meaning/indoor_scenes_simple-5-10/3rscan__1d23400e-e280-2b1a-8dec-67a551146c3a_clean/qa_images/qa02_isometric_ref.png"
+    ]
+  },
+  {
+    "task_type": "object_identification_name",
+    "question": "What is object 1?\nA. bin\nB. table\nC. blackboard\nD. chair\nTop-view image: <image>\nIsometric-view image: <image>\nChoose one option from A, B, C, D.",
+    "answer": "A",
+    "images": [
+      "SpatialAct/data/images/indoor/object_meaning/indoor_scenes_simple-5-10/scannet__scene0371_01_clean/qa_images/qa02_top_ref.png",
+      "SpatialAct/data/images/indoor/object_meaning/indoor_scenes_simple-5-10/scannet__scene0371_01_clean/qa_images/qa02_isometric_ref.png"
+    ]
+  },
+  {
+    "task_type": "object_identification_name",
+    "question": "What is object 1?\nA. sign\nB. door\nC. doorframe\nD. light\nTop-view image: <image>\nIsometric-view image: <image>\nChoose one option from A, B, C, D.",
+    "answer": "B",
+    "images": [
+      "SpatialAct/data/images/indoor/object_meaning/indoor_scenes_complex-10-15/matterport3d__B6ByNegPMKs__region5_clean/qa_images/qa02_top_ref.png",
+      "SpatialAct/data/images/indoor/object_meaning/indoor_scenes_complex-10-15/matterport3d__B6ByNegPMKs__region5_clean/qa_images/qa02_isometric_ref.png"
+    ]
+  },
+  {
+    "task_type": "object_identification_name",
+    "question": "What is object 1?\nA. box\nB. rail\nC. door\nD. bin\nTop-view image: <image>\nIsometric-view image: <image>\nChoose one option from A, B, C, D.",
+    "answer": "A",
+    "images": [
+      "SpatialAct/data/images/indoor/object_meaning/indoor_scenes_complex-10-15/scannet__scene0524_00_clean/qa_images/qa02_top_ref.png",
+      "SpatialAct/data/images/indoor/object_meaning/indoor_scenes_complex-10-15/scannet__scene0524_00_clean/qa_images/qa02_isometric_ref.png"
+    ]
+  },
+  {
+    "task_type": "object_identification_name",
+    "question": "What is object 1?\nA. bed\nB. lamp\nC. window\nD. cabinet\nTop-view image: <image>\nIsometric-view image: <image>\nChoose one option from A, B, C, D.",
+    "answer": "D",
+    "images": [
+      "SpatialAct/data/images/indoor/object_meaning/indoor_scenes_complex-10-15/arkitscenes__Training__43896538_clean/qa_images/qa02_top_ref.png",
+      "SpatialAct/data/images/indoor/object_meaning/indoor_scenes_complex-10-15/arkitscenes__Training__43896538_clean/qa_images/qa02_isometric_ref.png"
+    ]
+  },
+  {
+    "task_type": "object_identification_name",
+    "question": "What is object 1?\nA. cabinet\nB. radiator\nC. refrigerator\nD. laptop\nTop-view image: <image>\nIsometric-view image: <image>\nChoose one option from A, B, C, D.",
+    "answer": "A",
+    "images": [
+      "SpatialAct/data/images/indoor/object_meaning/indoor_scenes_complex-10-15/arkitscenes__Training__47334761_clean/qa_images/qa02_top_ref.png",
+      "SpatialAct/data/images/indoor/object_meaning/indoor_scenes_complex-10-15/arkitscenes__Training__47334761_clean/qa_images/qa02_isometric_ref.png"
+    ]
+  },
+  {
+    "task_type": "object_identification_name",
+    "question": "What is object 1?\nA. door\nB. chair\nC. table\nD. doorframe\nTop-view image: <image>\nIsometric-view image: <image>\nChoose one option from A, B, C, D.",
+    "answer": "A",
+    "images": [
+      "SpatialAct/data/images/indoor/object_meaning/indoor_scenes_complex-10-15/matterport3d__HxpKQynjfin__region5_clean/qa_images/qa02_top_ref.png",
+      "SpatialAct/data/images/indoor/object_meaning/indoor_scenes_complex-10-15/matterport3d__HxpKQynjfin__region5_clean/qa_images/qa02_isometric_ref.png"
+    ]
+  },
+  {
+    "task_type": "relative_position_direction_mcq",
+    "question": "An object can be on multiple sides at once (e.g., northwest counts as both north and west). Which numbered object is south of the washing machine? Answer with only one number.\nTop-view image: <image>\nIsometric-view image: <image>",
+    "answer": "1",
+    "images": [
+      "SpatialAct/data/images/indoor/object_meaning/indoor_scenes_complex-10-15/3rscan__82def5da-25ba-20f9-8810-71be905b83db_clean/qa_images/qa05_top_ref.png",
+      "SpatialAct/data/images/indoor/object_meaning/indoor_scenes_complex-10-15/3rscan__82def5da-25ba-20f9-8810-71be905b83db_clean/qa_images/qa05_isometric_ref.png"
+    ]
+  },
+  {
+    "task_type": "relative_position_direction_mcq",
+    "question": "An object can be on multiple sides at once (e.g., northwest counts as both north and west). Which numbered object is east of the bin? Answer with only one number.\nTop-view image: <image>\nIsometric-view image: <image>",
+    "answer": "4",
+    "images": [
+      "SpatialAct/data/images/indoor/object_meaning/indoor_scenes_complex-10-15/matterport3d__B6ByNegPMKs__region31_clean/qa_images/qa05_top_ref.png",
+      "SpatialAct/data/images/indoor/object_meaning/indoor_scenes_complex-10-15/matterport3d__B6ByNegPMKs__region31_clean/qa_images/qa05_isometric_ref.png"
+    ]
+  },
+  {
+    "task_type": "relative_position_direction_mcq",
+    "question": "An object can be on multiple sides at once (e.g., northwest counts as both north and west). Which numbered object is east of the bed? Answer with only one number.\nTop-view image: <image>\nIsometric-view image: <image>",
+    "answer": "4",
+    "images": [
+      "SpatialAct/data/images/indoor/object_meaning/indoor_scenes_complex-10-15/arkitscenes__Training__42899295_clean/qa_images/qa05_top_ref.png",
+      "SpatialAct/data/images/indoor/object_meaning/indoor_scenes_complex-10-15/arkitscenes__Training__42899295_clean/qa_images/qa05_isometric_ref.png"
+    ]
+  },
+  {
+    "task_type": "relative_position_direction_mcq",
+    "question": "An object can be on multiple sides at once (e.g., northwest counts as both north and west). Which numbered object is west of the chair? Answer with only one number.\nTop-view image: <image>\nIsometric-view image: <image>",
+    "answer": "2",
+    "images": [
+      "SpatialAct/data/images/indoor/object_meaning/indoor_scenes_complex-10-15/arkitscenes__Training__48018015_clean/qa_images/qa05_top_ref.png",
+      "SpatialAct/data/images/indoor/object_meaning/indoor_scenes_complex-10-15/arkitscenes__Training__48018015_clean/qa_images/qa05_isometric_ref.png"
+    ]
+  },
+  {
+    "task_type": "relative_position_direction_mcq",
+    "question": "An object can be on multiple sides at once (e.g., northwest counts as both north and west). Which numbered object is west of the cabinet? Answer with only one number.\nTop-view image: <image>\nIsometric-view image: <image>",
+    "answer": "2",
+    "images": [
+      "SpatialAct/data/images/indoor/object_meaning/indoor_scenes_complex-10-15/arkitscenes__Training__47332309_clean/qa_images/qa05_top_ref.png",
+      "SpatialAct/data/images/indoor/object_meaning/indoor_scenes_complex-10-15/arkitscenes__Training__47332309_clean/qa_images/qa05_isometric_ref.png"
+    ]
+  },
+  {
+    "task_type": "relative_position_direction_mcq",
+    "question": "An object can be on multiple sides at once (e.g., northwest counts as both north and west). Which numbered object is west of the bucket? Answer with only one number.\nTop-view image: <image>\nIsometric-view image: <image>",
+    "answer": "4",
+    "images": [
+      "SpatialAct/data/images/indoor/object_meaning/indoor_scenes_complex-10-15/arkitscenes__Validation__41254412_clean/qa_images/qa05_top_ref.png",
+      "SpatialAct/data/images/indoor/object_meaning/indoor_scenes_complex-10-15/arkitscenes__Validation__41254412_clean/qa_images/qa05_isometric_ref.png"
+    ]
+  },
+  {
+    "task_type": "relative_position_direction_mcq",
+    "question": "An object can be on multiple sides at once (e.g., northwest counts as both north and west). Which numbered object is north of the sink? Answer with only one number.\nTop-view image: <image>\nIsometric-view image: <image>",
+    "answer": "4",
+    "images": [
+      "SpatialAct/data/images/indoor/object_meaning/indoor_scenes_simple-5-10/matterport3d__uNb9QFRL6hY__region19_clean/qa_images/qa05_top_ref.png",
+      "SpatialAct/data/images/indoor/object_meaning/indoor_scenes_simple-5-10/matterport3d__uNb9QFRL6hY__region19_clean/qa_images/qa05_isometric_ref.png"
+    ]
+  },
+  {
+    "task_type": "relative_position_direction_mcq",
+    "question": "An object can be on multiple sides at once (e.g., northwest counts as both north and west). Which numbered object is west of the toilet? Answer with only one number.\nTop-view image: <image>\nIsometric-view image: <image>",
+    "answer": "3",
+    "images": [
+      "SpatialAct/data/images/indoor/object_meaning/indoor_scenes_complex-10-15/scannet__scene0399_00_clean/qa_images/qa05_top_ref.png",
+      "SpatialAct/data/images/indoor/object_meaning/indoor_scenes_complex-10-15/scannet__scene0399_00_clean/qa_images/qa05_isometric_ref.png"
+    ]
+  },
+  {
+    "task_type": "relative_position_direction_mcq",
+    "question": "An object can be on multiple sides at once (e.g., northwest counts as both north and west). Which numbered object is west of the baseboard? Answer with only one number.\nTop-view image: <image>\nIsometric-view image: <image>",
+    "answer": "4",
+    "images": [
+      "SpatialAct/data/images/indoor/object_meaning/indoor_scenes_complex-10-15/matterport3d__pRbA3pwrgk9__region7_clean/qa_images/qa05_top_ref.png",
+      "SpatialAct/data/images/indoor/object_meaning/indoor_scenes_complex-10-15/matterport3d__pRbA3pwrgk9__region7_clean/qa_images/qa05_isometric_ref.png"
+    ]
+  },
+  {
+    "task_type": "relative_position_direction_mcq",
+    "question": "An object can be on multiple sides at once (e.g., northwest counts as both north and west). Which numbered object is south of the sink? Answer with only one number.\nTop-view image: <image>\nIsometric-view image: <image>",
+    "answer": "4",
+    "images": [
+      "SpatialAct/data/images/indoor/object_meaning/indoor_scenes_complex-10-15/arkitscenes__Training__42898120_clean/qa_images/qa05_top_ref.png",
+      "SpatialAct/data/images/indoor/object_meaning/indoor_scenes_complex-10-15/arkitscenes__Training__42898120_clean/qa_images/qa05_isometric_ref.png"
+    ]
+  },
+  {
+    "task_type": "relative_position_direction_mcq",
+    "question": "An object can be on multiple sides at once (e.g., northwest counts as both north and west). Which numbered object is east of the commode? Answer with only one number.\nTop-view image: <image>\nIsometric-view image: <image>",
+    "answer": "3",
+    "images": [
+      "SpatialAct/data/images/indoor/object_meaning/indoor_scenes_simple-5-10/3rscan__0cac7627-8d6f-2d13-8eac-41764b5f2c5b_clean/qa_images/qa05_top_ref.png",
+      "SpatialAct/data/images/indoor/object_meaning/indoor_scenes_simple-5-10/3rscan__0cac7627-8d6f-2d13-8eac-41764b5f2c5b_clean/qa_images/qa05_isometric_ref.png"
+    ]
+  },
+  {
+    "task_type": "relative_position_direction_mcq",
+    "question": "An object can be on multiple sides at once (e.g., northwest counts as both north and west). Which numbered object is west of the stool? Answer with only one number.\nTop-view image: <image>\nIsometric-view image: <image>",
+    "answer": "1",
+    "images": [
+      "SpatialAct/data/images/indoor/object_meaning/indoor_scenes_simple-5-10/arkitscenes__Training__47331177_clean/qa_images/qa05_top_ref.png",
+      "SpatialAct/data/images/indoor/object_meaning/indoor_scenes_simple-5-10/arkitscenes__Training__47331177_clean/qa_images/qa05_isometric_ref.png"
+    ]
+  },
+  {
+    "task_type": "relative_position_direction_mcq",
+    "question": "An object can be on multiple sides at once (e.g., northwest counts as both north and west). Which numbered object is east of the bar? Answer with only one number.\nTop-view image: <image>\nIsometric-view image: <image>",
+    "answer": "4",
+    "images": [
+      "SpatialAct/data/images/indoor/object_meaning/indoor_scenes_simple-5-10/scannet__scene0067_02_clean/qa_images/qa05_top_ref.png",
+      "SpatialAct/data/images/indoor/object_meaning/indoor_scenes_simple-5-10/scannet__scene0067_02_clean/qa_images/qa05_isometric_ref.png"
+    ]
+  },
+  {
+    "task_type": "relative_position_side",
+    "question": "Which side of the bed is the desk on?\nA. north\nB. southwest\nC. east\nD. southeast\nTop-view image: <image>\nIsometric-view image: <image>\nChoose one option from A, B, C, D.",
+    "answer": "A",
+    "images": [
+      "SpatialAct/data/images/indoor/object_meaning/indoor_scenes_simple-5-10/scannet__scene0055_02_clean/qa_images/qa04_top_ref.png",
+      "SpatialAct/data/images/indoor/object_meaning/indoor_scenes_simple-5-10/scannet__scene0055_02_clean/qa_images/qa04_isometric_ref.png"
+    ]
+  },
+  {
+    "task_type": "relative_position_side",
+    "question": "Which side of the curtain is the mirror on?\nA. east\nB. northwest\nC. southeast\nD. south\nTop-view image: <image>\nIsometric-view image: <image>\nChoose one option from A, B, C, D.",
+    "answer": "B",
+    "images": [
+      "SpatialAct/data/images/indoor/object_meaning/indoor_scenes_complex-10-15/matterport3d__1pXnuDYAj8r__region7_clean/qa_images/qa04_top_ref.png",
+      "SpatialAct/data/images/indoor/object_meaning/indoor_scenes_complex-10-15/matterport3d__1pXnuDYAj8r__region7_clean/qa_images/qa04_isometric_ref.png"
+    ]
+  },
+  {
+    "task_type": "relative_position_side",
+    "question": "Which side of the stand is the curtain on?\nA. north\nB. southwest\nC. east\nD. west\nTop-view image: <image>\nIsometric-view image: <image>\nChoose one option from A, B, C, D.",
+    "answer": "C",
+    "images": [
+      "SpatialAct/data/images/indoor/object_meaning/indoor_scenes_simple-5-10/3rscan__2e369567-e133-204c-909a-c5da44bb58df_clean/qa_images/qa04_top_ref.png",
+      "SpatialAct/data/images/indoor/object_meaning/indoor_scenes_simple-5-10/3rscan__2e369567-e133-204c-909a-c5da44bb58df_clean/qa_images/qa04_isometric_ref.png"
+    ]
+  },
+  {
+    "task_type": "relative_position_side",
+    "question": "Which side of the sign is the bin on?\nA. south\nB. east\nC. southwest\nD. west\nTop-view image: <image>\nIsometric-view image: <image>\nChoose one option from A, B, C, D.",
+    "answer": "B",
+    "images": [
+      "SpatialAct/data/images/indoor/object_meaning/indoor_scenes_complex-10-15/matterport3d__B6ByNegPMKs__region31_clean/qa_images/qa04_top_ref.png",
+      "SpatialAct/data/images/indoor/object_meaning/indoor_scenes_complex-10-15/matterport3d__B6ByNegPMKs__region31_clean/qa_images/qa04_isometric_ref.png"
+    ]
+  },
+  {
+    "task_type": "relative_position_side",
+    "question": "Which side of the table is the blackboard on?\nA. east\nB. west\nC. south\nD. southwest\nTop-view image: <image>\nIsometric-view image: <image>\nChoose one option from A, B, C, D.",
+    "answer": "A",
+    "images": [
+      "SpatialAct/data/images/indoor/object_meaning/indoor_scenes_simple-5-10/scannet__scene0371_01_clean/qa_images/qa04_top_ref.png",
+      "SpatialAct/data/images/indoor/object_meaning/indoor_scenes_simple-5-10/scannet__scene0371_01_clean/qa_images/qa04_isometric_ref.png"
+    ]
+  },
+  {
+    "task_type": "relative_position_side",
+    "question": "Which side of the hook is the hanger on?\nA. southwest\nB. north\nC. west\nD. east\nTop-view image: <image>\nIsometric-view image: <image>\nChoose one option from A, B, C, D.",
+    "answer": "D",
+    "images": [
+      "SpatialAct/data/images/indoor/object_meaning/indoor_scenes_complex-10-15/3rscan__ab835f8b-54c6-29a1-9a7a-4770a0eb74ff_clean/qa_images/qa04_top_ref.png",
+      "SpatialAct/data/images/indoor/object_meaning/indoor_scenes_complex-10-15/3rscan__ab835f8b-54c6-29a1-9a7a-4770a0eb74ff_clean/qa_images/qa04_isometric_ref.png"
+    ]
+  },
+  {
+    "task_type": "relative_position_side",
+    "question": "Which side of the table is the dresser on?\nA. west\nB. east\nC. north\nD. southwest\nTop-view image: <image>\nIsometric-view image: <image>\nChoose one option from A, B, C, D.",
+    "answer": "B",
+    "images": [
+      "SpatialAct/data/images/indoor/object_meaning/indoor_scenes_complex-10-15/matterport3d__gTV8FGcVJC9__region7_clean/qa_images/qa04_top_ref.png",
+      "SpatialAct/data/images/indoor/object_meaning/indoor_scenes_complex-10-15/matterport3d__gTV8FGcVJC9__region7_clean/qa_images/qa04_isometric_ref.png"
+    ]
+  },
+  {
+    "task_type": "relative_position_side",
+    "question": "Which side of the picture is the window on?\nA. west\nB. north\nC. east\nD. southwest\nTop-view image: <image>\nIsometric-view image: <image>\nChoose one option from A, B, C, D.",
+    "answer": "C",
+    "images": [
+      "SpatialAct/data/images/indoor/object_meaning/indoor_scenes_complex-10-15/arkitscenes__Training__42898342_clean/qa_images/qa04_top_ref.png",
+      "SpatialAct/data/images/indoor/object_meaning/indoor_scenes_complex-10-15/arkitscenes__Training__42898342_clean/qa_images/qa04_isometric_ref.png"
+    ]
+  },
+  {
+    "task_type": "relative_position_side",
+    "question": "Which side of the window is the radiator on?\nA. north\nB. northeast\nC. west\nD. south\nTop-view image: <image>\nIsometric-view image: <image>\nChoose one option from A, B, C, D.",
+    "answer": "C",
+    "images": [
+      "SpatialAct/data/images/indoor/object_meaning/indoor_scenes_complex-10-15/arkitscenes__Training__48018015_clean/qa_images/qa04_top_ref.png",
+      "SpatialAct/data/images/indoor/object_meaning/indoor_scenes_complex-10-15/arkitscenes__Training__48018015_clean/qa_images/qa04_isometric_ref.png"
+    ]
+  },
+  {
+    "task_type": "relative_position_side",
+    "question": "Which side of the door is the window on?\nA. northwest\nB. east\nC. south\nD. north\nTop-view image: <image>\nIsometric-view image: <image>\nChoose one option from A, B, C, D.",
+    "answer": "B",
+    "images": [
+      "SpatialAct/data/images/indoor/object_meaning/indoor_scenes_complex-10-15/arkitscenes__Training__42899295_clean/qa_images/qa04_top_ref.png",
+      "SpatialAct/data/images/indoor/object_meaning/indoor_scenes_complex-10-15/arkitscenes__Training__42899295_clean/qa_images/qa04_isometric_ref.png"
+    ]
+  },
+  {
+    "task_type": "relative_position_side",
+    "question": "Which side of the door is the chair on?\nA. northeast\nB. south\nC. west\nD. north\nTop-view image: <image>\nIsometric-view image: <image>\nChoose one option from A, B, C, D.",
+    "answer": "C",
+    "images": [
+      "SpatialAct/data/images/indoor/object_meaning/indoor_scenes_simple-5-10/3rscan__501ebf0b-a3bb-263f-86fd-7ef000a19588_clean/qa_images/qa04_top_ref.png",
+      "SpatialAct/data/images/indoor/object_meaning/indoor_scenes_simple-5-10/3rscan__501ebf0b-a3bb-263f-86fd-7ef000a19588_clean/qa_images/qa04_isometric_ref.png"
+    ]
+  },
+  {
+    "task_type": "relative_position_side",
+    "question": "Which side of the switch is the window frame on?\nA. southwest\nB. north\nC. northwest\nD. east\nTop-view image: <image>\nIsometric-view image: <image>\nChoose one option from A, B, C, D.",
+    "answer": "A",
+    "images": [
+      "SpatialAct/data/images/indoor/object_meaning/indoor_scenes_complex-10-15/matterport3d__5LpN3gDmAk7__region12_clean/qa_images/qa04_top_ref.png",
+      "SpatialAct/data/images/indoor/object_meaning/indoor_scenes_complex-10-15/matterport3d__5LpN3gDmAk7__region12_clean/qa_images/qa04_isometric_ref.png"
+    ]
+  },
+  {
+    "task_type": "relative_position_side",
+    "question": "Which side of the lamp is the window on?\nA. northeast\nB. southeast\nC. west\nD. north\nTop-view image: <image>\nIsometric-view image: <image>\nChoose one option from A, B, C, D.",
+    "answer": "B",
+    "images": [
+      "SpatialAct/data/images/indoor/object_meaning/indoor_scenes_complex-10-15/matterport3d__zsNo4HB9uLZ__region9_clean/qa_images/qa04_top_ref.png",
+      "SpatialAct/data/images/indoor/object_meaning/indoor_scenes_complex-10-15/matterport3d__zsNo4HB9uLZ__region9_clean/qa_images/qa04_isometric_ref.png"
+    ]
+  },
+  {
+    "task_type": "relative_position_side",
+    "question": "Which side of the box is the frame on?\nA. west\nB. northwest\nC. east\nD. southwest\nTop-view image: <image>\nIsometric-view image: <image>\nChoose one option from A, B, C, D.",
+    "answer": "C",
+    "images": [
+      "SpatialAct/data/images/indoor/object_meaning/indoor_scenes_simple-5-10/3rscan__0cac7627-8d6f-2d13-8eac-41764b5f2c5b_clean/qa_images/qa04_top_ref.png",
+      "SpatialAct/data/images/indoor/object_meaning/indoor_scenes_simple-5-10/3rscan__0cac7627-8d6f-2d13-8eac-41764b5f2c5b_clean/qa_images/qa04_isometric_ref.png"
+    ]
+  },
+  {
+    "task_type": "relative_position_side",
+    "question": "Which side of the sign is the light on?\nA. northeast\nB. south\nC. southeast\nD. west\nTop-view image: <image>\nIsometric-view image: <image>\nChoose one option from A, B, C, D.",
+    "answer": "D",
+    "images": [
+      "SpatialAct/data/images/indoor/object_meaning/indoor_scenes_complex-10-15/matterport3d__B6ByNegPMKs__region5_clean/qa_images/qa04_top_ref.png",
+      "SpatialAct/data/images/indoor/object_meaning/indoor_scenes_complex-10-15/matterport3d__B6ByNegPMKs__region5_clean/qa_images/qa04_isometric_ref.png"
+    ]
+  },
+  {
+    "task_type": "relative_position_side",
+    "question": "Which side of the window is the chair on?\nA. northwest\nB. south\nC. east\nD. north\nTop-view image: <image>\nIsometric-view image: <image>\nChoose one option from A, B, C, D.",
+    "answer": "C",
+    "images": [
+      "SpatialAct/data/images/indoor/object_meaning/indoor_scenes_complex-10-15/arkitscenes__Training__43896538_clean/qa_images/qa04_top_ref.png",
+      "SpatialAct/data/images/indoor/object_meaning/indoor_scenes_complex-10-15/arkitscenes__Training__43896538_clean/qa_images/qa04_isometric_ref.png"
+    ]
+  },
+  {
+    "task_type": "relative_position_side",
+    "question": "Which side of the object is the washing machine on?\nA. northeast\nB. west\nC. north\nD. east\nTop-view image: <image>\nIsometric-view image: <image>\nChoose one option from A, B, C, D.",
+    "answer": "B",
+    "images": [
+      "SpatialAct/data/images/indoor/object_meaning/indoor_scenes_complex-10-15/3rscan__82def5da-25ba-20f9-8810-71be905b83db_clean/qa_images/qa04_top_ref.png",
+      "SpatialAct/data/images/indoor/object_meaning/indoor_scenes_complex-10-15/3rscan__82def5da-25ba-20f9-8810-71be905b83db_clean/qa_images/qa04_isometric_ref.png"
+    ]
+  },
+  {
+    "task_type": "relative_position_side",
+    "question": "Which side of the door is the stool on?\nA. southeast\nB. northeast\nC. west\nD. northwest\nTop-view image: <image>\nIsometric-view image: <image>\nChoose one option from A, B, C, D.",
+    "answer": "A",
+    "images": [
+      "SpatialAct/data/images/indoor/object_meaning/indoor_scenes_simple-5-10/3rscan__0ad2d3a7-79e2-2212-9a1b-8737842a24e2_clean/qa_images/qa04_top_ref.png",
+      "SpatialAct/data/images/indoor/object_meaning/indoor_scenes_simple-5-10/3rscan__0ad2d3a7-79e2-2212-9a1b-8737842a24e2_clean/qa_images/qa04_isometric_ref.png"
+    ]
+  },
+  {
+    "task_type": "relative_position_side",
+    "question": "Which side of the cabinet is the window on?\nA. north\nB. east\nC. west\nD. northeast\nTop-view image: <image>\nIsometric-view image: <image>\nChoose one option from A, B, C, D.",
+    "answer": "C",
+    "images": [
+      "SpatialAct/data/images/indoor/object_meaning/indoor_scenes_complex-10-15/matterport3d__JF19kD82Mey__region7_clean/qa_images/qa04_top_ref.png",
+      "SpatialAct/data/images/indoor/object_meaning/indoor_scenes_complex-10-15/matterport3d__JF19kD82Mey__region7_clean/qa_images/qa04_isometric_ref.png"
+    ]
+  },
+  {
+    "task_type": "relative_position_side",
+    "question": "Which side of the window is the radiator on?\nA. southwest\nB. south\nC. east\nD. northwest\nTop-view image: <image>\nIsometric-view image: <image>\nChoose one option from A, B, C, D.",
+    "answer": "C",
+    "images": [
+      "SpatialAct/data/images/indoor/object_meaning/indoor_scenes_complex-10-15/arkitscenes__Training__47334761_clean/qa_images/qa04_top_ref.png",
+      "SpatialAct/data/images/indoor/object_meaning/indoor_scenes_complex-10-15/arkitscenes__Training__47334761_clean/qa_images/qa04_isometric_ref.png"
+    ]
+  },
+  {
+    "task_type": "relative_position_side",
+    "question": "Which side of the toilet is the window on?\nA. west\nB. southeast\nC. northwest\nD. southwest\nTop-view image: <image>\nIsometric-view image: <image>\nChoose one option from A, B, C, D.",
+    "answer": "B",
+    "images": [
+      "SpatialAct/data/images/indoor/object_meaning/indoor_scenes_simple-5-10/matterport3d__uNb9QFRL6hY__region19_clean/qa_images/qa04_top_ref.png",
+      "SpatialAct/data/images/indoor/object_meaning/indoor_scenes_simple-5-10/matterport3d__uNb9QFRL6hY__region19_clean/qa_images/qa04_isometric_ref.png"
+    ]
+  },
+  {
+    "task_type": "relative_position_side",
+    "question": "Which side of the door is the bin on?\nA. northeast\nB. south\nC. southeast\nD. northwest\nTop-view image: <image>\nIsometric-view image: <image>\nChoose one option from A, B, C, D.",
+    "answer": "D",
+    "images": [
+      "SpatialAct/data/images/indoor/object_meaning/indoor_scenes_complex-10-15/scannet__scene0112_01_clean/qa_images/qa04_top_ref.png",
+      "SpatialAct/data/images/indoor/object_meaning/indoor_scenes_complex-10-15/scannet__scene0112_01_clean/qa_images/qa04_isometric_ref.png"
+    ]
+  },
+  {
+    "task_type": "relative_position_side",
+    "question": "Which side of the door is the stool on?\nA. northwest\nB. east\nC. south\nD. north\nTop-view image: <image>\nIsometric-view image: <image>\nChoose one option from A, B, C, D.",
+    "answer": "C",
+    "images": [
+      "SpatialAct/data/images/indoor/object_meaning/indoor_scenes_simple-5-10/arkitscenes__Training__47331177_clean/qa_images/qa04_top_ref.png",
+      "SpatialAct/data/images/indoor/object_meaning/indoor_scenes_simple-5-10/arkitscenes__Training__47331177_clean/qa_images/qa04_isometric_ref.png"
+    ]
+  },
+  {
+    "task_type": "relative_position_side",
+    "question": "Which side of the stand is the desk on?\nA. southwest\nB. north\nC. southeast\nD. northeast\nTop-view image: <image>\nIsometric-view image: <image>\nChoose one option from A, B, C, D.",
+    "answer": "C",
+    "images": [
+      "SpatialAct/data/images/indoor/object_meaning/indoor_scenes_complex-10-15/scannet__scene0035_01_clean/qa_images/qa04_top_ref.png",
+      "SpatialAct/data/images/indoor/object_meaning/indoor_scenes_complex-10-15/scannet__scene0035_01_clean/qa_images/qa04_isometric_ref.png"
+    ]
+  },
+  {
+    "task_type": "relative_position_side",
+    "question": "Which side of the table is the chair on?\nA. northwest\nB. east\nC. southwest\nD. north\nTop-view image: <image>\nIsometric-view image: <image>\nChoose one option from A, B, C, D.",
+    "answer": "B",
+    "images": [
+      "SpatialAct/data/images/indoor/object_meaning/indoor_scenes_complex-10-15/arkitscenes__Training__48458640_clean/qa_images/qa04_top_ref.png",
+      "SpatialAct/data/images/indoor/object_meaning/indoor_scenes_complex-10-15/arkitscenes__Training__48458640_clean/qa_images/qa04_isometric_ref.png"
+    ]
+  },
+  {
+    "task_type": "relative_position_side",
+    "question": "Which side of the kettle is the table on?\nA. northeast\nB. northwest\nC. east\nD. south\nTop-view image: <image>\nIsometric-view image: <image>\nChoose one option from A, B, C, D.",
+    "answer": "B",
+    "images": [
+      "SpatialAct/data/images/indoor/object_meaning/indoor_scenes_complex-10-15/arkitscenes__Training__47332309_clean/qa_images/qa04_top_ref.png",
+      "SpatialAct/data/images/indoor/object_meaning/indoor_scenes_complex-10-15/arkitscenes__Training__47332309_clean/qa_images/qa04_isometric_ref.png"
+    ]
+  },
+  {
+    "task_type": "relative_position_side",
+    "question": "Which side of the switch is the object on?\nA. north\nB. east\nC. northwest\nD. west\nTop-view image: <image>\nIsometric-view image: <image>\nChoose one option from A, B, C, D.",
+    "answer": "B",
+    "images": [
+      "SpatialAct/data/images/indoor/object_meaning/indoor_scenes_complex-10-15/matterport3d__pRbA3pwrgk9__region7_clean/qa_images/qa04_top_ref.png",
+      "SpatialAct/data/images/indoor/object_meaning/indoor_scenes_complex-10-15/matterport3d__pRbA3pwrgk9__region7_clean/qa_images/qa04_isometric_ref.png"
+    ]
+  },
+  {
+    "task_type": "relative_position_side",
+    "question": "Which side of the curtain is the window on?\nA. south\nB. west\nC. east\nD. northeast\nTop-view image: <image>\nIsometric-view image: <image>\nChoose one option from A, B, C, D.",
+    "answer": "B",
+    "images": [
+      "SpatialAct/data/images/indoor/object_meaning/indoor_scenes_complex-10-15/matterport3d__VzqfbhrpDEA__region11_clean/qa_images/qa04_top_ref.png",
+      "SpatialAct/data/images/indoor/object_meaning/indoor_scenes_complex-10-15/matterport3d__VzqfbhrpDEA__region11_clean/qa_images/qa04_isometric_ref.png"
+    ]
+  },
+  {
+    "task_type": "counting",
+    "question": "How many picture objects are in the room? Answer with only one number.\nTop-view image: <image>\nIsometric-view image: <image>",
+    "answer": "2",
+    "images": [
+      "SpatialAct/data/images/indoor/object_meaning/indoor_scenes_complex-10-15/matterport3d__pRbA3pwrgk9__region7_clean/raw_views/top.png",
+      "SpatialAct/data/images/indoor/object_meaning/indoor_scenes_complex-10-15/matterport3d__pRbA3pwrgk9__region7_clean/raw_views/isometric.png"
+    ]
+  },
+  {
+    "task_type": "object_identification_name",
+    "question": "What is object 1?\nA. door\nB. stand\nC. bed\nD. window\nTop-view image: <image>\nIsometric-view image: <image>\nChoose one option from A, B, C, D.",
+    "answer": "D",
+    "images": [
+      "SpatialAct/data/images/indoor/object_meaning/indoor_scenes_complex-10-15/scannet__scene0035_01_clean/qa_images/qa02_top_ref.png",
+      "SpatialAct/data/images/indoor/object_meaning/indoor_scenes_complex-10-15/scannet__scene0035_01_clean/qa_images/qa02_isometric_ref.png"
+    ]
+  },
+  {
+    "task_type": "relative_position_side",
+    "question": "Which side of the table is the door on?\nA. northwest\nB. north\nC. southwest\nD. southeast\nTop-view image: <image>\nIsometric-view image: <image>\nChoose one option from A, B, C, D.",
+    "answer": "D",
+    "images": [
+      "SpatialAct/data/images/indoor/object_meaning/indoor_scenes_complex-10-15/3rscan__47319772-f9f7-2a1a-9768-108df4f37ab9_clean/qa_images/qa04_top_ref.png",
+      "SpatialAct/data/images/indoor/object_meaning/indoor_scenes_complex-10-15/3rscan__47319772-f9f7-2a1a-9768-108df4f37ab9_clean/qa_images/qa04_isometric_ref.png"
+    ]
+  },
+  {
+    "task_type": "object_identification_mcq",
+    "question": "Which numbered object is a chair? Answer with only one number.\nTop-view image: <image>\nIsometric-view image: <image>",
+    "answer": "1",
+    "images": [
+      "SpatialAct/data/images/indoor/object_meaning/indoor_scenes_complex-10-15/scannet__scene0035_01_clean/qa_images/qa03_top_ref.png",
+      "SpatialAct/data/images/indoor/object_meaning/indoor_scenes_complex-10-15/scannet__scene0035_01_clean/qa_images/qa03_isometric_ref.png"
+    ]
+  },
+  {
+    "task_type": "counting",
+    "question": "How many chair objects are in the room? Answer with only one number.\nTop-view image: <image>\nIsometric-view image: <image>",
+    "answer": "6",
+    "images": [
+      "SpatialAct/data/images/indoor/object_meaning/indoor_scenes_complex-10-15/scannet__scene0103_01_clean/raw_views/top.png",
+      "SpatialAct/data/images/indoor/object_meaning/indoor_scenes_complex-10-15/scannet__scene0103_01_clean/raw_views/isometric.png"
+    ]
+  },
+  {
+    "task_type": "object_identification_name",
+    "question": "What is object 1?\nA. chair\nB. table\nC. cabinet\nD. light\nTop-view image: <image>\nIsometric-view image: <image>\nChoose one option from A, B, C, D.",
+    "answer": "A",
+    "images": [
+      "SpatialAct/data/images/indoor/object_meaning/indoor_scenes_complex-10-15/3rscan__c9fb7aa5-2a5b-2cf7-902e-42a0339c7242_clean/qa_images/qa02_top_ref.png",
+      "SpatialAct/data/images/indoor/object_meaning/indoor_scenes_complex-10-15/3rscan__c9fb7aa5-2a5b-2cf7-902e-42a0339c7242_clean/qa_images/qa02_isometric_ref.png"
+    ]
+  },
+  {
+    "task_type": "relative_position_side",
+    "question": "Which side of the table is the cabinet on?\nA. northwest\nB. northeast\nC. west\nD. southwest\nTop-view image: <image>\nIsometric-view image: <image>\nChoose one option from A, B, C, D.",
+    "answer": "B",
+    "images": [
+      "SpatialAct/data/images/indoor/object_meaning/indoor_scenes_complex-10-15/arkitscenes__Validation__41254412_clean/qa_images/qa04_top_ref.png",
+      "SpatialAct/data/images/indoor/object_meaning/indoor_scenes_complex-10-15/arkitscenes__Validation__41254412_clean/qa_images/qa04_isometric_ref.png"
+    ]
+  },
+  {
+    "task_type": "object_identification_mcq",
+    "question": "Which numbered object is a shelf? Answer with only one number.\nTop-view image: <image>\nIsometric-view image: <image>",
+    "answer": "1",
+    "images": [
+      "SpatialAct/data/images/indoor/object_meaning/indoor_scenes_complex-10-15/arkitscenes__Training__42899161_clean/qa_images/qa03_top_ref.png",
+      "SpatialAct/data/images/indoor/object_meaning/indoor_scenes_complex-10-15/arkitscenes__Training__42899161_clean/qa_images/qa03_isometric_ref.png"
+    ]
+  },
+  {
+    "task_type": "counting",
+    "question": "How many chair objects are in the room? Answer with only one number.\nTop-view image: <image>\nIsometric-view image: <image>",
+    "answer": "3",
+    "images": [
+      "SpatialAct/data/images/indoor/object_meaning/indoor_scenes_complex-10-15/arkitscenes__Training__47331180_clean/raw_views/top.png",
+      "SpatialAct/data/images/indoor/object_meaning/indoor_scenes_complex-10-15/arkitscenes__Training__47331180_clean/raw_views/isometric.png"
+    ]
+  },
+  {
+    "task_type": "object_identification_name",
+    "question": "What is object 1?\nA. mirror\nB. light\nC. bar\nD. door\nTop-view image: <image>\nIsometric-view image: <image>\nChoose one option from A, B, C, D.",
+    "answer": "D",
+    "images": [
+      "SpatialAct/data/images/indoor/object_meaning/indoor_scenes_complex-10-15/scannet__scene0067_02_clean/qa_images/qa02_top_ref.png",
+      "SpatialAct/data/images/indoor/object_meaning/indoor_scenes_complex-10-15/scannet__scene0067_02_clean/qa_images/qa02_isometric_ref.png"
+    ]
+  },
+  {
+    "task_type": "relative_position_side",
+    "question": "Which side of the table is the tv on?\nA. northwest\nB. southeast\nC. northeast\nD. east\nTop-view image: <image>\nIsometric-view image: <image>\nChoose one option from A, B, C, D.",
+    "answer": "A",
+    "images": [
+      "SpatialAct/data/images/indoor/object_meaning/indoor_scenes_complex-10-15/matterport3d__XcA2TqTSSAj__region14_clean/qa_images/qa04_top_ref.png",
+      "SpatialAct/data/images/indoor/object_meaning/indoor_scenes_complex-10-15/matterport3d__XcA2TqTSSAj__region14_clean/qa_images/qa04_isometric_ref.png"
+    ]
+  },
+  {
+    "task_type": "object_identification_mcq",
+    "question": "Which numbered object is a bin? Answer with only one number.\nTop-view image: <image>\nIsometric-view image: <image>",
+    "answer": "1",
+    "images": [
+      "SpatialAct/data/images/indoor/object_meaning/indoor_scenes_complex-10-15/scannet__scene0524_00_clean/qa_images/qa03_top_ref.png",
+      "SpatialAct/data/images/indoor/object_meaning/indoor_scenes_complex-10-15/scannet__scene0524_00_clean/qa_images/qa03_isometric_ref.png"
+    ]
+  },
+  {
+    "task_type": "counting",
+    "question": "How many cabinet objects are in the room? Answer with only one number.\nTop-view image: <image>\nIsometric-view image: <image>",
+    "answer": "1",
+    "images": [
+      "SpatialAct/data/images/indoor/object_meaning/indoor_scenes_complex-10-15/scannet__scene0065_00_clean/raw_views/top.png",
+      "SpatialAct/data/images/indoor/object_meaning/indoor_scenes_complex-10-15/scannet__scene0065_00_clean/raw_views/isometric.png"
+    ]
+  },
+  {
+    "task_type": "object_identification_name",
+    "question": "What is object 1?\nA. couch\nB. door\nC. chair\nD. cabinet\nTop-view image: <image>\nIsometric-view image: <image>\nChoose one option from A, B, C, D.",
+    "answer": "B",
+    "images": [
+      "SpatialAct/data/images/indoor/object_meaning/indoor_scenes_simple-5-10/3rscan__501ebf0b-a3bb-263f-86fd-7ef000a19588_clean/qa_images/qa02_top_ref.png",
+      "SpatialAct/data/images/indoor/object_meaning/indoor_scenes_simple-5-10/3rscan__501ebf0b-a3bb-263f-86fd-7ef000a19588_clean/qa_images/qa02_isometric_ref.png"
+    ]
+  },
+  {
+    "task_type": "relative_position_side",
+    "question": "Which side of the light is the rail on?\nA. west\nB. northeast\nC. east\nD. south\nTop-view image: <image>\nIsometric-view image: <image>\nChoose one option from A, B, C, D.",
+    "answer": "A",
+    "images": [
+      "SpatialAct/data/images/indoor/object_meaning/indoor_scenes_simple-5-10/scannet__scene0044_01_clean/qa_images/qa04_top_ref.png",
+      "SpatialAct/data/images/indoor/object_meaning/indoor_scenes_simple-5-10/scannet__scene0044_01_clean/qa_images/qa04_isometric_ref.png"
+    ]
+  },
+  {
+    "task_type": "object_identification_mcq",
+    "question": "Which numbered object is a bucket? Answer with only one number.\nTop-view image: <image>\nIsometric-view image: <image>",
+    "answer": "4",
+    "images": [
+      "SpatialAct/data/images/indoor/object_meaning/indoor_scenes_complex-10-15/3rscan__82def5da-25ba-20f9-8810-71be905b83db_clean/qa_images/qa03_top_ref.png",
+      "SpatialAct/data/images/indoor/object_meaning/indoor_scenes_complex-10-15/3rscan__82def5da-25ba-20f9-8810-71be905b83db_clean/qa_images/qa03_isometric_ref.png"
+    ]
+  },
+  {
+    "task_type": "counting",
+    "question": "How many table objects are in the room? Answer with only one number.\nTop-view image: <image>\nIsometric-view image: <image>",
+    "answer": "2",
+    "images": [
+      "SpatialAct/data/images/indoor/object_meaning/indoor_scenes_simple-5-10/3rscan__501ebf0b-a3bb-263f-86fd-7ef000a19588_clean/raw_views/top.png",
+      "SpatialAct/data/images/indoor/object_meaning/indoor_scenes_simple-5-10/3rscan__501ebf0b-a3bb-263f-86fd-7ef000a19588_clean/raw_views/isometric.png"
+    ]
+  },
+  {
+    "task_type": "object_identification_name",
+    "question": "What is object 1?\nA. carpet\nB. column\nC. shelf\nD. table\nTop-view image: <image>\nIsometric-view image: <image>\nChoose one option from A, B, C, D.",
+    "answer": "B",
+    "images": [
+      "SpatialAct/data/images/indoor/object_meaning/indoor_scenes_simple-5-10/3rscan__baf6738b-8e94-22f8-8085-24c4e5ef5220_clean/qa_images/qa02_top_ref.png",
+      "SpatialAct/data/images/indoor/object_meaning/indoor_scenes_simple-5-10/3rscan__baf6738b-8e94-22f8-8085-24c4e5ef5220_clean/qa_images/qa02_isometric_ref.png"
+    ]
+  },
+  {
+    "task_type": "relative_position_side",
+    "question": "Which side of the fire extinguisher is the window on?\nA. south\nB. north\nC. east\nD. southwest\nTop-view image: <image>\nIsometric-view image: <image>\nChoose one option from A, B, C, D.",
+    "answer": "C",
+    "images": [
+      "SpatialAct/data/images/indoor/object_meaning/indoor_scenes_complex-10-15/scannet__scene0242_02_clean/qa_images/qa04_top_ref.png",
+      "SpatialAct/data/images/indoor/object_meaning/indoor_scenes_complex-10-15/scannet__scene0242_02_clean/qa_images/qa04_isometric_ref.png"
+    ]
+  },
+  {
+    "task_type": "object_identification_mcq",
+    "question": "Which numbered object is a bin? Answer with only one number.\nTop-view image: <image>\nIsometric-view image: <image>",
+    "answer": "4",
+    "images": [
+      "SpatialAct/data/images/indoor/object_meaning/indoor_scenes_complex-10-15/scannet__scene0129_00_clean/qa_images/qa03_top_ref.png",
+      "SpatialAct/data/images/indoor/object_meaning/indoor_scenes_complex-10-15/scannet__scene0129_00_clean/qa_images/qa03_isometric_ref.png"
+    ]
+  },
+  {
+    "task_type": "counting",
+    "question": "How many bin objects are in the room? Answer with only one number.\nTop-view image: <image>\nIsometric-view image: <image>",
+    "answer": "1",
+    "images": [
+      "SpatialAct/data/images/indoor/object_meaning/indoor_scenes_simple-5-10/scannet__scene0067_02_clean/raw_views/top.png",
+      "SpatialAct/data/images/indoor/object_meaning/indoor_scenes_simple-5-10/scannet__scene0067_02_clean/raw_views/isometric.png"
+    ]
+  },
+  {
+    "task_type": "object_identification_name",
+    "question": "What is object 1?\nA. door\nB. window\nC. light\nD. doorframe\nTop-view image: <image>\nIsometric-view image: <image>\nChoose one option from A, B, C, D.",
+    "answer": "D",
+    "images": [
+      "SpatialAct/data/images/indoor/object_meaning/indoor_scenes_complex-10-15/matterport3d__B6ByNegPMKs__region22_clean/qa_images/qa02_top_ref.png",
+      "SpatialAct/data/images/indoor/object_meaning/indoor_scenes_complex-10-15/matterport3d__B6ByNegPMKs__region22_clean/qa_images/qa02_isometric_ref.png"
+    ]
+  },
+  {
+    "task_type": "relative_position_side",
+    "question": "Which side of the table is the cabinet on?\nA. north\nB. northeast\nC. east\nD. west\nTop-view image: <image>\nIsometric-view image: <image>\nChoose one option from A, B, C, D.",
+    "answer": "D",
+    "images": [
+      "SpatialAct/data/images/indoor/object_meaning/indoor_scenes_complex-10-15/3rscan__8eabc469-5af7-2f32-840f-c1be88e46c62_clean/qa_images/qa04_top_ref.png",
+      "SpatialAct/data/images/indoor/object_meaning/indoor_scenes_complex-10-15/3rscan__8eabc469-5af7-2f32-840f-c1be88e46c62_clean/qa_images/qa04_isometric_ref.png"
+    ]
+  },
+  {
+    "task_type": "object_identification_mcq",
+    "question": "Which numbered object is a table? Answer with only one number.\nTop-view image: <image>\nIsometric-view image: <image>",
+    "answer": "1",
+    "images": [
+      "SpatialAct/data/images/indoor/object_meaning/indoor_scenes_complex-10-15/3rscan__47319772-f9f7-2a1a-9768-108df4f37ab9_clean/qa_images/qa03_top_ref.png",
+      "SpatialAct/data/images/indoor/object_meaning/indoor_scenes_complex-10-15/3rscan__47319772-f9f7-2a1a-9768-108df4f37ab9_clean/qa_images/qa03_isometric_ref.png"
+    ]
+  },
+  {
+    "task_type": "counting",
+    "question": "How many table objects are in the room? Answer with only one number.\nTop-view image: <image>\nIsometric-view image: <image>",
+    "answer": "2",
+    "images": [
+      "SpatialAct/data/images/indoor/object_meaning/indoor_scenes_complex-10-15/matterport3d__sT4fr6TAbpF__region12_clean/raw_views/top.png",
+      "SpatialAct/data/images/indoor/object_meaning/indoor_scenes_complex-10-15/matterport3d__sT4fr6TAbpF__region12_clean/raw_views/isometric.png"
+    ]
+  },
+  {
+    "task_type": "object_identification_name",
+    "question": "What is object 1?\nA. beanbag\nB. carpet\nC. cabinet\nD. desk\nTop-view image: <image>\nIsometric-view image: <image>\nChoose one option from A, B, C, D.",
+    "answer": "D",
+    "images": [
+      "SpatialAct/data/images/indoor/object_meaning/indoor_scenes_complex-10-15/3rscan__c7895f8a-339c-2d13-82a6-bc530140d95d_clean/qa_images/qa02_top_ref.png",
+      "SpatialAct/data/images/indoor/object_meaning/indoor_scenes_complex-10-15/3rscan__c7895f8a-339c-2d13-82a6-bc530140d95d_clean/qa_images/qa02_isometric_ref.png"
+    ]
+  },
+  {
+    "task_type": "relative_position_side",
+    "question": "Which side of the curtain is the light on?\nA. east\nB. west\nC. south\nD. north\nTop-view image: <image>\nIsometric-view image: <image>\nChoose one option from A, B, C, D.",
+    "answer": "A",
+    "images": [
+      "SpatialAct/data/images/indoor/object_meaning/indoor_scenes_complex-10-15/scannet__scene0083_00_clean/qa_images/qa04_top_ref.png",
+      "SpatialAct/data/images/indoor/object_meaning/indoor_scenes_complex-10-15/scannet__scene0083_00_clean/qa_images/qa04_isometric_ref.png"
+    ]
+  },
+  {
+    "task_type": "counting",
+    "question": "How many window objects are in the room? Answer with only one number.\nTop-view image: <image>\nIsometric-view image: <image>",
+    "answer": "4",
+    "images": [
+      "SpatialAct/data/images/indoor/object_meaning/indoor_scenes_complex-10-15/3rscan__47319772-f9f7-2a1a-9768-108df4f37ab9_clean/raw_views/top.png",
+      "SpatialAct/data/images/indoor/object_meaning/indoor_scenes_complex-10-15/3rscan__47319772-f9f7-2a1a-9768-108df4f37ab9_clean/raw_views/isometric.png"
+    ]
+  },
+  {
+    "task_type": "object_identification_name",
+    "question": "What is object 1?\nA. cabinet\nB. window\nC. door\nD. radiator\nTop-view image: <image>\nIsometric-view image: <image>\nChoose one option from A, B, C, D.",
+    "answer": "C",
+    "images": [
+      "SpatialAct/data/images/indoor/object_meaning/indoor_scenes_complex-10-15/arkitscenes__Training__48458713_clean/qa_images/qa02_top_ref.png",
+      "SpatialAct/data/images/indoor/object_meaning/indoor_scenes_complex-10-15/arkitscenes__Training__48458713_clean/qa_images/qa02_isometric_ref.png"
+    ]
+  },
+  {
+    "task_type": "counting",
+    "question": "How many table objects are in the room? Answer with only one number.\nTop-view image: <image>\nIsometric-view image: <image>",
+    "answer": "2",
+    "images": [
+      "SpatialAct/data/images/indoor/object_meaning/indoor_scenes_complex-10-15/arkitscenes__Training__43896538_clean/raw_views/top.png",
+      "SpatialAct/data/images/indoor/object_meaning/indoor_scenes_complex-10-15/arkitscenes__Training__43896538_clean/raw_views/isometric.png"
+    ]
+  },
+  {
+    "task_type": "object_identification_name",
+    "question": "What is object 1?\nA. table\nB. cabinet\nC. chair\nD. bed\nTop-view image: <image>\nIsometric-view image: <image>\nChoose one option from A, B, C, D.",
+    "answer": "C",
+    "images": [
+      "SpatialAct/data/images/indoor/object_meaning/indoor_scenes_simple-5-10/scannet__scene0013_01_clean/qa_images/qa02_top_ref.png",
+      "SpatialAct/data/images/indoor/object_meaning/indoor_scenes_simple-5-10/scannet__scene0013_01_clean/qa_images/qa02_isometric_ref.png"
+    ]
+  },
+  {
+    "task_type": "counting",
+    "question": "How many chair objects are in the room? Answer with only one number.\nTop-view image: <image>\nIsometric-view image: <image>",
+    "answer": "3",
+    "images": [
+      "SpatialAct/data/images/indoor/object_meaning/indoor_scenes_complex-10-15/3rscan__68bae76a-3567-2f7c-8143-f70365deb0f7_clean/raw_views/top.png",
+      "SpatialAct/data/images/indoor/object_meaning/indoor_scenes_complex-10-15/3rscan__68bae76a-3567-2f7c-8143-f70365deb0f7_clean/raw_views/isometric.png"
+    ]
+  },
+  {
+    "task_type": "object_identification_name",
+    "question": "What is object 1?\nA. doorframe\nB. picture\nC. door\nD. chair\nTop-view image: <image>\nIsometric-view image: <image>\nChoose one option from A, B, C, D.",
+    "answer": "B",
+    "images": [
+      "SpatialAct/data/images/indoor/object_meaning/indoor_scenes_complex-10-15/3rscan__634d11c7-6833-255d-8d76-86fe90beafdc_clean/qa_images/qa02_top_ref.png",
+      "SpatialAct/data/images/indoor/object_meaning/indoor_scenes_complex-10-15/3rscan__634d11c7-6833-255d-8d76-86fe90beafdc_clean/qa_images/qa02_isometric_ref.png"
+    ]
+  },
+  {
+    "task_type": "counting",
+    "question": "How many cabinet objects are in the room? Answer with only one number.\nTop-view image: <image>\nIsometric-view image: <image>",
+    "answer": "2",
+    "images": [
+      "SpatialAct/data/images/indoor/object_meaning/indoor_scenes_simple-5-10/3rscan__c9fb7aa7-2a5b-2cf7-916d-d38eeeeda87f_clean/raw_views/top.png",
+      "SpatialAct/data/images/indoor/object_meaning/indoor_scenes_simple-5-10/3rscan__c9fb7aa7-2a5b-2cf7-916d-d38eeeeda87f_clean/raw_views/isometric.png"
+    ]
+  },
+  {
+    "task_type": "object_identification_name",
+    "question": "What is object 1?\nA. sink\nB. curtain\nC. cabinet\nD. door\nTop-view image: <image>\nIsometric-view image: <image>\nChoose one option from A, B, C, D.",
+    "answer": "B",
+    "images": [
+      "SpatialAct/data/images/indoor/object_meaning/indoor_scenes_complex-10-15/scannet__scene0065_00_clean/qa_images/qa02_top_ref.png",
+      "SpatialAct/data/images/indoor/object_meaning/indoor_scenes_complex-10-15/scannet__scene0065_00_clean/qa_images/qa02_isometric_ref.png"
+    ]
+  },
+  {
+    "task_type": "counting",
+    "question": "How many chair objects are in the room? Answer with only one number.\nTop-view image: <image>\nIsometric-view image: <image>",
+    "answer": "2",
+    "images": [
+      "SpatialAct/data/images/indoor/object_meaning/indoor_scenes_simple-5-10/arkitscenes__Training__42897851_clean/raw_views/top.png",
+      "SpatialAct/data/images/indoor/object_meaning/indoor_scenes_simple-5-10/arkitscenes__Training__42897851_clean/raw_views/isometric.png"
+    ]
+  },
+  {
+    "task_type": "object_identification_name",
+    "question": "What is object 1?\nA. switch\nB. door\nC. steps\nD. picture\nTop-view image: <image>\nIsometric-view image: <image>\nChoose one option from A, B, C, D.",
+    "answer": "D",
+    "images": [
+      "SpatialAct/data/images/indoor/object_meaning/indoor_scenes_complex-10-15/matterport3d__5LpN3gDmAk7__region12_clean/qa_images/qa02_top_ref.png",
+      "SpatialAct/data/images/indoor/object_meaning/indoor_scenes_complex-10-15/matterport3d__5LpN3gDmAk7__region12_clean/qa_images/qa02_isometric_ref.png"
+    ]
+  },
+  {
+    "task_type": "counting",
+    "question": "How many cabinet objects are in the room? Answer with only one number.\nTop-view image: <image>\nIsometric-view image: <image>",
+    "answer": "2",
+    "images": [
+      "SpatialAct/data/images/indoor/object_meaning/indoor_scenes_complex-10-15/arkitscenes__Training__48018015_clean/raw_views/top.png",
+      "SpatialAct/data/images/indoor/object_meaning/indoor_scenes_complex-10-15/arkitscenes__Training__48018015_clean/raw_views/isometric.png"
+    ]
+  },
+  {
+    "task_type": "object_identification_name",
+    "question": "What is object 1?\nA. table\nB. plant\nC. chair\nD. box\nTop-view image: <image>\nIsometric-view image: <image>\nChoose one option from A, B, C, D.",
+    "answer": "D",
+    "images": [
+      "SpatialAct/data/images/indoor/object_meaning/indoor_scenes_complex-10-15/3rscan__77361fca-d054-2a22-8974-547ca1fbb90f_clean/qa_images/qa02_top_ref.png",
+      "SpatialAct/data/images/indoor/object_meaning/indoor_scenes_complex-10-15/3rscan__77361fca-d054-2a22-8974-547ca1fbb90f_clean/qa_images/qa02_isometric_ref.png"
+    ]
+  },
+  {
+    "task_type": "counting",
+    "question": "How many chair objects are in the room? Answer with only one number.\nTop-view image: <image>\nIsometric-view image: <image>",
+    "answer": "2",
+    "images": [
+      "SpatialAct/data/images/indoor/object_meaning/indoor_scenes_complex-10-15/scannet__scene0343_00_clean/raw_views/top.png",
+      "SpatialAct/data/images/indoor/object_meaning/indoor_scenes_complex-10-15/scannet__scene0343_00_clean/raw_views/isometric.png"
+    ]
+  },
+  {
+    "task_type": "object_identification_name",
+    "question": "What is object 1?\nA. chair\nB. table\nC. lamp\nD. window\nTop-view image: <image>\nIsometric-view image: <image>\nChoose one option from A, B, C, D.",
+    "answer": "D",
+    "images": [
+      "SpatialAct/data/images/indoor/object_meaning/indoor_scenes_complex-10-15/arkitscenes__Training__42899295_clean/qa_images/qa02_top_ref.png",
+      "SpatialAct/data/images/indoor/object_meaning/indoor_scenes_complex-10-15/arkitscenes__Training__42899295_clean/qa_images/qa02_isometric_ref.png"
+    ]
+  },
+  {
+    "task_type": "counting",
+    "question": "How many chair objects are in the room? Answer with only one number.\nTop-view image: <image>\nIsometric-view image: <image>",
+    "answer": "3",
+    "images": [
+      "SpatialAct/data/images/indoor/object_meaning/indoor_scenes_simple-5-10/arkitscenes__Training__47331177_clean/raw_views/top.png",
+      "SpatialAct/data/images/indoor/object_meaning/indoor_scenes_simple-5-10/arkitscenes__Training__47331177_clean/raw_views/isometric.png"
+    ]
+  },
+  {
+    "task_type": "object_identification_name",
+    "question": "What is object 1?\nA. window\nB. door\nC. pillow\nD. bucket\nTop-view image: <image>\nIsometric-view image: <image>\nChoose one option from A, B, C, D.",
+    "answer": "A",
+    "images": [
+      "SpatialAct/data/images/indoor/object_meaning/indoor_scenes_complex-10-15/arkitscenes__Validation__41254412_clean/qa_images/qa02_top_ref.png",
+      "SpatialAct/data/images/indoor/object_meaning/indoor_scenes_complex-10-15/arkitscenes__Validation__41254412_clean/qa_images/qa02_isometric_ref.png"
+    ]
+  },
+  {
+    "task_type": "counting",
+    "question": "How many cabinet objects are in the room? Answer with only one number.\nTop-view image: <image>\nIsometric-view image: <image>",
+    "answer": "2",
+    "images": [
+      "SpatialAct/data/images/indoor/object_meaning/indoor_scenes_complex-10-15/arkitscenes__Validation__47895367_clean/raw_views/top.png",
+      "SpatialAct/data/images/indoor/object_meaning/indoor_scenes_complex-10-15/arkitscenes__Validation__47895367_clean/raw_views/isometric.png"
+    ]
+  },
+  {
+    "task_type": "object_identification_name",
+    "question": "What is object 1?\nA. bed\nB. shelf\nC. door\nD. desk\nTop-view image: <image>\nIsometric-view image: <image>\nChoose one option from A, B, C, D.",
+    "answer": "C",
+    "images": [
+      "SpatialAct/data/images/indoor/object_meaning/indoor_scenes_complex-10-15/scannet__scene0332_00_clean/qa_images/qa02_top_ref.png",
+      "SpatialAct/data/images/indoor/object_meaning/indoor_scenes_complex-10-15/scannet__scene0332_00_clean/qa_images/qa02_isometric_ref.png"
+    ]
+  },
+  {
+    "task_type": "counting",
+    "question": "How many chair objects are in the room? Answer with only one number.\nTop-view image: <image>\nIsometric-view image: <image>",
+    "answer": "5",
+    "images": [
+      "SpatialAct/data/images/indoor/object_meaning/indoor_scenes_complex-10-15/3rscan__0cac7564-8d6f-2d13-8cb2-8b01c0a1b3d5_clean/raw_views/top.png",
+      "SpatialAct/data/images/indoor/object_meaning/indoor_scenes_complex-10-15/3rscan__0cac7564-8d6f-2d13-8cb2-8b01c0a1b3d5_clean/raw_views/isometric.png"
+    ]
+  },
+  {
+    "task_type": "object_identification_name",
+    "question": "What is object 1?\nA. door\nB. cabinet\nC. sink\nD. table\nTop-view image: <image>\nIsometric-view image: <image>\nChoose one option from A, B, C, D.",
+    "answer": "A",
+    "images": [
+      "SpatialAct/data/images/indoor/object_meaning/indoor_scenes_complex-10-15/arkitscenes__Training__42898120_clean/qa_images/qa02_top_ref.png",
+      "SpatialAct/data/images/indoor/object_meaning/indoor_scenes_complex-10-15/arkitscenes__Training__42898120_clean/qa_images/qa02_isometric_ref.png"
+    ]
+  },
+  {
+    "task_type": "counting",
+    "question": "How many bin objects are in the room? Answer with only one number.\nTop-view image: <image>\nIsometric-view image: <image>",
+    "answer": "1",
+    "images": [
+      "SpatialAct/data/images/indoor/object_meaning/indoor_scenes_complex-10-15/scannet__scene0067_02_clean/raw_views/top.png",
+      "SpatialAct/data/images/indoor/object_meaning/indoor_scenes_complex-10-15/scannet__scene0067_02_clean/raw_views/isometric.png"
+    ]
+  },
+  {
+    "task_type": "object_identification_name",
+    "question": "What is object 1?\nA. door\nB. light\nC. rail\nD. doorframe\nTop-view image: <image>\nIsometric-view image: <image>\nChoose one option from A, B, C, D.",
+    "answer": "B",
+    "images": [
+      "SpatialAct/data/images/indoor/object_meaning/indoor_scenes_simple-5-10/scannet__scene0044_01_clean/qa_images/qa02_top_ref.png",
+      "SpatialAct/data/images/indoor/object_meaning/indoor_scenes_simple-5-10/scannet__scene0044_01_clean/qa_images/qa02_isometric_ref.png"
+    ]
+  },
+  {
+    "task_type": "counting",
+    "question": "How many picture objects are in the room? Answer with only one number.\nTop-view image: <image>\nIsometric-view image: <image>",
+    "answer": "7",
+    "images": [
+      "SpatialAct/data/images/indoor/object_meaning/indoor_scenes_complex-10-15/matterport3d__JF19kD82Mey__region7_clean/raw_views/top.png",
+      "SpatialAct/data/images/indoor/object_meaning/indoor_scenes_complex-10-15/matterport3d__JF19kD82Mey__region7_clean/raw_views/isometric.png"
+    ]
+  },
+  {
+    "task_type": "object_identification_name",
+    "question": "What is object 1?\nA. toilet\nB. shower\nC. bathtub\nD. bin\nTop-view image: <image>\nIsometric-view image: <image>\nChoose one option from A, B, C, D.",
+    "answer": "A",
+    "images": [
+      "SpatialAct/data/images/indoor/object_meaning/indoor_scenes_simple-5-10/arkitscenes__Training__43649615_clean/qa_images/qa02_top_ref.png",
+      "SpatialAct/data/images/indoor/object_meaning/indoor_scenes_simple-5-10/arkitscenes__Training__43649615_clean/qa_images/qa02_isometric_ref.png"
+    ]
+  },
+  {
+    "task_type": "counting",
+    "question": "How many stool objects are in the room? Answer with only one number.\nTop-view image: <image>\nIsometric-view image: <image>",
+    "answer": "2",
+    "images": [
+      "SpatialAct/data/images/indoor/object_meaning/indoor_scenes_simple-5-10/matterport3d__B6ByNegPMKs__region26_clean/raw_views/top.png",
+      "SpatialAct/data/images/indoor/object_meaning/indoor_scenes_simple-5-10/matterport3d__B6ByNegPMKs__region26_clean/raw_views/isometric.png"
+    ]
+  },
+  {
+    "task_type": "object_identification_name",
+    "question": "What is object 1?\nA. door\nB. desk\nC. chair\nD. bed\nTop-view image: <image>\nIsometric-view image: <image>\nChoose one option from A, B, C, D.",
+    "answer": "C",
+    "images": [
+      "SpatialAct/data/images/indoor/object_meaning/indoor_scenes_simple-5-10/scannet__scene0055_02_clean/qa_images/qa02_top_ref.png",
+      "SpatialAct/data/images/indoor/object_meaning/indoor_scenes_simple-5-10/scannet__scene0055_02_clean/qa_images/qa02_isometric_ref.png"
+    ]
+  },
+  {
+    "task_type": "counting",
+    "question": "How many bin objects are in the room? Answer with only one number.\nTop-view image: <image>\nIsometric-view image: <image>",
+    "answer": "1",
+    "images": [
+      "SpatialAct/data/images/indoor/object_meaning/indoor_scenes_simple-5-10/3rscan__0ad2d3a7-79e2-2212-9a1b-8737842a24e2_clean/raw_views/top.png",
+      "SpatialAct/data/images/indoor/object_meaning/indoor_scenes_simple-5-10/3rscan__0ad2d3a7-79e2-2212-9a1b-8737842a24e2_clean/raw_views/isometric.png"
+    ]
+  },
+  {
+    "task_type": "object_identification_name",
+    "question": "What is object 1?\nA. bed\nB. stool\nC. chair\nD. cabinet\nTop-view image: <image>\nIsometric-view image: <image>\nChoose one option from A, B, C, D.",
+    "answer": "D",
+    "images": [
+      "SpatialAct/data/images/indoor/object_meaning/indoor_scenes_simple-5-10/arkitscenes__Training__47331177_clean/qa_images/qa02_top_ref.png",
+      "SpatialAct/data/images/indoor/object_meaning/indoor_scenes_simple-5-10/arkitscenes__Training__47331177_clean/qa_images/qa02_isometric_ref.png"
+    ]
+  },
+  {
+    "task_type": "counting",
+    "question": "How many chair objects are in the room? Answer with only one number.\nTop-view image: <image>\nIsometric-view image: <image>",
+    "answer": "4",
+    "images": [
+      "SpatialAct/data/images/indoor/object_meaning/indoor_scenes_complex-10-15/scannet__scene0344_00_clean/raw_views/top.png",
+      "SpatialAct/data/images/indoor/object_meaning/indoor_scenes_complex-10-15/scannet__scene0344_00_clean/raw_views/isometric.png"
+    ]
+  },
+  {
+    "task_type": "object_identification_name",
+    "question": "What is object 1?\nA. chair\nB. picture\nC. table\nD. socket\nTop-view image: <image>\nIsometric-view image: <image>\nChoose one option from A, B, C, D.",
+    "answer": "C",
+    "images": [
+      "SpatialAct/data/images/indoor/object_meaning/indoor_scenes_complex-10-15/scannet__scene0103_01_clean/qa_images/qa02_top_ref.png",
+      "SpatialAct/data/images/indoor/object_meaning/indoor_scenes_complex-10-15/scannet__scene0103_01_clean/qa_images/qa02_isometric_ref.png"
+    ]
+  },
+  {
+    "task_type": "counting",
+    "question": "How many table objects are in the room? Answer with only one number.\nTop-view image: <image>\nIsometric-view image: <image>",
+    "answer": "6",
+    "images": [
+      "SpatialAct/data/images/indoor/object_meaning/indoor_scenes_complex-10-15/arkitscenes__Training__42899161_clean/raw_views/top.png",
+      "SpatialAct/data/images/indoor/object_meaning/indoor_scenes_complex-10-15/arkitscenes__Training__42899161_clean/raw_views/isometric.png"
+    ]
+  },
+  {
+    "task_type": "object_identification_name",
+    "question": "What is object 1?\nA. light\nB. window\nC. column\nD. sign\nTop-view image: <image>\nIsometric-view image: <image>\nChoose one option from A, B, C, D.",
+    "answer": "D",
+    "images": [
+      "SpatialAct/data/images/indoor/object_meaning/indoor_scenes_complex-10-15/matterport3d__B6ByNegPMKs__region31_clean/qa_images/qa02_top_ref.png",
+      "SpatialAct/data/images/indoor/object_meaning/indoor_scenes_complex-10-15/matterport3d__B6ByNegPMKs__region31_clean/qa_images/qa02_isometric_ref.png"
+    ]
+  },
+  {
+    "task_type": "counting",
+    "question": "How many chair objects are in the room? Answer with only one number.\nTop-view image: <image>\nIsometric-view image: <image>",
+    "answer": "7",
+    "images": [
+      "SpatialAct/data/images/indoor/object_meaning/indoor_scenes_complex-10-15/scannet__scene0355_00_clean/raw_views/top.png",
+      "SpatialAct/data/images/indoor/object_meaning/indoor_scenes_complex-10-15/scannet__scene0355_00_clean/raw_views/isometric.png"
+    ]
+  },
+  {
+    "task_type": "object_identification_name",
+    "question": "What is object 1?\nA. pot\nB. window\nC. table\nD. chair\nTop-view image: <image>\nIsometric-view image: <image>\nChoose one option from A, B, C, D.",
+    "answer": "D",
+    "images": [
+      "SpatialAct/data/images/indoor/object_meaning/indoor_scenes_complex-10-15/3rscan__68bae76c-3567-2f7c-827d-373035a2d942_clean/qa_images/qa02_top_ref.png",
+      "SpatialAct/data/images/indoor/object_meaning/indoor_scenes_complex-10-15/3rscan__68bae76c-3567-2f7c-827d-373035a2d942_clean/qa_images/qa02_isometric_ref.png"
+    ]
+  }
+]
